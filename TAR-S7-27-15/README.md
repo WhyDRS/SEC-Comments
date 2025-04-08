@@ -11,26 +11,23 @@ Status: Draft
   href: https://www.sec.gov/files/rules/concept/2015/34-76743.pdf
 ```
 
-#### Header
+# Non-Letter Content
 
-Federal Preemption of Challenges in U.C.C. Article 8
+## Email
 
-- Independent audit from Government Accountability Office, reporting to the House Comm. Fin. Servs. (probably too early for this; just establishing TAD itself works pretty well)
-~~- Momentary market incentive sandboxing session~~ where clearinghouses pay fines for any failures (https://www.sec.gov/newsroom/speeches-statements/peirce-boe-fca-comment-05302024)
+### Recipients
 
-#### Email
+`rule-comments@sec.gov`
 
-##### Recipients
+cc: `crypto@sec.gov` (PENDING: work with a chat -- https://github.com/WhyDRS/Taking-Stock/discussions/31)
 
-rule-comments@sec.gov
-cc: crypto@sec.gov (PENDING: work with a chat -- https://github.com/WhyDRS/Taking-Stock/discussions/31)
-cc: foiapa@sec.gov (note XYZ here)
+cc: `foiapa@sec.gov` (note XYZ here)
 
-##### Subject
+### Subject Line
 
 Comments on S7-27-15: Strengthening American Leadership in Securities Industries
 
-##### Body
+### Body
 
 Hi,
 
@@ -47,7 +44,9 @@ In good faith,
 John Wooten
 Member, WhyDRS
 
-#### Addressee
+## Document
+
+### Addressee
 
 The Commission
 
@@ -55,11 +54,21 @@ The Commission
 
 Washington, DC 20549
 
-# Document
+### Header
+
+Federal Preemption of Challenges in U.C.C. Article 8
+
+- Independent audit from Government Accountability Office  affirming need for investor protections, reporting to the House Comm. Fin. Servs. 
+  
+---
+
+---
 
 Dear Secretary,
 
-When I was a boy in high school, I began researching the stock market. At the time, I was working a minimum-wage job at Subway every spare weeknight or weekend double. I'd walk about half an hour to and from the store in the latter case when my mom was caught up at work. In the fleeting moments I had between classes and later athletics, I turned all my spare attention to our great investing industry because it promised a way out of the daily servitude.
+When I was a child in high school, I began researching the stock market. At the time, I was working a minimum-wage job at Subway every spare weeknight or weekend double. I'd walk about half an hour to and from the store in the latter case when my mom was caught up at work. In the fleeting moments I had between classes and later athletics, I turned all my spare attention to our great investing industry because it promised a way out of the daily servitude.
+
+Robinhoodd was one such app which promised access to ourr gret capital makrets . An  app which I have had considerable personal difficulties with as certai nservices failed to function, including the dispositioon of securities.[^rh-name-intro]  Epxiernees like these are comon throughout our  communtiy, and they  bring into immediate light regulatory discourse during the broker's IPO whoch relate deeply to today's crypto ccha;enges revolving around custody.[^ca-escheatment]
 
 re https://www.sec.gov/Archives/edgar/data/1783879/000000000021006480/filename1.pdf
 https://www.sec.gov/Archives/edgar/data/1783879/000162827921000323/filename1.htm
@@ -70,6 +79,9 @@ In just one brief lifetime, we've seen our great nation's market system attract 
 Or at least, it's supposed to be a fair equivalency. Because I was only 16 after months of researching the market, brokers wouldn't extend an account under my name. It was these early trades outside my own control that shaped my underlying passion for efficient securities markets, and my resolve that an investor's portfolio shouldn't be outside of their control. Indeed, I expect quite reasonably that a stock be registered and owned outright in my name when I pay good money to its seller. Do you agree that one's portfolio should be their own property?
 
 Unfortunately, this is not the case in today's market functions, no matter your age. Indeed, it hasn't been the case since the unstructured monopolization of the clearing and settlement market many decades ago, despite both the Commission's and Congress' best efforts.[^mon] For decades this reality has narrowly averted public catastrophe.[^lehman] But we can no longer ignore the glaring accounting inaccuracies creating systemic idiosyncratic risks.[^other-3-ex]
+
+
+
 
 > We have come dangerously close to the collapse of the entire system.
 >
@@ -84,6 +96,18 @@ Have we forgotten the significant work performed by Commissioner Aguilar, effort
 I want direct quotes here focused by and large on the agent part. _See also_ The legislative reform should stay in the main argument. https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
 "security entitlements"
 
+
+
+
+> move down to DTC section later
+(at note 20) In the cited work before the World Federation of Exchanges just after the Great Recession, Peterffy writes: "
+> mind-numbing complexity. Collecting margins is not the clearinghouse’s only function. When a clearing member fails, the clearinghouse has to be able to step into the failing clearing member’s position and liquidate that position while trying to minimize losses and public panic. And here we come full circle, because if there is not a liquid market at the exchange, how will that position be liquidated? If it is a large position, what is the clearinghouse going to do? If the losses exceed the clearinghouse's resources, who will end up with those losses? The other members will, but if some of them do not have sufficient funds, we will be faced with a domino effect
+
+
+[^rh-name-intro]: _See_ _infra_ note {{^sell-err-support}} detailing trading restrictions from operational inadequacies.
+
+[^ca-escheatment]: _See, e.g._ alifronia bill purporting to support self-custody rights by enacting  new framework to esceat assets held by custodians controlling property intterests therein, _available at_ https://legiscan.com/CA/bill/AB1052/2025.  rather than granting investors direct controlling private keys to their investments, the propossed leglisaltion here and elsewhere defers to existing banking interests. FFor  the remainder of this comment, I will assume basic working knowledge of crypto primatives and terminology, as suppooerted by staff's public discusson of atmoic swaps at _infra_ note {{^https://www.sec.gov/newsroom/speeches-statements/peirce-statement-rfi-022125}} ¶ 45.
+
 [^rh-fractional-filings]: _See, e.g.,_ Cite Robinhood from discussion on fractionalized share pushback from industry. I know we all know the truth here, but there isn't a better way to introduce the narrative imo. https://www.sec.gov/edgar/browse/?CIK=1783879&owner=exclude  
 https://www.sec.gov/Archives/edgar/data/1783879/000162827921000323/filename1.htm prior S-1 aft DRS  
 , _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000162827921000280/filename1.htm. As will become meaningful later in this letter, the Commission expressly relied on Article 8 of the Uniform Commercial Code ("UCC") when defining investors' ownership, dividend, and voting rights associated with fractional shares in a response to the holding company's Draft Registration Statement on Form S-1 at ¶ 1, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000000000021004976/filename1.pdf.
@@ -95,10 +119,6 @@ https://www.sec.gov/Archives/edgar/data/1783879/000162827921000323/filename1.htm
 [^other-3-ex]: _See, e.g.,_ an instance where an investor bought and held "1,285,050 shares in [an] OTC bulletin board property-development company... [which] had only ever issued 1,158,064 shares" and continued trading dozens of millions of shares a day in volume, _available at_ https://www.euromoney.com/article/b1320xkhl0443w/naked-shorting-the-curious-incident-of-the-shares-that-didnt-exist. Later in the investigation, a DTCC agent claims full withdrawal of shares like these from Cede "would paralyze our capital market system" due to the presence of "legal naked short selling" which create "shortages." _See also_ a public-safety technology firm which receives ten figures annually from our great Nation, reporting a "large disparity in legally issued and outstanding stock in TASER (approximately 61 million shares) versus... over 82 million votes recorded" at an AGM, _available at_ https://www.sec.gov/comments/s7-12-06/dklint7619.pdf#page=2.
 
 [^intro-quote-date]: While this quote came from the infamous CNBC interview just four years ago, it seems relevant to many of Mr. Peterffy's sentiments over the past few decades. _See, e.g.,_ departing remarks from former Commissioner Luis A. Aguilar emphasizing remarks from Mr. Peterffy that "our markets are in a 'crisis,' and that 'order, fair dealing, and trust' need to be restored" in § II ¶ 2, _available at_ https://www.sec.gov/newsroom/speeches-statements/us-equity-market-structure.
-
-> move down to DTC section later
-(at note 20) In the cited work before the World Federation of Exchanges just after the Great Recession, Peterffy writes: "
-> mind-numbing complexity. Collecting margins is not the clearinghouse’s only function. When a clearing member fails, the clearinghouse has to be able to step into the failing clearing member’s position and liquidate that position while trying to minimize losses and public panic. And here we come full circle, because if there is not a liquid market at the exchange, how will that position be liquidated? If it is a large position, what is the clearinghouse going to do? If the losses exceed the clearinghouse's resources, who will end up with those losses? The other members will, but if some of them do not have sufficient funds, we will be faced with a domino effect
 
 [^ostk-augi]: _See_ meeting addressing double-digit outstanding Failures to Deliver ("FTDs") when investors acquired a 120% ownership stake in a discount online retailer, _inter alia_, given the failures of atomic netting, _available at_ https://www.sec.gov/comments/s7-19-07/s71907-1436.pdf#page=3. _See also_ written remarks _infra_ note {{Discord-GME}} from the CEO of such firm at the time, stating "a financial news organization suggests that of our approximate 6,000 owners, the top 50 own 106% of our stock" just before the share price halved. Given cryptosystems and decentralized exchanges allow these transactions without the possibility of FTDs, I asked Commissioner Aguilar alongside their venture-fund company about their interpretation of if they "would or would not consider a DEX to be an ATS" in a written communication and video meeting two years ago. If staff agree with the supportive remarks in these discussions and pro-digital-assets rhetoric espoused by our present governmental leadership, then might we need an oversight system for uncovered peer-to-peer distributed transaction messaging systems?
 
