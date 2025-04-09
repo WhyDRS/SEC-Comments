@@ -68,7 +68,7 @@ Dear Secretary,
 
 When I was a child in high school, I began researching the stock market. At the time, I was working a minimum-wage job at Subway every spare weeknight or weekend double. I'd walk about half an hour to and from the store in the latter case when my mom was caught up at work. In the fleeting moments I had between classes and later athletics, I turned all my spare attention to our great investing industry because it promised a way out of the daily servitude.
 
-Robinhoodd was one such app which promised access to ourr gret capital makrets . An  app which I have had considerable personal difficulties with as certai nservices failed to function, including the dispositioon of securities.[^rh-name-intro]  Epxiernees like these are comon throughout our  communtiy, and they  bring into immediate light regulatory discourse during the broker's IPO whoch relate deeply to today's crypto ccha;enges revolving around custody.[^ca-escheatment]
+Robinhoodd was one such app which promised access to ourr gret capital makrets . But it's An  app which I have had considerable personal difficulties with as certai nservices failed to function, including the dispositioon of securities.[^rh-name-intro]  Epxiernees like these are comon throughout our  communtiy, and they  bring into immediate light regulatory discourse during the broker's IPO whoch relate deeply to today's crypto ccha;enges revolving around custody.[^ca-escheatment]
 
 re https://www.sec.gov/Archives/edgar/data/1783879/000000000021006480/filename1.pdf
 https://www.sec.gov/Archives/edgar/data/1783879/000162827921000323/filename1.htm
