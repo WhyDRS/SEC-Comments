@@ -111,13 +111,10 @@ To ease this accumulted risk, staff know that clearing agenccies histooruically 
 
 Rather, I am concerned with the solvency of Cede & Co. For years we have looked into the nuancceds of the  CUstodial Strucutre, whicch ends in all terminuses at the behemous partnership nominee. Thus, the hole in the system contantly rearing up thro ugh FTDs ultimately makes its way down to DTC's registered share of securities.
 
-American investors are  cnccerned about 
 
 
-should any number of institutional custodians relocate to such jurisdictions to reap the enhanced protections promised by our shared ideologies.
-
-
-At least a dozen States have introduced legislation undermining the conceit and constructions DTCC's agents introduced into the 1994 Uniform Commercial Code.[^DTCcs] Quite soon, a select few States intend to reconstitute the right of investors to their own portfolios as a due property law. When this happens, 
+At least a dozen States have introduced legislation ~~undermining the conceit and constructions DTCC's agents introduced into the 1994 Uniform Commercial Code~~.[^DTCcs] 
+a select few States intend to reconstitute the right of investors to their own portfolios as a due property law
 
 I want direct quotes here focused by and large on the agent part. _See also_ The legislative reform should stay in the main argument. https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
 "security entitlements"
