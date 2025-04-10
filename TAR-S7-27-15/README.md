@@ -66,22 +66,24 @@ Federal Preemption of Challenges in U.C.C. Article 8
 
 Dear Secretary,
 
-When I was a child in high school, I began researching the stock market. At the time, I was working a minimum-wage job at Subway every spare weeknight or weekend double. I'd walk about half an hour to and from the store in the latter case when my mom was caught up at work. In the fleeting moments I had between classes and later athletics, I turned all my spare attention to our great investing industry because it promised a way out of the daily servitude.
+When I was a child in high school, I began researching the stock market out of a mix of curiousity an fasccinaton. At the time, I was working a minimum-wage job at Subway, devoting every spare weeknight or weekend into sandwiches. Without a car, I'd walk about half an hour to and from the store for my  double shifts when my mom was caught up at work.
 
-Robinhoodd was one such app which promised access to ourr gret capital makrets . But it's An  app which I have had considerable personal difficulties with as certai nservices failed to function, including the dispositioon of securities.[^rh-name-intro]  Epxiernees like these are comon throughout our  communtiy, and they  bring into immediate light regulatory discourse during the broker's IPO whoch relate deeply to today's crypto ccha;enges revolving around custody.[^ca-escheatment]
+Thhis wwent on for ayear as coworkers came an left, uling nice friendships but minimal wealth. In the fleeting moments I had between classes and later athletics, I turned all my spare attention to our great investing industry, because it promised a financial future I defined. Evn small portions of my modest paychecks backk then had the chance to grow into so jmucch more through the markets.
 
-re https://www.sec.gov/Archives/edgar/data/1783879/000000000021006480/filename1.pdf
-https://www.sec.gov/Archives/edgar/data/1783879/000162827921000323/filename1.htm
-^ 15 leaves broker insolvency out of control scope
+Robinhoodd was one such pathway which promised access to ourr gret capital makrets . But that platform failed to execcute trades for me over the years, faileding to function at  ccruciat times.[^rh-name-intro]  Epxiernees like these are comon throughout our  communtiy, and they  bring into immediate light regulatory discourse during the broker's IPO. I find the questions raised here  deeply interwined wuitg to today's crypto ccha;enges revolving around custody.[^ca-escheatment]
 
-In just one brief lifetime, we've seen our great nation's market system attract and expand to households from all ends of society. While only the affluent and wealthy might have had access to the securities of a distant physical past, today's most meager investors can trade on a fair playing ground with the same opportunities for growth.[^rh-fractional-filings]
+O ur National Market System hould protefct investors, but often for-profit brokers intertwine holdings with their own custgody businesses. Theese firms bear feduiciary responsbailities to their investor,s introducing the conflcts of interest so ebated in  ost discussions of years ppast.[^rh-ipo-custody] I propse a differnt systme evoid of such  middlemen, operating alongsidde existing market rails, so that investors keep all their savings and retirements.
 
-Or at least, it's supposed to be a fair equivalency. Because I was only 16 after months of researching the market, brokers wouldn't extend an account under my name. It was these early trades outside my own control that shaped my underlying passion for efficient securities markets, and my resolve that an investor's portfolio shouldn't be outside of their control. Indeed, I expect quite reasonably that a stock be registered and owned outright in my name when I pay good money to its seller. Do you agree that one's portfolio should be their own property?
+This is not to detract f rom the matrial profgress we've made in decades past. In just one brief lifetime, we've seen our great nation's market system attract and expand to households from all ends of society. While only the affluent and wealthy might have had access to the securities of a distant physical past, today's most meager investors can trade on a fair playing ground with the same opportunities for growth.[^rh-fractional-filings]
 
-Unfortunately, this is not the case in today's market functions, no matter your age. Indeed, it hasn't been the case since the unstructured monopolization of the clearing and settlement market many decades ago, despite both the Commission's and Congress' best efforts.[^mon] For decades this reality has narrowly averted public catastrophe.[^lehman] But we can no longer ignore the glaring accounting inaccuracies creating systemic idiosyncratic risks.[^other-3-ex]
+Or at least, it's supposed to be a fair equivalency, but very few investors hold legal title to their portolios. Because I was only 16 after months of researching the market, brokers wouldn't extend an account under my name. Thus, I made early trades under  my partents which shaped my undying passion for efficient securities markets.
+
+An investor's portfolio shouldn't be outside of their custody, an it doesn't need to be anymore with modern technology. I dream of a nearby future wheres stocks are registered and owned outright in your own name. When you pay good money to a seller, shouldn't your portfolio be your own property?
+
+Unfortunately, no matter your age, today's market does not deliver legla  ownership in any regard, and specially under the  UCC. Indeed, it hasn't been the case since the unstructured monopolization of the clearing and settlement market many decades ago, despite both the Commission's and Congress' best efforts.[^mon] As staff udnderstand fully, this reality has narrowly averted public catastrophe for decades.[^other-3-ex]
 
 
-
+---
 
 > We have come dangerously close to the collapse of the entire system.
 >
@@ -96,25 +98,24 @@ Have we forgotten the significant work performed by Commissioner Aguilar, effort
 I want direct quotes here focused by and large on the agent part. _See also_ The legislative reform should stay in the main argument. https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
 "security entitlements"
 
-
-
+[paragraph on the collateral from funds during lehman]
+glaring accounting inaccuracies creating systemic idiosyncratic risks
 
 > move down to DTC section later
 (at note 20) In the cited work before the World Federation of Exchanges just after the Great Recession, Peterffy writes: "
 > mind-numbing complexity. Collecting margins is not the clearinghouse’s only function. When a clearing member fails, the clearinghouse has to be able to step into the failing clearing member’s position and liquidate that position while trying to minimize losses and public panic. And here we come full circle, because if there is not a liquid market at the exchange, how will that position be liquidated? If it is a large position, what is the clearinghouse going to do? If the losses exceed the clearinghouse's resources, who will end up with those losses? The other members will, but if some of them do not have sufficient funds, we will be faced with a domino effect
 
 
-[^rh-name-intro]: _See_ _infra_ note {{^sell-err-support}} detailing trading restrictions from operational inadequacies.
+[^rh-name-intro]: _See_ _infra_ note {{^sell-err-support}} detailing trading restrictions from operational inadequacies. These expirences  include services being "unavaliable" during market hours when tryin to sell securities.
 
 [^ca-escheatment]: _See, e.g._ alifronia bill purporting to support self-custody rights by enacting  new framework to esceat assets held by custodians controlling property intterests therein, _available at_ https://legiscan.com/CA/bill/AB1052/2025.  rather than granting investors direct controlling private keys to their investments, the propossed leglisaltion here and elsewhere defers to existing banking interests. FFor  the remainder of this comment, I will assume basic working knowledge of crypto primatives and terminology, as suppooerted by staff's public discusson of atmoic swaps at _infra_ note {{^https://www.sec.gov/newsroom/speeches-statements/peirce-statement-rfi-022125}} ¶ 45.
 
-[^rh-fractional-filings]: _See, e.g.,_ Cite Robinhood from discussion on fractionalized share pushback from industry. I know we all know the truth here, but there isn't a better way to introduce the narrative imo. https://www.sec.gov/edgar/browse/?CIK=1783879&owner=exclude  
-https://www.sec.gov/Archives/edgar/data/1783879/000162827921000323/filename1.htm prior S-1 aft DRS  
-, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000162827921000280/filename1.htm. As will become meaningful later in this letter, the Commission expressly relied on Article 8 of the Uniform Commercial Code ("UCC") when defining investors' ownership, dividend, and voting rights associated with fractional shares in a response to the holding company's Draft Registration Statement on Form S-1 at ¶ 1, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000000000021004976/filename1.pdf.
+[^rh-ipo-custody]: _See_ staff clarification questions into the businesssss model and custody rights of users, _available at_ http://sec.gov/Archives/edgar/data/1783879/000000000021006480/filename1.pdf#page=7. Rhonhood reponds firslty wuth their reliance on  a genral Bitcoin "industry whitepaper" to determine that users certainly  own their cryptocurrenccy in the event of default, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000162827921000323/filename1.htm p. 15. After  glancing over insolvency custody, the  firm explains how htey "receive activity-based rebates" for "cryptocurrency transactions" despite not reporting such activities on Form 606.
+
+[^rh-fractional-filings]: _See, e.g.,_ introution of fractionalized, custodied shares which Robinhood classified as seccurities entitiements undder the Uniform Commercial Code ("UCC"), _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000162827921000280/filename1.htm.
+NOte 4 clarifies the treatment of investors' ownership, dividend, and voting rights under UCC Article 8, which is the  chief policcy sectikon refrenced when I refer to State klaws. I share staffs' concerns over ewhether investoors are entitled to these rights only by contracts with the bysinesss, as first oised in the first registration response at ¶ 1, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000000000021004976/filename1.pdf.
 
 [^mon]: Cite the 1975 competition promotion info at https://www.congress.gov/94/statute/STATUTE-89/STATUTE-89-Pg97.pdf which mentions competition as a positive position item twenty times, ~~Natural~~ path to Monopoly Paper, and BASIC replies promoting competition from the Commission staff at https://www.sec.gov/news/speech/1975/111875loomis.pdf
-
-[^lehman]: _See_ Cite the Lehman cases on a protected class.
 
 [^other-3-ex]: _See, e.g.,_ an instance where an investor bought and held "1,285,050 shares in [an] OTC bulletin board property-development company... [which] had only ever issued 1,158,064 shares" and continued trading dozens of millions of shares a day in volume, _available at_ https://www.euromoney.com/article/b1320xkhl0443w/naked-shorting-the-curious-incident-of-the-shares-that-didnt-exist. Later in the investigation, a DTCC agent claims full withdrawal of shares like these from Cede "would paralyze our capital market system" due to the presence of "legal naked short selling" which create "shortages." _See also_ a public-safety technology firm which receives ten figures annually from our great Nation, reporting a "large disparity in legally issued and outstanding stock in TASER (approximately 61 million shares) versus... over 82 million votes recorded" at an AGM, _available at_ https://www.sec.gov/comments/s7-12-06/dklint7619.pdf#page=2.
 
