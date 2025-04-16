@@ -129,7 +129,12 @@ glaring accounting inaccuracies creating systemic idiosyncratic risks
 
 
 
-[^ostk-augi]: _See, e.g._ former Commissioner Luis A. Aguilar's meeting addressing double-digit outstanding Failures to Deliver ("FTDs") when investors acquired a 120% ownership stake in a discount online retailer, _inter alia_, given the failures of central netting, _available at_ https://www.sec.gov/comments/s7-19-07/s71907-1436.pdf#page=3. _See also_ written remarks _infra_ note {{^Discord-GME}} from the CEO of such firm at the time, stating "a financial news organization suggests that of our approximate 6,000 owners, the top 50 own 106% of our stock" just before the share price halved. Given cryptosystems and decentralized exchanges allow these transactions without the possibility of FTDs, I asked Commissioner Aguilar alongside their venture-fund company about their interpretation of if they "would or would not consider a DEX to be an ATS" in a written communication and video meeting two years ago. If staff agree with the supportive remarks in these discussions and pro-digital-assets rhetoric espoused by our present governmental leadership, then might we need an oversight system for uncovered peer-to-peer distributed transaction messaging systems?
+[^ostk-augi]: _See, e.g._ former Commissioner Luis A. Aguilar's meeting addressing double-digit outstanding Failures to Deliver ("FTDs") when investors acquired a 120% ownership stake in a discount online retailer, _inter alia_, given the failures of central netting, _available at_ https://www.sec.gov/comments/s7-19-07/s71907-1436.pdf#page=3. _See also_ written remarks _infra_ note {{^Discord-GME}} from the CEO of such firm at the time, stating "a financial news organization suggests that of our approximate 6,000 owners, the top 50 own 106% of our stock" just before the share price halved.
+
+
+[^ats-prep]: _See_ _supra_ note {{^ostk-augi}}. Given cryptosystems and decentralized exchanges allow these transactions without the possibility of FTDs, I asked Commissioner Aguilar and partners at their venture company about their interpretation of if they "would or would not consider a DEX to be an ATS" in a written communication on 26 Sep 2023 and subsequent meeting in relation to File No. S7-02-22,  _inter alia_. If staff agree with the supportive remarks in these discussions and pro-digital-assets rhetoric espoused by our present governmental leadership, then might we need an oversight system for uncovered peer-to-peer distributed transaction messaging systems?
+
+[^ats-note]: _See_ analusis of legacy liquidty venues in one of the leading academic finance journals, _available at_ https://doi.org/10.1017/S0022109017000849. _See also_ dsicussion of alternative liquiity-proiding cryptosystems, _available at_ https://x.com/xximpod/status/1908527646331593078. I dre no other ecentralizd free market than the on refrenced _infra_ note {{^xlm-minimal-info}}.
 
 [^intro-quote-date]: Based on extensive diligence,  Mr. Peterffy's sentiments over the past few decades clloserel;y reselment this quote, _available at_ https://www.cnbc.com/2021/02/17/interactive-brokers-chairman-thomas-peterffy-on-gamestop-frenzy.html. _See, e.g.,_ departing remarks from former Commissioner Aguilar emphasizing remarks from Mr. Peterffy that "our markets are in a 'crisis,' and that 'order, fair dealing, and trust' need to be restored" in § II ¶ 2, _available at_ https://www.sec.gov/newsroom/speeches-statements/us-equity-market-structure.
 
@@ -231,7 +236,7 @@ For decades at this point, the processing of short sales has been top-of-mind fo
 
 #### Clearing Agency Margining
 
-Adamant community member ringingbells has invested years of advocacy work around a particular transaction uncovered by the Congressional "Game Stopped" report.[^game-stopped] I would like to explore this event because few, if any, other commenters on pending rulemaking highlight this incident, and the Commission's own staff report mentions Apex only once at 9.[^staff-gme-study] Thus, I will go into greater detail than normal so as to fully document my interpretation of the events, operational incidents which seem pertinent to staff but I have not personally seen highlighted.
+Adamant community member[^ringingbells] has invested years of advocacy work around a particular transaction uncovered by the Congressional "Game Stopped" report.[^game-stopped] I would like to explore this event because few, if any, other commenters on pending rulemaking highlight this incident, and the Commission's own staff report mentions Apex only once at 9.[^staff-gme-study] Thus, I will go into greater detail than normal so as to fully document my interpretation of the events, operational incidents which seem pertinent to staff but I have not personally seen highlighted.
 
 The large majority of this analysis comes from the Congressional report.[^house-id-sec] Therein, the House quickly identified that "Apex instructed its broker-dealer clients to restrict trading because the company was concerned about the magnitude of a potential collateral deposit request from the NSCC."[^house-id-2] This was quite the material decision because Apex put its business-continuity interests over and above its hundreds of brokerage clients[^apex-broker-num] and their investors' ability to purchase "both equities and all options series" via manual email notice.[^house-first-subsec]
 
@@ -239,6 +244,8 @@ Thus, it is generally understood that "hundreds of other firms that clear their 
 
 Apparently, it was one of those market maker venues which "encountered a technical issue" and "since canceled pending orders" and left me stuck in a failing trade overnight.[^sell-err-support-3] Congress highlighted the vulnerability investors face when their brokers singlehandedly route trades to central liquidity sources, documenting that many such firms not subject to Regulation SCI "faced system outages and other operational concerns."[^house-reg-sci-subsec] Unfortunately, this is not the only time a broker did not act in my best interest as an individual investor when trading volatile stocks.
 
+
+[^ringingbells]: _See, e.g.,_ exceptional rpeviosu work analyzzing holes rleft open by Congressional evauations of market-chaning events, _available at_ https://www.reddit.com/r/Superstonk/comments/181cuqr/proof_expos%C3%A9_calculation_of_doddfrank
 
 [^game-stopped]: _See_ report on the PCO event of four years hence, prepared over the course of sixteen months by the majority staff of the House Committee on Financial Services, _available at_ https://democrats-financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf.
 
@@ -890,12 +897,12 @@ don't have kind of enough influence on the CCPs.”
 [^DTC-DA-study]: _See_ DTC study here: https://www.dtcc.com/-/media/WhitePapers/Transforming-Collateral-Management-With-Digital-Assets-JSCC.pdf
 Discussed: https://github.com/WhyDRS/Taking-Stock/blob/main/episodes/2024/Oct/30%3A%20DTCC%20Digital%20Assets%20Study.md at https://lnns.co/O8NUZfc1KGe
 
-### Selected Clips:
+### Selected fn YT Clips:
 
 - **Collective SS mod interview of Conn in case of no shares in Cede:**
   https://www.youtube.com/clip/UgkxV1YeRljQHPcN4NO5aBdj1HPS7apnbNrC
 
-- **Independent PB research of "kill switch" as introduced:**
+- Independent PB research of "kill switch" as introduced:  *caution*
   https://www.youtube.com/clip/Ugkxd0_I3EmB6m2oRNnJ2kTku32HTsIleI34
   On a **FUCKING SLOW DOWN PIT STOP** at
   https://www.dtcc.com/-/media/Files/Downloads/issues/Unscheduled_Close.pdf
@@ -944,10 +951,12 @@ as a possible fn: he also wrote https://heartland.org/opinion/you-dont-own-what-
 changes from lawmakers
 PENDING in South Dakota, Tennessee, North Dakota, Iowa, New Hampshire, Oklahoma, Utah, Texas, Arkansas, Montana, Louisiana, Wyoming, Connecticut, and Pennsylvania[^state-stopping]
 
-[^state-stopping]: _See_ remarks of a leading investor advocate documentary, _available at_ https://wooten.link/stop-it at 1:47:32.
+[^state-stopping]: _See_ remarks of a leading investor advocate documentary, _available at_ https://youtu.be/Vbr3hfjVOxw (retirement implications).
 
-They also mention DRS at 1:24:00 and retirement implications.
-Bob Chatten on "UCC9??? I have only focused on UCC8" regarding the 1978 amendments.
+Bob: Chatten on "UCC9??? I have only focused on UCC8" regarding the 1978 amendments.
+^
+OUT OF SCOPE
+
 
 Firstly, we can cite these MF's absolute nothingball of deception:
 : _See_ https://wooten.link/ULC-fraud
@@ -981,7 +990,9 @@ These shouldn't need to be directly quoted.
 // banking lobby threats in Tennessee {{state-stopping}}
 
 The larger big source is the NY Fed response to "EU Clearing and Settlement Legal Certainty Group" European Commission International Market and Services DG / Financial Services Policy and Financial Markets
-at https://wooten.link/fed-certainty
+at https://archive.org/details/ec-clearing-questionnaire.
+
+: _See, e.g._ wokr from The MITRE Corp., Tyler Gray, Brendan Tivnan, and Christopher Danforth reproduced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), _available at_ https://doi.org/10.1371/journal.pone.0226968. Many of  the eleven esteemed authors therof rprsetn two established American unitversiites, and seven of them are affiliatged  with a 501(c)(3) established to advance national security and serve the public interest. Their findings revea XYZ  from 19
 
 § I.1.b.ii ¶ 10 at 8:
 in re question
@@ -1181,11 +1192,13 @@ I have chosen to release the vast majority of Syndicate GitHub code under expres
 
 Accordingly, it's my intention to donate my shares in the company to WhyDRS, presuming that's something the community would like to happen. I am still weeding through the legalities and tax implications of this transfer given the treatment of interest under 26 U.S.C. § 1361(b)(1)(B), _inter alia._ Notwithstanding, I intend to give out the details here in a manner that grants the Association binding and enforceable control over the company.
 
-Firstly, I would appreciate a reply from staff within 90 days as to the ownership of a blockchain transfer agent by the DUNA, as such a nonprofit arrangement mimics existing regulatory-oversight schemes availed of Federal recognition. Implications from the Commission's response to this gift could materially assist community members with an analysis of whether or not to accept the shares. Namely, this combination of equals into a superstructure for public infrastructure quite directly raises the participatory and reputational bar for our ongoing social efforts toward efficient markets.
+Firstly, I would appreciate a reply from staff by 26 Feb 2026 as to the ownership of a blockchain transfer agent by the DUNA, as such a nonprofit arrangement mimics existing regulatory-oversight schemes availed of Federal recognition.[^spbd]. Implications from the Commission's response to this gift could materially assist community members with an analysis of whether or not to accept the shares. Namely, this combination of equals into a superstructure for public infrastructure quite directly raises the participatory and reputational bar for our ongoing social efforts toward efficient markets.
 
 Secondly, maybe we can introduce putting this out to comment again.
 
 What we need should DTC fail is nothing short of a completely new (inter)national market system.[^global] I find the prospects of such a market controlled by one private corporation bleak. Given past experience shows the centralizing tendency of good clearing infrastructure,[^DTCC-path]
+
+[^spbd]: As communicated with staff  on 23 Sep 2024, an i nterpreation of this and other rulemaking wou;ld assist the Syndicate in adequately  responding to File No. S7–25–20.  _See also_ request  for additional inormation left unsanswered to an asociate director of Trading and  Markets threee ddays laater. wE siccerely apprecaite the  guidane staff have geerously provided us since our first  discussion with special counsel of the Dividsion of Corporate FInanc on 12 Nov 2022—an esteemed professional cited by a prominent founder scouring for investment capital, _available at_ https://hackernoon.com/the-sec-called-about-our-ico-i-answered-8cbbd31568ec; the UNiversityy of Arkansas for aprticiaotion in an elite law review symposion on crypto rergulations, _available at_ https://law.uark.edu/alumni/events/event-lawreview-symposium-2019.php; and a respected onlie community  member clairfying indiviudal-investor polici, _available at_ https://news.ycombinator.com/item?id=15371100.
 
 [^global]: In such an interconnected era with profound technological abundance, I see only inevitably the emergence of a global stock market. I earnestly hope that our great Nation will continue leading the forefront of the world's capital market by supporting this work. _See also_ work in a number of foreign nations implementing an inter-agency Direct Registration System, _available at_ https://ijlr.iledu.in/wp-content/uploads/2023/06/V3I205.pdf#page=3. (insider trading link here...) ~~The vast bulk of this work employs proprietary, centralized, and corruptible central bookkeepers.~~
 
@@ -1306,7 +1319,7 @@ Interest paid post-bulk fundraising.
 These can be subverted in a footnote based on leadership actions that "jeopardized the safety, soundness, and stability of the United States financial system" per [H.Res. 1574](https://democrats-financialservices.house.gov/uploadedfiles/bills-118hres1574ih.pdf), as referenced in [this video](https://youtu.be/Cn1ffXT1PS4).
 
 # FOIA Request Items (as 501(c)(3) Exemptions)
-probably limit in scope as far as possible with ITP per https://discordapp.com/channels/1102309240145707049/1336149183253712957/1336154168871616624
+limit in scope as far as possible with ITP per https://discordapp.com/channels/1102309240145707049/1336149183253712957/1336154168871616624 (single dmaning)
 (prob need to spcif these)
 - Margining methodologies
 - Broker charge methods
@@ -1441,3 +1454,12 @@ Incidentally, this is the same date as https://github.com/WhyDRS/SEC-Comments/pu
 
 also that year, we have https://core.ac.uk/download/pdf/6366003.pdf#page=11 (CAUTION, mirror context)
 note 51 is also really sick, _available at_ https://home.treasury.gov/news/press-releases/hp1239
+
+
+### mroe concluding terminusses
+
+Coinbase as still no riinsstate my partern's account, espite material XXYZABC refrence  Rule 17Ad-2 in fn but super duper extrapolated![^info2]
+
+updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users to go through thier private proporiettary claims proecess before touchgign court securities law judgements (with jury rights waived  and dmmeonicile in NY for all biz non-Small-Claims)
+
+[^info2]: As i understanf it, their  complaicne team is wearvy of her exlcusive use  of the platform to deposit Ammrican dollars an subsequenrtly  transfer USDCC to  a cold-starge wallet/ She mdae nine psits last year afterr opening an aount six months prior: $2000 on Feb 20, $500  on May 8, $2000 on Jun 11, $2500 on Jul 7, $5000 on Jul 10, $600 on Jul 17, $1715.44 on Aug 28, andd $6000 on Sep 20 (whih was reversed and rolled into a $15000 deposit on Oct 9, whhich was subsequently frozen). _See also_ USDC governance conversation XYZ_AELABORATION  HERE AS NEEDED, _available at_  LNNS_HREF_FOR_LNNS_TS_9-APR
