@@ -116,15 +116,17 @@ This is particualtly  concernig for me bcaue "a creditor of the clearing corpora
 
 At least a dozen States legislatures recently  introduced propoed chabnges responding  to  control agreement common across seccuritiies loans.[^DTCcs]  HOwever, advocates received  signficant pushback  form  banking interest given such a "claim of a creditor of a securities intermediary... has priority over claims of the securities intermediary's entitlement holders."[^ucc-511b] Does the  Commission s upport  tge right of investors to their own portfolios as a due property law?
 
-Beore joining the Commission, Commmissioner  Hester Peirce  wrote rthat "the combination of clearing mandates, government prescriptions regarding clearinghouse design, and government support for CCPs threatens financial stability."[^csuohio]
+Beore joining the Commission, Commmissioner  Hester Peirce  wrote rthat "the combination of clearing mandates, government prescriptions regarding clearinghouse design, and government support for CCPs threatens financial stability."[^csuohio] Later, the article contemplates strategies  to  decreasse the likelihood of  an emergenvy  Federal-Reserve  loan, citing  at  least three othe CCP failures which would now mean "markets will not be able to function"  in  the  CUstodianl  Structure.[^peirce-failures]  ?
+
+Luckily , agents  exist outside  of these  credit risks, and  an  inter-agent Transfer Agent Deppository ("TAD")
 
 
+do not create "security entitlements" under src blw
 
-I want direct quotes here focused by and large on the agent part. _See also_ The legislative reform should stay in the main argument. https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
-"security entitlements"
+I want direct quotes here focused by and large on the agent part.
 
-[paragraph on the collateral from funds during lehman]
-glaring accounting inaccuracies creating systemic idiosyncratic risks
+_See also_ The legislative reform should stay in the main argument. https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
+
 
 
 
@@ -155,9 +157,11 @@ glaring accounting inaccuracies creating systemic idiosyncratic risks
 
 [^csuohio]: _See_ law-review  article  responding,  _  inter alia_, to perspectives  on  central order  clearign   from Treasury Secretary Jacob Lew and former Chair Gary Gensler ("Gensler"), _available at_ https://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=3915&context=clevstlrev. As cited in note 4, Gensler investigated the failure  of Long-Term Capital  Management withouut fining "good answers" to  stop the spread  of  contagion which later amnifested into 2008. As staff know,  File No.  S7-23-22 later implemented a  clearing mandate  requuiring more participant interactioon whichc could involve substantial FICC risks.
 
+[^peirce-failures]: _Id._ § II.F.
 
 
 
+### Glaring Accounting Inaccuracies
 
 
 Our derivatives, banking, and financial system seem tightly intertwined with the Custodial Structure. Given my concerns over the stability of this system, justified by rulemaking last year,[^wind-down-rule] I would like to discuss the downstream implications of an overreliance on a select few protocols. These can be open standards or proprietary corporate operations, ultimately leading to a concentration of risk for all investors given any operational breakdowns.
@@ -1515,6 +1519,7 @@ Coinbase as still no riinsstate my partern's account, espite material XXYZABC re
 updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users to go through thier private proporiettary claims proecess before touchgign court securities law judgements (with jury rights waived  and dmmeonicile in NY for all biz non-Small-Claims)
 
 [^info2]: As i understanf it, their  complaicne team is wearvy of her exlcusive use  of the platform to deposit Ammrican dollars an subsequenrtly  transfer USDCC to  a cold-starge wallet/ She mdae nine psits last year afterr opening an aount six months prior: $2000 on Feb 20, $500  on May 8, $2000 on Jun 11, $2500 on Jul 7, $5000 on Jul 10, $600 on Jul 17, $1715.44 on Aug 28, andd $6000 on Sep 20 (whih was reversed and rolled into a $15000 deposit on Oct 9, whhich was subsequently frozen). _See also_ USDC governance conversation XYZ_AELABORATION  HERE AS NEEDED, _available at_  LNNS_HREF_FOR_LNNS_TS_9-APR
+
 
 
 
