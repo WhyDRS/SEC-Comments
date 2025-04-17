@@ -933,7 +933,9 @@ https://github.com/orgs/WhyDRS/discussions/2#discussioncomment-10537423
 File No. SR-OCC-2024-001, which has at least three major Reddit threads:
 https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001.htm
 
-### Specific UCC Changes from Don Grande
+
+
+
 
 > Allowing massive institutions, many of which are worth hundreds of billions of dollars, to have priority over security entitlements belonging to individual investors creates massive distortions in the marketplace that could ultimately hasten a large economic crash. But even if this were not the case, an important question for policymakers remains: Is a system truly worthy of saving if it would happily sacrifice individual investors' wealth to save allegedly too-big-to-fail institutions? <!-- TAR2: Securrency "too bigger to fail" extrapolation here -->
 > 
@@ -977,22 +979,26 @@ Individual margin was already growing rapidly, and
 
 These shouldn't need to be directly quoted.
 
-> 1994 UCC Article 8 revision
 
-> The Code Title... varies
+> UCC §§ 8-503 and 8-511. 
 
-> UCC 8-503 and UCC 8-511. 
+> 8-503 mentions the 2 exceptions giving certain secured creditors priority over entitlement holders in 8-511 ~~~~so we strike that reference to 8-511.~~
 
-> 8-503 mentions the 2 exceptions giving certain secured creditors priority over entitlement holders in 8-511 so we strike that reference to 8-511.
+8-503(a): "except as otherwise provided in Section 8-511"
 
 > in 8-511 we strike the 2 exceptions (b) and (c).
 
-> We also suggest addressing the jurisdiction/choice of law provisions usually found in 8-110 (and a conforming change to UCC 9-305).
+8-511(b): "A claim of a creditor of a securities intermediary... has priority over claims of the securities intermediary's entitlement holders"
+8-511(c): "If a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders... and its obligation to a creditor of the clearing corporation... the claim of the creditor has priority over the claims of entitlement holders."
+
+
+
 
 // banking lobby threats in Tennessee {{state-stopping}}
 
 The larger big source is the NY Fed response to "EU Clearing and Settlement Legal Certainty Group" European Commission International Market and Services DG / Financial Services Policy and Financial Markets
 at https://archive.org/details/ec-clearing-questionnaire.
+
 
 ![corrupted-venues](imgs/competing-feed-fragmentation-problems.png)
 
