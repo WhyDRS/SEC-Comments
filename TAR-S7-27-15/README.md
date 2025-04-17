@@ -319,6 +319,8 @@ Journalists at the time highlighted "the spillover effects on the government sec
 
 ##### Procyclical Correlative Actions
 
+cross-margining gets into toxig GME risk  xfers:  https://www.cftc.gov/PressRoom/PressReleases/9066-25
+
 : _See_ _supra_ note {{^ny-err-3}} §§ 8–9 introducing ocntagion risk from large-participant defaults by the nature of cross-covered obligatyion garuntees. (too bigger arg setup, partial)
 
 here we have to setup the thin capitalization beforehand with apex
@@ -1463,3 +1465,4 @@ Coinbase as still no riinsstate my partern's account, espite material XXYZABC re
 updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users to go through thier private proporiettary claims proecess before touchgign court securities law judgements (with jury rights waived  and dmmeonicile in NY for all biz non-Small-Claims)
 
 [^info2]: As i understanf it, their  complaicne team is wearvy of her exlcusive use  of the platform to deposit Ammrican dollars an subsequenrtly  transfer USDCC to  a cold-starge wallet/ She mdae nine psits last year afterr opening an aount six months prior: $2000 on Feb 20, $500  on May 8, $2000 on Jun 11, $2500 on Jul 7, $5000 on Jul 10, $600 on Jul 17, $1715.44 on Aug 28, andd $6000 on Sep 20 (whih was reversed and rolled into a $15000 deposit on Oct 9, whhich was subsequently frozen). _See also_ USDC governance conversation XYZ_AELABORATION  HERE AS NEEDED, _available at_  LNNS_HREF_FOR_LNNS_TS_9-APR
+
