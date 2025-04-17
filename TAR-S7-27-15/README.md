@@ -107,14 +107,18 @@ The Commission has spent far too many  years taking massive efforts to reform ou
 >
 > &mdash; Thomas Peterffy
 
-To ease this accumulted risk, staff know that clearing agenccies histooruically facced stiff  competition to timely settle outstanding transactions.[^historic-id]  Inded, it was precisely this market encouragement which I understand prompted DTC to be3neficially dematrialize paper trading. I would like to genrally abstract away the convoluted NMS settlement systems enabled  by DTCC, the plethora of custodians participating in its clearing agenciesm, and the hundreds of intermediaries exchanging assets on top of its plumbing (a central "Custodial Structure).
+To ease this accumulted risk, staff know that clearing agenccies histooruically facced stiff  competition to timely settle outstanding transactions.[^historic-id]  Inded, it was precisely this market encouragement which I understand prompted DTC to be3neficially dematrialize paper trading. I would like to genrally abstract away the convoluted NMS settlement systems enabled  by the  DTCC, the plethora of custodians participating in its clearing agenciesm, and the hundreds of intermediaries exchanging assets on top of its plumbing (a central "Custodial Structure).
 
 Rather, I am concerned with the solvency of Cede & Co. For years we have looked into the nuancceds of the  CUstodial Strucutre, whicch ends in all terminuses at the behemous partnership nominee. Thus, the hole in the system contantly rearing up thro ugh FTDs ultimately makes its way down to DTC's registered share of securities.
 
 
+This is particualtly  concernig for me bcaue "a creditor of the clearing corporation"  in bankruptcy  "has priority over the claims of entitlement holders."[^ucc-511c] Thus, investoors could lose their portfolios shouldd markets face  a situation where "a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders"  andd  its  (particcipating) secured creditors.[^511c-id]  I suspect tese could be particularly  devastating siezures iven the  interconnectednes staff fully understand in central clearing counterparty ("CCP") operations, [^ccp-connec]
 
-At least a dozen States have introduced legislation ~~undermining the conceit and constructions DTCC's agents introduced into the 1994 Uniform Commercial Code~~.[^DTCcs] 
-a select few States intend to reconstitute the right of investors to their own portfolios as a due property law
+At least a dozen States legislatures recently  introduced propoed chabnges responding  to  control agreement common across seccuritiies loans.[^DTCcs]  HOwever, advocates received  signficant pushback  form  banking interest given such a "claim of a creditor of a securities intermediary... has priority over claims of the securities intermediary's entitlement holders."[^ucc-511b] Does the  Commission s upport  tge right of investors to their own portfolios as a due property law?
+
+Beore joining the Commission, Commmissioner  Hester Peirce  wrote rthat "the combination of clearing mandates, government prescriptions regarding clearinghouse design, and government support for CCPs threatens financial stability."[^csuohio]
+
+
 
 I want direct quotes here focused by and large on the agent part. _See also_ The legislative reform should stay in the main argument. https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
 "security entitlements"
@@ -122,9 +126,8 @@ I want direct quotes here focused by and large on the agent part. _See also_ The
 [paragraph on the collateral from funds during lehman]
 glaring accounting inaccuracies creating systemic idiosyncratic risks
 
-> move down to DTC section later
-(at note 20) In the cited work before the World Federation of Exchanges just after the Great Recession, Peterffy writes: "
-> mind-numbing complexity. Collecting margins is not the clearinghouse’s only function. When a clearing member fails, the clearinghouse has to be able to step into the failing clearing member’s position and liquidate that position while trying to minimize losses and public panic. And here we come full circle, because if there is not a liquid market at the exchange, how will that position be liquidated? If it is a large position, what is the clearinghouse going to do? If the losses exceed the clearinghouse's resources, who will end up with those losses? The other members will, but if some of them do not have sufficient funds, we will be faced with a domino effect
+
+
 
 
 
@@ -140,12 +143,17 @@ glaring accounting inaccuracies creating systemic idiosyncratic risks
 
 [^historic-id]: _See_ _supra_ note {{^best-eff-mon}}.
 
+[^ucc-511c]: _See_ UCC § 8-511(c), as presently  adopted in all 50  States.
 
+[^511c-id]: _Id._
+
+[^ccp-connec]: _See, e.g.,_ last year's annual financial statements for NSCC,  stating an approxiamtely eqquivalent  amount of assets and liablilities, _available at_ https://www.dtcc.com/-/media/Files/Downloads/legal/financials/2024/NSCC-Financial-Statements-Annual-2024.pdf#page=4.  At  27, the report refernces the "multilateral netting contract and limited cross-guaranty agreement with DTC, FICC and OCC," a  risk mutualizer further expanded  by industry arrangements _infra_ note {{^ny-err-3}}. Could  the fialure of only one of  these intermediaries criple all of their interoperability?
 
 [^DTCcs]: _See, e.g.,_ six formalized change requests just this year in NH HB427, ND SB2364, SD HB1122, TN HB443, CT HB5849, and WY SF189 (all 2025); _available at_ https://legiscan.com/NH/bill/HB427/2025, https://legiscan.com/ND/bill/SB2364/2025, https://legiscan.com/SD/bill/HB1122/2025, https://legiscan.com/TN/bill/HB0443/2025, https://legiscan.com/CT/bill/HB5849/2025, and https://legiscan.com/WY/bill/SF0189/2025, respectively. All these legislatures strike the exception to Main Street securities entitlement custody as discussed in the proposed bills. _See also_ proposition questioning testimony in the third bill, stating "all those clients in the teeth of the crisis had no access to their accounts... that happened to the retail investors; it happened to the biggest, most sophisticated investors in the world that were in Lehman Brothers—so, big and small. The small investors: those accounts were eventually sold to another firm. That is the only way they got access to their accounts again—it took some weeks and months. The institutional clients: unbeknownst to them, all of their Treasuries, which were their collateral—their dry powder to operate in this crisis—were taken by JPMorgan in the bankruptcy" as both the custodian and secured creditor for such assets given invocation of UCC Art. 8, _available at_ https://sdpb.sd.gov/sdpbpodcast/2025/hco15.mp3#t=5640.
 
+[^ucc-511b]: _See_ UCC §  8-511(b), as presently  adopted in all 50  States.
 
-
+[^csuohio]: _See_ law-review  article  responding,  _  inter alia_, to perspectives  on  central order  clearign   from Treasury Secretary Jacob Lew and former Chair Gary Gensler ("Gensler"), _available at_ https://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=3915&context=clevstlrev. As cited in note 4, Gensler investigated the failure  of Long-Term Capital  Management withouut fining "good answers" to  stop the spread  of  contagion which later amnifested into 2008. As staff know,  File No.  S7-23-22 later implemented a  clearing mandate  requuiring more participant interactioon whichc could involve substantial FICC risks.
 
 
 
@@ -236,6 +244,9 @@ For decades at this point, the processing of short sales has been top-of-mind fo
 
 #### Clearing Agency Margining
 
+https://www.interactivebrokers.com/download/worldFederationOfExchanges.pdf just after the Great Recession, Peterffy writes: "
+> Collecting margins is not the clearinghouse’s only function. When a clearing member fails, the clearinghouse has to be able to step into the failing clearing member’s position and liquidate that position while trying to minimize losses and public panic. And here we come full circle, because if there is not a liquid market at the exchange, how will that position be liquidated? If it is a large position, what is the clearinghouse going to do? If the losses exceed the clearinghouse's resources, who will end up with those losses? The other members will, but if some of them do not have sufficient funds, we will be faced with a domino effect
+
 Adamant community member[^ringingbells] has invested years of advocacy work around a particular transaction uncovered by the Congressional "Game Stopped" report.[^game-stopped] I would like to explore this event because few, if any, other commenters on pending rulemaking highlight this incident, and the Commission's own staff report mentions Apex only once at 9.[^staff-gme-study] Thus, I will go into greater detail than normal so as to fully document my interpretation of the events, operational incidents which seem pertinent to staff but I have not personally seen highlighted.
 
 The large majority of this analysis comes from the Congressional report.[^house-id-sec] Therein, the House quickly identified that "Apex instructed its broker-dealer clients to restrict trading because the company was concerned about the magnitude of a potential collateral deposit request from the NSCC."[^house-id-2] This was quite the material decision because Apex put its business-continuity interests over and above its hundreds of brokerage clients[^apex-broker-num] and their investors' ability to purchase "both equities and all options series" via manual email notice.[^house-first-subsec]
@@ -245,7 +256,7 @@ Thus, it is generally understood that "hundreds of other firms that clear their 
 Apparently, it was one of those market maker venues which "encountered a technical issue" and "since canceled pending orders" and left me stuck in a failing trade overnight.[^sell-err-support-3] Congress highlighted the vulnerability investors face when their brokers singlehandedly route trades to central liquidity sources, documenting that many such firms not subject to Regulation SCI "faced system outages and other operational concerns."[^house-reg-sci-subsec] Unfortunately, this is not the only time a broker did not act in my best interest as an individual investor when trading volatile stocks.
 
 
-[^ringingbells]: _See, e.g.,_ exceptional rpeviosu work analyzzing holes rleft open by Congressional evauations of market-chaning events, _available at_ https://www.reddit.com/r/Superstonk/comments/181cuqr/proof_expos%C3%A9_calculation_of_doddfrank
+[^ringingbells]: _See, e.g.,_ exceptional rpeviosu work analyzzing holes rleft open by Congressional evauations of market-chaning events, _available at_ https://www.reddit.com/r/Superstonk/comments/181cuqr/proof_expos%C3%A9_calculation_of_doddfrank.
 
 [^game-stopped]: _See_ report on the PCO event of four years hence, prepared over the course of sixteen months by the majority staff of the House Committee on Financial Services, _available at_ https://democrats-financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf.
 
@@ -294,6 +305,34 @@ Indeed, staff's own findings report that the "vast majority of GME stock trades 
 
 ##### Inadequate Participant Capitalization
 
+> If a clearinghouse were to fail, there would be tremendous pressure for the government to bail it out in the name of financial stability.
+> 
+> — Commissioner Hester Peirce[^peirce-bailout-quote]
+
+_supra_ has TOC:
+Here are just the section numbers and names:
+
+**I. OTC Derivatives, Clearinghouses, and Their New Regulatory Framework**  
+A. OTC Derivatives in a Changing Regulatory Landscape  
+B. What Clearinghouses Do  
+C. How Swap Clearinghouses Are Regulated  
+
+**II. Problems with the Current Regulatory Framework**  
+A. Potential for Expanded CCPs to Destabilize the Financial System  
+B. Potential for Clearing Mandate to Undermine Risk Management Outside the CCP  
+C. Mandated Central Clearing Could Impair Counterparty Monitoring  
+D. Mandated Clearing Could Force Improper Risks into CCPs  
+E. Regulatory Conflicts of Interest Could Impair CCP Risk Management  
+F. Bailout Risk  
+
+**III. A Better Approach to Managing Risk**  
+A. Elimination of the Clearing Mandate  
+B. Principles-Based Regulation  
+C. Properly Aligned CCP Ownership and Governance  
+D. End Implicit and Explicit Promises of Bailouts
+
+
+
 I find these differing interests concerning because of historic instabilities in "automated" clearing which lead to emergency capital calls such as those seen in the PCO event. For instance, over a decade after DTC was founded, "a computer problem prevented the Bank of New York from delivering securities from its custodial accounts."[^ny-fed-fails] Unfortunately, many of these behind-the-scenes systems errors can stay hidden from investors, leaving them unaware of processing challenges until it's too late.[^hidden-errs]
 
 More to the point, it is my understanding that the Commission is intimately familiar with the interconnectedness of clearing members in the Custodial Structure. The NY Fed documented what staff have known for quite some time: FTDs create "an increase in counterparty credit risk" which leads to cascading interconnected losses when "a buyer becomes insolvent before the settlement of a trade" and leaves investors with "nothing to deliver should they decide to sell."[^ny-fed-id1] Given the recent insolvencies of leading broker-dealers, it seems the methods of federal investor protections will quite immediately matter more than any years past.[^shoerer]
@@ -302,6 +341,8 @@ This is partly and materially why I worry about the centralization risks inheren
 
 Journalists at the time highlighted "the spillover effects on the government securities market" caused by this single intermediary during a period that "was not an especially heavy day for securities transactions."[^ny-err-3]
 
+
+[^peirce-bailout-quote]: _See_ _supra_ note {{^csuohio}}  at 2.
 
 [^ny-fed-fails]: _See_ clearinghouse settlement failures study from a research series which had its industry funding revoked a decade ago, _available at_ https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci11-9.pdf#page=2. Also on this page, notable researching authors indicate in Chart 1 that failures to deliver in Treasuries began in earnest around 1992. "Fails to deliver involving Treasury securities occurred in every week between July 4, 1990, and December 29, 2004," notes the study, averaging over $440 billion per month in 2025 dollars.
 
@@ -988,8 +1029,7 @@ These shouldn't need to be directly quoted.
 
 > in 8-511 we strike the 2 exceptions (b) and (c).
 
-8-511(b): "A claim of a creditor of a securities intermediary... has priority over claims of the securities intermediary's entitlement holders"
-8-511(c): "If a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders... and its obligation to a creditor of the clearing corporation... the claim of the creditor has priority over the claims of entitlement holders."
+
 
 
 
@@ -1122,12 +1162,12 @@ Increased Complexity and Opacity:
 
 Page 120 is borrowed from https://www.dtcc.com/-/media/DASCPWhitePaper.pdf, which I don't think I'd read before&mdash;some new homework.
 
-#### Start orig yay here
+#### Start orig blockchain here
 
 Treasury study on DA
 https://home.treasury.gov/system/files/221/CombinedChargesforArchivesQ42024.pdf#page=107
 
-- Network rails as independent means of exchange re 109, implicating https://github.com/JFWooten4/free-markets/issues/6 🤝🏿
+- Network rails as independent means of exchange re 109
 - _Id._ at n. A and banking protections implications not given in the K case
 - Use the "even small incremental improvements in a very large market like the Treasuries market can be impactful at scale" argument on 114 as a contra to [S7-23-22](https://www.sec.gov/newsroom/press-releases/2023-247)
 
@@ -1475,4 +1515,7 @@ Coinbase as still no riinsstate my partern's account, espite material XXYZABC re
 updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users to go through thier private proporiettary claims proecess before touchgign court securities law judgements (with jury rights waived  and dmmeonicile in NY for all biz non-Small-Claims)
 
 [^info2]: As i understanf it, their  complaicne team is wearvy of her exlcusive use  of the platform to deposit Ammrican dollars an subsequenrtly  transfer USDCC to  a cold-starge wallet/ She mdae nine psits last year afterr opening an aount six months prior: $2000 on Feb 20, $500  on May 8, $2000 on Jun 11, $2500 on Jul 7, $5000 on Jul 10, $600 on Jul 17, $1715.44 on Aug 28, andd $6000 on Sep 20 (whih was reversed and rolled into a $15000 deposit on Oct 9, whhich was subsequently frozen). _See also_ USDC governance conversation XYZ_AELABORATION  HERE AS NEEDED, _available at_  LNNS_HREF_FOR_LNNS_TS_9-APR
+
+
+
 
