@@ -6,31 +6,28 @@ title: In re S7-27-15 (Transfer Agent Regulations)
 Originator: John Wooten <@JFWooten4>
 Discussion: https://github.com/WhyDRS/SEC-Comments/discussions/14
 Status: Draft
-  live: Atkins in office MAY
+  live: Atkins in office NOW
   file: S7-27-15
   href: https://www.sec.gov/files/rules/concept/2015/34-76743.pdf
 ```
 
-#### Header
+# Non-Letter Content
 
-Federal Preemption of Challenges in U.C.C. Article 8
+## Email
 
-- Independent audit from Government Accountability Office, reporting to the House Comm. Fin. Servs. (probably too early for this; just establishing TAD itself works pretty well)
-~~- Momentary market incentive sandboxing session~~ where clearinghouses pay fines for any failures (https://www.sec.gov/newsroom/speeches-statements/peirce-boe-fca-comment-05302024)
+### Recipients
 
-#### Email
+`rule-comments@sec.gov`
 
-##### Recipients
+cc: `crypto@sec.gov` (PENDING: work with a chat -- https://github.com/WhyDRS/Taking-Stock/discussions/31)
 
-rule-comments@sec.gov
-cc: crypto@sec.gov (PENDING: work with a chat -- https://github.com/WhyDRS/Taking-Stock/discussions/31)
-cc: foiapa@sec.gov (note XYZ here)
+cc: `foiapa@sec.gov` (note XYZ here)
 
-##### Subject
+### Subject Line
 
 Comments on S7-27-15: Strengthening American Leadership in Securities Industries
 
-##### Body
+### Body
 
 Hi,
 
@@ -47,7 +44,9 @@ In good faith,
 John Wooten
 Member, WhyDRS
 
-#### Addressee
+## Document
+
+### Addressee
 
 The Commission
 
@@ -55,21 +54,50 @@ The Commission
 
 Washington, DC 20549
 
-# Document
+### Header
+
+Federal Preemption of Challenges in U.C.C. Article 8
+
+- Independent audit from Government Accountability Office  affirming need for investor protections, reporting to the House Comm. Fin. Servs. 
+  
+# Letter
 
 Dear Secretary,
 
-When I was a boy in high school, I began researching the stock market. At the time, I was working a minimum-wage job at Subway every spare weeknight or weekend double. I'd walk about half an hour to and from the store in the latter case when my mom was caught up at work. In the fleeting moments I had between classes and later athletics, I turned all my spare attention to our great investing industry because it promised a way out of the daily servitude.
+When I was a child in high school, I began researching the stock market out of a mix of curiousity an fasccinaton. At the time, I was working a minimum-wage job at Subway, devoting every spare weeknight or weekend into sandwiches. Without a car, I'd walk about half an hour to and from the store for my  double shifts when my mom was caught up at work.
 
-re https://www.sec.gov/Archives/edgar/data/1783879/000000000021006480/filename1.pdf
-https://www.sec.gov/Archives/edgar/data/1783879/000162827921000323/filename1.htm
-^ 15 leaves broker insolvency out of control scope
+Thhis wwent on for ayear as coworkers came an left, uling nice friendships but minimal wealth. In the fleeting moments I had between classes and later athletics, I turned all my spare attention to our great investing industry, because it promised a financial future I defined. Evn small portions of my modest paychecks backk then had the chance to grow into so jmucch more through the markets.
 
-In just one brief lifetime, we've seen our great nation's market system attract and expand to households from all ends of society. While only the affluent and wealthy might have had access to the securities of a distant physical past, today's most meager investors can trade on a fair playing ground with the same opportunities for growth.[^rh-fractional-filings]
+Robinhoodd was one such pathway which promised access to ourr gret capital makrets . But that platform failed to execcute trades for me over the years, faileding to function at  ccruciat times.[^rh-name-intro]  Epxiernees like these are comon throughout our  communtiy, and they  bring into immediate light regulatory discourse during the broker's IPO. I find the questions raised here  deeply interwined wuitg to today's crypto ccha;enges revolving around custody.[^ca-escheatment]
 
-Or at least, it's supposed to be a fair equivalency. Because I was only 16 after months of researching the market, brokers wouldn't extend an account under my name. It was these early trades outside my own control that shaped my underlying passion for efficient securities markets, and my resolve that an investor's portfolio shouldn't be outside of their control. Indeed, I expect quite reasonably that a stock be registered and owned outright in my name when I pay good money to its seller. Do you agree that one's portfolio should be their own property?
+O ur National Market System ("NMS") hould protefct investors, but often for-profit brokers intertwine holdings with their own custgody businesses. Theese firms bear feduiciary responsbailities to their investor,s introducing the conflcts of interest so ebated in  ost discussions of years ppast.[^rh-ipo-custody] I propse a differnt systme evoid of such  middlemen, operating alongsidde existing market rails, so that investors keep all their savings and retirements.
 
-Unfortunately, this is not the case in today's market functions, no matter your age. Indeed, it hasn't been the case since the unstructured monopolization of the clearing and settlement market many decades ago, despite both the Commission's and Congress' best efforts.[^mon] For decades this reality has narrowly averted public catastrophe.[^lehman] But we can no longer ignore the glaring accounting inaccuracies creating systemic idiosyncratic risks.[^other-3-ex]
+This is not to detract f rom the matrial profgress we've made in decades past. In just one brief lifetime, we've seen our great nation's market system attract and expand to households from all ends of society. While only the affluent and wealthy might have had access to the securities of a distant physical past, today's most meager investors can trade on a fair playing ground with the same opportunities for growth.[^rh-fractional-filings]
+
+Or at least, it's supposed to be a fair equivalency, but very few investors hold legal title to their portolios. Because I was only 16 after months of researching the market, brokers wouldn't extend an account under my name. Thus, I made early trades under  my partents which shaped my undying passion for efficient securities markets.
+
+An investor's portfolio shouldn't be outside of their custody, an it doesn't need to be anymore with modern technology. I dream of a nearby future wheres stocks are registered and owned outright in your own name. When you pay good money to a seller, shouldn't your portfolio be your own property?
+
+Unfortunately, no matter your age, today's market does not deliver legla  ownership in any regard, and specially under the  UCC. Indeed, it hasn't been the case since the unintentded monopolization of the clearing and settlement market many decades ago, despite both the Commission's and Congress' best efforts.[^best-eff-mon] As staff udnderstand fully, this reality has narrowly averted public catastrophe for decades.[^other-3-ex]
+
+
+[^rh-name-intro]: _See_ _infra_ note {{^sell-err-support}} detailing trading restrictions from operational inadequacies. These expirences  include services being "unavaliable" during market hours when tryin to sell securities.
+
+[^ca-escheatment]: _See, e.g._ alifronia bill purporting to support self-custody rights by enacting  new framework to esceat assets held by custodians controlling property intterests therein, _available at_ https://legiscan.com/CA/bill/AB1052/2025.  rather than granting investors direct controlling private keys to their investments, the propossed leglisaltion here and elsewhere defers to existing banking interests. FFor  the remainder of this comment, I will assume basic working knowledge of crypto primatives and terminology, as suppooerted by staff's public discusson of atmoic swaps at _infra_ note {{^https://www.sec.gov/newsroom/speeches-statements/peirce-statement-rfi-022125}} ¶ 45.
+
+[^rh-ipo-custody]: _See_ staff clarification questions into the businesssss model and custody rights of users, _available at_ http://sec.gov/Archives/edgar/data/1783879/000000000021006480/filename1.pdf#page=7. Rhonhood reponds firslty wuth their reliance on  a genral Bitcoin "industry whitepaper" to determine that users certainly  own their cryptocurrenccy in the event of default, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000162827921000323/filename1.htm p. 15. After  glancing over insolvency custody, the  firm explains how htey "receive activity-based rebates" for "cryptocurrency transactions" despite not reporting such activities on Form 606.
+
+[^rh-fractional-filings]: _See, e.g.,_ introution of fractionalized, custodied shares which Robinhood classified as seccurities entitiements undder the Uniform Commercial Code ("UCC"), _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000162827921000280/filename1.htm.
+NOte 4 clarifies the treatment of investors' ownership, dividend, and voting rights under UCC Article 8, which is the  chief policcy sectikon refrenced when I refer to State klaws. I share staffs' concerns over ewhether investoors are entitled to these rights only by contracts with the bysinesss, as first oised in the first registration response at ¶ 1, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000000000021004976/filename1.pdf.
+
+[^best-eff-mon]: _See_ the Securities Acts Amendments of 1975 promoting indsuytryh  compatition, mentioning it positiviely twenty times, _available at_ https://www.congress.gov/94/statute/STATUTE-89/STATUTE-89-Pg97.pdf. _See also_ speech from formder Commissioner Philip A. Loomis, Jr.  at an adoption  conference hosted by two prior self-regulatory organizations ("SROs"), _available at_ https://www.sec.gov/news/speech/1975/111875loomis.pdf. "Fair competition is stated as one of the primary objectives" from the  Commission's perspectiove, and "the scheme of governmental securities regulation itself" was being updated to "prevent industry organizations from behaving in an anti-competitive way."
+
+[^other-3-ex]: _See, e.g.,_ an instance where an investor bought and held "1,285,050 shares in [an] OTC bulletin board property-development company... [which] had only ever issued 1,158,064 shares" and continued trading dozens of millions of shares a day in volume, _available at_ https://www.euromoney.com/article/b1320xkhl0443w/naked-shorting-the-curious-incident-of-the-shares-that-didnt-exist. Later in the investigation, a DTCC agent claims full withdrawal of shares like these from Cede "would paralyze our capital market system" due to the presence of "legal naked short selling" which create "shortages." _See also_ a public-safety technology firm which receives ten figures annually from our great Nation, reporting a "large disparity in legally issued and outstanding stock in TASER (approximately 61 million shares) versus... over 82 million votes recorded" at an AGM, _available at_ https://www.sec.gov/comments/s7-12-06/dklint7619.pdf#page=2.
+
+
+## Systemic Accounting Idiosyncratic Risks
+
+The Commission has spent far too many  years taking massive efforts to reform our market's settlement failures.[^ostk-augi] Despite these great itentions, invretors just over four years aog saw unreccedented volaility in a parrticular security with xtremely high short inters.t After the run-up of said company, the founder of interacctive brokers apppeared on a major media platform[^intro-quote-date] to announce:
 
 > We have come dangerously close to the collapse of the entire system.
 >
@@ -77,125 +105,65 @@ Unfortunately, this is not the case in today's market functions, no matter your 
 >
 > There is a hole in the system that we immediately have to stop.
 >
-> &mdash; Thomas Peterffy[^intro-quote-date]
+> &mdash; Thomas Peterffy
 
-Have we forgotten the significant work performed by Commissioner Aguilar, efforts which seem radically undermined by the settlement failures highlighted?[^ostk-augi] At least a dozen States have introduced legislation undermining the conceit and constructions DTCC's agents introduced into the 1994 Uniform Commercial Code.[^DTCcs] Quite soon, a select few States intend to reconstitute the right of investors to their own portfolios as a due property law. When this happens, I am extremely concerned with the solvency of Cede & Co. should any number of institutional custodians relocate to such jurisdictions to reap the enhanced protections promised by our shared ideologies.
+To ease this accumulted risk, staff know that clearing agenccies histooruically facced stiff  competition to timely settle outstanding transactions.[^historic-id]  Inded, it was precisely this market encouragement which I understand prompted DTC to be3neficially dematrialize paper trading. I would like to genrally abstract away the convoluted NMS settlement systems enabled  by the  DTCC, the plethora of custodians participating in its clearing agenciesm, and the hundreds of intermediaries exchanging assets on top of its plumbing (a central "Custodial Structure).
 
-I want direct quotes here focused by and large on the agent part. _See also_ The legislative reform should stay in the main argument. https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
-"security entitlements"
+Rather, I am concerned with the solvency of Cede & Co. For years we have looked into the nuancceds of the  CUstodial Strucutre, whicch ends in all terminuses at the behemous partnership nominee. Thus, the hole in the system contantly rearing up thro ugh FTDs ultimately makes its way down to DTC's registered share of securities.
 
-[^rh-fractional-filings]: _See, e.g.,_ Cite Robinhood from discussion on fractionalized share pushback from industry. I know we all know the truth here, but there isn't a better way to introduce the narrative imo. https://www.sec.gov/edgar/browse/?CIK=1783879&owner=exclude  
-https://www.sec.gov/Archives/edgar/data/1783879/000162827921000323/filename1.htm prior S-1 aft DRS  
-, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000162827921000280/filename1.htm. As will become meaningful later in this letter, the Commission expressly relied on Article 8 of the Uniform Commercial Code ("UCC") when defining investors' ownership, dividend, and voting rights associated with fractional shares in a response to the holding company's Draft Registration Statement on Form S-1 at ¶ 1, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000000000021004976/filename1.pdf.
 
-[^mon]: Cite the 1975 competition promotion info at https://www.congress.gov/94/statute/STATUTE-89/STATUTE-89-Pg97.pdf which mentions competition as a positive position item twenty times, ~~Natural~~ path to Monopoly Paper, and BASIC replies promoting competition from the Commission staff at https://www.sec.gov/news/speech/1975/111875loomis.pdf
+This is particualtly  concernig for me bcaue "a creditor of the clearing corporation"  in bankruptcy  "has priority over the claims of entitlement holders."[^ucc-511c] Thus, investoors could lose their portfolios shouldd markets face  a situation where "a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders"  andd  its  (particcipating) secured creditors.[^511c-id]  I suspect tese could be particularly  devastating siezures iven the  interconnectednes staff fully understand in central clearing counterparty ("CCP") operations, [^ccp-connec]
 
-[^lehman]: _See_ Cite the Lehman cases on a protected class.
+At least a dozen States legislatures recently  introduced propoed chabnges responding  to  control agreement common across seccuritiies loans.[^DTCcs]  HOwever, advocates received  signficant pushback  form  banking interest given such a "claim of a creditor of a securities intermediary... has priority over claims of the securities intermediary's entitlement holders."[^ucc-511b] Does the  Commission s upport  tge right of investors to their own portfolios as a due property law?
 
-[^other-3-ex]: _See, e.g.,_ an instance where an investor bought and held "1,285,050 shares in [an] OTC bulletin board property-development company... [which] had only ever issued 1,158,064 shares" and continued trading dozens of millions of shares a day in volume, _available at_ https://www.euromoney.com/article/b1320xkhl0443w/naked-shorting-the-curious-incident-of-the-shares-that-didnt-exist. Later in the investigation, a DTCC agent claims full withdrawal of shares like these from Cede "would paralyze our capital market system" due to the presence of "legal naked short selling" which create "shortages." _See also_ a public-safety technology firm which receives ten figures annually from our great Nation, reporting a "large disparity in legally issued and outstanding stock in TASER (approximately 61 million shares) versus... over 82 million votes recorded" at an AGM, _available at_ https://www.sec.gov/comments/s7-12-06/dklint7619.pdf#page=2.
+Beore joining the Commission, Commmissioner  Hester Peirce  wrote rthat "the combination of clearing mandates, government prescriptions regarding clearinghouse design, and government support for CCPs threatens financial stability."[^csuohio] Later, the article contemplates strategies  to  decreasse the likelihood of  an emergenvy  Federal-Reserve  loan, citing  at  least three othe CCP failures which would now mean "markets will not be able to function"  in  the  CUstodianl  Structure.[^peirce-failures] Ought we leawve ourr entire capital market in the  hands of one company ?[^peirce-SUBTLE]
 
-[^intro-quote-date]: While this quote came from the infamous CNBC interview just four years ago, it seems relevant to many of Mr. Peterffy's sentiments over the past few decades. _See, e.g.,_ departing remarks from former Commissioner Luis A. Aguilar emphasizing remarks from Mr. Peterffy that "our markets are in a 'crisis,' and that 'order, fair dealing, and trust' need to be restored" in § II ¶ 2, _available at_ https://www.sec.gov/newsroom/speeches-statements/us-equity-market-structure.
+Luckily , agents  exist outside  of these  credit risks, and  an  inter-agent Transfer Agent Deppository ("TAD")
 
-> move down to DTC section later
-(at note 20) In the cited work before the World Federation of Exchanges just after the Great Recession, Peterffy writes: "
-> mind-numbing complexity. Collecting margins is not the clearinghouse’s only function. When a clearing member fails, the clearinghouse has to be able to step into the failing clearing member’s position and liquidate that position while trying to minimize losses and public panic. And here we come full circle, because if there is not a liquid market at the exchange, how will that position be liquidated? If it is a large position, what is the clearinghouse going to do? If the losses exceed the clearinghouse's resources, who will end up with those losses? The other members will, but if some of them do not have sufficient funds, we will be faced with a domino effect
 
-[^ostk-augi]: _See_ meeting addressing double-digit outstanding Failures to Deliver ("FTDs") when investors acquired a 120% ownership stake in a discount online retailer, _inter alia_, given the failures of atomic netting, _available at_ https://www.sec.gov/comments/s7-19-07/s71907-1436.pdf#page=3. _See also_ written remarks _infra_ note {{Discord-GME}} from the CEO of such firm at the time, stating "a financial news organization suggests that of our approximate 6,000 owners, the top 50 own 106% of our stock" just before the share price halved. Given cryptosystems and decentralized exchanges allow these transactions without the possibility of FTDs, I asked Commissioner Aguilar alongside their venture-fund company about their interpretation of if they "would or would not consider a DEX to be an ATS" in a written communication and video meeting two years ago. If staff agree with the supportive remarks in these discussions and pro-digital-assets rhetoric espoused by our present governmental leadership, then might we need an oversight system for uncovered peer-to-peer distributed transaction messaging systems?
+do not create "security entitlements" under src blw
+
+I want direct quotes here focused by and large on the agent part.
+
+_See also_ The legislative reform should stay in the main argument. https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
+
+
+
+
+
+
+
+
+[^ostk-augi]: _See, e.g._ former Commissioner Luis A. Aguilar's meeting addressing double-digit outstanding Failures to Deliver ("FTDs") when investors acquired a 120% ownership stake in a discount online retailer, _inter alia_, given the failures of central netting, _available at_ https://www.sec.gov/comments/s7-19-07/s71907-1436.pdf#page=3. _See also_ written remarks _infra_ note {{^Discord-GME}} from the CEO of such firm at the time, stating "a financial news organization suggests that of our approximate 6,000 owners, the top 50 own 106% of our stock" just before the share price halved.
+
+
+[^ats-prep]: _See_ _supra_ note {{^ostk-augi}}. Given cryptosystems and decentralized exchanges allow these transactions without the possibility of FTDs, I asked Commissioner Aguilar and partners at their venture company about their interpretation of if they "would or would not consider a DEX to be an ATS" in a written communication on 26 Sep 2023 and subsequent meeting in relation to File No. S7-02-22,  _inter alia_. If staff agree with the supportive remarks in these discussions and pro-digital-assets rhetoric espoused by our present governmental leadership, then might we need an oversight system for uncovered peer-to-peer distributed transaction messaging systems?
+
+[^ats-note]: _See_ analusis of legacy liquidty venues in one of the leading academic finance journals, _available at_ https://doi.org/10.1017/S0022109017000849. _See also_ dsicussion of alternative liquiity-proiding cryptosystems, _available at_ https://x.com/xximpod/status/1908527646331593078. I dre no other ecentralizd free market than the on refrenced _infra_ note {{^xlm-minimal-info}}.
+
+[^intro-quote-date]: Based on extensive diligence,  Mr. Peterffy's sentiments over the past few decades clloserel;y reselment this quote, _available at_ https://www.cnbc.com/2021/02/17/interactive-brokers-chairman-thomas-peterffy-on-gamestop-frenzy.html. _See, e.g.,_ departing remarks from former Commissioner Aguilar emphasizing remarks from Mr. Peterffy that "our markets are in a 'crisis,' and that 'order, fair dealing, and trust' need to be restored" in § II ¶ 2, _available at_ https://www.sec.gov/newsroom/speeches-statements/us-equity-market-structure.
+
+[^historic-id]: _See_ _supra_ note {{^best-eff-mon}}.
+
+[^ucc-511c]: _See_ UCC § 8-511(c), as presently  adopted in all 50  States.
+
+[^511c-id]: _Id._
+
+[^ccp-connec]: _See, e.g.,_ last year's annual financial statements for NSCC,  stating an approxiamtely eqquivalent  amount of assets and liablilities, _available at_ https://www.dtcc.com/-/media/Files/Downloads/legal/financials/2024/NSCC-Financial-Statements-Annual-2024.pdf#page=4.  At  27, the report refernces the "multilateral netting contract and limited cross-guaranty agreement with DTC, FICC and OCC," a  risk mutualizer further expanded  by industry arrangements _infra_ note {{^ny-err-3}}. Could  the fialure of only one of  these intermediaries criple all of their interoperability?
 
 [^DTCcs]: _See, e.g.,_ six formalized change requests just this year in NH HB427, ND SB2364, SD HB1122, TN HB443, CT HB5849, and WY SF189 (all 2025); _available at_ https://legiscan.com/NH/bill/HB427/2025, https://legiscan.com/ND/bill/SB2364/2025, https://legiscan.com/SD/bill/HB1122/2025, https://legiscan.com/TN/bill/HB0443/2025, https://legiscan.com/CT/bill/HB5849/2025, and https://legiscan.com/WY/bill/SF0189/2025, respectively. All these legislatures strike the exception to Main Street securities entitlement custody as discussed in the proposed bills. _See also_ proposition questioning testimony in the third bill, stating "all those clients in the teeth of the crisis had no access to their accounts... that happened to the retail investors; it happened to the biggest, most sophisticated investors in the world that were in Lehman Brothers—so, big and small. The small investors: those accounts were eventually sold to another firm. That is the only way they got access to their accounts again—it took some weeks and months. The institutional clients: unbeknownst to them, all of their Treasuries, which were their collateral—their dry powder to operate in this crisis—were taken by JPMorgan in the bankruptcy" as both the custodian and secured creditor for such assets given invocation of UCC Art. 8, _available at_ https://sdpb.sd.gov/sdpbpodcast/2025/hco15.mp3#t=5640.
 
-# <!> Table of Contents <!>
+[^ucc-511b]: _See_ UCC §  8-511(b), as presently  adopted in all 50  States.
 
-## Organizational Association
+[^csuohio]: _See_ law-review  article  responding,  _  inter alia_, to perspectives  on  central order  clearign   from Treasury Secretary Jacob Lew and former Chair Gary Gensler ("Gensler"), _available at_ https://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=3915&context=clevstlrev. As cited in note 4, Gensler investigated the failure  of Long-Term Capital  Management withouut fining "good answers" to  stop the spread  of  contagion which later amnifested into 2008. As staff know,  File No.  S7-23-22 later implemented a  clearing mandate  requuiring more participant interactioon whichc could involve substantial FICC risks.
 
-I am writing to you on behalf of WhyDRS, a decentralized unincorporated nonprofit association ("DUNA") of thousands of individual investors. We are both the first American DUNA and a recently-approved IRS public 501(c)(3) charitable organization.[^start-duna] We sincerely appreciate staff's diligent efforts over the past few years of our collective outreach.[^ncs] It is a beautiful and appreciated reality that our incredible American institution provides a publicly accessible way to submit issues for public comment, and assurance that those submissions will not only be displayed publicly in kind but that they will be reviewed and considered by bright financial minds.
+[^peirce-failures]: _Id._ § II.F.
 
-Our Association stemmed largely from the unprecedented shutdown of market operations on 28 Jan 2021.[^cong] I believe in the capacities of our regulatory system to innovate and promote the three core tenets of the Commission's mission. However, four years later, our great financial system still faces a well-known sweltering threat able to subvert even the most prudent rules set by this great Commission.
-
-I will defer from citing the Commission's public censures thereof in deference to the larger structural challenges more pressing given the present heights of our market. A central counterparty is only a piece of a larger centralized financial system, a superstructure which I believe enables the complexity, opacity, and obfuscations so pressing to masses of investors without Bloomberg Terminals. Departing Commissioner and former Chair Gary Gensler was pushed on this point in an interview a year after the peak of community interest and price action in a select few securities.[^new-crowdsourcing] Might our online efforts "outside of the bureaucracy" help define a new trading and settlement regime rooted in quality capital formation, fair and efficient markets, and protecting our own orderly activity?
-
-This has been my oversight vision ever since I started working on the transfer agent depository ("TAD") system previously communicated and widely available via free software code online.[^about-bt] As shown by the upward trend of staff in the last few decades,[^staff-nums] regulating our vast markets for capital is an exceedingly complex job. This function will only get more difficult as larger swaths of the population become investors given the need to build real savings and retirements through financial assets. Additionally, I question our present legal system's ability to protect international investors entrusting their capital into American enterprises.[^global-protections]
-
-Hopefully, we can overcome these challenges together over the years with a proactive governance scheme embodying the Commission's public objectives. Might now be the time to take action on the years of work built by industry innovators since the advent of widespread blockchain technologies? Namely, so much of my past work entailed codifying present securities distribution and holding laws into a decentralized protocol. This system builds on thousands and thousands of hours of work made freely available through blockchain networks. Given the auspice of our present Administration to promote these developments, perhaps this is the time to prepare ourselves with a backup market system rooted in efficiency, transparency, and honesty.
+[^peirce-SUBTLE]: _See, e.g.,_ earlier work discussing the materiality  of securities l ending in the bailout off American International Group, _available at_ https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=10106&context=ypfs-documents. The paper concludes after extensively esatblshign that "securities-lending issues arose in regulated life-insurance companies" whchneeded the "discipline" of  indepeddnent action, since  "merely making sure that every entity has a regulator will not fix the financial markets." Might a more decentralized,  localized , and autonomus strategic-planning maket for organizationa decisions  best support the whhole financial  system as  it rraplidly  evolves ?
 
 
-[^staff-nums]: _See, e.g.,_ criticism from an organization we have generally found pause with describing the relatively linear growth of the Commission over the past two decades, _available at_ https://www.congress.gov/118/meeting/house/116994/witnesses/HHRG-118-BA16-Wstate-BurtonD-20240320.pdf#page=3. The document later claims that "the term SRO is now a misnomer" because such organizations "have more personnel conducting regulatory functions than the SEC and combined budgets roughly comparable to the SEC." As the Commission knows and this report notes, Congress has practically no oversight of these regulators, private agents who've been afforded potentially unconstitutional power governing while "largely unaccountable to the industry or to the public." I affirmed these concurrent sentiments directly with our community last year given developments in a case teed up for the Supreme Court challenging the authority decreed to "the most important regulator of financial services providers," _available at_ https://wooten.link/alpine. Surely, staff are familiar with these proceedings, and I provide abbreviated citations for public education and specificity only. My stylized link abbreviations are a temporary measure until we configure certain organizational open-source document repositories, used in place of unreliably hosted servers or excessively lengthy web addresses.
+### Glaring Accounting Inaccuracies
 
-[^about-bt]: _See_ _infra_ notes {{^repos}} and {{^FOSS}}. I will defer from extended discussion into this work throughout this letter given the larger overarching items mentioned. Notwithstanding, I want to clarify the distinction between this writing and past work at BlockTrans Syndicate ("the Syndicate"). There is no distinction. I plan to continue drafting comments as a participant in both of these legal organizations. It can be generally construed that my remarks henceforth represent my own individual perspective unless I make use of the "we" pronoun, by which I mean to convey a policy or interpretation choice of the representative group submitting comments on a good-faith basis.
-
-[^start-duna]: _See_ community conversation on the new DUNA filing process and years of past self-organized work, _available at_ https://lnns.co/0PuFl1TZzWe. <!-- a quote here would be nice -->
-
-[^new-crowdsourcing]: _See_ clip from Apple TV programming, _available at_ https://youtu.be/0C0Sj6Us19I. This discussion led to extensive dialogue across our community because we care very deeply about the protections availed by our democracy to investors, including a grassroots fundraising drive to send the Commission coffee mugs and beans. _See also generally_ research paper from Neal Newman, J.D., identifying how central intermediaries unilaterally disabled market access in order to serve their business interests over trading continuity, _inter alia_, _available at_ https://ssrn.com/abstract=4459285. _Compare_ investors' decentralized innovative heartfelt action towards staff with "a conscious decision to leave retail investors vulnerable" given a discretionary choice in § V.B to place short-term business interests first.
-
-[^cong]: _See_ two Congressional hearings and a staff report study with wide-standing consequences, _available at_ https://www.c-span.org/program/house-committee/gamestop-hearing-part-1/588548, https://www.c-span.org/program/house-committee/gamestop-hearing-part-2/589320, and https://www.sec.gov/files/staff-report-equity-options-market-structure-conditions-early-2021.pdf; respectively. While few commentators have yet associated transfer agent regulations with these historic market events, I find the items inexplicably intertwined. NSCC and its participants could only halt trading given the lack of a functional transfer-agent self-custody transaction system operating outside the National Market System as presently established around the central intermediaries so key in revolutionizing clearing and settlement fifty years ago. Has Congress meaningfully contemplated the structure of our markets after the immense consolidation of post-trade processing into a single holding company made immensely powerful by its constituent self-regulatory organizations ("SROs")?
-
-[^ncs]: Let's carefully cite a range from the NSCC petition to OCC withdrawal to EDGAR modernization to things from the ~~other side of the _hall_~~ democratic PoV (?) with deference to scrutinizing TAR at n/16 (_see Id_). <!-- TODO -->
-
-[^global-protections]: _See, e.g.,_ _Morrison v. National Australia Bank_, a Supreme Court case finding 10b-5 anti-fraud protections do not apply to international losses, _available at_ https://www.courtlistener.com/opinion/149289/morrison-v-national-australia-bank-ltd. _See also_ a presumption against extraterritorial investor protections in _City of Pontiac Policemen's & Firemen's Retirement System v. UBS AG_ (2d Cir.), _available at_ https://www.courtlistener.com/opinion/8441742/city-of-pontiac-policemens-firemens-retirement-system-v-ubs-ag. I was particularly concerned over the dismissal of the Oregon Public Employees Board's claims solely because they acquired securities in a transaction outside of America, a delineation which is impossible to make in a more decentralized peer-to-peer environment. Given the centrality of exchange to secondary markets, I do not find it acceptable that some investors trade on a different playing field than others solely because of their geographical venue.
-<!-- href retirees here -->
-
-### Educating
-
-Wall Street stunned our community when they unilaterally seized our ability to acquire a public security subject to no restrictions by the Commission. From this shock, our driving and unwavering objective centered around understanding the "Rube Goldberg" machine Congress expects staff to effectively oversee on a daily basis. The further many community members dove into market structure, the clearer it became that its reliance on a single fallible party exposes all investors to significant risk.
-
-Since this awakening, we've made every effort to share and collectively inform the public about the material difference in ownership rights under direct individual securities registration, as compared to street-name registration.[^street-name] Historically, the Commission specifically responded when "many firms were thinly capitalized" under an SRO structure that was "unprepared" with outdated systems that "were essentially the same as those utilized" a decade prior.[^street-name-2] We hope that ongoing rulemaking will continue weighing the present risks of securities entitlements held through a central clearing counterparty and subsequent centralized depository nominee, an overarching market structure common across nations and commonly entangled with a net settlement system (the "Custodial Structure").[^ccp-regime]
-
-As the Commission knows, this led to one nominee owning virtually all American securities once DTC organized its nominee Cede & Co. over five decades ago.[^cede-questions] Namely, the concentration of nearly all investment assets into a _partnership trust_ presents unworkable conflicts of interest in the expansion of collateral lending facilities, be they direct or implicated by operational policies.
-
-This point will become more readily apparent as further evidence documents in this comment. One key public article detailing the centrality of this fact exists on our website: *"The DTC/Ceding Ownership – Choice without a Choice."* As the Commission knows, our great American capitalist system relies on voluntary exchange of goods and services. Issuers cannot avail themselves of this basic benefit of free markets because there exists no competitor to DTCC. In fact, such a proposition has been coercively deemed unactionable by some of our nation's leading "Too Big to Fail" banks. We sincerely appreciate staff highlighting these facts in an exceptionally revealing image from the concept release at 45:
-
-![convoluted-structure](imgs/sec-legacy-custody-system.png)
-
-Over the years, we've come to greatly appreciate staff's perpetual diligent efforts to explain these structural nuances to the investing public. I, for one, would have had to pay many hundreds of thousands of dollars in either collegiate expenses or legal fees to comprehend information made freely available through Commission rulemaking, interpretive actions, and public statements. For these grand efforts by your many teams, I sincerely appreciate the immense decentralized power of securities regulation through direct acting agents. Might the present system of increasingly singular execution chokepoints for stock trading directly limit our democracy's ability to govern intermediaries? Namely, can we truly oversee an institution so opaque yet irreplaceable that the select few at its helm decree credit policy so central to market operations?
-
-
-[^street-name]: While "Wall Street name" is a relatively well-known concept today, the concept release first introduces the term in note 45 related to the cited "Unsafe Practices Study" for Congress, _available at_ https://www.sechistorical.org/collection/papers/1970/1971_1201_SECUnsafe_01.pdf. At 29 therein, staff authors contemplate the failure of businesses "under a capitalistic system" before the widespread development of brokerage capital requirements.
-
-[^street-name-2]: _Id._ On the very next page of this document, staff write that "Treasury funds which are available in the event they are needed to accomplish the goals of SIPC are not an inexhaustible amount" and ultimately originate from taxpayer dollars. Does the Commission plan to exhaust any required SIPC funds in the event of a clearing agency failure, especially given their particularly thin capitalization as compared to the assets they hold?
-
-[^ccp-regime]: _See also_ reference to this market structure as a "Custodial Structure" by various world government regulators such as the European Securities and Markets Authority, a group that used the term in at least three final technical reports from 2013 to 2017 and ultimately codified it into an adopted regulation amendment with nearly three dozen mentions of the regime, _available at_ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52017PC0331&qid=1738728760923. _Compare_ to further academic references using the term by Dr. jur. Yuxi Li, who expresses grave concerns over "conflicts of interests in the corporation" in 2019, _available at_ https://ediss.sub.uni-hamburg.de/bitstream/ediss/8178/1/Dissertation.pdf#page=114. Even Dr. Steven McNamara, J.D., uses the term in a 2014 paper defending the concentration of risk into a single entity amidst a growing derivatives complex, _available at_ http://scholarship.law.nd.edu/ndjlepp/vol28/iss1/6.
-
-[^cede-questions]: href backcite Concept note 87 at https://www.scribd.com/document/329172045/Senate-Doc-93-62-Title-Acknowledgements-Intro
-
-### Burgeoning Views
-
-In the last ten years, certain blockchain technologies have emerged through the work of no central solicitor. Indeed, communities themselves both spawn up around the promise of these innovations and actively participate in building their future successful implementations. This work removes the need for centralized trust and explicitly obviates the function of DTCC and its subsidiaries. In a book profiling the DTCC at the brink of the Great Recession, the corporation's founding CEO wrote:[^dentzer]
-
-> I thought throughout these years that as much as I despised monopolies, a DTC monopoly would be benign. Why? After all, monopolies tend to raise fees to customers unduly, let products or services slide in quality and ignore developing services for small customers... All of these developments, along with user desires that DTCC expand its capabilities in order to reduce financial firms' costs and risks, produced a DTCC that is now larger and more complex than the sum of its former parts at the time of their consolidation.
->
-> &mdash; William T. Dentzer, Jr.
-
-More and more, today's investors do not trust in either the DTC or its largest members' solvencies, as will be shown in coming evidence. Should the Custodial Structure face any shortcomings in operational liquidity, Cede faces not only the very real prospect of failing, but also a pre-existing central plan for "bankruptcy replacement" by another surviving Custodial Structure.[^tn-hearing-exp] Such a course of action would immiserate hundreds of millions of custodial investment accounts.
-
-To prevent this blatant theft, there appears to be no alternative course of action than the migration of securities holdings onto a blockchain and, specifically, the Stellar network.[^xlm-minimal-info] I would like to submit this point to the Commission today but make no further technical elaborations in this letter. In coming to this conclusion, I have extensively contemplated alternatives since my foray into Web3 research and development eight years ago. Four years ago, I began building an open-source alternative to the Custodial Structure on this blockchain. This system was materially ready for public deployment upon the submission of my first letter to the Commission two years ago, albeit canonically.
-
-Some of our most concentrated financial institutions will attack this proposed free transaction scheme. They probably have a fiduciary duty to do so, which is fine. Certain DTC employees stopped speaking to me long ago. Indeed, even my laundry machine is older than the proposed blockchain network. I've sunk my life into discovering the most efficient system, and I plan to explain the logic of this choice in another letter.
-
-
-[^dentzer]: _See_ _The Depository Trust Company: DTC's Formative Years and Creation of The Depository Trust & Clearing Corporation (DTCC)_ from YBK Publishers. In discussing new laws to allow Cede ownership, "DTC enlisted regulatory agencies, legal bodies, industry associations, and others to make these changes, with growing success in the late 1970s."
-
-[^xlm-minimal-info]: Stellar is one of the few platforms that accounts for liquidity at scale without a centralized party (as associated with traditional Alternative Trading Systems). We no longer require these brokerage middlemen to grease the wheels of markets with regard to the trading of securities held in the Direct Registration System. Staff can hear more about how the blockchain network takes a crowdsourced approach to liquidity in our community discussion of its features, _available at_ https://lnns.co/WJoHIMAXTV4. The SDEX gives all users equal access to a global decentralized order book for any pair of assets on the network. Staff can also investigate a more comprehensive analysis of this system's implications on market structure and general societal improvements, _available at_ https://wooten.link/thesis. Since its genesis in 2014, the SDEX has processed over 4.6 billion trades worth 27 billion U.S. dollars.
-
-[^tn-hearing-exp]: See note in OCC link video 16; need a real primary source on this (see WhatCan stickie). Reached out; use bot for fallback on 24 Feb.
-
-### Collective Solution
-
-Since the start of our research and development into the Custodial Structure, all local efforts came from volunteers. Individual investors en masse contributed selflessly their insights and revelations, whether it was a few hours parsing legalese showcasing abundant naked shorting[^california] or many days absorbing years of market research.[^darkpool-50] This decentralized collaboration led to our present DUNA structure whereby all communications take place in the open and public light of transparency, a trait direly needed in today's markets.
-
-This aligns directly with the blockchain solutions staff contemplate as either a replacement to the Custodial Structure or implementation of a TAD system across private and public markets.[^intro-blockchain] The founding ethos of these decentralized digital ledgering networks perpetually stemmed around "allowing any two willing parties to transact directly with each other without the need for a trusted third party."[^nak-btc] However, the entire Custodial Structure revolves around trusted third parties, some so systemically important that banking regulators deem them too big to fail.
-
-To sum, we are building on top of well-defined cryptographic norms of both collaboration and transactional custody, defining a system that brings everyone into the same market playing field. This work introduces a sorely needed working alternative to the linchpin single custodian entrusted with practically all American securities, as more and more investors demand direct custody of their investments. I will not elaborate extensively on this technology yet, as I find its principles to be our greater concern given the looming safety holes in the Custodial Structure.
-
-
-[^california]: _See, e.g.,_ Overstock case documents released by the _Economist_ among a plethora of evidence detailing brokers' abuse of central clearing and settlement systems, _available at_ https://wooten.link/economist-suit. Our fun learning how these FTDs destroy markets helps fuel a growing passion for an effective and decentralized market system.
-
-[^darkpool-50]: _See, e.g.,_ analysis of largest market counterparty failures during the buy-button event four short years ago, _available at_ https://www.reddit.com/r/Superstonk/comments/1hxllrt/a_brief_history_of_gamestop_from_meme_to_moass. We all independently revolt against Wall Street's immense central control through our understandings of and actions reforming the national market system.
-
-[^intro-blockchain]: _See_ concept release note 421.
-
-[^nak-btc]: _See_ Nakamoto § 1, _available at_ https://bitcoin.org/bitcoin.pdf.
-
-## Systemic Banking Idiosyncrasies
 
 Our derivatives, banking, and financial system seem tightly intertwined with the Custodial Structure. Given my concerns over the stability of this system, justified by rulemaking last year,[^wind-down-rule] I would like to discuss the downstream implications of an overreliance on a select few protocols. These can be open standards or proprietary corporate operations, ultimately leading to a concentration of risk for all investors given any operational breakdowns.
 
@@ -234,7 +202,7 @@ Intermediaries like Apex stand central to this complexity and stand to financial
 We appreciate the Commission's attempts to mitigate these risks in recent rulemaking.[^doub-back] Controlling the legacy Custodial Structure so far has been a momentous feat showcasing staff perseverance, attention to detail, and undying dedication to public service. Sometimes I have to stop and ask myself, "will the SEC ever stop working until all stock trading is truly free?"
 
 
-[^structure-hearing]: _See_ memorandum from Republican Representatives, _available at_ https://docs.house.gov/meetings/BA/BA16/20240627/117468/HHRG-118-BA16-20240627-SD002.pdf. Employees from two national securities exchanges, _inter alia_, discuss the 1975 Exchange Act amendments and subsequent structural reform initiatives which prefaced the monopolization of post-trade clearing and settlement _infra_ note {{^note-DTC-2006}}. The House description details proposed and prior changes by departing Commissioner Gensler as attempting to "overhaul certain aspects of the market." However, the written testimonies of both the sitting academic and Nasdaq EVP reference or are themselves supportive studies paid for by the industry.
+[^structure-hearing]: _See_ memorandum from Republican Representatives, _available at_ https://docs.house.gov/meetings/BA/BA16/20240627/117468/HHRG-118-BA16-20240627-SD002.pdf. Employees from two national securities exchanges, _inter alia_, discuss the 1975 Exchange Act amendments and subsequent structural reform initiatives which prefaced the monopolization of post-trade clearing and settlement _infra_ note {{^note-DTC-2006}}. The House description details proposed and prior changes by Gensler as attempting to "overhaul certain aspects of the market." However, the written testimonies of both the sitting academic and Nasdaq EVP reference or are themselves supportive studies paid for by the industry.
 
 [^Schack-testimony]: _See_ Congressional testimony of Justin Schack from an intermediary which claims to be the industry's largest floor broker, _available at_ https://youtu.be/LxgQSA0htv8&t=5060. While not an independent, unbiased witness, they capture the peculiar development of the present unchallenged market structure when calling it "lightning fast, vastly fragmented, and extraordinarily complex. No one with a blank slate would design such a complex system to achieve such a simple task."
 
@@ -281,7 +249,10 @@ For decades at this point, the processing of short sales has been top-of-mind fo
 
 #### Clearing Agency Margining
 
-Adamant community member ringingbells has invested years of advocacy work around a particular transaction uncovered by the Congressional "Game Stopped" report.[^game-stopped] I would like to explore this event because few, if any, other commenters on pending rulemaking highlight this incident, and the Commission's own staff report mentions Apex only once at 9.[^staff-gme-study] Thus, I will go into greater detail than normal so as to fully document my interpretation of the events, operational incidents which seem pertinent to staff but I have not personally seen highlighted.
+https://www.interactivebrokers.com/download/worldFederationOfExchanges.pdf just after the Great Recession, Peterffy writes: "
+> Collecting margins is not the clearinghouse’s only function. When a clearing member fails, the clearinghouse has to be able to step into the failing clearing member’s position and liquidate that position while trying to minimize losses and public panic. And here we come full circle, because if there is not a liquid market at the exchange, how will that position be liquidated? If it is a large position, what is the clearinghouse going to do? If the losses exceed the clearinghouse's resources, who will end up with those losses? The other members will, but if some of them do not have sufficient funds, we will be faced with a domino effect
+
+Adamant community member[^ringingbells] has invested years of advocacy work around a particular transaction uncovered by the Congressional "Game Stopped" report.[^game-stopped] I would like to explore this event because few, if any, other commenters on pending rulemaking highlight this incident, and the Commission's own staff report mentions Apex only once at 9.[^staff-gme-study] Thus, I will go into greater detail than normal so as to fully document my interpretation of the events, operational incidents which seem pertinent to staff but I have not personally seen highlighted.
 
 The large majority of this analysis comes from the Congressional report.[^house-id-sec] Therein, the House quickly identified that "Apex instructed its broker-dealer clients to restrict trading because the company was concerned about the magnitude of a potential collateral deposit request from the NSCC."[^house-id-2] This was quite the material decision because Apex put its business-continuity interests over and above its hundreds of brokerage clients[^apex-broker-num] and their investors' ability to purchase "both equities and all options series" via manual email notice.[^house-first-subsec]
 
@@ -289,6 +260,8 @@ Thus, it is generally understood that "hundreds of other firms that clear their 
 
 Apparently, it was one of those market maker venues which "encountered a technical issue" and "since canceled pending orders" and left me stuck in a failing trade overnight.[^sell-err-support-3] Congress highlighted the vulnerability investors face when their brokers singlehandedly route trades to central liquidity sources, documenting that many such firms not subject to Regulation SCI "faced system outages and other operational concerns."[^house-reg-sci-subsec] Unfortunately, this is not the only time a broker did not act in my best interest as an individual investor when trading volatile stocks.
 
+
+[^ringingbells]: _See, e.g.,_ exceptional rpeviosu work analyzzing holes rleft open by Congressional evauations of market-chaning events, _available at_ https://www.reddit.com/r/Superstonk/comments/181cuqr/proof_expos%C3%A9_calculation_of_doddfrank.
 
 [^game-stopped]: _See_ report on the PCO event of four years hence, prepared over the course of sixteen months by the majority staff of the House Committee on Financial Services, _available at_ https://democrats-financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf.
 
@@ -329,13 +302,41 @@ Indeed, staff's own findings report that the "vast majority of GME stock trades 
 
 [^apex-fine-foreshadow]: _See, e.g.,_ opinion affirming dismissal in _Peter Jang v. Apex Clearing Corporation_, 23-10436 (11th Cir.), _available at_ https://cases.justia.com/federal/appellate-courts/ca11/22-10669/22-10669-2024-10-08.pdf. At 15, the judge rules that "clearing brokers like Apex generally don’t owe individual investors any fiduciary duties" and thus cannot be held to serve the best interests of investors in New York. The court continues to dissect the misunderstanding that "the stockbroker-investor relationship is a fiduciary relationship" at nn.3–4.
 
-[^staff-gme-internalization]: _See_ _supra_ note {{^staff-gme-study}} at 37. Moreover, as the Commission knows, "88% of internalized dollar volume in January [2021] executed by just three wholesalers" according to note 100 on the same page. Is it healthy for our great National Market System if one firm accounts for over half of daily internalized trading volume, according to this source? A firm which solely exists to make a market for profit using preferential access to certain liquidity venues not available to large swaths of the investing public.
+[^staff-gme-internalization]: _See_ _supra_ note {{^staff-gme-study}} at 37. Moreover, as the Commission knows, "88% of internalized dollar volume in January [2021] executed by just three wholesalers" according to note 100 on the same page. Is it healthy for our great NMS if one firm accounts for over half of daily internalized trading volume, according to this source? A firm which solely exists to make a market for profit using preferential access to certain liquidity venues not available to large swaths of the investing public.
 
 [^staff-gme-conflicts]: _Id._ at 44. Here, staff also remark that "though wholesalers increasingly handle individual investor order flow, they face fewer requirements concerning their operational transparency and resiliency as compared to exchanges or ATSs." While it could be challenging to crack down on these institutions given the "free" trading regime brokers design around rebates, might an alternative blockchain-based and transparency-focused transfer-agent system alleviate these market-structure loopholes?
 
 [^rh-s1]: That is, if they're not referred to as a product sold to market-making firms. _See_ staff correspondences regarding IPO of most notable intermediary of the PCO event in _Id._ As the Commission knows, the Division of Corporate Finance suggests a "revision to clarify users are not customers" in their registration statement, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000000000021007261/filename1.pdf.
 
 ##### Inadequate Participant Capitalization
+
+> If a clearinghouse were to fail, there would be tremendous pressure for the government to bail it out in the name of financial stability.
+> 
+> — Commissioner Hester Peirce[^peirce-bailout-quote]
+
+_supra_ has TOC:
+Here are just the section numbers and names:
+
+**I. OTC Derivatives, Clearinghouses, and Their New Regulatory Framework**  
+A. OTC Derivatives in a Changing Regulatory Landscape  
+B. What Clearinghouses Do  
+C. How Swap Clearinghouses Are Regulated  
+
+**II. Problems with the Current Regulatory Framework**  
+A. Potential for Expanded CCPs to Destabilize the Financial System  
+B. Potential for Clearing Mandate to Undermine Risk Management Outside the CCP  
+C. Mandated Central Clearing Could Impair Counterparty Monitoring  
+D. Mandated Clearing Could Force Improper Risks into CCPs  
+E. Regulatory Conflicts of Interest Could Impair CCP Risk Management  
+F. Bailout Risk  
+
+**III. A Better Approach to Managing Risk**  
+A. Elimination of the Clearing Mandate  
+B. Principles-Based Regulation  
+C. Properly Aligned CCP Ownership and Governance  
+D. End Implicit and Explicit Promises of Bailouts
+
+
 
 I find these differing interests concerning because of historic instabilities in "automated" clearing which lead to emergency capital calls such as those seen in the PCO event. For instance, over a decade after DTC was founded, "a computer problem prevented the Bank of New York from delivering securities from its custodial accounts."[^ny-fed-fails] Unfortunately, many of these behind-the-scenes systems errors can stay hidden from investors, leaving them unaware of processing challenges until it's too late.[^hidden-errs]
 
@@ -345,6 +346,8 @@ This is partly and materially why I worry about the centralization risks inheren
 
 Journalists at the time highlighted "the spillover effects on the government securities market" caused by this single intermediary during a period that "was not an especially heavy day for securities transactions."[^ny-err-3]
 
+
+[^peirce-bailout-quote]: _See_ _supra_ note {{^csuohio}}  at 2.
 
 [^ny-fed-fails]: _See_ clearinghouse settlement failures study from a research series which had its industry funding revoked a decade ago, _available at_ https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci11-9.pdf#page=2. Also on this page, notable researching authors indicate in Chart 1 that failures to deliver in Treasuries began in earnest around 1992. "Fails to deliver involving Treasury securities occurred in every week between July 4, 1990, and December 29, 2004," notes the study, averaging over $440 billion per month in 2025 dollars.
 
@@ -361,6 +364,8 @@ Journalists at the time highlighted "the spillover effects on the government sec
 [^ny-err-3]: _Id._ As the Commission knows, much of this present risk now exists centralized in the FICC as established for the benefit of industry participants. However, these "efficiencies" propagate to the benefit of speculators who can propagate record quantities of risky positions using common collateral between their accounts therewith and at the Chicago Mercantile Exchange, as established by a cross-margining agreement formalized two decades ago without a notice-and-comment period in SR-FICC-2003-10, duly revised and _available at_ https://www.dtcc.com/~/media/Files/Downloads/legal/rules/ficc_cme_crossmargin_agreement.pdf.
 
 ##### Procyclical Correlative Actions
+
+cross-margining gets into toxig GME risk  xfers:  https://www.cftc.gov/PressRoom/PressReleases/9066-25
 
 : _See_ _supra_ note {{^ny-err-3}} §§ 8–9 introducing ocntagion risk from large-participant defaults by the nature of cross-covered obligatyion garuntees. (too bigger arg setup, partial)
 
@@ -384,6 +389,7 @@ at https://democrats-financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.repo
 https://www.reddit.com/r/Superstonk/comments/1dz57am/trade_385_the_most_important_ignored_aspect_of
 
 ---
+NASAA Statement (https://www.nasaa.org/75514/nasaa-statement-on-confirmation-of-paul-atkins-as-sec-chairman/), pre-Atkins Comment (https://www.sec.gov/comments/s7-12-06/jpborg7410.pdf), and Community Rebutal (https://docs.google.com/document/d/13s1I3cZFVvtyPc5Fq5Osol61zM18291-j6KRxG3e0UI/edit)
 
 
 trade385 at 87 which thus dropping $895.2M In Risk - Normalizing from 10:46a to 11am back under 200M
@@ -652,7 +658,7 @@ Specific reports probably just remove:
 - Q4: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fa-collection-of-drs-statements-v0-nfekl3sb6r4c1.png%3Fwidth%3D1186%26format%3Dpng%26auto%3Dwebp%26s%3De4f4019421439ae9ee54bd59f58b61735b18936d
 addressed in fn}}
 
-## Coinbase
+### Coinbase
 
 I share the Commission's stated public view that Coinbase Global, Inc.[^cb-light] ("Coinbase") presents a brazen overstepping of "well-established principles of the federal securities laws."[^cb-suit-main] It shook me to the bone when I heard Coinbase's chief legal counsel say that their only licensure was state money transmission reporting at SFVegas 2021.[^title] As a user of this centralized platform since 2017, I found enforced policies and procedures meaningfully questionable, as at least three accounts I control have been unilaterally shut down or meaningfully restricted.[^723-basis-date]
 
@@ -703,7 +709,7 @@ At this point, the value of the target asset had increased by a factor of six. T
 
 [^723-basis-date]: _See_ note 1 in personal profiling history, _available at_ [https://wooten.link/723](https://wooten.link/723).
 
-[^btc-lev-report]: Some of this activity was required because Coinbase chooses not to submit brokerage-style transaction reports to the IRS. Others resulted in my previously communicated use of unregulated exchanges, which served as the only point of access available to certain markets. And still many more, including transactions reported for the Syndicate, arose from the nature of decentralized exchanges, which cannot effectuate cost-basis or capital-gains reporting to the government given their lack of a financial intermediary. _See also, relevantly,_ departing Commissioner Gensler's pragmatic remarks on taking a nuanced, practiced, and mature approach to regulating such protocols, _available at_ https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf n.46.
+[^btc-lev-report]: Some of this activity was required because Coinbase chooses not to submit brokerage-style transaction reports to the IRS. Others resulted in my previously communicated use of unregulated exchanges, which served as the only point of access available to certain markets. And still many more, including transactions reported for the Syndicate, arose from the nature of decentralized exchanges, which cannot effectuate cost-basis or capital-gains reporting to the government given their lack of a financial intermediary. _See also, relevantly,_ Gensler's pragmatic remarks on taking a nuanced, practiced, and mature approach to regulating such protocols, _available at_ https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf n.46.
 
 [^jw-debanking]: _See, e.g.,_ unexpected account termination at an institution largely influenced by Coinbase and its infrastructure, _available at_ https://x.com/JFWooten4/status/1814252066300207611. I have had similar experiences with corporate accounts at Coinbase whereby they would comprehensively approve my business given complete and full entity disclosures, only to remove such authorization as soon as any meaningful transactions process on-chain. This experience reminds me of a banking institution that found cause to investigate my corporate account after a transaction well below the Suspicious Activity Reporting ("SAR") threshold. After I did not answer their phone calls for 48 hours, they closed the account with a significant history of operating as the day-to-day treasury funds for team members. Upon later contacting this institution, they told me that the account was closed because I "walked into a branch and requested so." This did not occur, so I asked the account representative to check back with their team. Approximately two weeks later, we had another call where this employee reaffirmed that I physically closed the account in a local branch. However, this would be impossible because I was on holiday in Switzerland at the time of the alleged visit, and this bank did not have any branches in Switzerland. Does the Commission believe transactional oversight should extend so far as to terminate one's ability to participate in the financial system just because their phone does not have signal in a foreign country?
 
@@ -713,11 +719,124 @@ At this point, the value of the target asset had increased by a factor of six. T
 
 [^john-acquisition]: _See_ original on-chain storage of funds safekept for housing expenses, _available at_ https://stellar.expert/explorer/public/tx/c91bbd05e35f7abd31394129561ed2f37da1fa46dbf29be197c6f7433f7dec52. _See also_ subsequent conversion into a native layer-1 utility token for investment purposes, _available at_ https://stellar.expert/explorer/public/tx/063f37c0f5e0b0714c6474cad185ca4ddd9ab22d5a84d315c030081f503e62a7. Accounts can swap between any blockchain-network assets with a permissionless order book which employs zero intermediaries, as can be seen in an example between two completely arbitrary user-defined tokens, _available at_ https://stellar.expert/explorer/public/tx/2acf44db14c9263b6f7573cd997b8e065c3c9222a85dd26ad8da4940dd2df31e.
 
-[^Garand-story]: _See_ note 7 of a technical development discussion detailing the common practices of proprietary traders to arbitrage between centralized cryptocurrency exchanges through power and latency analysis, _available at_ https://wooten.link/1558. Given the nonexistence of a national market system for cryptocurrencies and a generally international market for their central exchange, does the Commission believe staff can efficiently oversee all forthcoming trading and registration supervision? Or would staff prefer an updated system based on the decentralized governance ethos commonly underlying these common endeavors which are so often paired with decentralized exchanges?
+[^Garand-story]: _See_ note 7 of a technical development discussion detailing the common practices of proprietary traders to arbitrage between centralized cryptocurrency exchanges through power and latency analysis, _available at_ https://wooten.link/1558. Given the nonexistence of a NMS for cryptocurrencies and a generally international market for their central exchange, does the Commission believe staff can efficiently oversee all forthcoming trading and registration supervision? Or would staff prefer an updated system based on the decentralized governance ethos commonly underlying these common endeavors which are so often paired with decentralized exchanges?
 
 [^cex-dex]: Namely, all mainstream instances of the former type operate solely on a profit-driven proprietary business model. Often these entities fundraise from the investing public in an effort to sustain their enterprise, which exists exclusively due to fees later charged for trading services. I find this particularly concerning because exchanges and liquidity have a well-known "lock-in" effect whereby the network effect of bids and offers accrues exclusively to the provider of an exchange venue. As staff know, Wall Street perpetually uses this value for bribing introducing brokers for order flow, which hinders price discovery through met supply and demand.
 
 [^debank]: _See also_ Congressional industry sentiment impeding technological growth in our great Nation by revoking access to the legacy interbank payment and account network, _available at_ https://youtu.be/WgjUM8U81FY?t=4639. Might distributed ledger technologies and decentralized governance offer a resilient and transparent record of investor assets? Could they at least challenge the "brick wall" of opacity and nonresponsive support options present at central intermediaries like Coinbase?
+
+
+
+
+
+
+
+
+## Organizational Association
+
+I am writing to you on behalf of WhyDRS, a decentralized unincorporated nonprofit association ("DUNA") of thousands of individual investors. We are both the first American DUNA and a recently-approved IRS public 501(c)(3) charitable organization.[^start-duna] We sincerely appreciate staff's diligent efforts over the past few years of our collective outreach.[^ncs] It is a beautiful and appreciated reality that our incredible American institution provides a publicly accessible way to submit issues for public comment, and assurance that those submissions will not only be displayed publicly in kind but that they will be reviewed and considered by bright financial minds.
+
+Our Association stemmed largely from the unprecedented shutdown of market operations on 28 Jan 2021.[^cong] I believe in the capacities of our regulatory system to innovate and promote the three core tenets of the Commission's mission. However, four years later, our great financial system still faces a well-known sweltering threat able to subvert even the most prudent rules set by this great Commission.
+
+I will defer from citing the Commission's public censures thereof in deference to the larger structural challenges more pressing given the present heights of our market. A central counterparty is only a piece of a larger centralized financial system, a superstructure which I believe enables the complexity, opacity, and obfuscations so pressing to masses of investors without Bloomberg Terminals. Gensler was pushed on this point in an interview a year after the peak of community interest and price action in a select few securities.[^new-crowdsourcing] Might our online efforts "outside of the bureaucracy" help define a new trading and settlement regime rooted in quality capital formation, fair and efficient markets, and protecting our own orderly activity?
+
+This has been my oversight vision ever since I started working on the transfer agent depository ("TAD") system previously communicated and widely available via free software code online.[^about-bt] As shown by the upward trend of staff in the last few decades,[^staff-nums] regulating our vast markets for capital is an exceedingly complex job. This function will only get more difficult as larger swaths of the population become investors given the need to build real savings and retirements through financial assets. Additionally, I question our present legal system's ability to protect international investors entrusting their capital into American enterprises.[^global-protections]
+
+Hopefully, we can overcome these challenges together over the years with a proactive governance scheme embodying the Commission's public objectives. Might now be the time to take action on the years of work built by industry innovators since the advent of widespread blockchain technologies? Namely, so much of my past work entailed codifying present securities distribution and holding laws into a decentralized protocol. This system builds on thousands and thousands of hours of work made freely available through blockchain networks. Given the auspice of our present Administration to promote these developments, perhaps this is the time to prepare ourselves with a backup market system rooted in efficiency, transparency, and honesty.
+
+
+[^staff-nums]: _See, e.g.,_ criticism from an organization we have generally found pause with describing the relatively linear growth of the Commission over the past two decades, _available at_ https://www.congress.gov/118/meeting/house/116994/witnesses/HHRG-118-BA16-Wstate-BurtonD-20240320.pdf#page=3. The document later claims that "the term SRO is now a misnomer" because such organizations "have more personnel conducting regulatory functions than the SEC and combined budgets roughly comparable to the SEC." As the Commission knows and this report notes, Congress has practically no oversight of these regulators, private agents who've been afforded potentially unconstitutional power governing while "largely unaccountable to the industry or to the public." I affirmed these concurrent sentiments directly with our community last year given developments in a case teed up for the Supreme Court challenging the authority decreed to "the most important regulator of financial services providers," _available at_ https://wooten.link/alpine. Surely, staff are familiar with these proceedings, and I provide abbreviated citations for public education and specificity only. My stylized link abbreviations are a temporary measure until we configure certain organizational open-source document repositories, used in place of unreliably hosted servers or excessively lengthy web addresses.
+
+[^about-bt]: _See_ _infra_ notes {{^repos}} and {{^FOSS}}. I will defer from extended discussion into this work throughout this letter given the larger overarching items mentioned. Notwithstanding, I want to clarify the distinction between this writing and past work at BlockTrans Syndicate ("the Syndicate"). There is no distinction. I plan to continue drafting comments as a participant in both of these legal organizations. It can be generally construed that my remarks henceforth represent my own individual perspective unless I make use of the "we" pronoun, by which I mean to convey a policy or interpretation choice of the representative group submitting comments on a good-faith basis.
+
+[^start-duna]: _See_ community conversation on the new DUNA filing process and years of past self-organized work, _available at_ https://lnns.co/0PuFl1TZzWe. <!-- a quote here would be nice -->
+
+[^new-crowdsourcing]: _See_ clip from Apple TV programming, _available at_ https://youtu.be/0C0Sj6Us19I. This discussion led to extensive dialogue across our community because we care very deeply about the protections availed by our democracy to investors, including a grassroots fundraising drive to send the Commission coffee mugs and beans. _See also generally_ research paper from Neal Newman, J.D., identifying how central intermediaries unilaterally disabled market access in order to serve their business interests over trading continuity, _inter alia_, _available at_ https://ssrn.com/abstract=4459285. _Compare_ investors' decentralized innovative heartfelt action towards staff with "a conscious decision to leave retail investors vulnerable" given a discretionary choice in § V.B to place short-term business interests first.
+
+[^cong]: _See_ two Congressional hearings and a staff report study with wide-standing consequences, _available at_ https://www.c-span.org/program/house-committee/gamestop-hearing-part-1/588548, https://www.c-span.org/program/house-committee/gamestop-hearing-part-2/589320, and https://www.sec.gov/files/staff-report-equity-options-market-structure-conditions-early-2021.pdf; respectively. While few commentators have yet associated transfer agent regulations with these historic market events, I find the items inexplicably intertwined. NSCC and its participants could only halt trading given the lack of a functional transfer-agent self-custody transaction system operating outside the NMS as presently established around the central intermediaries so key in revolutionizing clearing and settlement fifty years ago. Has Congress meaningfully contemplated the structure of our markets after the immense consolidation of post-trade processing into a single holding company made immensely powerful by its constituent self-regulatory organizations ("SROs")?
+
+[^ncs]: Let's carefully cite a range from the NSCC petition to OCC withdrawal to EDGAR modernization to things from the ~~other side of the _hall_~~ democratic PoV (?) with deference to scrutinizing TAR at n/16 (_see Id_). <!-- TODO -->
+
+[^global-protections]: _See, e.g.,_ _Morrison v. National Australia Bank_, a Supreme Court case finding 10b-5 anti-fraud protections do not apply to international losses, _available at_ https://www.courtlistener.com/opinion/149289/morrison-v-national-australia-bank-ltd. _See also_ a presumption against extraterritorial investor protections in _City of Pontiac Policemen's & Firemen's Retirement System v. UBS AG_ (2d Cir.), _available at_ https://www.courtlistener.com/opinion/8441742/city-of-pontiac-policemens-firemens-retirement-system-v-ubs-ag. I was particularly concerned over the dismissal of the Oregon Public Employees Board's claims solely because they acquired securities in a transaction outside of America, a delineation which is impossible to make in a more decentralized peer-to-peer environment. Given the centrality of exchange to secondary markets, I do not find it acceptable that some investors trade on a different playing field than others solely because of their geographical venue.
+<!-- href retirees here -->
+
+### Educating
+
+Wall Street stunned our community when they unilaterally seized our ability to acquire a public security subject to no restrictions by the Commission. From this shock, our driving and unwavering objective centered around understanding the "Rube Goldberg" machine Congress expects staff to effectively oversee on a daily basis. The further many community members dove into market structure, the clearer it became that its reliance on a single fallible party exposes all investors to significant risk.
+
+Since this awakening, we've made every effort to share and collectively inform the public about the material difference in ownership rights under direct individual securities registration, as compared to street-name registration.[^street-name] Historically, the Commission specifically responded when "many firms were thinly capitalized" under an SRO structure that was "unprepared" with outdated systems that "were essentially the same as those utilized" a decade prior.[^street-name-2] We hope that ongoing rulemaking will continue weighing the present risks of securities entitlements held through a central clearing counterparty and subsequent centralized depository nominee, an overarching market structure common across nations and commonly entangled with a net settlement system (the "Custodial Structure").[^ccp-regime]
+
+As the Commission knows, this led to one nominee owning virtually all American securities once DTC organized its nominee Cede & Co. over five decades ago.[^cede-questions] Namely, the concentration of nearly all investment assets into a _partnership trust_ presents unworkable conflicts of interest in the expansion of collateral lending facilities, be they direct or implicated by operational policies.
+
+This point will become more readily apparent as further evidence documents in this comment. One key public article detailing the centrality of this fact exists on our website: *"The DTC/Ceding Ownership – Choice without a Choice."* As the Commission knows, our great American capitalist system relies on voluntary exchange of goods and services. Issuers cannot avail themselves of this basic benefit of free markets because there exists no competitor to DTCC. In fact, such a proposition has been coercively deemed unactionable by some of our nation's leading "Too Big to Fail" banks. We sincerely appreciate staff highlighting these facts in an exceptionally revealing image from the concept release at 45:
+
+![convoluted-structure](imgs/sec-legacy-custody-system.png)
+
+Over the years, we've come to greatly appreciate staff's perpetual diligent efforts to explain these structural nuances to the investing public. I, for one, would have had to pay many hundreds of thousands of dollars in either collegiate expenses or legal fees to comprehend information made freely available through Commission rulemaking, interpretive actions, and public statements. For these grand efforts by your many teams, I sincerely appreciate the immense decentralized power of securities regulation through direct acting agents. Might the present system of increasingly singular execution chokepoints for stock trading directly limit our democracy's ability to govern intermediaries? Namely, can we truly oversee an institution so opaque yet irreplaceable that the select few at its helm decree credit policy so central to market operations?
+
+
+[^street-name]: While "Wall Street name" is a relatively well-known concept today, the concept release first introduces the term in note 45 related to the cited "Unsafe Practices Study" for Congress, _available at_ https://www.sechistorical.org/collection/papers/1970/1971_1201_SECUnsafe_01.pdf. At 29 therein, staff authors contemplate the failure of businesses "under a capitalistic system" before the widespread development of brokerage capital requirements.
+
+[^street-name-2]: _Id._ On the very next page of this document, staff write that "Treasury funds which are available in the event they are needed to accomplish the goals of SIPC are not an inexhaustible amount" and ultimately originate from taxpayer dollars. Does the Commission plan to exhaust any required SIPC funds in the event of a clearing agency failure, especially given their particularly thin capitalization as compared to the assets they hold?
+
+[^ccp-regime]: _See also_ reference to this market structure as a "CCP regime" by various world government regulators such as the European Securities and Markets Authority, a group that used the term in at least three final technical reports from 2013 to 2017 and ultimately codified it into an adopted regulation amendment with nearly three dozen mentions of the regime, _available at_ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52017PC0331&qid=1738728760923. _Compare_ to further academic references using the term by Dr. jur. Yuxi Li, who expresses grave concerns over "conflicts of interests in the corporation" in 2019, _available at_ https://ediss.sub.uni-hamburg.de/bitstream/ediss/8178/1/Dissertation.pdf#page=114. Even Dr. Steven McNamara, J.D., uses the term in a 2014 paper defending the concentration of risk into a single entity amidst a growing derivatives complex, _available at_ http://scholarship.law.nd.edu/ndjlepp/vol28/iss1/6.
+
+[^cede-questions]: href backcite Concept note 87 at https://www.scribd.com/document/329172045/Senate-Doc-93-62-Title-Acknowledgements-Intro
+
+### Burgeoning Views
+
+In the last ten years, certain blockchain technologies have emerged through the work of no central solicitor. Indeed, communities themselves both spawn up around the promise of these innovations and actively participate in building their future successful implementations. This work removes the need for centralized trust and explicitly obviates the function of DTCC and its subsidiaries. In a book profiling the DTCC at the brink of the Great Recession, the corporation's founding CEO wrote:[^dentzer]
+
+> I thought throughout these years that as much as I despised monopolies, a DTC monopoly would be benign. Why? After all, monopolies tend to raise fees to customers unduly, let products or services slide in quality and ignore developing services for small customers... All of these developments, along with user desires that DTCC expand its capabilities in order to reduce financial firms' costs and risks, produced a DTCC that is now larger and more complex than the sum of its former parts at the time of their consolidation.
+>
+> &mdash; William T. Dentzer, Jr.
+
+More and more, today's investors do not trust in either the DTC or its largest members' solvencies, as will be shown in coming evidence. Should the Custodial Structure face any shortcomings in operational liquidity, Cede faces not only the very real prospect of failing, but also a pre-existing central plan for "bankruptcy replacement" by another surviving Custodial Structure.[^tn-hearing-exp] Such a course of action would immiserate hundreds of millions of custodial investment accounts.
+
+To prevent this blatant theft, there appears to be no alternative course of action than the migration of securities holdings onto a blockchain and, specifically, the Stellar network.[^xlm-minimal-info] I would like to submit this point to the Commission today but make no further technical elaborations in this letter. In coming to this conclusion, I have extensively contemplated alternatives since my foray into Web3 research and development eight years ago. Four years ago, I began building an open-source alternative to the Custodial Structure on this blockchain. This system was materially ready for public deployment upon the submission of my first letter to the Commission two years ago, albeit canonically.
+
+Some of our most concentrated financial institutions will attack this proposed free transaction scheme. They probably have a fiduciary duty to do so, which is fine. Certain DTC employees stopped speaking to me long ago. Indeed, even my laundry machine is older than the proposed blockchain network. I've sunk my life into discovering the most efficient system, and I plan to explain the logic of this choice in another letter.
+
+
+[^dentzer]: _See_ _The Depository Trust Company: DTC's Formative Years and Creation of The Depository Trust & Clearing Corporation (DTCC)_ from YBK Publishers. In discussing new laws to allow Cede ownership, "DTC enlisted regulatory agencies, legal bodies, industry associations, and others to make these changes, with growing success in the late 1970s."
+
+[^xlm-minimal-info]: Stellar is one of the few platforms that accounts for liquidity at scale without a centralized party (as associated with traditional Alternative Trading Systems). We no longer require these brokerage middlemen to grease the wheels of markets with regard to the trading of securities held in the Direct Registration System. Staff can hear more about how the blockchain network takes a crowdsourced approach to liquidity in our community discussion of its features, _available at_ https://lnns.co/WJoHIMAXTV4. The SDEX gives all users equal access to a global decentralized order book for any pair of assets on the network. Staff can also investigate a more comprehensive analysis of this system's implications on market structure and general societal improvements, _available at_ https://wooten.link/thesis. Since its genesis in 2014, the SDEX has processed over 4.6 billion trades worth 28 billion U.S. dollars.
+
+[^tn-hearing-exp]: See note in OCC link video 16; need a real primary source on this (see WhatCan stickie). Reached out; use bot for fallback on 24 Feb.
+
+### Collective Solution
+
+Since the start of our research and development into the Custodial Structure, all local efforts came from volunteers. Individual investors en masse contributed selflessly their insights and revelations, whether it was a few hours parsing legalese showcasing abundant naked shorting[^california] or many days absorbing years of market research.[^darkpool-50] This decentralized collaboration led to our present DUNA structure whereby all communications take place in the open and public light of transparency, a trait direly needed in today's markets.
+
+This aligns directly with the blockchain solutions staff contemplate as either a replacement to the Custodial Structure or implementation of a TAD system across private and public markets.[^intro-blockchain] The founding ethos of these decentralized digital ledgering networks perpetually stemmed around "allowing any two willing parties to transact directly with each other without the need for a trusted third party."[^nak-btc] However, the entire Custodial Structure revolves around trusted third parties, some so systemically important that banking regulators deem them too big to fail.
+
+To sum, we are building on top of well-defined cryptographic norms of both collaboration and transactional custody, defining a system that brings everyone into the same market playing field. This work introduces a sorely needed working alternative to the linchpin single custodian entrusted with practically all American securities, as more and more investors demand direct custody of their investments. I will not elaborate extensively on this technology yet, as I find its principles to be our greater concern given the looming safety holes in the Custodial Structure.
+
+
+[^california]: _See, e.g.,_ Overstock case documents released by the _Economist_ among a plethora of evidence detailing brokers' abuse of central clearing and settlement systems, _available at_ https://wooten.link/economist-suit. Our fun learning how these FTDs destroy markets helps fuel a growing passion for an effective and decentralized market system.
+
+[^darkpool-50]: _See, e.g.,_ analysis of largest market counterparty failures during the buy-button event four short years ago, _available at_ https://www.reddit.com/r/Superstonk/comments/1hxllrt/a_brief_history_of_gamestop_from_meme_to_moass. We all independently revolt against Wall Street's immense central control through our understandings of and actions reforming the NMS.
+
+[^intro-blockchain]: _See_ concept release note 421.
+
+[^nak-btc]: _See_ Nakamoto § 1, _available at_ https://bitcoin.org/bitcoin.pdf.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Parallel Experience
 
@@ -767,14 +886,14 @@ ref to other instances ohistoruc witholdign of key FTD data from market paracitc
 
 Recently, inadequate administrative procedures of an unreliable central broker cost me and my partner $100k in the last couple of months.
 
-## Fidelity
+### Fidelity
 
 Transferred ACH into account at the start of the year.
 Wanted to put it into a 2024 Roth contribution (cannot make this internal transfer until the end of the period&mdash;just for investing in our great nation's assets, which aren't even truly owned...).
 Can't&mdash;need to wait at least three weeks for cash to settle for "protection of my account," even though banking Reg E specifically puts liability on the intermediary.
 - Extrapolates into the Coinbase argument (still unresolved) and client verification and ID problem solved by crypto/Nakamoto.
 
-## Dental Insurance (Framed as Intermediation)
+### Dental Insurance (Framed as Intermediation)
 
 - 17 Dec 2024: Dental procedure.
 - 14 Jan 2025: Check issued and dated but arrived at the dentist's office even though insurance directed it to the home address.
@@ -782,7 +901,7 @@ Can't&mdash;need to wait at least three weeks for cash to settle for "protection
 
 Also parallels Green Dot failure and impact on unprocessed autopay → cancellation, need to "call my bank."
 
-## Open Source Community
+### Open Source Community
 
 I started drafting this letter in true form after an opening community discussion[^GH-discussion] in our growing public GitHub collaboration system. Thereafter, we discussed the contents and implications of these policy amendments at depth.[^TS-TAR-ep] More broadly, we've been discussing the necessary structural changes and adoption plans for the better part of a year in our collective Discord server, as is additionally common in modern blockchain development groups.[^Discord-GME]
 
@@ -826,12 +945,12 @@ don't have kind of enough influence on the CCPs.”
 [^DTC-DA-study]: _See_ DTC study here: https://www.dtcc.com/-/media/WhitePapers/Transforming-Collateral-Management-With-Digital-Assets-JSCC.pdf
 Discussed: https://github.com/WhyDRS/Taking-Stock/blob/main/episodes/2024/Oct/30%3A%20DTCC%20Digital%20Assets%20Study.md at https://lnns.co/O8NUZfc1KGe
 
-### Selected Clips:
+### Selected fn YT Clips:
 
 - **Collective SS mod interview of Conn in case of no shares in Cede:**
   https://www.youtube.com/clip/UgkxV1YeRljQHPcN4NO5aBdj1HPS7apnbNrC
 
-- **Independent PB research of "kill switch" as introduced:**
+- Independent PB research of "kill switch" as introduced:  *caution*
   https://www.youtube.com/clip/Ugkxd0_I3EmB6m2oRNnJ2kTku32HTsIleI34
   On a **FUCKING SLOW DOWN PIT STOP** at
   https://www.dtcc.com/-/media/Files/Downloads/issues/Unscheduled_Close.pdf
@@ -860,7 +979,9 @@ https://github.com/orgs/WhyDRS/discussions/2#discussioncomment-10537423
 File No. SR-OCC-2024-001, which has at least three major Reddit threads:
 https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001.htm
 
-### Specific UCC Changes from Don Grande
+
+
+
 
 > Allowing massive institutions, many of which are worth hundreds of billions of dollars, to have priority over security entitlements belonging to individual investors creates massive distortions in the marketplace that could ultimately hasten a large economic crash. But even if this were not the case, an important question for policymakers remains: Is a system truly worthy of saving if it would happily sacrifice individual investors' wealth to save allegedly too-big-to-fail institutions? <!-- TAR2: Securrency "too bigger to fail" extrapolation here -->
 > 
@@ -880,10 +1001,12 @@ as a possible fn: he also wrote https://heartland.org/opinion/you-dont-own-what-
 changes from lawmakers
 PENDING in South Dakota, Tennessee, North Dakota, Iowa, New Hampshire, Oklahoma, Utah, Texas, Arkansas, Montana, Louisiana, Wyoming, Connecticut, and Pennsylvania[^state-stopping]
 
-[^state-stopping]: _See_ remarks of a leading investor advocate documentary, _available at_ https://wooten.link/stop-it at 1:47:32.
+[^state-stopping]: _See_ remarks of a leading investor advocate documentary, _available at_ https://youtu.be/Vbr3hfjVOxw (retirement implications).
 
-They also mention DRS at 1:24:00 and retirement implications.
-Bob Chatten on "UCC9??? I have only focused on UCC8" regarding the 1978 amendments.
+Bob: Chatten on "UCC9??? I have only focused on UCC8" regarding the 1978 amendments.
+^
+OUT OF SCOPE
+
 
 Firstly, we can cite these MF's absolute nothingball of deception:
 : _See_ https://wooten.link/ULC-fraud
@@ -902,22 +1025,31 @@ Individual margin was already growing rapidly, and
 
 These shouldn't need to be directly quoted.
 
-> 1994 UCC Article 8 revision
 
-> The Code Title... varies
+> UCC §§ 8-503 and 8-511. 
 
-> UCC 8-503 and UCC 8-511. 
+> 8-503 mentions the 2 exceptions giving certain secured creditors priority over entitlement holders in 8-511 ~~~~so we strike that reference to 8-511.~~
 
-> 8-503 mentions the 2 exceptions giving certain secured creditors priority over entitlement holders in 8-511 so we strike that reference to 8-511.
+8-503(a): "except as otherwise provided in Section 8-511"
 
 > in 8-511 we strike the 2 exceptions (b) and (c).
 
-> We also suggest addressing the jurisdiction/choice of law provisions usually found in 8-110 (and a conforming change to UCC 9-305).
+
+
+
+
 
 // banking lobby threats in Tennessee {{state-stopping}}
 
 The larger big source is the NY Fed response to "EU Clearing and Settlement Legal Certainty Group" European Commission International Market and Services DG / Financial Services Policy and Financial Markets
-at https://wooten.link/fed-certainty
+at https://archive.org/details/ec-clearing-questionnaire.
+
+
+![corrupted-venues](imgs/competing-feed-fragmentation-problems.png)
+
+[^fragmentation-img]
+
+[^fragmentation-img]: _See, e.g._ wokr from The MITRE Corp., Tyler Gray, Brendan Tivnan, and Christopher Danforth reproduced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), _available at_ https://doi.org/10.1371/journal.pone.0226968. Many of  the eleven esteemed authors therof rprsetn two established American unitversiites, and seven of them are affiliatged  with a 501(c)(3) established to advance national security and serve the public interest. Their findings revea XYZ  from 19
 
 § I.1.b.ii ¶ 10 at 8:
 in re question
@@ -949,9 +1081,8 @@ https://www.nysb.uscourts.gov/sites/default/files/opinions/198038_134_opinion.pd
 We should get the Caselaw links ideally.
 in the interim, we have https://mpalmer.heresy.is/webnotes/TheGreatTaking/Safe-Harbor.html; https://www.courtlistener.com/docket/4326736/lehman-brothers-holdings-inc/?page=342
 
----
-
-## File No. SR-DTC-2006-16[^r]
+### File No. SR-DTC-2006-16[^r]
+https://www.sec.gov/newsroom/speeches-statements/modernize-sec-transfer-agent-rules note 3
 
 as {{^note-DTC-2006}}
 
@@ -964,15 +1095,11 @@ Modern context at 13 in File No. SR-DTC-2020-017.
 
 [^r]: _See also_ and an alteration on retail individual support for rescission in comment https://www.sec.gov/comments/s7-05-22/s70522-20120580-272764.pdf#page=8, which states, "The restriction that transfer agents may not effect the transfer of a security outside of the DTCC system is a legalization of a monopoly."
 
----
-
 ### Social Externalities
 
 https://doi.org/10.21033/pdp-2021-02
 
-# Physical Notes in Re: Staff DEX Position; Tie Back to OCCM n.4
-
-## Meeting on Sep 23 at 1 PM ET
+### Meeting on Sep 23 at 1 PM ET
 
 Implicates chiefly as a prerequisite the self-custody arguments made [here](https://github.com/JFWooten4/DUNA-docs/issues/6).[^arg]
 
@@ -980,7 +1107,7 @@ Implicates chiefly as a prerequisite the self-custody arguments made [here](http
 
 Ideated to segue into the no-action, pending 144A(e).
 
-### Staff Remarks
+#### Staff Remarks
 
 - Comments suggested for the most transparent due process.
 - No comments on DEX trading.
@@ -995,13 +1122,13 @@ Ideated to segue into the no-action, pending 144A(e).
 - Traditional TA ledger vs. TA blockchain distinctions remain unclear or uncovered.
 - Statement generalized but fact-specific on applications over written questions.
 
-### Alternate Division B/D Direct Statements
+#### Alternate Division B/D Direct Statements
 
 Minimize investor exposure to:
 - "risk loss/theft"
 - "broker financial losses"
 
-## Further Correspondence Documented in Email Around _ID's_ Timeframe[^names]
+### Further Correspondence Documented in Email Around _ID's_ Timeframe[^names]
 
 No distinguishing between type of digital asset securities given "truly securities"
 
@@ -1041,12 +1168,12 @@ Increased Complexity and Opacity:
 
 Page 120 is borrowed from https://www.dtcc.com/-/media/DASCPWhitePaper.pdf, which I don't think I'd read before&mdash;some new homework.
 
-#### Start orig yay here
+#### Start orig blockchain here
 
 Treasury study on DA
 https://home.treasury.gov/system/files/221/CombinedChargesforArchivesQ42024.pdf#page=107
 
-- Network rails as independent means of exchange re 109, implicating https://github.com/JFWooten4/free-markets/issues/6 🤝🏿
+- Network rails as independent means of exchange re 109
 - _Id._ at n. A and banking protections implications not given in the K case
 - Use the "even small incremental improvements in a very large market like the Treasuries market can be impactful at scale" argument on 114 as a contra to [S7-23-22](https://www.sec.gov/newsroom/press-releases/2023-247)
 
@@ -1084,9 +1211,9 @@ Original CB image says "maximize your trading with Coinbase advanced API."
 
 Make an API key "to connect, build, and trade."
 
-## Bank Transfers
+### Bank Transfers
 
-Initiated Dec 18, 2024, from CB. Still awaiting KYC.
+Initiated Dec 18, 2024, from CB.
 To WF due to no support for LR via either manual or Plaid as the only option.
 Estimated standard 2-day transfer.
 
@@ -1099,7 +1226,7 @@ Received at least three calls from LR and a compliance email mandating a call by
 
 ---
 
-## Share Donation Section
+## Proposed Decetralized Govenrnane mechanisms
 
 Possibly a good idea to start with the natural monopoly conversation and implications of a shared standard like NSCC-ish.
 
@@ -1123,17 +1250,17 @@ I have chosen to release the vast majority of Syndicate GitHub code under expres
 
 Accordingly, it's my intention to donate my shares in the company to WhyDRS, presuming that's something the community would like to happen. I am still weeding through the legalities and tax implications of this transfer given the treatment of interest under 26 U.S.C. § 1361(b)(1)(B), _inter alia._ Notwithstanding, I intend to give out the details here in a manner that grants the Association binding and enforceable control over the company.
 
-Firstly, I would appreciate a reply from staff within 90 days as to the ownership of a blockchain transfer agent by the DUNA, as such a nonprofit arrangement mimics existing regulatory-oversight schemes availed of Federal recognition. Implications from the Commission's response to this gift could materially assist community members with an analysis of whether or not to accept the shares. Namely, this combination of equals into a superstructure for public infrastructure quite directly raises the participatory and reputational bar for our ongoing social efforts toward efficient markets.
-
---Love this John, I wish I'd seen it sooner to compliment you on the gumption and forethought to see direct comment from the SEC on this intention.--
+Firstly, I would appreciate a reply from staff by 26 Feb 2026 as to the ownership of a blockchain transfer agent by the DUNA, as such a nonprofit arrangement mimics existing regulatory-oversight schemes availed of Federal recognition.[^spbd]. Implications from the Commission's response to this gift could materially assist community members with an analysis of whether or not to accept the shares. Namely, this combination of equals into a superstructure for public infrastructure quite directly raises the participatory and reputational bar for our ongoing social efforts toward efficient markets.
 
 Secondly, maybe we can introduce putting this out to comment again.
 
 What we need should DTC fail is nothing short of a completely new (inter)national market system.[^global] I find the prospects of such a market controlled by one private corporation bleak. Given past experience shows the centralizing tendency of good clearing infrastructure,[^DTCC-path]
 
+[^spbd]: As communicated with staff  on 23 Sep 2024, an i nterpreation of this and other rulemaking wou;ld assist the Syndicate in adequately  responding to File No. S7–25–20.  _See also_ request  for additional inormation left unsanswered to an asociate director of Trading and  Markets threee ddays laater. wE siccerely apprecaite the  guidane staff have geerously provided us since our first  discussion with special counsel of the Dividsion of Corporate FInanc on 12 Nov 2022—an esteemed professional cited by a prominent founder scouring for investment capital, _available at_ https://hackernoon.com/the-sec-called-about-our-ico-i-answered-8cbbd31568ec; the UNiversityy of Arkansas for aprticiaotion in an elite law review symposion on crypto rergulations, _available at_ https://law.uark.edu/alumni/events/event-lawreview-symposium-2019.php; and a respected onlie community  member clairfying indiviudal-investor polici, _available at_ https://news.ycombinator.com/item?id=15371100.
+
 [^global]: In such an interconnected era with profound technological abundance, I see only inevitably the emergence of a global stock market. I earnestly hope that our great Nation will continue leading the forefront of the world's capital market by supporting this work. _See also_ work in a number of foreign nations implementing an inter-agency Direct Registration System, _available at_ https://ijlr.iledu.in/wp-content/uploads/2023/06/V3I205.pdf#page=3. (insider trading link here...) ~~The vast bulk of this work employs proprietary, centralized, and corruptible central bookkeepers.~~
 
-[^DTCC-path]: _See_ documentation from Dr. Dan Awrey, J.D. and Joshua Macey, J.D., detailing the monopolization of market plumbing, _available at_ https://www.yalelawjournal.org/article/open-access.
+[^DTCC-path]: _See_ documentation from Dr. Dan Awrey, J.D. and Joshua Macey, J.D., detailing the monopolization of market plumbing, _available at_ https://www.yalelawjournal.org/article/open-access. The authorrs detail how open-access and interoperability actualyl hidndered the free market for clearing agenccies, mandating them to all confrom to common infrastructure. _Compare_ centralization here t o the ddiverse  cometative industyr intended  by Congress and  the Commission _supra_ note {{^best-eff-mon}}.
 
 ---
 
@@ -1250,7 +1377,7 @@ Interest paid post-bulk fundraising.
 These can be subverted in a footnote based on leadership actions that "jeopardized the safety, soundness, and stability of the United States financial system" per [H.Res. 1574](https://democrats-financialservices.house.gov/uploadedfiles/bills-118hres1574ih.pdf), as referenced in [this video](https://youtu.be/Cn1ffXT1PS4).
 
 # FOIA Request Items (as 501(c)(3) Exemptions)
-probably limit in scope as far as possible with ITP per https://discordapp.com/channels/1102309240145707049/1336149183253712957/1336154168871616624
+limit in scope as far as possible with ITP per https://discordapp.com/channels/1102309240145707049/1336149183253712957/1336154168871616624 (single dmaning)
 (prob need to spcif these)
 - Margining methodologies
 - Broker charge methods
@@ -1313,9 +1440,9 @@ The Commission introduced the Central Certificate Service ("CCS") in the context
 
 [^nyse-intro]: _See_ concept release at n.45. Have staff contemplated the treatment of nominee partnership depositories in the context of securities with higher circulating brokerage supply than legal outstanding issuance? Namely, an issuer popular with individual investors went bankrupt two years ago with a disproportionate proposition of shares outstanding compared to those held under the Custodial Structure according to centralized FAST declarative ownership data. The issuer's bankruptcy filings showed the CCS street-name partnership nominee referenced as owning 776,404,408 common shares, _available at_ https://wooten.link/kroll-cede at 8. However, the issuer's books and records at the transfer agent recorded only 739,056,836 shares outstanding four days after the bankruptcy capitalization table, _available at_ https://www.sec.gov/ix?doc=/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm at 2. Thus, it would be impossible for all partnership nominee claimants to bear rights to common stock in this enterprise.
 
-Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry? (phrased more diplomatically in reference to the Commission). Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?[Dole]
+Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry? (phrased more diplomatically in reference to the Commission). Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?[^Dole]
 
-[Dole]: _See_ in re DE case and implciations should clearing agnecy gho insolvent  as ps re bb
+[^Dole]: _See_ in re DE case and implciations should clearing agnecy gho insolvent  as ps re bb
 Dole Foods went private for $1.2B in 2013. The company only had 37M shares outstanding,
 but brokerage investors held 49M shares—12M extra. A third of the company's supposed
 investors didn't get paid in a later class action
@@ -1385,3 +1512,18 @@ Incidentally, this is the same date as https://github.com/WhyDRS/SEC-Comments/pu
 
 also that year, we have https://core.ac.uk/download/pdf/6366003.pdf#page=11 (CAUTION, mirror context)
 note 51 is also really sick, _available at_ https://home.treasury.gov/news/press-releases/hp1239
+
+
+### mroe concluding terminusses
+
+Coinbase as still no riinsstate my partern's account, espite material XXYZABC refrence  Rule 17Ad-2 in fn but super duper extrapolated![^info2]
+
+updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users to go through thier private proporiettary claims proecess before touchgign court securities law judgements (with jury rights waived  and dmmeonicile in NY for all biz non-Small-Claims)
+
+[^info2]: As i understanf it, their  complaicne team is wearvy of her exlcusive use  of the platform to deposit Ammrican dollars an subsequenrtly  transfer USDCC to  a cold-starge wallet/ She mdae nine psits last year afterr opening an aount six months prior: $2000 on Feb 20, $500  on May 8, $2000 on Jun 11, $2500 on Jul 7, $5000 on Jul 10, $600 on Jul 17, $1715.44 on Aug 28, andd $6000 on Sep 20 (whih was reversed and rolled into a $15000 deposit on Oct 9, whhich was subsequently frozen). _See also_ USDC governance conversation XYZ_AELABORATION  HERE AS NEEDED, _available at_  LNNS_HREF_FOR_LNNS_TS_9-APR
+
+
+
+
+
+
