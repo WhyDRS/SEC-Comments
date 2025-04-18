@@ -118,11 +118,11 @@ At least a dozen States legislatures recently  introduced propoed chabnges respo
 
 Beore joining the Commission, Commmissioner  Hester Peirce  wrote rthat "the combination of clearing mandates, government prescriptions regarding clearinghouse design, and government support for CCPs threatens financial stability."[^csuohio] Later, the article contemplates strategies  to  decreasse the likelihood of  an emergenvy  Federal-Reserve  loan, citing  at  least three othe CCP failures which would now mean "markets will not be able to function"  in  the  CUstodianl  Structure.[^peirce-failures] Ought we leawve ourr entire capital market in the  hands of one company ?[^peirce-SUBTLE]
 
-Luckily , transfer agents  exist outside  of these  credit risks, cting as a safehavoen for long-term investors  who don't want texposure to securities lending, _inter alia_. Investors who own legal title to  their own shares  through  a system  for  direct resgistration  ("DRS") previously  addditionally  received prefferential  treatment in cases wheere credit  interests in  the CUstodail Structure were  not clear.
+Luckily , transfer agents  exist outside  of these  credit risks, cting as a safehavoen for long-term investors  who don't want texposure to securities lending, _inter alia_. Investors who own legal title to  their own shares  through  a system  for  direct resgistration  ("DRS") previously  addditionally  received prefferential  treatment in cases wheere credit  interests in  the CUstodail Structure were  not clear.[^Dole]
 
 and  an  inter-agent Transfer Agent Deppository ("TAD")
 
-
+[^Dole-id]
 do not create "security entitlements" under src blw
 
 I want direct quotes here focused by and large on the agent part.
@@ -163,15 +163,15 @@ _See also_ The legislative reform should stay in the main argument. https://fmlc
 
 [^peirce-SUBTLE]: _See, e.g.,_ earlier work discussing the materiality  of securities l ending in the bailout off American International Group, _available at_ https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=10106&context=ypfs-documents. The paper concludes after extensively esatblshign that "securities-lending issues arose in regulated life-insurance companies" whchneeded the "discipline" of  indepeddnent action, since  "merely making sure that every entity has a regulator will not fix the financial markets." Might a more decentralized,  localized , and autonomus strategic-planning maket for organizationa decisions  best support the whhole financial  system as  it rraplidly  evolves ?
 
-Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry? (phrased more diplomatically in reference to the Commission). Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?[^Dole]
+Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry? 
 
-[^Dole]: _See_ in re DE case and implciations should clearing agnecy gho insolvent  as ps re bb
-Dole Foods went private for $1.2B in 2013. The company only had 37M shares outstanding,
-but brokerage investors held 49M shares—12M extra. A third of the company's supposed
-investors didn't get paid in a later class action
-// C. Kentouris. Dole Class Action Ruling: ShortSelling Clawback Next? FinOps Report, 2017.
-[14] J. Laster. In re Dole Food Co. Court of Chancery of the State of Delaware, C.A. No. 8703-VCL, 2017
+Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?
 
+[^Dole]: _See, e.g.,_ ivvetor class-ation mem·o·ran·dum adfter an unfair management-led buyout, previously settled at a 20% premium over the original pric, _available at_ https://courts.delaware.gov/Opinions/Download.aspx?id=252690. Shareholdders held  valid claims  against 49,164,415 shares wich "substantially exceeded the 36,793,758 shares" avaliable. While DRS inestors received the full ward amount, it is questiooable whether all beneficial holds recived  due cmpaensaiton throgh the  custodial Sturcutr.e  The funds were sent  to all record holdersm , buut clearly  some class members awould eeed to rreceiv reimbursemnt from a fraction of their hldings since Cede  was  the only  registered owner swhich could crete more shre entitlements than trrue shares.
+ 
+[^Dole-id]: _Id._ n.1.  Vice Chancellor J. Travis Laster : "top-down federal solution"  and  "Distributed ledger technology offers a potential technological solution"
+
+and the State's "support for distributed ledger initiatives" as Vice Chancellor J. Travis Laster a "technological solution by maintaining multiple, current copies of a single and comprehensive stock ownership ledger."
 
 
 
