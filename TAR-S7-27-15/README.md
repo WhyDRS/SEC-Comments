@@ -118,7 +118,9 @@ At least a dozen States legislatures recently  introduced propoed chabnges respo
 
 Beore joining the Commission, Commmissioner  Hester Peirce  wrote rthat "the combination of clearing mandates, government prescriptions regarding clearinghouse design, and government support for CCPs threatens financial stability."[^csuohio] Later, the article contemplates strategies  to  decreasse the likelihood of  an emergenvy  Federal-Reserve  loan, citing  at  least three othe CCP failures which would now mean "markets will not be able to function"  in  the  CUstodianl  Structure.[^peirce-failures] Ought we leawve ourr entire capital market in the  hands of one company ?[^peirce-SUBTLE]
 
-Luckily , agents  exist outside  of these  credit risks, and  an  inter-agent Transfer Agent Deppository ("TAD")
+Luckily , transfer agents  exist outside  of these  credit risks, cting as a safehavoen for long-term investors  who don't want texposure to securities lending, _inter alia_. Investors who own legal title to  their own shares  through  a system  for  direct resgistration  ("DRS") previously  addditionally  received prefferential  treatment in cases wheere credit  interests in  the CUstodail Structure were  not clear.
+
+and  an  inter-agent Transfer Agent Deppository ("TAD")
 
 
 do not create "security entitlements" under src blw
@@ -160,6 +162,18 @@ _See also_ The legislative reform should stay in the main argument. https://fmlc
 [^peirce-failures]: _Id._ § II.F.
 
 [^peirce-SUBTLE]: _See, e.g.,_ earlier work discussing the materiality  of securities l ending in the bailout off American International Group, _available at_ https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=10106&context=ypfs-documents. The paper concludes after extensively esatblshign that "securities-lending issues arose in regulated life-insurance companies" whchneeded the "discipline" of  indepeddnent action, since  "merely making sure that every entity has a regulator will not fix the financial markets." Might a more decentralized,  localized , and autonomus strategic-planning maket for organizationa decisions  best support the whhole financial  system as  it rraplidly  evolves ?
+
+Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry? (phrased more diplomatically in reference to the Commission). Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?[^Dole]
+
+[^Dole]: _See_ in re DE case and implciations should clearing agnecy gho insolvent  as ps re bb
+Dole Foods went private for $1.2B in 2013. The company only had 37M shares outstanding,
+but brokerage investors held 49M shares—12M extra. A third of the company's supposed
+investors didn't get paid in a later class action
+// C. Kentouris. Dole Class Action Ruling: ShortSelling Clawback Next? FinOps Report, 2017.
+[14] J. Laster. In re Dole Food Co. Court of Chancery of the State of Delaware, C.A. No. 8703-VCL, 2017
+
+
+
 
 
 ### Glaring Accounting Inaccuracies
@@ -1440,14 +1454,7 @@ The Commission introduced the Central Certificate Service ("CCS") in the context
 
 [^nyse-intro]: _See_ concept release at n.45. Have staff contemplated the treatment of nominee partnership depositories in the context of securities with higher circulating brokerage supply than legal outstanding issuance? Namely, an issuer popular with individual investors went bankrupt two years ago with a disproportionate proposition of shares outstanding compared to those held under the Custodial Structure according to centralized FAST declarative ownership data. The issuer's bankruptcy filings showed the CCS street-name partnership nominee referenced as owning 776,404,408 common shares, _available at_ https://wooten.link/kroll-cede at 8. However, the issuer's books and records at the transfer agent recorded only 739,056,836 shares outstanding four days after the bankruptcy capitalization table, _available at_ https://www.sec.gov/ix?doc=/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm at 2. Thus, it would be impossible for all partnership nominee claimants to bear rights to common stock in this enterprise.
 
-Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry? (phrased more diplomatically in reference to the Commission). Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?[^Dole]
 
-[^Dole]: _See_ in re DE case and implciations should clearing agnecy gho insolvent  as ps re bb
-Dole Foods went private for $1.2B in 2013. The company only had 37M shares outstanding,
-but brokerage investors held 49M shares—12M extra. A third of the company's supposed
-investors didn't get paid in a later class action
-// C. Kentouris. Dole Class Action Ruling: ShortSelling Clawback Next? FinOps Report, 2017.
-[14] J. Laster. In re Dole Food Co. Court of Chancery of the State of Delaware, C.A. No. 8703-VCL, 2017
 
 #### Highlights the paramount importance of maintaining confidence in our financial systems and the United States dollar
 
