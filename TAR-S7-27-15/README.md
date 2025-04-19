@@ -1399,6 +1399,12 @@ limit in scope as far as possible with ITP per https://discordapp.com/channels/1
 - Insurance and transfer operations
 - Red teaming and cyber resilience
 - Any fee schedule adopted under 66 FR 20500 ¶ 11, 12, or 13 (23 Apr 2001).
+
+I think we can  get most  of this in 240.17ad-22(e)(3)(ii) 
+
+
+
+
 *** _See also_ ¶ 18:
 Commission shall treat information
 submitted in accordance with this
