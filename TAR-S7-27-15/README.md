@@ -174,6 +174,17 @@ and the State's "support for distributed ledger initiatives" as Vice Chancellor 
 
 
 
+[^buffett-drs]:  For intance, Warren Buffett once wrote that i nvestors should "be sure to have your stock registered in your name" after [owner-directed ontacxable donations].  corporate nonprofit tax  2nd  sentence./  _See also_ remarkes from Commissioner  Peirce  supporting  blockchain  tehcnolgoies as  a solution  to the convoluted securityheolder  ocmmunication  structure  present in  the  CUstodial  Structure, _available at_ https://youtu.be/6wUzE9ynIjI.
+
+~~~ _ID_s:
+     Unfortunately, communication to such non-record shareholders could take place only through the nominees.  We therefore strongly urged those nominees, mostly brokerage houses, to promptly transmit our letter to the real owners.  We explained that their failure to do so could deprive such owners of an important benefit.
+     
+     The results from our urgings would not strengthen the case for private ownership of the U.S. Postal Service.  Many of our shareholders never heard from their brokers (as some shareholders told us after reading news accounts of the program).  Others were forwarded our letter too late for action.
+     
+     One of the largest brokerage houses claiming to hold stock for sixty of its clients (about 4% of our shareholder population), apparently transmitted our letter about three weeks after receipt - too late for any of the sixty to participate. (Such lassitude did not pervade all departments of that firm; it billed Berkshire for mailing services within six days of that belated and ineffectual action.)
+~~~
+
+
 ### Glaring Accounting Inaccuracies
 
 
