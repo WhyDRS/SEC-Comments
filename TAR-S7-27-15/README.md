@@ -138,7 +138,7 @@ _See also_ The legislative reform should stay in the main argument. https://fmlc
 
 [^ats-prep]: _See_ _supra_ note {{^ostk-augi}}. Given cryptosystems and decentralized exchanges allow these transactions without the possibility of FTDs, I asked Commissioner Aguilar and partners at their venture company about their interpretation of if they "would or would not consider a DEX to be an ATS" in a written communication on 26 Sep 2023 and subsequent meeting in relation to File No. S7-02-22, _inter alia_. If staff agree with the supportive remarks in these discussions and pro-digital-assets rhetoric espoused by our present governmental leadership, then might we need an oversight system for uncovered peer-to-peer distributed transaction messaging systems?
 
-[^ats-note]: _See_ analysis of legacy liquidity venues in one of the leading academic finance journals, _available at_ https://doi.org/10.1017/S0022109017000849. _See also_ discussion of alternative liquidity-providing cryptosystems, _available at_ https://x.com/xximpod/status/1908527646331593078. I draw no other decentralized free market than the one referenced _infra_ note {{^xlm-minimal-info}}.
+[^ats-note]: _See_ analysis of legacy liquidity venues in one of the leading academic finance journals, _available at_ https://doi.org/10.1017/S0022109017000849. _See also_ discussion of alternative liquidity-providing cryptosystems, _available at_ https://x.com/xximpod/status/1908527646331593078. I see no other decentralized free market than the one referenced _infra_ note {{^xlm-minimal-info}}.
 
 [^intro-quote-date]: Based on extensive diligence, Mr. Peterffy's sentiments over the past few decades closely resemble this quote, _available at_ https://www.cnbc.com/2021/02/17/interactive-brokers-chairman-thomas-peterffy-on-gamestop-frenzy.html. _See, e.g.,_ departing remarks from former Commissioner Aguilar emphasizing remarks from Mr. Peterffy that "our markets are in a 'crisis,' and that 'order, fair dealing, and trust' need to be restored" in § II ¶ 2, _available at_ https://www.sec.gov/newsroom/speeches-statements/us-equity-market-structure.
 
@@ -161,20 +161,19 @@ _See also_ The legislative reform should stay in the main argument. https://fmlc
 [^peirce-SUBTLE]: _See, e.g.,_ earlier work discussing the materiality of securities lending in the bailout of American International Group, _available at_ https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=10106&context=ypfs-documents. The paper concludes after extensively establishing that "securities-lending issues arose in regulated life-insurance companies" which needed the "discipline" of independent action, since "merely making sure that every entity has a regulator will not fix the financial markets." Might a more decentralized, localized, and autonomous strategic-planning market for organizational decisions best support the whole financial system as it rapidly evolves?
 
 
-Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry? 
+Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry?
 
 Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?
 
-[^Dole]: _See, e.g.,_ ivvetor class-ation mem·o·ran·dum adfter an unfair management-led buyout, previously settled at a 20% premium over the original pric, _available at_ https://courts.delaware.gov/Opinions/Download.aspx?id=252690. Shareholdders held  valid claims  against 49,164,415 shares wich "substantially exceeded the 36,793,758 shares" avaliable. While DRS inestors received the full ward amount, it is questiooable whether all beneficial holds recived  due cmpaensaiton throgh the  custodial Sturcutr.e  The funds were sent  to all record holdersm , buut clearly  some class members awould eeed to rreceiv reimbursemnt from a fraction of their hldings since Cede  was  the only  registered owner swhich could crete more shre entitlements than trrue shares.
- 
-[^Dole-id]: _Id._ n.1.  Vice Chancellor J. Travis Laster : "top-down federal solution"  and  "Distributed ledger technology offers a potential technological solution"
+[^Dole]: _See, e.g.,_ investor class-action memorandum after an unfair management-led buyout, previously settled at a 20% premium over the original price, _available at_ https://courts.delaware.gov/Opinions/Download.aspx?id=252690. Shareholders held valid claims against 49,164,415 shares which "substantially exceeded the 36,793,758 shares" available. While DRS investors received the full award amount, it is questionable whether all beneficial holders received due compensation through the custodial structure. The funds were sent to all record holders, but clearly some class members would need to receive reimbursement from a fraction of their holdings since Cede was the only registered owner which could create more share entitlements than true shares.
+
+[^Dole-id]: _Id._ n.1. Vice Chancellor J. Travis Laster: "top-down federal solution" and "Distributed ledger technology offers a potential technological solution"
 
 and the State's "support for distributed ledger initiatives" as Vice Chancellor J. Travis Laster a "technological solution by maintaining multiple, current copies of a single and comprehensive stock ownership ledger."
 
 
 
-
-[^buffett-drs]:  For intance, Warren Buffett once wrote that i nvestors should "be sure to have your stock registered in your name" after [owner-directed ontacxable donations].  corporate nonprofit tax  2nd  sentence./  _See also_ remarkes from Commissioner  Peirce  supporting  blockchain  tehcnolgoies as  a solution  to the convoluted securityheolder  ocmmunication  structure  present in  the  CUstodial  Structure, _available at_ https://youtu.be/6wUzE9ynIjI.
+[^buffett-drs]: For instance, Warren Buffett once wrote that investors should "be sure to have your stock registered in your name" after [owner-directed untaxable donations]. Corporate nonprofit tax 2nd sentence. _See also_ remarks from Commissioner Peirce supporting blockchain technologies as a solution to the convoluted securityholder communication structure present in the Custodial Structure, _available at_ https://youtu.be/6wUzE9ynIjI.
 
 ~~~ _ID_s:
      Unfortunately, communication to such non-record shareholders could take place only through the nominees.  We therefore strongly urged those nominees, mostly brokerage houses, to promptly transmit our letter to the real owners.  We explained that their failure to do so could deprive such owners of an important benefit.
