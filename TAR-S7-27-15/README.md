@@ -1627,3 +1627,191 @@ these 15 not included in above counts b/c didn;t' use the woirding
 [^monopoly-quote]: _See, e.g.,_ remarks of XYZ noting that,  twenty  years ago,  the  corpoation had "such a tight monopoly on trade settlement" largely  because  it "is a self-regulatory agency run by the very firms in question for Naked Shorting" which  today  govenr the  OCC, _available at_ https://www.sec.gov/files/rules/sro/dtc200302/depatch030403.txt. I believe it's worth hioghlighting  the hubris empowering certain self-regulating  SIFMUs, as exemplkified  by several  commentors' highlghting that thios partricuialr  SRO released  statements saying  they could do whoat they  asked p ermission to  do  ikn the proposed  rule  change  months before even  submitting such admentment to the  Commission.  I  respetfulyl  submit to the Commission that i t may hinder the  competativeness  of  our American market system and associated  eocnomyy If  an  inssutiton  subject  only t op  credit limitations  "continues to allow a never ending summation on the float of a company."
 
 [^drs-note]: _See, e.g.,_ simialirt between Merrill Lynch; Sterne, Agee & Leach;  and   Edward Jones, _available at_ https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-81.pdf; https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-78.pdf; and https://www.sec.gov/files/rules/sro/dtc200302/edwardjones041503.pdf. More specifically,  all  mocommentors i n favor  of  the rule  change  were bbanks,  clearing  agencies,  or wall  Street  representatibves. Notably,  at  least three  supportive commentors  from "clearing agncies" were broker-dealers offering "correspondent clearing" with a direct interet  in  roppogating SRO services.
+
+
+##  all pending whatcan srcs
+
+
+https://www.federalregister.gov/documents/2020/11/09/2020-24783/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule
+
+https://x.com/xximpod/status/1835990569954246837
+
+https://www.sec.gov/files/rules/sro/occan/2025/34-102462.pdf#page=16
+
+https://www.sec.gov/files/rules/sro/dtc200302/mcashion030603.txt
+https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-83.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/bnyclearing032503.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/1stclearing031803.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-82.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-79.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/mizuhotrust040703.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/charlesschwab041403.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/kthompson040403.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/prudential040303.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/rbcdain042303.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/bancamer031803.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-81.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-78.pdf
+https://www.sec.gov/files/rules/sro/dtc200302/edwardjones041503.pdf
+
+https://www.sec.gov/files/rules/sro/dtc200302/jmeuse030503.txt
+https://www.sec.gov/files/rules/sro/dtc200302/transfer030603.txt
+
+https://www.sec.gov/files/rules/sro/dtc200302/valesc030403.txt
+https://www.sec.gov/files/rules/sro/dtc200302/ssieck030503.txt
+https://www.sec.gov/files/rules/sro/dtc200302/pdowd030503.txt
+
+https://github.com/orgs/WhyDRS/discussions/2#discussioncomment-10537423
+https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-581155-1670662.pdf
+https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801.htm
+https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
+https://www.reddit.com/r/Superstonk/comments/1k72g9z/occ_wants_more_liquidity_money_market_mooching/
+
+"control" at 35 min in
+
+https://www.newyorkfed.org/medialibrary/media/research/epr/2012/1210cope.pdf
+
+https://www.jstor.org/stable/40687585?read-now=1&oauth_data=eyJlbWFpbCI6ImpvaG4ud29vdGVuQGJsb2NrdHJhbnNmZXIuY29tIiwiaW5zdGl0dXRpb25JZHMiOltdLCJwcm92aWRlciI6Imdvb2dsZSJ9&seq=21#page_scan_tab_contents
+https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=71 market 2000
+https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=28  disadvantaged
+https://chatgpt.com/c/680c0ffc-6440-8010-9e6b-fe1533c9af40
+https://www.jdsupra.com/legalnews/financial-markets-infrastructure-the-eu-5177606/
+Cede & Co. v. Technicolor...
+https://www.sechistorical.org/collection/papers/1970/1976_0101_DTCAR.pdf
+https://www.finra.org/rules-guidance/notices/93-77#:~:text= PLEDGE
+https://www.finra.org/rules-guidance/notices/93-77#:~:text= DREXEL
+https://archives.federalregister.gov/issue_slice/1993/10/13/52889-52917.pdf#page=4
+https://www.alri.ualberta.ca/wp-content/uploads/1993/06/fr067.pdf#page=4
+
+https://www.sec.gov/files/34-97597.pdf
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-nscc-2023-005
+
+https://github.com/WhyDRS/SEC-Comments/issues/12
+https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux/
+married puts
+
+https://www.reddit.com/r/Superstonk/comments/13vtgc1/comment_to_the_sec_against_heavily_redacted/
+
+https://www.reddit.com/r/Superstonk/comments/13ia7h3/end_game_part_deux_problems_at_the_dtcc_plus_the/
+Simply changing how shares are held from beneficially owned to directly registered automatically increases how much of the Company you own.  This is true for any Company where shareholders may suspect the DTC has more shares on their books than they should.  Any shareholder that suspects naked shorting is an issue (e.g., 🎮) would be similarly incentivized to own a bigger portion of the Company by simply Direct Registering Shares.  
+
+Except the DTC hasn't been telling people how many beneficial interests are out there. So it's actually worse than that for Beneficial Shareholders... the SEC says that each participant or pledgee (i.e., beneficial shareholder) having an interest in securities credited to their account has a pro rata interest in the securities of that issue held by the DTC. All the beneficially owned shares held by beneficial shareholders split the pie held by the DTC.
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fend-game-part-deux-problems-at-the-dtcc-plus-the-bigger-v0-cf2fzgbsd00b1.png%3Fwidth%3D3064%26format%3Dpng%26auto%3Dwebp%26s%3D39f4f0ad5b0a139a1fe551fc44f7cb54d686966d
+
+https://www.reddit.com/r/Superstonk/comments/147e5di/shadow_banking_system_embiggening_systemic_risks/
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fshadow-banking-system-embiggening-systemic-risks-for-profit-v0-2tmn4cq48g5b1.png%3Fwidth%3D4938%26format%3Dpng%26auto%3Dwebp%26s%3Dec1e4c84546d66d1748af50cfb26dc5f2019fee6
+
+https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf#page=40
+https://www.sec.gov/rule-release/34-42037 as  64 FR 57996
+https://www.sec.gov/comments/s7-19-07/s71907-1436.pdf#page=5
+https://www.govinfo.gov/content/pkg/FR-1999-10-28/pdf/99-27879.pdf
+https://www.sec.gov/files/rules/concept/s72499summary.htm
+https://www.federalregister.gov/documents/1999/10/28/99-27879/short-sales
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-dtc-2003-02
+https://www.federalregister.gov/documents/2003/06/11/03-14642/self-regulatory-organizations-the-depository-trust-company-order-granting-approval-of-a-proposed
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-dtc-2003-02
+
+https://www.reddit.com/r/Superstonk/comments/w7zy4c/comment/ihnf9p7/?context=3
+https://www.reddit.com/r/Superstonk/comments/wd0iw4/halp_kneed_moar_comments_srocc2022803/
+https://www.reddit.com/r/Superstonk/comments/w7zy4c/comment/ihnf9p7/?context=3
+https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
+https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803-306305.htm
+
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fend-game-part-deux-problems-at-the-dtcc-plus-the-bigger-v0-6g7t2q8td00b1.png%3Fwidth%3D4426%26format%3Dpng%26auto%3Dwebp%26s%3Dd5649de460e039c50377f22144bc3fe47462a956
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fend-game-part-deux-problems-at-the-dtcc-plus-the-bigger-v0-6g7t2q8td00b1.png%3Fwidth%3D4426%26format%3Dpng%26auto%3Dwebp%26s%3Dd5649de460e039c50377f22144bc3fe47462a956
+
+https://www.reddit.com/r/Superstonk/comments/11kjge8/is_this_the_ficc_asking_the_sec_for_permission_to/
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fis-this-the-ficc-asking-the-sec-for-permission-to-cherry-v0-hj081122w7ma1.png%3Fwidth%3D1812%26format%3Dpng%26auto%3Dwebp%26s%3Ddade9dfb8eb13c52f61d86f474bf1c39c1e737ef
+
+https://www.reddit.com/r/Superstonk/comments/w7zy4c/occ_filing_of_advance_notice_expanding_nonbank/
+
+https://www.sec.gov/files/petn4-842-03072025.htm
+https://www.sec.gov/comments/4-842-petn/4842-petn-228.htm
+
+https://www.sec.gov/files/rules/sro/occ/2023/34-98101.pdf#page=24
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-occ-2022-012-1
+https://www.federalregister.gov/documents/2023/03/27/2023-06195/self-regulatory-organizations-options-clearing-corporation-order-instituting-proceedings-to
+https://www.theocc.com/getmedia/743f6b9a-5758-4393-a9e1-7ac9b5636bf0/sr_occ_20_801_notice_of_no_objection.pdf#page=11
+https://www.theocc.com/getmedia/743f6b9a-5758-4393-a9e1-7ac9b5636bf0/sr_occ_20_801_notice_of_no_objection.pdf;
+https://www.sec.gov/files/litigation/litreleases/2015/34-73979.pdf#page=11
+https://www.sec.gov/files/litigation/litreleases/2022/34-95670.pdf
+https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf#page=26
+https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=112
+https://www.dtcc.com/legal/sec-rule-filings?q=dtc-2021-005&pgs=1
+https://www.sec.gov/files/rules/sro/dtc/2021/34-92249.pdf
+https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf
+https://www.sec.gov/files/rules/sro/dtc/2021/34-92249.pdf
+https://www.reddit.com/r/Superstonk/comments/x56h7d/the_fox_is_guarding_the_hen_house_the_sec_is/
+https://www.reddit.com/r/Superstonk/comments/1awj4io/pension_pilfering_playbook/
+
+https://www.reddit.com/r/BBBY/comments/1392f2l/umm_cede_held_776m_shares_of_bbby_common_stock/
+https://chatgpt.com/c/6807f7e1-7654-8010-b950-8edd6933f4ac
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Focc-proposes-reducing-margin-requirements-to-prevent-a-v0-4imf9oj20ffc1.png%3Fwidth%3D3768%26format%3Dpng%26auto%3Dwebp%26s%3D2d0829e61d9c1ad3672e1cab22f434cda529eae7
+
+https://www.reddit.com/r/Superstonk/comments/1ae0toi/occ_proposes_reducing_margin_requirements_to/
+https://www.theocc.com/getmedia/e8792e3c-8802-4f5d-bef2-ada408ed1d96/default-rules-and-procedures.pdf;#page=7
+https://www.sec.gov/files/rules/sro/occ/2024/34-99393.pdf#page=4
+
+https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-outs-of-collateral-re-use-20181221.html
+for any given moment in time, one security can be attributed to multiple financial transactions
+https://www.imf.org/external/pubs/ft/wp/2010/wp10172.pdf#page=10
+https://www.sec.gov/comments/s7-24-20/s72420.htm
+https://www.govinfo.gov/content/pkg/FR-2021-01-19/pdf/2020-28790.pdf#page=1
+https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202410&RIN=3235-AN16
+https://www.sec.gov/comments/s7-06-22/s70622-209219-423782.htm
+https://www.reddit.com/r/Superstonk/comments/14ic6hv/we_need_on_sec_rule_proposal_s70622_modernization/
+
+https://www.sec.gov/comments/sr-occ-2021-003/srocc2021003-8561059-230781.pdf#page=2
+https://www.sec.gov/files/rules/sro/occ/2020/34-90712.pdf#page=5
+https://www.govinfo.gov/content/pkg/FR-2020-11-09/pdf/2020-24783.pdf#page=3
+https://www.sec.gov/files/rules/sro/occ/2023/34-98107.pdf#page=18
+https://www.sec.gov/files/rules/sro/occ/2023/34-97785.pdf#page=13
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/occ?field_display_title_value=Wind-Down&release_number=&file_number=&year=All&month=All
+https://www.theocc.com/getattachment/708119b9-caf4-4a3f-a09d-b90d6d751ada/OCC_financials_02-24-21_FINAL-(1).pdf#page=7
+https://www.sec.gov/comments/sr-occ-2021-003/srocc2021003-1607622.htm
+https://www.sec.gov/files/rules/sro/occ/2021/34-91199-ex5.pdf#page=4
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/occ?field_display_title_value=&release_number=&file_number=&year=2021&month=All&page=1
+https://www.sec.gov/files/rules/sro/occ/2021/34-91079.pdf
+https://www.sec.gov/comments/sr-occ-2021-003/srocc2021003.htm
+https://www.sec.gov/files/rules/sro/occ/2021/34-92038.pdf
+
+https://www.reddit.com/r/Superstonk/comments/1j8qfus/the_sec_is_ignoring_retail_petitions_against/
+https://www.sec.gov/comments/s7-08-22/s70822-658462.htm
+https://www.reddit.com/r/Superstonk/comments/1j8qfus/the_sec_is_ignoring_retail_petitions_against/
+https://www.reddit.com/r/Superstonk/comments/1al8x69/occs_carrying_heavy_bags_and_hodling_through/
+https://tokenist.com/wp-content/uploads/2021/04/SR-DTC-2021-005-2.pdf#page=42
+https://tokenist.com/is-wsb-reddit-army-about-to-make-a-comeback-with-tweaked-trading-rules/
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F9l3xg2226pq61.png%3Fwidth%3D2836%26format%3Dpng%26auto%3Dwebp%26s%3D14e2215d5bf26b53050ff56b22beaa8325819db1
+https://whalewisdom.com/filer/melvin-capital-management-lp#tabholdings_tab_link
+https://www.reddit.com/r/GME/comments/mibedc/the_moass_wont_happen_until_options_are_not/
+https://www.reddit.com/r/GME/comments/mi8mo9/legal_interpretation_of_the_proposed_srdtc2021005/
+he Collateral Loan Program allows you to pledge securities from held in your general free account as collateral for a loan or for other purposes (such as Letters of Credit) to a pledgee participating in the program. You can also request the pledgee to release pledge securities back to your general free account. These pledges and releases can be free (when money proceeds are handled outside DTC) or valued (when money proceeds are applied as debits and credits to the pledgee's and pledgor's money settlement accounts). A Pledgee may, but need not be, a Participant. Only a Pledgee which is a Participant may receive valued pledges.
+
+
+My interpretation of the DTCC perspective:
+
+(See Step B above).
+
+“From” is way too ambiguous; any lawyer with half
+
+https://www.reddit.com/r/Superstonk/comments/ngwhzu/where_is_srdtc2021005_the_update/
+I would also like to report that the SEC and the DTCC once again were very gracious and timely in their responses.
+
+For those not familiar with SR-DTC-2021-005 and what it does.
+
+In short, SR-DTC-2021-005 would limit the ability of market makers and hedge funds working together to reset FTD transactions and/or conceal short positions through nefarious options trading.
+
+There are some great DD's on this rule by u/bigbrainbets ; u/lighthouse30130, and others, and good follow-up work by u/kamayatzee .
+
+DD's:
+
+https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/
+https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf#page=12
+https://www.reddit.com/r/Superstonk/comments/ovw6st/peekaboo_wait_puts_where_are_you_puts/
+https://www.reddit.com/r/Superstonk/comments/otn94a/can_anyone_explain_the_over_one_million_put/
+
+https://public-inspection.federalregister.gov/2021-11606.pdf?1622637922#page=11
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/occ-an
+https://www.sec.gov/comments/s7-03-14/s70314-18.pdf#page=8
+https://www.sec.gov/comments/s7-03-14/s70314-18.pdf#page=40
+https://www.govinfo.gov/content/pkg/FR-2016-10-13/pdf/2016-23891.pdf#page=7
