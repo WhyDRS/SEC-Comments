@@ -1,15 +1,17 @@
 ---
-title: In re SR-OCC-2025-801 (Transfer Agent Regulations)
+title: In re SR-OCC-2025-801 (Liquidity-Facility Counterparty Rehypothecation)
 ---
 
 ```
 Originator: John Wooten <@JFWooten4>
 Discussion: https://github.com/WhyDRS/SEC-Comments/discussions/14
+Extends: https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf
 Status: Draft
   live: 18 May 2025
   file: SR-OCC-2025-801
   href: https://www.sec.gov/files/rules/sro/occan/2025/34-102462.pdf
 ```
+<!-- please phrase `extends` starting extension as "My Comments in re..."  -->
 
 # Non-Letter Content
 
@@ -62,7 +64,15 @@ Federal Preemption of Challenges in U.C.C. Article 8
 
 # Letter
 
-Dear Secretary,
+Dear ms. Countryman,
+
+We  haveb een investigating the OCC's lqiuity  managemmnet plasns  for some time  now.[^start-reen-ieelds]i ahve great oncern over th eproposed amendments  as someone eeply  self-intersted in  the AMerican  financial  systme functioning[^occm] so that my fgranddparnets might enjoy their golen years without econmicc Protection.[^occm-d] Shhoul this operatioonal change come into effect, 
+
+
+
+
+
+
 
 When I was a child in high school, I began researching the stock market out of a mix of curiousity an fasccinaton. At the time, I was working a minimum-wage job at Subway, devoting every spare weeknight or weekend into sandwiches. Without a car, I'd walk about half an hour to and from the store for my  double shifts when my mom was caught up at work.
 
@@ -1836,3 +1846,9 @@ https://www.sec.gov/files/rules/proposed/s72404/s72404-8.pdf
 https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=47
 
 https://www.sec.gov/files/rules/sro/dtc200302/lwburningham032203.txt
+
+[^start-reen-ieelds]: _See  generally_ PREV  . capitalized phrases  or  acronyms largely defined  therein. The community at large greatly apprrciated  the Commission's diligence leading up  to hte oCC's withdrawel of porposed changes.
+
+[^occm]: _See generally,_ my omments in esponse  to the incredible recent staff acctions  establishing a rhoust tehniccal filing interfacce, _available at_ https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf. 
+
+[^occm-d]:  _Id._ at  § II.B.d.
