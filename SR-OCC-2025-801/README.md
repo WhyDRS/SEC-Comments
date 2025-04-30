@@ -21,7 +21,10 @@ Status: Draft
 
 to: `rule-comments@sec.gov`
 
-cc: `foiapa@sec.gov` (note for the Pollack Study as _Id._  to note 22 of 64 FR 57996) (PREV  is note 120)
+cc: `foiapa@sec.gov` (note for the Pollack Study as _Id._  to note 22 of 64 FR 57996) 
+(PREV  is note 120)
+
+cc: `crypto@sec.gov`
 
 ### Subject Line
 
@@ -43,6 +46,16 @@ Please see request in note 8XYZ9 (DTC submit) and 24329OCC (reminder on 24-01211
 In good faith,
 John Wooten
 Member, WhyDRS
+
+P.S. Crypto Task Force, these comments relate to previous communication sent on 30 Apr 2025.
+
+### tmp  discord  #generlawr reveiw annoucnemnt
+
+Hi @here,
+
+[finished](https://github.com/WhyDRS/SEC-Comments/...)
+
+[Godspeedc](https://youtu.be/zl65WgZFN-o)
 
 ## Document
 
@@ -228,6 +241,7 @@ BD needs posession or control
 
 
 https://youtu.be/Zu5lFsjCknw - safehaurding classification at 60
+href ass disccussion on perfecting interests at>   
 
 ### on  wall  st
 Rachel
