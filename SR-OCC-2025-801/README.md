@@ -75,6 +75,29 @@ Washington, DC 20549-1090
 
 Federal Preemption of Challenges in U.C.C. Article 8
 
+##  Terminus Narrative
+
+- GME problems (brief)
+- State law  flaws
+- Intro FTDs
+- Frame as  *centrality*  around other banking stories
+- The  cvontrol problems in bankruptcies
+- The profit motive throgh apex (leveragng too fines)
+- DAs from DTC'sgreat collateral  theft
+- Prgrammatic access to COinbase as aprallell
+- Control frame on systmets through  2006
+- Proposed tri-party sys at n.17 https://www.govinfo.gov/content/pkg/FR-2025-02-26/pdf/2025-03071.pdf#page=2
+   - explaining how  it's literally the DTC  system
+   - go into the  cross-marginging and collateral
+   - overview of interconntected cross-margiing
+- Inadequate risk prep  via / per SIPC
+- How  this is genrally unknown
+  - ccat talk
+  - crypto  rouidntbaling
+  - pther agent outreach
+- >>  Community as solution
+
+
 # Letter
 
 Dear ms. Countryman,
