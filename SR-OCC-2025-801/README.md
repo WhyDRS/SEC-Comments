@@ -53,9 +53,11 @@ P.S. Crypto Task Force, these comments relate to previous communication sent on 
 
 Hi @here,
 
-[finished](https://github.com/WhyDRS/SEC-Comments/...)
+[finished](https://github.com/WhyDRS/SEC-Comments/tree/main/SR-OCC-2025-801)
 
 [Godspeedc](https://youtu.be/zl65WgZFN-o)
+
+TODO ending fn and sponosr def to https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE
 
 ## Document
 
@@ -167,25 +169,16 @@ Notwithstanding,  I  do  hope  staff  ocnitnue  contemplating  blockchain  techn
 
 [^peirce-SUBTLE]: _See, e.g.,_ earlier work discussing the materiality of securities lending in the bailout of American International Group, _available at_ https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=10106&context=ypfs-documents. The paper concludes after extensively establishing that "securities-lending issues arose in regulated life-insurance companies" which needed the "discipline" of independent action, since "merely making sure that every entity has a regulator will not fix the financial markets." Might a more decentralized, localized, and autonomous strategic-planning market for organizational decisions best support the whole financial system as it rapidly evolves?
 
-
 [^Dole]: _See, e.g.,_ investor class-action memorandum after an unfair management-led buyout, previously settled at a 20% premium over the original price, _available at_ https://courts.delaware.gov/Opinions/Download.aspx?id=252690. Shareholders held valid claims against 49,164,415 shares which "substantially exceeded the 36,793,758 shares" available. While DRS investors received the full award amount, it is questionable whether all beneficial holders received due compensation through the custodial structure. The funds were sent to all record holders, but clearly some class members would need to receive reimbursement from a fraction of their holdings since Cede was the only registered owner which could create more share entitlements than true shares.
 
 [^Dole-id]: _Id._ n.1. Vice Chancellor J. Travis Laster  laments the "top-down federal solution"  rushed  out  after  th e  Peapeorwork  Crisis,  highlighting the  nedw opporutnityh  where "[d]istributed ledger technology offers a potential technological solution"  for "a single and comprehensive stock ownership ledger."  WE've  fdeveloped  such a  tehcnololgy  from a grassroots open-source  communtiy further  described  _infra_ § III
 
-[^buffett-drs]: For instance, Warren Buffett once wrote that investors should "be sure to have your stock registered in your name" after [owner-directed untaxable donations]. Corporate nonprofit tax 2nd sentence. _See also_ remarks from Commissioner Peirce supporting blockchain technologies as a solution to the convoluted securityholder communication structure present in the Custodial Structure, _available at_ https://youtu.be/6wUzE9ynIjI.
+[^buffett-drs]: For instance, Warren Buffett once wrote that investors should "be sure to have your stock registered in your name" after failing to  receive  sharheodler donation requests from entitelment holders, _available at_ https://www.berkshirehathaway.com/letters/1981.html. IN  this  charitable  act  to  donate  corporate profits to nonprofit causes, it  took berkshire's largest brokekr three weeks to froward the notice despite bikling "for mailing services within six days of that belated and ineffectual action." _See also_ remarks from Commissioner Peirce supporting blockchain technologies as a solution to the convoluted securityholder communication structure present in the Custodial Structure, _available at_ https://youtu.be/6wUzE9ynIjI.  Might  a  new digital, verifiable, open proxy systme through transfer agents best keep investors connectored to the issueers they  support?
 
 [^leanord]: _See, e.g.,_ concerns  of  Leonard W. Burningham, Esq.  over  innacurate securities deliveries which perpetuate in today's markets, _available at_ https://www.sec.gov/files/rules/sro/dtc200302/lwburningham032203.txt. IN orally disucssing  the adverse  claims problems raised a nd  case  parties, it was  apparent last week  that  mcuh  of  this  knowledge and reccolation  has been lost  to time,  as  I'm  sure could undserstandbly  happen with  hardworkign staff.  But  I will  poutline _infra_ §  2 how  the markets  are getting  more and m ore incterconnected  as feared  by refulatrors,  and thus  the  problkems  of perfected  interests  in UCC  § 8-115  can materially  harm invvestors.
 
-~~~ _ID_s:
-     Unfortunately, communication to such non-record shareholders could take place only through the nominees.  We therefore strongly urged those nominees, mostly brokerage houses, to promptly transmit our letter to the real owners.  We explained that their failure to do so could deprive such owners of an important benefit.
-     
-     The results from our urgings would not strengthen the case for private ownership of the U.S. Postal Service.  Many of our shareholders never heard from their brokers (as some shareholders told us after reading news accounts of the program).  Others were forwarded our letter too late for action.
-     
-     One of the largest brokerage houses claiming to hold stock for sixty of its clients (about 4% of our shareholder population), apparently transmitted our letter about three weeks after receipt - too late for any of the sixty to participate. (Such lassitude did not pervade all departments of that firm; it billed Berkshire for mailing services within six days of that belated and ineffectual action.)
-~~~
 
-
-### Glaring Accounting Inaccuracies
+### Glaring  Legacy Accounting Inaccuracies
 
 
 Our derivatives, banking, and financial system seem tightly intertwined with the Custodial Structure. Given my concerns over the stability of this system, justified by rulemaking last year,[^wind-down-rule] I would like to discuss the downstream implications of an overreliance on a select few protocols. These can be open standards or proprietary corporate operations, ultimately leading to a concentration of risk for all investors given any operational breakdowns.
@@ -196,10 +189,22 @@ Once we arrived, it took at least three hours to deposit all of the bonds despit
 
 Two months after this interaction, my partner received a letter on January 6, stating a savings bond "was redeemed for an incorrect amount." The actual amount redeemed was 40% less than originally credited, resulting in a deduction which overdrafted her account as $100 previously withdrawn turned into $59.76. The message was signed by the name "SSS" from the bank's "Centralized Operations." Does the Commission believe our financial system should rely on processes so routinely prone to human error?
 
+<TODO: >
+
+--  cede  number  from https://discord.com/channels/@me/1199451596690575360/1329914380107645019
+https://www.reddit.com/r/BBBY/comments/1392f2l/umm_cede_held_776m_shares_of_bbby_common_stock/
+
+<arch>
+The Commission introduced the Central Certificate Service ("CCS") in the context of the Unsanctioned Practices Study ("UPS").[^nyse-intro]
+
+[^nyse-intro]: _See_ concept release at n.45. Have staff contemplated the treatment of nominee partnership depositories in the context of securities with higher circulating brokerage supply than legal outstanding issuance? Namely, an issuer popular with individual investors went bankrupt two years ago with a disproportionate proposition of shares outstanding compared to those held under the Custodial Structure according to centralized FAST declarative ownership data. The issuer's bankruptcy filings showed the CCS street-name partnership nominee referenced as owning 776,404,408 common shares, _available at_ https://wooten.link/kroll-cede at 8. However, the issuer's books and records at the transfer agent recorded only 739,056,836 shares outstanding four days after the bankruptcy capitalization table, _available at_ https://www.sec.gov/ix?doc=/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm at 2. Thus, it would be impossible for all partnership nominee claimants to bear rights to common stock in this enterprise.
+
+
+
 
 [^wind-down-rule]: _See_ File No. S7-10-23 as came into effect just this January, _available at_ https://www.sec.gov/files/rules/final/2024/34-101446.pdf. The policy change addresses how the Custodial Structure "can pose systemic risk to the financial system" given participants "concentrate risk in the clearing agency." Staff at 119 go so far as to say that "contagion events that could pose a systemic danger to the U.S. financial system." I appreciate the Commission's active role in attempting to mitigate these unnecessary risks, which DTCC itself claims are impossible to expunge at note 441.
 
-### Continued Manual Processes
+### Continued Daily Manual Processes
 
 In reviewing the operations of central custodians over the past year, I've been remarkably distraught by the level of manual human involvement and judgment present in margining calculations. Because of these thoughts, I requested staff share with our community and the public at large certain particularly hazardous methodology changes at a clearing firm and SRO last year.[^occ-foia-ref] Unfortunately, we are yet to hear back from this request a full nine months later.
 
@@ -236,7 +241,13 @@ We appreciate the Commission's attempts to mitigate these risks in recent rulema
 [^doub-back]: _See_ _supra_ note {{^wind-down-rule}}.
 
 
+
+
+
 ### Control fo All Seucirties
+
+
+<TODO>
 
 https://youtu.be/GtyR5nMWEwk?feature=shared&t=1886
 BD needs posession or control
@@ -263,6 +274,14 @@ adam -0 UCC 8 AT 34:00 (2nd)
 ryan
 justin
 larry
+
+---
+
+this continues  the UCC 8  1994  review ddiscussion
+src here likely  duplicates: https://code.dccouncil.gov/us/dc/council/code/sections/28:8-503
+>   There is no reason to think that rules permitting customers of an intermediary to trace and recover securities that their intermediary wrongfully transferred work to the advantage of investors in general. To the contrary, application of such rules would often merely shift losses from one set of investors to another. The uncertainties that would result from rules permitting such recoveries would work 
+
+
 
 #### Operational Deception Investigations
 
@@ -302,6 +321,7 @@ For decades at this point, the processing of short sales has been top-of-mind fo
 #### Clearing Agency Margining
 
 https://www.interactivebrokers.com/download/worldFederationOfExchanges.pdf just after the Great Recession, Peterffy writes: "
+
 > Collecting margins is not the clearinghouse’s only function. When a clearing member fails, the clearinghouse has to be able to step into the failing clearing member’s position and liquidate that position while trying to minimize losses and public panic. And here we come full circle, because if there is not a liquid market at the exchange, how will that position be liquidated? If it is a large position, what is the clearinghouse going to do? If the losses exceed the clearinghouse's resources, who will end up with those losses? The other members will, but if some of them do not have sufficient funds, we will be faced with a domino effect
 
 Adamant community member[^ringingbells] has invested years of advocacy work around a particular transaction uncovered by the Congressional "Game Stopped" report.[^game-stopped] I would like to explore this event because few, if any, other commenters on pending rulemaking highlight this incident, and the Commission's own staff report mentions Apex only once at 9.[^staff-gme-study] Thus, I will go into greater detail than normal so as to fully document my interpretation of the events, operational incidents which seem pertinent to staff but I have not personally seen highlighted.
@@ -337,85 +357,8 @@ Apparently, it was one of those market maker venues which "encountered a technic
 
 [^house-reg-sci-subsec]: _See_ _supra_ note {{^game-stopped}} § IV.2.d.
 
-##### Management Routing Decisions
 
-As someone who started in the markets as an active investor, I've seen firsthand how competing brokers over the years transformed their service offerings in the advent of zero-commission brokers. Routing was always one material differentiator amongst relatively advanced investors, a differentiator that could unilaterally control whether or not you got the best price in a fast-moving trade, despite the best efforts of Regulation NMS up to the turn of the last decade. Should new investors’ ever-expanding order flow really serve as a profit stream for brokers over and above an investment vehicle for individuals?
-
-Another such incident occurred in November last year, with another broker employing Apex's services. I invested every cent in my stock account into a company in mid-2022 which subsequently lost 80% of its value in six months. However, I chose to leave the account alone to grow because I liked the long-term prospects of the issuer. They proceeded to increase fifty-fold in two years, when I received a discreet email.[^email-cvvv1] "Login to your account to avoid a $25 inactivity fee," said the broker in an inbox full of financial spam letters.
-
-The firm charged my account a $25 fee two weeks later, but the portfolio only held one stock. Thus, they forcibly sold a tenth of a share from my assets the next day to cover the senseless charge.[^email-cvvv2] Does the Commission believe investors should have total control over their own portfolio, especially when held through a cash account? Apex and others do not seem to believe this to be the case.[^apex-fine-foreshadow]
-
-Indeed, staff's own findings report that the "vast majority of GME stock trades executed off exchange in January 2021 were internalized (approximately 80%)" as opposed to letting orders freely compete with others in a traditional priced market.[^staff-gme-internalization] Everyone in our community has seen firsthand just how much "payments to broker-dealers may raise questions about the execution quality investors receive."[^staff-gme-conflicts] Do we need to leave our markets groveling in a back-and-forth between brokerage executives and their investors, everyday people who are often referred to as customers rather than equal market participants?[^rh-s1]
-
-
-[^email-cvvv1]: The exact email sent 6 Nov 2024 also stated that "[o]ur records show that it has been approximately six months since you have logged into your [account]." I was instructed to "log in by end of day 11/15/2024" but did not see the message by that date.
-
-[^email-cvvv2]: I do not think an investment application should disincentivize long-term investing, so I sold the remainder of the position and closed the account four days later. I did attempt a stock transfer to another broker, but the fee to do so was arbitrarily high, marked up by a factor of nearly 500 times the public clearing and settlement charge therefor.
-
-[^apex-fine-foreshadow]: _See, e.g.,_ opinion affirming dismissal in _Peter Jang v. Apex Clearing Corporation_, 23-10436 (11th Cir.), _available at_ https://cases.justia.com/federal/appellate-courts/ca11/22-10669/22-10669-2024-10-08.pdf. At 15, the judge rules that "clearing brokers like Apex generally don’t owe individual investors any fiduciary duties" and thus cannot be held to serve the best interests of investors in New York. The court continues to dissect the misunderstanding that "the stockbroker-investor relationship is a fiduciary relationship" at nn.3–4.
-
-[^staff-gme-internalization]: _See_ _supra_ note {{^staff-gme-study}} at 37. Moreover, as the Commission knows, "88% of internalized dollar volume in January [2021] executed by just three wholesalers" according to note 100 on the same page. Is it healthy for our great NMS if one firm accounts for over half of daily internalized trading volume, according to this source? A firm which solely exists to make a market for profit using preferential access to certain liquidity venues not available to large swaths of the investing public.
-
-[^staff-gme-conflicts]: _Id._ at 44. Here, staff also remark that "though wholesalers increasingly handle individual investor order flow, they face fewer requirements concerning their operational transparency and resiliency as compared to exchanges or ATSs." While it could be challenging to crack down on these institutions given the "free" trading regime brokers design around rebates, might an alternative blockchain-based and transparency-focused transfer-agent system alleviate these market-structure loopholes?
-
-[^rh-s1]: That is, if they're not referred to as a product sold to market-making firms. _See_ staff correspondences regarding IPO of most notable intermediary of the PCO event in _Id._ As the Commission knows, the Division of Corporate Finance suggests a "revision to clarify users are not customers" in their registration statement, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000000000021007261/filename1.pdf.
-
-##### Inadequate Participant Capitalization
-
-> If a clearinghouse were to fail, there would be tremendous pressure for the government to bail it out in the name of financial stability.
-> 
-> — Commissioner Hester Peirce[^peirce-bailout-quote]
-
-_supra_ has TOC:
-Here are just the section numbers and names:
-
-**I. OTC Derivatives, Clearinghouses, and Their New Regulatory Framework**  
-A. OTC Derivatives in a Changing Regulatory Landscape  
-B. What Clearinghouses Do  
-C. How Swap Clearinghouses Are Regulated  
-
-**II. Problems with the Current Regulatory Framework**  
-A. Potential for Expanded CCPs to Destabilize the Financial System  
-B. Potential for Clearing Mandate to Undermine Risk Management Outside the CCP  
-C. Mandated Central Clearing Could Impair Counterparty Monitoring  
-D. Mandated Clearing Could Force Improper Risks into CCPs  
-E. Regulatory Conflicts of Interest Could Impair CCP Risk Management  
-F. Bailout Risk  
-
-**III. A Better Approach to Managing Risk**  
-A. Elimination of the Clearing Mandate  
-B. Principles-Based Regulation  
-C. Properly Aligned CCP Ownership and Governance  
-D. End Implicit and Explicit Promises of Bailouts
-
-
-
-I find these differing interests concerning because of historic instabilities in "automated" clearing which lead to emergency capital calls such as those seen in the PCO event. For instance, over a decade after DTC was founded, "a computer problem prevented the Bank of New York from delivering securities from its custodial accounts."[^ny-fed-fails] Unfortunately, many of these behind-the-scenes systems errors can stay hidden from investors, leaving them unaware of processing challenges until it's too late.[^hidden-errs]
-
-More to the point, it is my understanding that the Commission is intimately familiar with the interconnectedness of clearing members in the Custodial Structure. The NY Fed documented what staff have known for quite some time: FTDs create "an increase in counterparty credit risk" which leads to cascading interconnected losses when "a buyer becomes insolvent before the settlement of a trade" and leaves investors with "nothing to deliver should they decide to sell."[^ny-fed-id1] Given the recent insolvencies of leading broker-dealers, it seems the methods of federal investor protections will quite immediately matter more than any years past.[^shoerer]
-
-This is partly and materially why I worry about the centralization risks inherent in the private, opaque, and concentrated central firm at the core of intermediated clearing today. This exact positioning led the Bank of New York to borrow over three percent of the M1 money supply of all dollars in America when an "error occurred in a messaging system which buffered messages going in and out of the bank."[^ny-err-1] In an unprecedented series of events, "the bank actually had to borrow that amount from the New York Fed — pledging all of its assets — in order to balance its accounts overnight."[^ny-err-2]
-
-Journalists at the time highlighted "the spillover effects on the government securities market" caused by this single intermediary during a period that "was not an especially heavy day for securities transactions."[^ny-err-3]
-
-
-[^peirce-bailout-quote]: _See_ _supra_ note {{^csuohio}}  at 2.
-
-[^ny-fed-fails]: _See_ clearinghouse settlement failures study from a research series which had its industry funding revoked a decade ago, _available at_ https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci11-9.pdf#page=2. Also on this page, notable researching authors indicate in Chart 1 that failures to deliver in Treasuries began in earnest around 1992. "Fails to deliver involving Treasury securities occurred in every week between July 4, 1990, and December 29, 2004," notes the study, averaging over $440 billion per month in 2025 dollars.
-
-[^ny-fed-id1]: _Id._ at 5.
-
-[^hidden-errs]: _See_ _supra_ note {{^game-stopped}} at § III.2, finding and disclosing over a year after the fact that DTCC arbitrarily chose to waive margin charges and had "regularly waived such charges during periods of acute volatility" for years prior. Congressional staff found that "at least one member firm made a business decision" to allow trades creating excess-risk charges because NSCC's charge "was either not applied or reduced 63 times" to the tune of billions in risk deposits. In following this series of repeated margin-forgiveness decisions, Congress found a single managing director "has the ultimate authority to authorize waivers" and "does not need to consult with anyone to authorize a waiver." Should these calculations, so crucial to the integrity and stability of our great market system, really lie in the hands of a select few individuals, "particularly when the risk of default is greatest[?]"
-
-[^shoerer]: _See, e.g.,_ one article detailing the bankruptcy of Stoever, Glass & Co. in February, an intermediary which had been in business for over six decades, _available at_ https://www.investmentnews.com/goria/practice-management/60-year-old-new-york-broker-dealer-files-bankruptcy-closes-down/259356. In a bankruptcy filing of their affiliated wealth management arm, the firm has at least an estimated $1 million in liabilities compared to under $50,000 in assets.
-
-[^ny-err-1]: _See_ a documented archive of the Bank of New York's "$32 Billion Overdraft" because of bond clearing miscalculations for tens of thousands of issues at _supra_ note {{^ny-fed-fails}} n.4, _available at_ https://dl.acm.org/doi/pdf/10.1145/382300.382301#page=2. The bank "incurred an estimated $4 million interest expense on the borrowing, [but] the bank said any impact on its net income 'will not be material.' For the first nine months this year, earnings totaled $96.7 million."
-
-[^ny-err-2]: _Id._ from reprinting of _Washington Post_ article. Only "able to borrow $700 million from other banks. The rest was covered by a $23.6 billion loan from the New York Fed. As collateral, the bank pledged all its domestic assets and all its customers' securities" with only hours of notice. Will we expect the banks to support any kind of clearing-system failure, and, if so, what happens when their available funds require again borrowing against American investor portfolios?
-
-[^ny-err-3]: _Id._ As the Commission knows, much of this present risk now exists centralized in the FICC as established for the benefit of industry participants. However, these "efficiencies" propagate to the benefit of speculators who can propagate record quantities of risky positions using common collateral between their accounts therewith and at the Chicago Mercantile Exchange, as established by a cross-margining agreement formalized two decades ago without a notice-and-comment period in SR-FICC-2003-10, duly revised and _available at_ https://www.dtcc.com/~/media/Files/Downloads/legal/rules/ficc_cme_crossmargin_agreement.pdf.
-
-##### Procyclical Correlative Actions
+#### Procyclical Correlative Actions
 
 cross-margining gets into toxig GME risk  xfers:  https://www.cftc.gov/PressRoom/PressReleases/9066-25
 
@@ -432,15 +375,12 @@ Concerningly, the OCC says that margin failure testing is both "a highly manual 
 As the Commission knows, the broker's $3.7 billion obligation to the Custodial Structure placed the intermediary at risk for insolvency given their $700 million in free collateralizable assets.[^staff-gme-study] Accordingly, such Regime members, without public review or comment, elected to decrease obligations by $2 billion,[^rh-arg-main] an amount of money available by means of emergency Wall Street fundraising, quite possibly placing the stability of the entire financial system at stake. Should we trust our most meaningful periods of market volatility such as Trade 385 in the hands of systems subject to fat-fingering or human-processing errors?
 
 
-
-and I'm gonna need anothger thin capitalization tie -in to end
-
----
+Thhin  clearing agnecy  capitalizaed  backstoip outside of defaulitng mnemebr
 
 at https://democrats-financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf#page=82
 https://www.reddit.com/r/Superstonk/comments/1dz57am/trade_385_the_most_important_ignored_aspect_of
 
----
+
 NASAA Statement (https://www.nasaa.org/75514/nasaa-statement-on-confirmation-of-paul-atkins-as-sec-chairman/), pre-Atkins Comment (https://www.sec.gov/comments/s7-12-06/jpborg7410.pdf), and Community Rebutal (https://docs.google.com/document/d/13s1I3cZFVvtyPc5Fq5Osol61zM18291-j6KRxG3e0UI/edit)
 
 
@@ -545,7 +485,7 @@ conta DTCC statement "A dramatic increase in a clearing member's VaR charges ove
 
 
 
-### Equivalnet Outstanding Mishandling
+### Equivalnet Outstanding Custodial Mishandling
 (DTC/GME overfail)
 
 
@@ -635,32 +575,19 @@ Etrade does its own routing
 
 [^dtc-smac-2]: https://www.sec.gov/comments/s7-07-23/s70723-202219-405182.pdf#page=6. _See also_ ITP exempoting order note 24 which asserts that almost a full half of comments "urged the Commission to ensure that no entity improperly gains a monopoly on any aspect of trade processing" from firms such as JPMorgan Chase, Goldman Sachs, UBS Warburg, Deutsche Bank, Merrill Lynch, and State Street; _available at_ https://www.govinfo.gov/content/pkg/FR-2001-04-23/pdf/01-9962.pdf#page=3. In note 21, this document also suggests that the indsutry will shorten the settlement cycle to T+1 by a deadline over two decades ago.
 **holy shit bro n.40 also falls uynder Clinton in the antitrust oversight of fucking ITP review !!!**
-[^dtc-smac-3]: 
-[^dtc-smac-4]: 
-[^dtc-smac-5]: 
-[^dtc-smac-6]: 
 
 
 
 
-
-> The Working Group's report shall consider provisions for market structure, oversight, consumer protection, and risk management.
->
-> — The White House
+[^White House-da]: "The Working Group's report shall consider provisions for market structure, oversight, consumer protection, and risk management."
+— The White House aty https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/
 
 
---I do not think this footnote is currently used (below) is intention here to add section about overvoting and truncation? I'd be happy to pen that in if so. I do see that later on you describe it briefly and link to a similar page on your own site--
+### Required Central Propogation roles
 
-[Here's](https://web.archive.org/web/20211125104506/https://www.computershare.com/ca/en/Documents/CPU_OVER_VOTING_OPTION_en.pdf) the (now removed) archive. The document walks through six options, with one of them just being to throw away the broker's vote.
-this is in ^overvoting-fabrication}}
+we  haveth echives  podcast  on DTC-DA which seguaetys  to DTCC CBDC
 
-
-
-### Required Central roles
-
-chat ion the @chvss CBDC study and implications in re {{id}} for quote setup 
-
-given "no further actions may be taken to develop or implement" a CBDC {{id}}
+given "no further actions may be taken to develop or implement" a CBDC {{^White House-da}}
 
 --https://www.dtcc.com/-/media/WhitePapers/Transforming-Collateral-Management-With-Digital-Assets-JSCC.pdf--
 
@@ -689,12 +616,90 @@ Information on how the system worked for custodianship and immobilization is in 
 
 [^UCC-year]: While we appreciate that about half of our great Nation's States amended their codes two years ago, particularly section 8 thereof, these changes do not address the material concerns we have over the protection of investor assets held in retirement, health-savings, or any other entitlement accounts. We will detail these challenges later, which were introduced in their entirety in the 1994 amendments.
 
-[^overvoting-fabrication]: _See, e.g.,_ an internal transfer agent service document describing six ways to truncate or otherwise throw out votes in elections where more shares are voted than exist, _available at_ https://wooten.link/overvoting-fabrication.
+[^overvoting-fabrication]: _See, e.g.,_ an internal transfer agent service document describing six ways to truncate or otherwise throw out votes in elections where more shares are voted than exist, _available at_ https://wooten.link/overvoting-fabrication.  Should  agnets  relly need to resort ot throwing away  votes becaue  the  Custodial Sturcture allows more shares to  ccirculate than exist?
 
 [^BASIC-UCC]: _See_ remarks on the BANKING AND SECURITIES INDUSTRY COMMITTEE amendments to UCC in 1972, mentioned in the concept release at n.62, enabling the custodianship and immobilization necessary for margin loans, _available at_ https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf#page=69. Upon the adoption of these new State laws, "DTC commenced taking steps to implement the long-desired broadening of its ownership, even though a small percentage of its eligible issues would be from non-enacting states." As the Commission knows, this ownership stake often exceeds 99.9% of public issuers, presenting an immense centralization risk should its nominee partnership face any threats.
 
 [^FSU-UCC]: _See_ Florida State University Law Review's article: _A Critical Look at Secured Transactions Under Revised UCC Article 8_, _available at_ https://ir.law.fsu.edu/lr/vol14/iss4/2. In 1987, Dr. Paul B. Rasor, Ph.D. therein states:
 > The extension of Article 8 to uncertified shareholder interests did not have anything to do with the problems of secured lenders. Instead, it grew out of the so-called "paperwork crunch" which came to a head in the late 1960s in the securities industry... financial intermediaries and other bailees will presumably have records showing which notices were received when. Nothing in the revised Article 8 affects this.
+
+#### Management Routing Profit  Decisions
+
+As someone who started in the markets as an active investor, I've seen firsthand how competing brokers over the years transformed their service offerings in the advent of zero-commission brokers. Routing was always one material differentiator amongst relatively advanced investors, a differentiator that could unilaterally control whether or not you got the best price in a fast-moving trade, despite the best efforts of Regulation NMS up to the turn of the last decade. Should new investors’ ever-expanding order flow really serve as a profit stream for brokers over and above an investment vehicle for individuals?
+
+Another such incident occurred in November last year, with another broker employing Apex's services. I invested every cent in my stock account into a company in mid-2022 which subsequently lost 80% of its value in six months. However, I chose to leave the account alone to grow because I liked the long-term prospects of the issuer. They proceeded to increase fifty-fold in two years, when I received a discreet email.[^email-cvvv1] "Login to your account to avoid a $25 inactivity fee," said the broker in an inbox full of financial spam letters.
+
+The firm charged my account a $25 fee two weeks later, but the portfolio only held one stock. Thus, they forcibly sold a tenth of a share from my assets the next day to cover the senseless charge.[^email-cvvv2] Does the Commission believe investors should have total control over their own portfolio, especially when held through a cash account? Apex and others do not seem to believe this to be the case.[^apex-fine-foreshadow]
+
+Indeed, staff's own findings report that the "vast majority of GME stock trades executed off exchange in January 2021 were internalized (approximately 80%)" as opposed to letting orders freely compete with others in a traditional priced market.[^staff-gme-internalization] Everyone in our community has seen firsthand just how much "payments to broker-dealers may raise questions about the execution quality investors receive."[^staff-gme-conflicts] Do we need to leave our markets groveling in a back-and-forth between brokerage executives and their investors, everyday people who are often referred to as customers rather than equal market participants?[^rh-s1]
+
+
+[^email-cvvv1]: The exact email sent 6 Nov 2024 also stated that "[o]ur records show that it has been approximately six months since you have logged into your [account]." I was instructed to "log in by end of day 11/15/2024" but did not see the message by that date.
+
+[^email-cvvv2]: I do not think an investment application should disincentivize long-term investing, so I sold the remainder of the position and closed the account four days later. I did attempt a stock transfer to another broker, but the fee to do so was arbitrarily high, marked up by a factor of nearly 500 times the public clearing and settlement charge therefor.
+
+[^apex-fine-foreshadow]: _See, e.g.,_ opinion affirming dismissal in _Peter Jang v. Apex Clearing Corporation_, 23-10436 (11th Cir.), _available at_ https://cases.justia.com/federal/appellate-courts/ca11/22-10669/22-10669-2024-10-08.pdf. At 15, the judge rules that "clearing brokers like Apex generally don’t owe individual investors any fiduciary duties" and thus cannot be held to serve the best interests of investors in New York. The court continues to dissect the misunderstanding that "the stockbroker-investor relationship is a fiduciary relationship" at nn.3–4.
+
+[^staff-gme-internalization]: _See_ _supra_ note {{^staff-gme-study}} at 37. Moreover, as the Commission knows, "88% of internalized dollar volume in January [2021] executed by just three wholesalers" according to note 100 on the same page. Is it healthy for our great NMS if one firm accounts for over half of daily internalized trading volume, according to this source? A firm which solely exists to make a market for profit using preferential access to certain liquidity venues not available to large swaths of the investing public.
+
+[^staff-gme-conflicts]: _Id._ at 44. Here, staff also remark that "though wholesalers increasingly handle individual investor order flow, they face fewer requirements concerning their operational transparency and resiliency as compared to exchanges or ATSs." While it could be challenging to crack down on these institutions given the "free" trading regime brokers design around rebates, might an alternative blockchain-based and transparency-focused transfer-agent system alleviate these market-structure loopholes?
+
+[^rh-s1]: That is, if they're not referred to as a product sold to market-making firms. _See_ staff correspondences regarding IPO of most notable intermediary of the PCO event in _Id._ As the Commission knows, the Division of Corporate Finance suggests a "revision to clarify users are not customers" in their registration statement, _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000000000021007261/filename1.pdf.
+
+##### Inadequate Participant Capitalization
+
+> If a clearinghouse were to fail, there would be tremendous pressure for the government to bail it out in the name of financial stability.
+> 
+> — Commissioner Hester Peirce[^peirce-bailout-quote]
+
+_supra_ has TOC:
+Here are just the section numbers and names:
+
+**I. OTC Derivatives, Clearinghouses, and Their New Regulatory Framework**  
+A. OTC Derivatives in a Changing Regulatory Landscape  
+B. What Clearinghouses Do  
+C. How Swap Clearinghouses Are Regulated  
+
+**II. Problems with the Current Regulatory Framework**  
+A. Potential for Expanded CCPs to Destabilize the Financial System  
+B. Potential for Clearing Mandate to Undermine Risk Management Outside the CCP  
+C. Mandated Central Clearing Could Impair Counterparty Monitoring  
+D. Mandated Clearing Could Force Improper Risks into CCPs  
+E. Regulatory Conflicts of Interest Could Impair CCP Risk Management  
+F. Bailout Risk  
+
+**III. A Better Approach to Managing Risk**  
+A. Elimination of the Clearing Mandate  
+B. Principles-Based Regulation  
+C. Properly Aligned CCP Ownership and Governance  
+D. End Implicit and Explicit Promises of Bailouts
+
+
+
+I find these differing interests concerning because of historic instabilities in "automated" clearing which lead to emergency capital calls such as those seen in the PCO event. For instance, over a decade after DTC was founded, "a computer problem prevented the Bank of New York from delivering securities from its custodial accounts."[^ny-fed-fails] Unfortunately, many of these behind-the-scenes systems errors can stay hidden from investors, leaving them unaware of processing challenges until it's too late.[^hidden-errs]
+
+More to the point, it is my understanding that the Commission is intimately familiar with the interconnectedness of clearing members in the Custodial Structure. The NY Fed documented what staff have known for quite some time: FTDs create "an increase in counterparty credit risk" which leads to cascading interconnected losses when "a buyer becomes insolvent before the settlement of a trade" and leaves investors with "nothing to deliver should they decide to sell."[^ny-fed-id1] Given the recent insolvencies of leading broker-dealers, it seems the methods of federal investor protections will quite immediately matter more than any years past.[^shoerer]
+
+This is partly and materially why I worry about the centralization risks inherent in the private, opaque, and concentrated central firm at the core of intermediated clearing today. This exact positioning led the Bank of New York to borrow over three percent of the M1 money supply of all dollars in America when an "error occurred in a messaging system which buffered messages going in and out of the bank."[^ny-err-1] In an unprecedented series of events, "the bank actually had to borrow that amount from the New York Fed — pledging all of its assets — in order to balance its accounts overnight."[^ny-err-2]
+
+Journalists at the time highlighted "the spillover effects on the government securities market" caused by this single intermediary during a period that "was not an especially heavy day for securities transactions."[^ny-err-3]
+
+
+[^peirce-bailout-quote]: _See_ _supra_ note {{^csuohio}}  at 2.
+
+[^ny-fed-fails]: _See_ clearinghouse settlement failures study from a research series which had its industry funding revoked a decade ago, _available at_ https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci11-9.pdf#page=2. Also on this page, notable researching authors indicate in Chart 1 that failures to deliver in Treasuries began in earnest around 1992. "Fails to deliver involving Treasury securities occurred in every week between July 4, 1990, and December 29, 2004," notes the study, averaging over $440 billion per month in 2025 dollars.
+
+[^ny-fed-id1]: _Id._ at 5.
+
+[^hidden-errs]: _See_ _supra_ note {{^game-stopped}} at § III.2, finding and disclosing over a year after the fact that DTCC arbitrarily chose to waive margin charges and had "regularly waived such charges during periods of acute volatility" for years prior. Congressional staff found that "at least one member firm made a business decision" to allow trades creating excess-risk charges because NSCC's charge "was either not applied or reduced 63 times" to the tune of billions in risk deposits. In following this series of repeated margin-forgiveness decisions, Congress found a single managing director "has the ultimate authority to authorize waivers" and "does not need to consult with anyone to authorize a waiver." Should these calculations, so crucial to the integrity and stability of our great market system, really lie in the hands of a select few individuals, "particularly when the risk of default is greatest[?]"
+
+[^shoerer]: _See, e.g.,_ one article detailing the bankruptcy of Stoever, Glass & Co. in February, an intermediary which had been in business for over six decades, _available at_ https://www.investmentnews.com/goria/practice-management/60-year-old-new-york-broker-dealer-files-bankruptcy-closes-down/259356. In a bankruptcy filing of their affiliated wealth management arm, the firm has at least an estimated $1 million in liabilities compared to under $50,000 in assets.
+
+[^ny-err-1]: _See_ a documented archive of the Bank of New York's "$32 Billion Overdraft" because of bond clearing miscalculations for tens of thousands of issues at _supra_ note {{^ny-fed-fails}} n.4, _available at_ https://dl.acm.org/doi/pdf/10.1145/382300.382301#page=2. The bank "incurred an estimated $4 million interest expense on the borrowing, [but] the bank said any impact on its net income 'will not be material.' For the first nine months this year, earnings totaled $96.7 million."
+
+[^ny-err-2]: _Id._ from reprinting of _Washington Post_ article. Only "able to borrow $700 million from other banks. The rest was covered by a $23.6 billion loan from the New York Fed. As collateral, the bank pledged all its domestic assets and all its customers' securities" with only hours of notice. Will we expect the banks to support any kind of clearing-system failure, and, if so, what happens when their available funds require again borrowing against American investor portfolios?
+
+[^ny-err-3]: _Id._ As the Commission knows, much of this present risk now exists centralized in the FICC as established for the benefit of industry participants. However, these "efficiencies" propagate to the benefit of speculators who can propagate record quantities of risky positions using common collateral between their accounts therewith and at the Chicago Mercantile Exchange, as established by a cross-margining agreement formalized two decades ago without a notice-and-comment period in SR-FICC-2003-10, duly revised and _available at_ https://www.dtcc.com/~/media/Files/Downloads/legal/rules/ficc_cme_crossmargin_agreement.pdf.
 
 ### Institutional Failings and the Case for Direct Registration
 
@@ -1522,22 +1527,6 @@ Representative.
 
 *** _See also_ § 3 if they amended CA1 by EDGAR (to search)
 
-- maybe the internal sec chatter on occ foia
-
-We would greatly appreciate it if the Commission could kindly put this subject up for review in a new proposed rule by the second quarter. (## Careful here)
-
-Recently, my partner hit a cat on her drive home from work. Reflecting on the moment, she remarked that she "knew she was supposed to brake" but was in a late-night panic after a hard day. On approach, she swerved to avoid the cat, but unfortunately, it ran in the direction she swerved.
-
-fn here on Federal Holiday "Regarding Questionable Custodianship Operations"
-
-Segway to "Just washed my car."
-
-There was a small mud spot on the tire, but I didn't have a tire cleaning product. Once I finished, I drove it into the garage and tried to clean it. Even though there was only one dirty area, I had to wipe down the whole tire because it was too dark to see the blemish.
-
-The Commission introduced the Central Certificate Service ("CCS") in the context of the Unsanctioned Practices Study ("UPS").[^nyse-intro]
-
-[^nyse-intro]: _See_ concept release at n.45. Have staff contemplated the treatment of nominee partnership depositories in the context of securities with higher circulating brokerage supply than legal outstanding issuance? Namely, an issuer popular with individual investors went bankrupt two years ago with a disproportionate proposition of shares outstanding compared to those held under the Custodial Structure according to centralized FAST declarative ownership data. The issuer's bankruptcy filings showed the CCS street-name partnership nominee referenced as owning 776,404,408 common shares, _available at_ https://wooten.link/kroll-cede at 8. However, the issuer's books and records at the transfer agent recorded only 739,056,836 shares outstanding four days after the bankruptcy capitalization table, _available at_ https://www.sec.gov/ix?doc=/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm at 2. Thus, it would be impossible for all partnership nominee claimants to bear rights to common stock in this enterprise.
-
 
 
 #### Highlights the paramount importance of maintaining confidence in our financial systems and the United States dollar
@@ -1916,6 +1905,14 @@ Might we consider “hitting the brakes” on the markets while we publicly revi
 
 Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?
 
+
+Recently, my partner hit a cat on her drive home from work. Reflecting on the moment, she remarked that she "knew she was supposed to brake" but was in a late-night panic after a hard day. On approach, she swerved to avoid the cat, but unfortunately, it ran in the direction she swerved.
+
+fn here on Federal Holiday "Regarding Questionable Custodianship Operations"
+
+Segway to "Just washed my car."
+
+There was a small mud spot on the tire, but I didn't have a tire cleaning product. Once I finished, I drove it into the garage and tried to clean it. Even though there was only one dirty area, I had to wipe down the whole tire because it was too dark to see the blemish.
 
 
 DD's:
