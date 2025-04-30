@@ -1,6 +1,0 @@
-- The SEC website's comment page can take some material time to add your thoughts.  
-  - Make sure to prepare the subject line and destination in accordance with the pending rules.  
-- The website will display the name signed in the actual comment itself, regardless of the submission email.  
-- The date on the list item is the date the SEC receives the comment in Eastern Time, regardless of business hours.  
-  - They will accept and date comments sent over weekends or holidays, but again, it can take some time to post online.  
-- For some reason, the PDF encoding used after submission often invalidates text hyperlinks, so it's safest to use full URLs.  
