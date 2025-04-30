@@ -1867,6 +1867,10 @@ https://www.reddit.com/r/Superstonk/comments/1ae0toi/occ_proposes_reducing_margi
 --  high-0levle  of the  waterfall  and  tear-upis from 4–7
 https://www.theocc.com/getmedia/e8792e3c-8802-4f5d-bef2-ada408ed1d96/default-rules-and-procedures.pdf
 
+--  nuanaced  tear-up documentation
+https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=24.26
+https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=18.61 (also mentionns the onbank vneue )
+
 --  occ  choicess  for  procytclical treamtent
 https://www.sec.gov/files/rules/sro/occ/2024/34-99393.pdf#page=4
 
@@ -1938,6 +1942,29 @@ Segway to "Just washed my car."
 There was a small mud spot on the tire, but I didn't have a tire cleaning product. Once I finished, I drove it into the garage and tried to clean it. Even though there was only one dirty area, I had to wipe down the whole tire because it was too dark to see the blemish.
 
 
+
+--  interleaved DTC/OCC systems
+> In the Stock Loan/Hedge Program, prospective Lending and Borrowin Clearing Members identify each other (independent of OCC), agree to bilaterall negotiated terms of the stock loan (in this case, a “Hedge Loan”), and then send th details of the stock loan to the Depository Trust Company (“DTC”) designating the stoc loan as a Hedge Loan for guaranty and clearance at OCC. The Lending Clearin Member then instructs DTC to transfer a specified number of shares of Eligible Stock1
+https://www.sec.gov/files/litigation/litreleases/2019/34-87476.pdf#page=9.51
+
+
+-- last 2 items  for whatcna's  excchange  prop
+https://www.sec.gov/comments/sr-occ-2022-802/srocc2022802.htm
+https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
+
+CLIPS:
+
+- [Importance of Self-Custody 🔐](https://www.youtube.com/clip/Ugkx0KLlnP--6Q-u4L7H5zrgWbDhjpKr43dL)
+- [Growing Systemic CCP Risk](https://www.youtube.com/clip/UgkxX1DN63sYrhFeAXBDM76mAyRXQBl-TGME)
+- [Systemic Centralized Trust Quandaries (Securrency)](https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX)
+
+- [DTCC Bailout Needed (Conn)](https://www.youtube.com/clip/UgkxV1YeRljQHPcN4NO5aBdj1HPS7apnbNrC)
+- [DTCC Bailout Needed (Premeditation)](https://www.youtube.com/clip/UgkxZbukKuQRCsLzfmFKDD9QkkHzXi-aVyU7)
+- [DTCC Bailout Needed](https://www.youtube.com/clip/Ugkxd0_I3EmB6m2oRNnJ2kTku32HTsIleI34)
+
+- [🧠 Something's Wrong 📉](https://www.youtube.com/clip/Ugkx_V1DjK4hfuqgfPeARudw1_efek9tyx-e)  `pinkcats`
+ on  votiong
+
 DD's:
 
 https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/
@@ -1971,9 +1998,12 @@ https://www.sec.gov/files/rules/proposed/s72404/s72404-8.pdf
 https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=47
 
 
+-- SR-OCC-2024-014 w as the one twehre they did PREV with more discolosure
+
 [^2024-014-sec]: https://www.sec.gov/files/rules/sro/occ/2024/34-101246.pdf
 "its GARCH model" (being modified) "may cause or exacerbate such financial instability." atg 25
 
+14  has  whene thye  did  it  for '21
 
 
 
