@@ -238,6 +238,79 @@ Thus, it would be impossible for all Cede claimants to bear rights to common sto
 
 [^bbby-sec]: _See_ Form 10-K filed the next quarter, _available at_ https://www.sec.gov/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm. At 2, the  document reads: "The number of shares outstanding of the registrant’s common stock (par value $0.01 per share) at May 9, 2023: 739,056,836."
 
+
+#### Equivalnet Outstanding Custodial Mishandling
+
+In disucssing tjese innacuratries with egnineers at CCPs,[^dtc-eng-chat]
+
+
+
+
+
+
+
+House Committee on Financial Services:
+3.7B
+-700 existing
+largest components of this collateral requirement included a Value-at-Risk (VaR) charge of approximately $1.3 billion and an Excess Capital Premium charge of $2.2 billion.
+
+
+First Capital Raise: $1 Billion+ (Late January 2021)
+Date: January 29, 2021
+Amount: Over $1 billion
+Investors: Existing investors, including Ribbit Capital, Sequoia Capital, and Andreessen Horowitz
+Reason: Robinhood faced liquidity issues due to the GameStop (GME) trading frenzy and had to halt purchases of certain stocks due to clearinghouse collateral requirements. The company urgently raised over $1 billion in convertible notes from existing backers to stabilize its operations.
+Terms: The funding came in the form of convertible debt, meaning investors could convert their loans into equity at a discount in the future.
+"emergency infusion" at https://www.reuters.com/article/business/robinhood-raises-1-billion-of-fresh-funding-from-existing-investors-idUSKBN29X2ZN
+
+Second Capital Raise: $2.4 Billion (Early February 2021)
+Date: February 1, 2021
+Amount: $2.4 billion
+Investors: Led by Ribbit Capital, Sequoia Capital, Index Ventures, ICONIQ Capital, and NEA
+Reason: Following the first emergency fundraise, Robinhood needed even more capital to handle unprecedented retail trading volumes and collateral requirements. This round brought the total raised in just a few days to $3.4 billion.
+Structure: This was another convertible debt raise, offering early investors a 20-30% discount on Robinhood's IPO share price.
+https://www.reuters.com/business/finance/robinhood-raises-another-24-bln-funds-investors-2021-02-01
+
+one day prior ECP exemption ends
+
+Vlad says onyl raised 2 billion $ beforehand and "a little bit of an opaque forumla" (whole margin calc.) when discussing the VAR formula which "it's not fully transparent" and "there are ways to reverse-endinggeer it, but it's not,m kind of, publicly shared. And then there's a special compoenent which is discresionary, so that kind of acts as a multiplier." Musk: "Discressionary menaing, it's just their opinion?" Vlad: "Yeah..."
+"four years ago" part: https://youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k
+~~and then this fucking idiot sayts ~~ re chat on "who got put in charge of that organization" Vlad says "no reason to believe" CItadel in charge given not on board then https://web.archive.org/web/20210201075846/https://www.dtcc.com/about/leadership/board
+but are now
+
+Game-Stopped report at 34: employee calls it a "black box"
+
+
+
+Might we follow in the current Administration's objective "to maintain self-custody of digital assets" which are ou familiar securities themselves?[^DA-EO] --just after reading through this, thinking it may be handy to add a small disclaimer to the already effective section at the top trying to draw the line between views which represent the collective and those which are personal. Something that shouldn't need to be said but perhaps still could be considering how new the concept of a DUNA is--
+
+
+In accordance with this Executive interest in sectors related to support "stability of the financial system, individual privacy, and the sovereignty of the United States," I find it meaningful to consider the Congressional implications[^cede-fail] of a shift towards decentralization.
+
+
+
+The DTCC itself admits that the Custodial Structure itself "cannot fuaruntee that their orderly wind-down will not cause contagion within the financial syusten or that the stability of the U.S. financial system will not be impacted."[^dtc-smac-1]
+
+In another filing, they also arges afginast increasing reisk analysis of CCP Regume operations by service provieers such as their own matching subsidiary grantedexemption from registration as a clearing agency.
+
+
+
+As shown by a publication on the day thereof, _available at_ https://www.benzinga.com/news/21/01/19376058/heres-which-brokerages-platforms-have-blocked-trading-in-volatile-stocks, this contagion spread beyond a systemic central routing agency, an intermediary staff identified in the report at _supra_ note {{^staff-gme-study}} <-- throw in somehwere prior with a page at Z>}}, which increasingly serves "younger investors and smaller accounts" as described at note 31 thereof. [Question circa "shoudl we rallyl burden our neweest and most vulnerable investors to the whims of xyz centralizyu as per comoiundign ngegatives]? Fairly simple to connect to the three-hour outage at clearing v. the all-day event at brokers." 
+
+and then at the bezinga _Id._ we have "the clearing firms are not that well-capitalized" from Webull CEO (prob cite his intervieew somehwere)
+- main https://youtu.be/4RS4JIEVyXM?feature=shared&t=751
+- supp https://www.youtube.com/watch?v=Hkuz_T-muwI (less ideal facure)
+- cross https://finance.yahoo.com/video/heres-why-robinhood-restricting-users-173049721.html
+
+clearly not everyone , thus a select undercaptialization and large extent towards apex
+https://www.reddit.com/r/stocks/comments/l8rhr3/weekend_gme_thread_homework_for_all_lets_stop/
+
+
+Etrade does its own routing
+
+
+
+
 ### Continued Daily Manual Processes
 
 In reviewing the operations of central custodians over the past year, I've been remarkably distraught by the level of manual human involvement and judgment present in margining calculations. Because of these thoughts, I requested staff share with our community and the public at large certain particularly hazardous methodology changes at a clearing firm and SRO last year.[^occ-foia-ref] Unfortunately, we are yet to hear back from this request a full nine months later.
@@ -517,98 +590,6 @@ conta DTCC statement "A dramatic increase in a clearing member's VaR charges ove
 
 
 
-
-
-### Equivalnet Outstanding Custodial Mishandling
-(DTC/GME overfail)
-
-
-
-
-and DTC call story which is link 3 at note 10 of https://github.com/orgs/WhyDRS/discussions/1 chatting on swift and csv in opsttrade at 3 (uindefinative)
-
-
-
-
-House Committee on Financial Services:
-3.7B
--700 existing
-largest components of this collateral requirement included a Value-at-Risk (VaR) charge of approximately $1.3 billion and an Excess Capital Premium charge of $2.2 billion.
-
-
-First Capital Raise: $1 Billion+ (Late January 2021)
-Date: January 29, 2021
-Amount: Over $1 billion
-Investors: Existing investors, including Ribbit Capital, Sequoia Capital, and Andreessen Horowitz
-Reason: Robinhood faced liquidity issues due to the GameStop (GME) trading frenzy and had to halt purchases of certain stocks due to clearinghouse collateral requirements. The company urgently raised over $1 billion in convertible notes from existing backers to stabilize its operations.
-Terms: The funding came in the form of convertible debt, meaning investors could convert their loans into equity at a discount in the future.
-"emergency infusion" at https://www.reuters.com/article/business/robinhood-raises-1-billion-of-fresh-funding-from-existing-investors-idUSKBN29X2ZN
-
-Second Capital Raise: $2.4 Billion (Early February 2021)
-Date: February 1, 2021
-Amount: $2.4 billion
-Investors: Led by Ribbit Capital, Sequoia Capital, Index Ventures, ICONIQ Capital, and NEA
-Reason: Following the first emergency fundraise, Robinhood needed even more capital to handle unprecedented retail trading volumes and collateral requirements. This round brought the total raised in just a few days to $3.4 billion.
-Structure: This was another convertible debt raise, offering early investors a 20-30% discount on Robinhood's IPO share price.
-https://www.reuters.com/business/finance/robinhood-raises-another-24-bln-funds-investors-2021-02-01
-
-one day prior ECP exemption ends
-
-Vlad says onyl raised 2 billion $ beforehand and "a little bit of an opaque forumla" (whole margin calc.) when discussing the VAR formula which "it's not fully transparent" and "there are ways to reverse-endinggeer it, but it's not,m kind of, publicly shared. And then there's a special compoenent which is discresionary, so that kind of acts as a multiplier." Musk: "Discressionary menaing, it's just their opinion?" Vlad: "Yeah..."
-"four years ago" part: https://youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k
-~~and then this fucking idiot sayts ~~ re chat on "who got put in charge of that organization" Vlad says "no reason to believe" CItadel in charge given not on board then https://web.archive.org/web/20210201075846/https://www.dtcc.com/about/leadership/board
-but are now
-
-Game-Stopped report at 34: employee calls it a "black box"
-
-
-
-Might we follow in the current Administration's objective "to maintain self-custody of digital assets" which are ou familiar securities themselves?[^DA-EO] --just after reading through this, thinking it may be handy to add a small disclaimer to the already effective section at the top trying to draw the line between views which represent the collective and those which are personal. Something that shouldn't need to be said but perhaps still could be considering how new the concept of a DUNA is--
-
-
-In accordance with this Executive interest in sectors related to support "stability of the financial system, individual privacy, and the sovereignty of the United States," I find it meaningful to consider the Congressional implications[^cede-fail] of a shift towards decentralization.
-
-
-
-The DTCC itself admits that the Custodial Structure itself "cannot fuaruntee that their orderly wind-down will not cause contagion within the financial syusten or that the stability of the U.S. financial system will not be impacted."[^dtc-smac-1]
-
-In another filing, they also arges afginast increasing reisk analysis of CCP Regume operations by service provieers such as their own matching subsidiary grantedexemption from registration as a clearing agency.
-
-
-
-
-[^rh-arg-main]: _Id._ Although the staff writers chose not to mention this particular bnroker by name in the last complete sentence at 31, NSCC's margin cll to theri routing broker was well publicized before being personaly negotitated yo a sum nearly hafl the original estimate vis-à-vi the ECP-charge weaiver. WHoistlically, this page of the report states total clearing margin across all brokers increased by about 37% in a single day. How can trading in a small handful of retail securities so greatrly disrupt the operations of our great Nation's onyl equities clearing firm?
-
-
-
-
-As shown by a publication on the day thereof, _available at_ https://www.benzinga.com/news/21/01/19376058/heres-which-brokerages-platforms-have-blocked-trading-in-volatile-stocks, this contagion spread beyond a systemic central routing agency, an intermediary staff identified in the report at _supra_ note {{^staff-gme-study}} <-- throw in somehwere prior with a page at Z>}}, which increasingly serves "younger investors and smaller accounts" as described at note 31 thereof. [Question circa "shoudl we rallyl burden our neweest and most vulnerable investors to the whims of xyz centralizyu as per comoiundign ngegatives]? Fairly simple to connect to the three-hour outage at clearing v. the all-day event at brokers." 
-
-and then at the bezinga _Id._ we have "the clearing firms are not that well-capitalized" from Webull CEO (prob cite his intervieew somehwere)
-- main https://youtu.be/4RS4JIEVyXM?feature=shared&t=751
-- supp https://www.youtube.com/watch?v=Hkuz_T-muwI (less ideal facure)
-- cross https://finance.yahoo.com/video/heres-why-robinhood-restricting-users-173049721.html
-
-clearly not everyone , thus a select undercaptialization and large extent towards apex
-https://www.reddit.com/r/stocks/comments/l8rhr3/weekend_gme_thread_homework_for_all_lets_stop/
-
-
-Etrade does its own routing
-
-
-
-
-[^DA-EO]: _See_ E.O. 14178, where our great President decreed: "the policy of my Administration to support the responsible growth and use of digital assets, blockchain technology, and related technologies across all sectors of the economy" despite surely fighting through traumatic pushback, _available at_ https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology.
-
-[^cede-fail]: _See, e.g.,_ recent fuyleaming in File No. S7-10-23 contemplating the failure of the Custodial Structure, _available at_ https://www.sec.gov/files/rules/final/2024/34-101446.pdf. Naemyl, the fifth paper cited in note 475 states, "Pervasive reforms of derivatives markets following 2008 are, in effect, unfinished business; the systemic risk of CCPs has been exacerbated and left unaddressed." Its subtitle claims the CCP is "too important to fail" and its author later writes that "their failure would have such a negative impact on the financial system and the economy as a whole that the government would do whatever it takes to prevent such a failure, including effecting transfers from taxpayers." Does the Commission believe _another_ Federal baloit of Wall Street's mistakes should take preference over grassroots nonprofit investor-centric innovations?
-^^ same was WDR
-
-[^dtc-smac-1]: https://www.sec.gov/comments/s7-10-23/s71023-225519-472762.pdf#page=2. Later states that it would be unduly difficult to ensure "there will be continuation of services by service profviders" requisite to the Custodial Structure's operations (at 8). - let's expand this to their comments on cloud providers given inadequate central infrastructure (JEsus christ  I swear their modernization memo is integrating Lambda)
-^note 27 goes through bankruptcy proceedings
-"RWPs are often implemented during times of market stress, and often during these times, circumstances are changing, and decisions are being made quickly." at 13 - also: "DTCC encourages the Commission to internally prepare and be in a proactive position to receive, consider, and approve any necessary regulatory requests from CCAs in a timely manner when RWPs have been implemented." 😲 jesus christ it's a literal blackmail
-
-[^dtc-smac-2]: https://www.sec.gov/comments/s7-07-23/s70723-202219-405182.pdf#page=6. _See also_ ITP exempoting order note 24 which asserts that almost a full half of comments "urged the Commission to ensure that no entity improperly gains a monopoly on any aspect of trade processing" from firms such as JPMorgan Chase, Goldman Sachs, UBS Warburg, Deutsche Bank, Merrill Lynch, and State Street; _available at_ https://www.govinfo.gov/content/pkg/FR-2001-04-23/pdf/01-9962.pdf#page=3. In note 21, this document also suggests that the indsutry will shorten the settlement cycle to T+1 by a deadline over two decades ago.
-**holy shit bro n.40 also falls uynder Clinton in the antitrust oversight of fucking ITP review !!!**
 
 
 
@@ -2022,3 +2003,22 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 
 
 
+
+
+
+[^rh-arg-main]: _Id._ Although the staff writers chose not to mention this particular bnroker by name in the last complete sentence at 31, NSCC's margin cll to theri routing broker was well publicized before being personaly negotitated yo a sum nearly hafl the original estimate vis-à-vi the ECP-charge weaiver. WHoistlically, this page of the report states total clearing margin across all brokers increased by about 37% in a single day. How can trading in a small handful of retail securities so greatrly disrupt the operations of our great Nation's onyl equities clearing firm?
+
+
+[^DA-EO]: _See_ E.O. 14178, where our great President decreed: "the policy of my Administration to support the responsible growth and use of digital assets, blockchain technology, and related technologies across all sectors of the economy" despite surely fighting through traumatic pushback, _available at_ https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology.
+
+[^cede-fail]: _See, e.g.,_ recent fuyleaming in File No. S7-10-23 contemplating the failure of the Custodial Structure, _available at_ https://www.sec.gov/files/rules/final/2024/34-101446.pdf. Naemyl, the fifth paper cited in note 475 states, "Pervasive reforms of derivatives markets following 2008 are, in effect, unfinished business; the systemic risk of CCPs has been exacerbated and left unaddressed." Its subtitle claims the CCP is "too important to fail" and its author later writes that "their failure would have such a negative impact on the financial system and the economy as a whole that the government would do whatever it takes to prevent such a failure, including effecting transfers from taxpayers." Does the Commission believe _another_ Federal baloit of Wall Street's mistakes should take preference over grassroots nonprofit investor-centric innovations?
+^^ same was WDR
+
+[^dtc-smac-1]: https://www.sec.gov/comments/s7-10-23/s71023-225519-472762.pdf#page=2. Later states that it would be unduly difficult to ensure "there will be continuation of services by service profviders" requisite to the Custodial Structure's operations (at 8). - let's expand this to their comments on cloud providers given inadequate central infrastructure (JEsus christ  I swear their modernization memo is integrating Lambda)
+^note 27 goes through bankruptcy proceedings
+"RWPs are often implemented during times of market stress, and often during these times, circumstances are changing, and decisions are being made quickly." at 13 - also: "DTCC encourages the Commission to internally prepare and be in a proactive position to receive, consider, and approve any necessary regulatory requests from CCAs in a timely manner when RWPs have been implemented." 😲 jesus christ it's a literal blackmail
+
+[^dtc-smac-2]: https://www.sec.gov/comments/s7-07-23/s70723-202219-405182.pdf#page=6. _See also_ ITP exempoting order note 24 which asserts that almost a full half of comments "urged the Commission to ensure that no entity improperly gains a monopoly on any aspect of trade processing" from firms such as JPMorgan Chase, Goldman Sachs, UBS Warburg, Deutsche Bank, Merrill Lynch, and State Street; _available at_ https://www.govinfo.gov/content/pkg/FR-2001-04-23/pdf/01-9962.pdf#page=3. In note 21, this document also suggests that the indsutry will shorten the settlement cycle to T+1 by a deadline over two decades ago.
+**holy shit bro n.40 also falls uynder Clinton in the antitrust oversight of fucking ITP review !!!**
+
+[^dtc-eng-chat]: _See, e.g.,_ notes from conversatino with DTCC engineer  detailign  post-trade failure-to-deliver operting flows, _available at_ https://github.com/orgs/WhyDRS/discussions/1 n.10  link  3. chatting on swift and csv in opsttrade at 3 (uindefinative)
