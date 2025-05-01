@@ -151,7 +151,7 @@ The Commission has spent far too many  years taking massive efforts to reform ou
 
 To ease this accumulated risk, staff know that clearing agencies historically faced stiff competition to timely settle outstanding transactions.[^historic-id] Indeed, it was precisely this market encouragement which I understand prompted DTC to beneficially dematerialize paper trading. I would like to generally abstract away the convoluted National Market System ("NMS") settlement systems enabled by the DTCC, the plethora of custodians participating in its clearing agencies, and the hundreds of intermediaries exchanging assets on top of its plumbing (a central "Custodial Structure").
 
-Rather, I am concerned with the solvency of Cede & Co. For years we have looked into the nuances of the Custodial Structure, which ends in all terminuses at the behemoth partnership nominee. Thus, the hole in the system constantly rearing up through FTDs ultimately makes its way down to DTC's registered share of securities.
+Rather, I am concerned with the solvency of Cede & Co ("Cede"). For years we have looked into the nuances of the Custodial Structure, which ends in all terminuses at the behemoth partnership nominee. Thus, the hole in the system constantly rearing up through FTDs ultimately makes its way down to DTC's registered share of securities.
 
 This is particularly concerning for me because "a creditor of the clearing corporation" in bankruptcy "has priority over the claims of entitlement holders."[^ucc-511c] Thus, investors could lose their portfolios should markets face a situation where "a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders" and its (participating) secured creditors.[^511c-id] I suspect these could be particularly devastating seizures given the interconnectedness staff fully understand in central clearing counterparty ("CCP") operations.[^ccp-connec]
 
@@ -212,20 +212,31 @@ Once we arrived, it took at least three hours to deposit all of the bonds despit
 
 Two months after this interaction, my partner received a letter on January 6, stating a savings bond "was redeemed for an incorrect amount." The actual amount redeemed was 40% less than originally credited, resulting in a deduction which overdrafted her account as $100 previously withdrawn turned into $59.76. The message was signed by the name "SSS" from the bank's "Centralized Operations." Does the Commission believe our financial system should rely on processes so routinely prone to human error?
 
-<TODO: >
-
---  cede  number  from https://discord.com/channels/@me/1199451596690575360/1329914380107645019
-https://www.reddit.com/r/BBBY/comments/1392f2l/umm_cede_held_776m_shares_of_bbby_common_stock/
-
-<arch>
-The Commission introduced the Central Certificate Service ("CCS") in the context of the Unsanctioned Practices Study ("UPS").[^nyse-intro]
-
-[^nyse-intro]: _See_ concept release at n.45. Have staff contemplated the treatment of nominee partnership depositories in the context of securities with higher circulating brokerage supply than legal outstanding issuance? Namely, an issuer popular with individual investors went bankrupt two years ago with a disproportionate proposition of shares outstanding compared to those held under the Custodial Structure according to centralized FAST declarative ownership data. The issuer's bankruptcy filings showed the CCS street-name partnership nominee referenced as owning 776,404,408 common shares, _available at_ https://wooten.link/kroll-cede at 8. However, the issuer's books and records at the transfer agent recorded only 739,056,836 shares outstanding four days after the bankruptcy capitalization table, _available at_ https://www.sec.gov/ix?doc=/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm at 2. Thus, it would be impossible for all partnership nominee claimants to bear rights to common stock in this enterprise.
-
-
-
 
 [^wind-down-rule]: _See_ File No. S7-10-23 as came into effect just this January, _available at_ https://www.sec.gov/files/rules/final/2024/34-101446.pdf. The policy change addresses how the Custodial Structure "can pose systemic risk to the financial system" given participants "concentrate risk in the clearing agency." Staff at 119 go so far as to say that "contagion events that could pose a systemic danger to the U.S. financial system." I appreciate the Commission's active role in attempting to mitigate these unnecessary risks, which DTCC itself claims are impossible to expunge at note 441.
+
+#### More Shares Than Exist
+
+Unfortunately,  Wall Street's system  of  rehypothecation  rroutinely  "expands"  the ottla number of shares floating in the market, akin to a bank lending our more dollars than in its reserves./ Thuss was note legally  possible before  the 1994 amendments  to the UCC, as investors throug securities intemrediares had a hidred prperty interest in their protfolios.[^ucc-study-infr-prop]  hOwever,  staff themselves readily  disclose[^staff-shorting-infra] now that:
+
+> Short interest can exceed 100%—as it did with GME—when the same shares are lent multiple times by successive purchasers. If someone purchases a stock from a short seller and subsequently lends the stock out again, it will appear as if the stock was sold short twice for the purpose of the short interest calculation.
+
+This isonly possible bcause of the fungablity  of omnibus shartes conceenrtradted udner the singular hands of Cede. Frankly , there have been too many  exxamples of public record discrepencies to warrant  material substantiation in rleation to its impact on OCC's margiing operations.[^eg-naked-shorts-later] One other prominnet recent exampple  of thesee factual innacuracie can be trivially  found i the bankruptcy of an issuer popular with individual investors went bankrupt two years ago with a disproportionate proposition of shares outstanding compared to those held under the Custodial Structure according to centralized FAST declarative ownership data.
+
+This fate is all too  common for firms alledging fwrongoing oon behalf of the Custodial Structure. Briefly, the firm  declared  Chapter  11  on April 23 2023,  amd its bankruptcy documents two weeks late showed Cede  as owning 776,404,408 common shares.[^bbby-case] However, the issuer's books and records at the transfer agent recorded only 739,056,836 shares outstanding four days after the bankruptcy capitalization table,
+ 
+Thus, it would be impossible for all Cede claimants to bear rights to common stock in this enterprise. Given these same clearing members ar the general partificpants at the OCC, I see the same inaqueate _pro rate_ rights challenge in the event of member insolvency.  Namey, how can all Wall Street firms remain  solvent if they collectively holdd more entitlements to shares  than exist?
+
+
+[^ucc-study-infr-prop]: _See_ _infra_ note {{^st-john-ucc}} at 624. in the  entenc just before § III on Systemic Risk, Facciolo explains how "Article 8 creates a new type of property interest that 'is not a claim to a specific identifiable thing; [rather] it is a package of rights and interests that a person has against the person's securities intermediary and the property held by the intermediary.'" He makes thiis staemnet with dreference to the  UCC adoption  comments at § 8-503(d) whicch clearly state entitlemmnts ome without  common-law property  rights as "Article 8 also contains general adverse claim cut-off rules for the indirect holding system."
+
+[^staff-shorting-infra]: _See_ _infra_ note {{^staff-gme-study}} n.75.
+
+[^eg-naked-shorts-later]: _See, e.g.,_ _infra_ note {{^other-3-ex}}
+
+[^bbby-case]: _See_ llit ofg equity srurtyholders under bankruptcy code, _available at_ https://wooten.link/kroll-cede at 8. Cede's equity holddiings are listed in dupliccate, which we found particualrly  strangee in ddisucssion  of anoyhte securityty with this clerical pheonmenon, _available at_ https://x.com/JFWooten4/status/1753471580842209390.
+
+[^bbby-sec]: _See_ Form 10-K filed the next quarter, _available at_ https://www.sec.gov/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm. At 2, the  document reads: "The number of shares outstanding of the registrant’s common stock (par value $0.01 per share) at May 9, 2023: 739,056,836."
 
 ### Continued Daily Manual Processes
 
@@ -835,7 +846,7 @@ Hopefully, we can overcome these challenges together over the years with a proac
 
 [^new-crowdsourcing]: _See_ clip from Apple TV programming, _available at_ https://youtu.be/0C0Sj6Us19I. This discussion led to extensive dialogue across our community because we care very deeply about the protections availed by our democracy to investors, including a grassroots fundraising drive to send the Commission coffee mugs and beans. _See also generally_ research paper from Neal Newman, J.D., identifying how central intermediaries unilaterally disabled market access in order to serve their business interests over trading continuity, _inter alia_, _available at_ https://ssrn.com/abstract=4459285. _Compare_ investors' decentralized innovative heartfelt action towards staff with "a conscious decision to leave retail investors vulnerable" given a discretionary choice in § V.B to place short-term business interests first.
 
-[^cong]: _See_ two Congressional hearings and a staff report study with wide-standing consequences, _available at_ https://www.c-span.org/program/house-committee/gamestop-hearing-part-1/588548, https://www.c-span.org/program/house-committee/gamestop-hearing-part-2/589320, and https://www.sec.gov/files/staff-report-equity-options-market-structure-conditions-early-2021.pdf; respectively. While few commentators have yet associated transfer agent regulations with these historic market events, I find the items inexplicably intertwined. NSCC and its participants could only halt trading given the lack of a functional transfer-agent self-custody transaction system operating outside the NMS as presently established around the central intermediaries so key in revolutionizing clearing and settlement fifty years ago. Has Congress meaningfully contemplated the structure of our markets after the immense consolidation of post-trade processing into a single holding company made immensely powerful by its constituent self-regulatory organizations ("SROs")?
+[^cong]: _See_ two Congressional hearings and a staff report study with wide-standing consequences, _available at_ https://www.c-span.org/program/house-committee/gamestop-hearing-part-1/588548, https://www.c-span.org/program/house-committee/gamestop-hearing-part-2/589320, and _supra_ note {{^staff-gme-study}}; respectively. While few commentators have yet associated transfer agent regulations with these historic market events, I find the items inexplicably intertwined. NSCC and its participants could only halt trading given the lack of a functional transfer-agent self-custody transaction system operating outside the NMS as presently established around the central intermediaries so key in revolutionizing clearing and settlement fifty years ago. Has Congress meaningfully contemplated the structure of our markets after the immense consolidation of post-trade processing into a single holding company made immensely powerful by its constituent self-regulatory organizations ("SROs")?
 
 [^ncs]: Let's carefully cite a range from the NSCC petition to OCC withdrawal to EDGAR modernization to things from the ~~other side of the _hall_~~ democratic PoV (?) with deference to scrutinizing TAR at n/16 (_see Id_). <!-- TODO -->
 
@@ -880,7 +891,7 @@ Wall Street stunned our community when they unilaterally seized our ability to a
 
 Since this awakening, we've made every effort to share and collectively inform the public about the material difference in ownership rights under direct individual securities registration, as compared to street-name registration.[^street-name] Historically, the Commission specifically responded when "many firms were thinly capitalized" under an SRO structure that was "unprepared" with outdated systems that "were essentially the same as those utilized" a decade prior.[^street-name-2] We hope that ongoing rulemaking will continue weighing the present risks of securities entitlements held through a central clearing counterparty and subsequent centralized depository nominee, an overarching market structure common across nations and commonly entangled with a net settlement system (the "Custodial Structure").[^ccp-regime]
 
-As the Commission knows, this led to one nominee owning virtually all American securities once DTC organized its nominee Cede & Co. over five decades ago.[^cede-questions] Namely, the concentration of nearly all investment assets into a _partnership trust_ presents unworkable conflicts of interest in the expansion of collateral lending facilities, be they direct or implicated by operational policies.
+As the Commission knows, this led to one nominee owning virtually all American securities once DTC organized its nominee Cede. over five decades ago.[^cede-questions] Namely, the concentration of nearly all investment assets into a _partnership trust_ presents unworkable conflicts of interest in the expansion of collateral lending facilities, be they direct or implicated by operational policies.
 
 This point will become more readily apparent as further evidence documents in this comment. One key public article detailing the centrality of this fact exists on our website: *"The DTC/Ceding Ownership – Choice without a Choice."* As the Commission knows, our great American capitalist system relies on voluntary exchange of goods and services. Issuers cannot avail themselves of this basic benefit of free markets because there exists no competitor to DTCC. In fact, such a proposition has been coercively deemed unactionable by some of our nation's leading "Too Big to Fail" banks. We sincerely appreciate staff highlighting these facts in an exceptionally revealing image from the concept release at 45:
 
@@ -2004,6 +2015,8 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 "its GARCH model" (being modified) "may cause or exacerbate such financial instability." atg 25
 
 14  has  whene thye  did  it  for '21
+
+[^st-john-ucc]: _See_ analysis of changes an adopting  comment notes o 1994 reisions toArticle 8 frpm Francis J. Facciolo, J.D.  after six years  of study, _available at_ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf.
 
 
 
