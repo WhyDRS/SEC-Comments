@@ -22,7 +22,6 @@ Status: Draft
 to: `rule-comments@sec.gov`
 
 cc: `foiapa@sec.gov` (note for the Pollack Study as _Id._  to note 22 of 64 FR 57996) 
-(PREV  is note 120)
 
 cc: `crypto@sec.gov`
 
@@ -241,7 +240,7 @@ Thus, it would be impossible for all Cede claimants to bear rights to common sto
 
 #### Equivalnet Outstanding Custodial Mishandling
 
-In disucssing tjese innacuratries with egnineers at CCPs,[^dtc-eng-chat]
+In disucssing tjese innacuratries with egnineers at CCPs,[^dtc-eng-chat] I've become doubtful off their ability to  reconcile the FTD issue. I believe re ent events support this line of thingking,[^ftd-foia] whcih onyl  exist  because a trusted central  actor  like the OCC determines accunt  balances  in a single ccentralized  ledger prone to  corrurption./  Can  we  do  better, so that  all market  participants play o the  same field when analyzing material infformation such as the margigin balancces  of clearing  members?
 
 
 
@@ -308,17 +307,17 @@ https://www.reddit.com/r/stocks/comments/l8rhr3/weekend_gme_thread_homework_for_
 
 Etrade does its own routing
 
-
+####
 
 
 ### Continued Daily Manual Processes
 
-In reviewing the operations of central custodians over the past year, I've been remarkably distraught by the level of manual human involvement and judgment present in margining calculations. Because of these thoughts, I requested staff share with our community and the public at large certain particularly hazardous methodology changes at a clearing firm and SRO last year.[^occ-foia-ref] Unfortunately, we are yet to hear back from this request a full nine months later.
+In reviewing the operations of central custodians over the past year, I've been remarkably distraught by the level of manual human involvement and judgment present in margining calculations. Because of these thoughts, I requested staff share with our community and the public at large certain particularly hazardous methodology changes at a clearing firm and SRO last year.[^my-req] Unfortunately, I have not been able to receive this information, especially  as OCC tightens  down on its public efencce of whyu material submitted fall undr an exempution from publicaiiton, which makes it more challenging to adequately examine detailed operationsal changes.
 
 From this and many other events, some in our community interpret systemic underlying risks presented by the manual involvement of so many settlement middlemen. These concerns range from simple interfacing errors[^ex-intro-mm] to deeper quandaries over unpunished recurring erratic behavior from intermediaries such as Apex Clearing Corporation ("Apex") which influence the business of so many broker-dealers.[^apex-sec-ipo] Influence which quite directly but drastically unnecessarily forced brokers to deem retail investor accounts position close only ("PCO"), without warning, for a specific subset of securities.[^apex-sec-ex99]
 
 
-[^occ-foia-ref]: _See_ _infra_ note {{[^occ-foia]}}.
+[^my-req]: _See_ request  24-01211-E  from  note 120 of PREV.  I  called  both the  public FOIA office and  th4e research specialist assigned  ot the request  case  at least thrree times.  Gvioen the request was pblicly  acknowledged as properly  formatted, do staff believe I should reach  out to the  Office of Government Information Services for the third time?
 
 [^ex-intro-mm]: _See, e.g.,_ recent remarks in response to an alert that a particular security was worth many thousands of dollars per share, despite the reality that it is presently valued at a small fraction thereof, _available at_ https://x.com/Python0o/status/1890464983445545037. _See also_ derivative products _supra_ note {{^rh-fractional-filings}} which attained this level of price action for some investors before transactional capability was unilaterally revoked from tens of millions of investors at over 150 broker-dealers, _available at_ https://www.reddit.com/r/Superstonk/comments/12gjugb/fractional_gme_shares_were_selling_for_512450_per. While some of these events may be attributable to human error, as was the case of the bank teller, others seem more inexplicably linked to the opaque operations of certain systemic industry participants.
 
@@ -987,10 +986,7 @@ Same as Green Dot/Citi
 
 ---
 
-It also offers a stellar place to insert arguments against central intermediation of the transfer process.[^cb] Hopefully, these and additional emotional arguments around the last FOIA in OCC (24-01211-E) and more recently 25-00185-FOIA will push the Commission toward the 501(c)(3)'s side. :)
-
-#### 25-00185-FOIA items fn
-ref to other instances ohistoruc witholdign of key FTD data from market paracitciapnt at the behenst of comepltey pulic anaylist at note 1: https://www.sec.gov/spotlight/failstodeliver082106.pdf
+It also offers a stellar place to insert arguments against central intermediation of the transfer process.[^cb] 
 
 Recently, inadequate administrative procedures of an unreliable central broker cost me and my partner $100k in the last couple of months.
 
@@ -1489,14 +1485,8 @@ Interest paid post-bulk fundraising.
 These can be subverted in a footnote based on leadership actions that "jeopardized the safety, soundness, and stability of the United States financial system" per [H.Res. 1574](https://democrats-financialservices.house.gov/uploadedfiles/bills-118hres1574ih.pdf), as referenced in [this video](https://youtu.be/Cn1ffXT1PS4).
 
 # FOIA Request Items (as 501(c)(3) Exemptions)
-limit in scope as far as possible with ITP per https://discordapp.com/channels/1102309240145707049/1336149183253712957/1336154168871616624 (single dmaning)
-(prob need to spcif these)
-- Margining methodologies
-- Broker charge methods
-- Emergency adjustment processes
-- Certificate issuance custody processes
-- Insurance and transfer operations
-- Red teaming and cyber resilience
+
+
 - Any fee schedule adopted under 66 FR 20500 ¶ 11, 12, or 13 (23 Apr 2001).
 
 I think we can  get most  of this in 240.17ad-22(e)(3)(ii) 
@@ -2021,4 +2011,7 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 [^dtc-smac-2]: https://www.sec.gov/comments/s7-07-23/s70723-202219-405182.pdf#page=6. _See also_ ITP exempoting order note 24 which asserts that almost a full half of comments "urged the Commission to ensure that no entity improperly gains a monopoly on any aspect of trade processing" from firms such as JPMorgan Chase, Goldman Sachs, UBS Warburg, Deutsche Bank, Merrill Lynch, and State Street; _available at_ https://www.govinfo.gov/content/pkg/FR-2001-04-23/pdf/01-9962.pdf#page=3. In note 21, this document also suggests that the indsutry will shorten the settlement cycle to T+1 by a deadline over two decades ago.
 **holy shit bro n.40 also falls uynder Clinton in the antitrust oversight of fucking ITP review !!!**
 
-[^dtc-eng-chat]: _See, e.g.,_ notes from conversatino with DTCC engineer  detailign  post-trade failure-to-deliver operting flows, _available at_ https://github.com/orgs/WhyDRS/discussions/1 n.10  link  3. chatting on swift and csv in opsttrade at 3 (uindefinative)
+[^dtc-eng-chat]: _See, e.g.,_ notes from conversatino with DTCC engineer  detailign  post-trade failure-to-deliver operting flows, _available at_ https://github.com/orgs/WhyDRS/discussions/1 n.10  link  3. I was particualry  concerned with  the  docuemented u se of CSV  files  at  2, reconsciled through  am anual  end-of-day  batch  process reminiscent of  1970s  mainframe  technolgoies. I saw similar pattern aemmerge in  the  conversation  at 6  as error-prone manual reconciliation resolution was  pushed from Cede's books to clearing members.
+
+[^ftd-foia]: _See, e.g.,_ changin staff  data positions related  to t he responses to  25-00185-FOIA, suggesting  that  certain FTD information woudld harm market integrity. In speakign with the author of this erequest, it's become clear that the'yve  been patiently wiating  for answers lasst year because of a true ccare for market integrity. _relvantly_, incomplete data  from the few central providers such as  _Id._ have  historically  failed to deliver  prompt and adccurate informmation to he t Commission  itself when  ehavily-shorted securities are  in question.  _See, e.g.,_ a memorandum  froom the Office of Econmicc Analysis at  note 1, stating that  staff did not revceive significant daily  FTD  information held by NSCC all  the  way  back in 2006, _available at_ https://www.sec.gov/spotlight/failstodeliver082106.pdf.
+
