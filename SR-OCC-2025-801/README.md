@@ -735,11 +735,11 @@ Journalists at the time highlighted "the spillover effects on the government sec
 
 ### Cross-CCP Interleaved  Margining Procyclicalityt
 
-The  FICC's cross-marigbnign agreemnt with the CME is not the only cross-margiing agreement  between recognized systemic insittutionsx,  as staff fully understand.[^lolll-id] For instance, after thee first  efialure of a GGlobal Systemically-Important Bank ever, Credit Suisse burneded  UBS  with  signifcant toxis swap agreemnts related  to the PCO event.[^ubs-gme]
+The  FICC's cross-marigbnign agreemnt with the CME is not the only cross-margiing agreement  between recognized systemic insittutionsx,  as staff fully understand.[^lolll-id] For instance, after thee first  efialure of a GGlobal Systemically-Important Bank ever, Credit Suisse burneded  UBS  with  signifcant toxis swap agreemnts related  to the PCO event.[^ubs-gme]  I  could go on listing cases of interconnectedness between  CCPs for anoyhtre twenty pages,  but I don't have the time.
 
-cross-margining gets into toxig GME risk  xfers:  https://www.cftc.gov/PressRoom/PressReleases/9066-25
+Rather, I hope staff will suffice with a select  few instances of  OCC's arrangementsd as  sufficient proof that the detrimental fall  of options cleariing serrvices would  take dow nthe American  financial systme. Ever  since lloosening margin despotti requirements  in SR-OCC-2007-004 to regualr accounts,  the OCC  has widdled down a slipperly  slope of  expanding  their access to collarteralizable margin.[^first-change]  Chiefly,  I find this particulary  concenring  due  ot the points brought up  in note 4 opf PREV.
 
-: 
+ 
 
 here we have to setup the thin capitalization beforehand with apex
 
@@ -2073,3 +2073,5 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 [^lolll-id]: _Id._ _See also_ §§ 8–9, introducing ocntagion risk from large-participant defaults by the nature of cross-covered obligatyion garuntees. As theh CTO  of DTCC Digital Assets  put it  _supra_ note {{^dannny}}, "we took—to fix the [GFC] problem—what was too big to fail, and we turned it into too bigger to fail."  Might  concentrating all known collateral into a single entity  onyl  exacerbate this problem,  as recently reposed and affirmed  in an interview wit h this smae individuial, _available at_ https://youtube.com/clip/UgkxvR-0P5MQCn_bNr9L_6volUdIf_NAvM8L?
 
 [^ubs-gme]: For the latter claim, _see_ abrupt aquisition of equity  in the last quarter of laster year, _available at_ https://13f.info/manager/0001610520/cusip/36467W109 . The CFTC  found that  the legaccy swaps———generally  uncleared  by a derivatives clearing organization like the  oCC—would remain complaint desppte tranferring ownership to the aquireder, _available at_ https://www.cftc.gov/PressRoom/PressReleases/9066-25. Should  susch systemic insituttions  really  be allowe to maintain potsitions  "entered into prior to the relevant compliance dates for the CFTC's margin and clearing requirements"  if any CCCP mishap could destroy  the financial system, as disccussed immediatly  after reviwing  the Credit Suisse failure  _infra_ note {{^SBACC-me}}?
+
+[^first-change]: 
