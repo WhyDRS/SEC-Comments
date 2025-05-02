@@ -2014,38 +2014,6 @@ _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increa
 conc:
 I ahve been preparing this comment  for over a year, and there are many more items I would like to include as proof of this impendiung frauduilant market c risis. However, the events detaiulied i n _supra_ § 2 lead  me to believe that I can wait tno longger to bring these  items up to the Commission. Thank you and God Bless America!
 
-DD's:
-
-https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/
-https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf#page=12
-https://www.reddit.com/r/Superstonk/comments/ovw6st/peekaboo_wait_puts_where_are_you_puts/
-https://www.reddit.com/r/Superstonk/comments/otn94a/can_anyone_explain_the_over_one_million_put/
-
-https://public-inspection.federalregister.gov/2021-11606.pdf?1622637922#page=11
-https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/occ-an
-https://www.sec.gov/comments/s7-03-14/s70314-18.pdf#page=8
-https://www.sec.gov/comments/s7-03-14/s70314-18.pdf#page=40
-https://www.govinfo.gov/content/pkg/FR-2016-10-13/pdf/2016-23891.pdf#page=7
-https://www.govinfo.gov/content/pkg/FR-2016-10-13/pdf/2016-23891.pdf#page=21
-https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020PC0694#page=6
-https://www.sec.gov/files/rules/sro/occ/2021/34-91199.pdf
-
-https://www.reddit.com/r/Superstonk/comments/11n46o1/what_if_causing_a_short_squeeze_is_not_illegal/
-
-https://www.reddit.com/r/Superstonk/comments/13a3yh1/end_game_dtc_and_nscc_are_screwed_as_the_dtc_just/
-
-https://www.reddit.com/r/Superstonk/comments/x3oixj/goldman_and_bank_of_americamerrill_lynch_tried_to/
-
-https://www.sec.gov/files/rules/concept/2015/34-76743.pdf#page=27
-https://x.com/ReesePolitics/status/1912918315439186175
-https://www.federalregister.gov/documents/2025/04/08/2025-05962/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-and-immediate
-
-https://www.theocc.com/getmedia/198bfc93-5d51-443c-9e5b-fd575a0a7d0f/options_listing_procedures_plan.pdf
-https://www.sec.gov/divisions/marketreg/market2000.pdf
-https://am.aals.org/app/uploads/sites/4/2025/01/MISINFORMATION-IN-THE-STATE-LEGISLATURES.pdf#page=7
-https://www.sec.gov/files/rules/proposed/s72404/s72404-8.pdf
-https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=47
-
 
 -- SR-OCC-2024-014 w as the one twehre they did PREV with more discolosure
 
