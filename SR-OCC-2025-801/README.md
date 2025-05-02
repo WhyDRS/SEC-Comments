@@ -54,16 +54,22 @@ P.S. Crypto Task Force, these comments at nn. A, B, aNd C  relate to John's prev
 
 Hi @here,
 
-[finished](https://github.com/WhyDRS/SEC-Comments/tree/main/SR-OCC-2025-801)
+[Finished TAR1](https://github.com/WhyDRS/SEC-Comments/tree/main/SR-OCC-2025-801)
 
-It  is my  interpretation of public informtion that the Commission will release this before tge statutory 18 May 2025  deadline.[^numnwqwq] Namely, staff  do not seem contempt  to wait  until the last minute when they delay an advanced notice.  For those not fmailiar, an advancced notice is a proposed rule  change  which could thertaten the stability  of the entire American financial system, and OCC has made two of these  in the past two years.
+It is my interpretation of public information that the Commission will release this before the statutory 18 May 2025 deadline.* Namely, staff do not seem content to wait until the last minute when they delay an advanced notice. For those not familiar, an advanced notice is a proposed rule change which could threaten the stability of the entire American financial system, and OCC has made two of these in the past two years.
 
-I wqill not  send this  comment letter u ntil it's been  thoroughly  reviewd  by t he community. To ensure this, I resolve that I just won't  send the comment lketter.  Chives is a smart guy with  a `whydrs.org`  eail,  and also has  the  added benefit of being pretty damn responsive. 💜 If he's up for it, I just  vote  chvies emails it when it's ready./
+I will not send this comment letter until it's been thoroughly reviewed by the community. To ensure this, I resolve that I just won't send the comment letter. Chives is a smart guy with a `whydrs.org` email, and also has the added benefit of being pretty damn responsive. 💜 If he's up for it, I just vote Chives emails it when it's ready.
+  
+[Godspeed](https://youtu.be/zl65WgZFN-o)
+also i want the 6dasys star wars img
 
-[Godspeedc](https://youtu.be/zl65WgZFN-o)
 
-[^numnwqwq]:   If  I had to arbitrariuly  commit my  estimate to paper, I'
-d say  there  is a 20%  chancce they post their response on Monday, a 40% chancce they post it by tuesday, and  so on.
+*If I had to arbitrarily commit my estimate to paper, I'd say there is a 20% chance they post their response on Monday, a 40% chance they post it by Tuesday, and so on.
+
+
+
+
+
 
 TODO ending fn and sponosr def to https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE
 
@@ -92,7 +98,8 @@ Federal Preemption of Challenges in U.C.C. Article 8
 - The  cvontrol problems in bankruptcies
 - The profit motive throgh apex (leveragng too fines)
 - DAs from DTC'sgreat collateral  theft
-- Prgrammatic access to COinbase as aprallell
+- Prgrammatic access to [This](https://www.youtube.com/watch?v=DW6L2rcEKJM)  ius a  veruy heavily -edited  video. Why  do you think it sis s oheacvily  edited?COinbase as aprallell
+- 
 - Control frame on systmets through  2006
 - Proposed tri-party sys at n.17 https://www.govinfo.gov/content/pkg/FR-2025-02-26/pdf/2025-03071.pdf#page=2
    - explaining how  it's literally the DTC  system
@@ -728,10 +735,11 @@ Journalists at the time highlighted "the spillover effects on the government sec
 
 ### Cross-CCP Interleaved  Margining Procyclicalityt
 
+The  FICC's cross-marigbnign agreemnt with the CME is not the only cross-margiing agreement  between recognized systemic insittutionsx,  as staff fully understand.[^lolll-id] 
 
 cross-margining gets into toxig GME risk  xfers:  https://www.cftc.gov/PressRoom/PressReleases/9066-25
 
-: _See_ _supra_ note {{^ny-err-3}} §§ 8–9 introducing ocntagion risk from large-participant defaults by the nature of cross-covered obligatyion garuntees. (too bigger arg setup, partial)
+: 
 
 here we have to setup the thin capitalization beforehand with apex
 
@@ -1115,8 +1123,7 @@ Discussed: https://github.com/WhyDRS/Taking-Stock/blob/main/episodes/2024/Oct/30
 
 ### Selected fn YT Clips:
 
-- **Collective SS mod interview of Conn in case of no shares in Cede:**
-  https://www.youtube.com/clip/UgkxV1YeRljQHPcN4NO5aBdj1HPS7apnbNrC
+
 
 - Independent PB research of "kill switch" as introduced:  *caution*
   https://www.youtube.com/clip/Ugkxd0_I3EmB6m2oRNnJ2kTku32HTsIleI34
@@ -1129,8 +1136,7 @@ Discussed: https://github.com/WhyDRS/Taking-Stock/blob/main/episodes/2024/Oct/30
 - **Original document mentioned on June 4 was amended on Dec 30, 2024.**
   Removed the ability of issuers to access _Security Position Reports_ or the _Issuer Agent Portal_ (grom change at 6).
 
-- **Fine and the Bob clip:**
-  https://www.youtube.com/clip/UgkxX1DN63sYrhFeAXBDM76mAyRXQBl-TGME
+
 
 And then, simply to **compare** the fragility of these institutions with the decentralized, scalable, global ledger technology existing on blockchain.
 
@@ -1151,7 +1157,7 @@ https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001.htm
 
 
 
-> Allowing massive institutions, many of which are worth hundreds of billions of dollars, to have priority over security entitlements belonging to individual investors creates massive distortions in the marketplace that could ultimately hasten a large economic crash. But even if this were not the case, an important question for policymakers remains: Is a system truly worthy of saving if it would happily sacrifice individual investors' wealth to save allegedly too-big-to-fail institutions? <!-- TAR2: Securrency "too bigger to fail" extrapolation here -->
+> Allowing massive institutions, many of which are worth hundreds of billions of dollars, to have priority over security entitlements belonging to individual investors creates massive distortions in the marketplace that could ultimately hasten a large economic crash. But even if this were not the case, an important question for policymakers remains: Is a system truly worthy of saving if it would happily sacrifice individual investors' wealth to save allegedly too-big-to-fail institutions? 
 > 
 > — The Heartland Institute
 
@@ -1390,6 +1396,10 @@ Received at least three calls from LR and a compliance email mandating a call by
 ---
 
 ## Proposed Decetralized Govenrnane mechanisms
+
+
+we have need f or  governance in the intro at  https://youtu.be/DW6L2rcEKJM
+
 
 Possibly a good idea to start with the natural monopoly conversation and implications of a shared standard like NSCC-ish.
 
@@ -1994,7 +2004,9 @@ _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increa
 
 - [Systemic Centralized Trust Quandaries (Securrency)](https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX)
 
-- [DTCC Bailout Needed (Conn)](https://www.youtube.com/clip/UgkxV1YeRljQHPcN4NO5aBdj1HPS7apnbNrC)
+ Collective SS mod interview of Conn in case of no shares in Cede:
+  https://www.youtube.com/clip/UgkxV1YeRljQHPcN4NO5aBdj1HPS7apnbNrC
+
 - [DTCC Bailout Needed (Premeditation)](https://www.youtube.com/clip/UgkxZbukKuQRCsLzfmFKDD9QkkHzXi-aVyU7)
 - [DTCC Bailout Needed](https://www.youtube.com/clip/Ugkxd0_I3EmB6m2oRNnJ2kTku32HTsIleI34)
 
@@ -2049,6 +2061,7 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 
 [^st-john-ucc]: _See_ analysis of changes an adopting  comment notes o 1994 reisions toArticle 8 frpm Francis J. Facciolo, J.D.  after six years  of study, _available at_ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf.
 
+[^dannny]:  _See, e.g.,_ reamkrs of G. Daniel Doney XYZ__ABC, _available at_ https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX
 
 
 
@@ -2056,3 +2069,4 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 
 
 
+[^lolll-id]: _Id._ _See also_ §§ 8–9, introducing ocntagion risk from large-participant defaults by the nature of cross-covered obligatyion garuntees. As theh CTO  of DTCC Digital Assets  put it  _supra_ note {{^dannny}}, "we took—to fix the [GFC] problem—what was too big to fail, and we turned it into too bigger to fail."  Might  concentrating all known collateral into a single entity  onyl  exacerbate this problem,  as recently reposed and affirmed  in an interview wit h this smae individuial, _available at_ https://youtube.com/clip/UgkxvR-0P5MQCn_bNr9L_6volUdIf_NAvM8L?
