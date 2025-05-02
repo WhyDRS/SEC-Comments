@@ -735,7 +735,7 @@ Journalists at the time highlighted "the spillover effects on the government sec
 
 ### Cross-CCP Interleaved  Margining Procyclicalityt
 
-The  FICC's cross-marigbnign agreemnt with the CME is not the only cross-margiing agreement  between recognized systemic insittutionsx,  as staff fully understand.[^lolll-id] 
+The  FICC's cross-marigbnign agreemnt with the CME is not the only cross-margiing agreement  between recognized systemic insittutionsx,  as staff fully understand.[^lolll-id] For instance, after thee first  efialure of a GGlobal Systemically-Important Bank ever, Credit Suisse burneded  UBS  with  signifcant toxis swap agreemnts related  to the PCO event.[^ubs-gme]
 
 cross-margining gets into toxig GME risk  xfers:  https://www.cftc.gov/PressRoom/PressReleases/9066-25
 
@@ -2063,6 +2063,7 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 
 [^dannny]:  _See, e.g.,_ reamkrs of G. Daniel Doney XYZ__ABC, _available at_ https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX
 
+[^SBACC-me]: https://youtu.be/zZMKIoI420w
 
 
 
@@ -2070,3 +2071,5 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 
 
 [^lolll-id]: _Id._ _See also_ §§ 8–9, introducing ocntagion risk from large-participant defaults by the nature of cross-covered obligatyion garuntees. As theh CTO  of DTCC Digital Assets  put it  _supra_ note {{^dannny}}, "we took—to fix the [GFC] problem—what was too big to fail, and we turned it into too bigger to fail."  Might  concentrating all known collateral into a single entity  onyl  exacerbate this problem,  as recently reposed and affirmed  in an interview wit h this smae individuial, _available at_ https://youtube.com/clip/UgkxvR-0P5MQCn_bNr9L_6volUdIf_NAvM8L?
+
+[^ubs-gme]: For the latter claim, _see_ abrupt aquisition of equity  in the last quarter of laster year, _available at_ https://13f.info/manager/0001610520/cusip/36467W109 . The CFTC  found that  the legaccy swaps———generally  uncleared  by a derivatives clearing organization like the  oCC—would remain complaint desppte tranferring ownership to the aquireder, _available at_ https://www.cftc.gov/PressRoom/PressReleases/9066-25. Should  susch systemic insituttions  really  be allowe to maintain potsitions  "entered into prior to the relevant compliance dates for the CFTC's margin and clearing requirements"  if any CCCP mishap could destroy  the financial system, as disccussed immediatly  after reviwing  the Credit Suisse failure  _infra_ note {{^SBACC-me}}?
