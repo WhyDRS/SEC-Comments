@@ -46,7 +46,7 @@ In good faith,
 John Wooten
 Member, WhyDRS
 
-P.S. Crypto Task Force, these comments relate to previous communication sent on 30 Apr 2025.
+P.S. Crypto Task Force, these comments at nn. A, B, aNd C  relate to a previous communication sent on 30 Apr 2025.
 
 ### tmp  discord  #generlawr reveiw annoucnemnt
 
@@ -54,7 +54,14 @@ Hi @here,
 
 [finished](https://github.com/WhyDRS/SEC-Comments/tree/main/SR-OCC-2025-801)
 
+It  is my  interpretation of public informtion that the Commission will release this before tge statutory 18 May 2025  deadline.[^numnwqwq] Namely, staff  do not seem contempt  to wait  until the last minute when they delay an advanced notice.  For those not fmailiar, an advancced notice is a proposed rule  change  which could thertaten the stability  of the entire American financial system, and OCC has made XYZ_NBNUM_HGERE of these  in the past five years.
+
+I wqill not  send this  comment letter u ntil it's been  thoroughly  reviewd  by t he community. To ensure this, I resolve that I just won't  send the comment lketter.  Chives is a smart guy with  a `whydrs.org`  eail,  and also has  the  added benefit of being pretty damn responsive. 💜 If he's up for it, I just  vote  chvies emails it when it's ready./
+
 [Godspeedc](https://youtu.be/zl65WgZFN-o)
+
+[^numnwqwq]:   If  I had to arbitrariuly  commit my  estimate to paper, I'
+d say  there  is a 20%  chancce they post their response on Monday, a 40% chancce they post it by tuesday, and  so on.
 
 TODO ending fn and sponosr def to https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE
 
@@ -242,42 +249,43 @@ Thus, it would be impossible for all Cede claimants to bear rights to common sto
 
 In disucssing tjese innacuratries with egnineers at CCPs,[^dtc-eng-chat] I've become doubtful off their ability to  reconcile the FTD issue. I believe re ent events support this line of thingking,[^ftd-foia] whcih onyl  exist  because a trusted central  actor  like the OCC determines accunt  balances  in a single ccentralized  ledger prone to  corrurption./  Can  we  do  better, so that  all market  participants play o the  same field when analyzing material infformation such as the margigin balancces  of clearing  members?
 
+THe  oCC  falls squarely  in  this  same risk  ccentralirtyy  provision, whicch I found abundantly  apparent  from the remarks of the  Deputy Governor for Financial Stability at the Bank of England in an FDIC meeting:[^bailout-chat]
+
+> [T]here's very little CCP skin in the game when the losses are mutualized.
+> 
+> ...the CCP rule book means it can effectively wind itself up without bankruptcy. The latter stages of that waterfall process could be systemically very damaging in the allocation of losses across the wider financial system.
+>
+> — Jon Cunliffe
+
+Given the extrmee   ompexity  of trading systems  in the  cUsotidal Structure  pre-CCP  clearing, i have  to  believe  that regulators will fae an impossible task of uncovering an early failure event. If this goes awry like before, there doesn't seem to be very  muh we can ddo to save legqacy credit systmes. distubringgly,  past incicdents  ere directly  sidestepped by CCPs through mnaual risk takeovers wich overrode margining rules  at the risk of the financial system.[^peeter-intro-supra]
+
+the  uRopean Union noticed  htese  risks two decades ago  when they  put together a  Clearing and Settlement Legal Certainty Group  to ask the   Dederal Reserve  Bank of New  York 58 questiopns about the neww clearing ownerhsip system under Artiel 8.[^certainty] As made abundandtly  cclear  by David Rodgfers Webb, the point of this exchhange was  to establish  clegla  certainty  not for invesotrs ,  but for  secured creditors of financial intermediaries  relying on posted  customer  assets  lent t benkers.[^great-taking] While we will dive into the ownerhip implcciationsx of these ruling intertrepatinos in the next section, I  find  them parmount to introduce n ow since  all of  today's  coplex interrelated systems base their operations  on this assumption that one dcentral depository can  manage  the control records o f all participants  given legal title  ot  securities.
+
+Oe synmprotm of this  central  control over  collateral  has been  the competition and gfragmentation of trading venues, largely  for the benefit of  Wall Street  firms seekign price improvement from public info:[^fragmentation-img]
+
+![corrupted-venues](imgs/competing-feed-fragmentation-problems.png)
+
+Given  there  are  ,pre matopma; excjamges tramsactomg om p[rtaopms  amd  mo SIP  price feeds,   options have an even greater decree of varipos ccomplexities which can create  hidden  system risks.[^married-puts] pReviosuly,  CCPs  have  responseded to  increased margin  demands by waiving algorthmic riddk deposits.[^occ-waiving] Might we consider breifly  the  operational power  placed  in the hands o fz a  Timothy Cuddihy?[^TimothyCuddihy]
+
+An exccample of "insider activities"  and centralirtyy emmerged  when  Robinhood received a  $3.7 billion  margin  call despite only  having acess  capital of $0.7 billion. Somehow , the firm made it through  this  day  thanks  to  the sort  of beurocratic deference now afforded  to  OCC clearing members.[^occ-efs] As the  Commission  knows, the House Committee on Financial Services found that the largest components of this collateral requirement included a Value-at-Risk ("VaR") charge of approximately $1.3 billion and an Excess Capital Premium ("ECP") charge of $2.2 billion.[^rh-margin-claims]
+
+Over  the two  busness days after this assessed charge, Robinhood had to  reach  out  ot Sand Hill to raise over $3.4 billion.[^cap-rais-erh] In remarkign on the  "apparent" public model releaed  by the NSCC, the firm's CEO  mimiced it's Head of DData  Sccience in calling collateral charges  a black box.[^blackbox-nsccc]
 
 
 
+_id._ Shoudl the OCC really have access to large institutional money market funds if "we're going to be in a pretty heavy systemic crisis" where  "a reservoir of pre-funded resources that can be accessed only in resolution might be necessary to enable CCP clearing service to continue to operate[?]" These are not unknown foreign risks whicch clearing members themselves are unaware of , so why then can these firms not deal with the risk managfment themselves if  "[w]hen you talk to the clearing members at very senior levels, they say they're worried about the risk in CCPs and the fact that they are exposed to these risks, both the mutualized default and the non-default[?]" Cuunliffe  goes ton to explain  the  conflict of  itnerests between clearing members minimizing  trade execution costs while having less direct influence over the CCP  than iddeal.
+
+
+As the Commission knows, the broker's $3.7 billion obligation to the Custodial Structure placed the intermediary at risk for insolvency given their $700 million in free collateralizable assets.[^staff-gme-study] Accordingly, such Regime members, without public review or comment, elected to decrease obligations by $2 billion,[^rh-arg-main] an amount of money available by means of emergency Wall Street fundraising, quite possibly placing the stability of the entire financial system at stake. Should we trust our most meaningful periods of market volatility such as Trade 385 in the hands of systems subject to fat-fingering or human-processing errors?
 
 
 
-House Committee on Financial Services:
-3.7B
--700 existing
-largest components of this collateral requirement included a Value-at-Risk (VaR) charge of approximately $1.3 billion and an Excess Capital Premium charge of $2.2 billion.
-
-
-First Capital Raise: $1 Billion+ (Late January 2021)
-Date: January 29, 2021
-Amount: Over $1 billion
-Investors: Existing investors, including Ribbit Capital, Sequoia Capital, and Andreessen Horowitz
-Reason: Robinhood faced liquidity issues due to the GameStop (GME) trading frenzy and had to halt purchases of certain stocks due to clearinghouse collateral requirements. The company urgently raised over $1 billion in convertible notes from existing backers to stabilize its operations.
-Terms: The funding came in the form of convertible debt, meaning investors could convert their loans into equity at a discount in the future.
-"emergency infusion" at https://www.reuters.com/article/business/robinhood-raises-1-billion-of-fresh-funding-from-existing-investors-idUSKBN29X2ZN
-
-Second Capital Raise: $2.4 Billion (Early February 2021)
-Date: February 1, 2021
-Amount: $2.4 billion
-Investors: Led by Ribbit Capital, Sequoia Capital, Index Ventures, ICONIQ Capital, and NEA
-Reason: Following the first emergency fundraise, Robinhood needed even more capital to handle unprecedented retail trading volumes and collateral requirements. This round brought the total raised in just a few days to $3.4 billion.
-Structure: This was another convertible debt raise, offering early investors a 20-30% discount on Robinhood's IPO share price.
-https://www.reuters.com/business/finance/robinhood-raises-another-24-bln-funds-investors-2021-02-01
-
-one day prior ECP exemption ends
 
 Vlad says onyl raised 2 billion $ beforehand and "a little bit of an opaque forumla" (whole margin calc.) when discussing the VAR formula which "it's not fully transparent" and "there are ways to reverse-endinggeer it, but it's not,m kind of, publicly shared. And then there's a special compoenent which is discresionary, so that kind of acts as a multiplier." Musk: "Discressionary menaing, it's just their opinion?" Vlad: "Yeah..."
 "four years ago" part: https://youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k
 ~~and then this fucking idiot sayts ~~ re chat on "who got put in charge of that organization" Vlad says "no reason to believe" CItadel in charge given not on board then https://web.archive.org/web/20210201075846/https://www.dtcc.com/about/leadership/board
 but are now
 
-Game-Stopped report at 34: employee calls it a "black box"
 
 
 
@@ -346,6 +354,9 @@ We appreciate the Commission's attempts to mitigate these risks in recent rulema
 
 [^doub-back]: _See_ _supra_ note {{^wind-down-rule}}.
 
+#### Wind-Down Plan NModeling Tests
+
+Concerningly, the OCC says that margin failure testing is both "a highly manual process" and "would require significant investment of time and resources" in their comment on the rule, _available at_ https://www.sec.gov/comments/s7-10-23/s71023-225499-472722.pdf#page=10. The latter statement, as I read it, implies that major systemic and interlateral members of the Custodial Structure do not presently simulate advanced recovery scenarios for member failures. I find this gravely concerning given the quick markdown of Robinhood's gross exposure and margining markdown four short years ago. 
 
 
 
@@ -426,7 +437,7 @@ For decades at this point, the processing of short sales has been top-of-mind fo
 
 #### Clearing Agency Margining
 
-https://www.interactivebrokers.com/download/worldFederationOfExchanges.pdf just after the Great Recession, Peterffy writes: "
+https://www.interactivebrokers.com/download/worldFederationOfExchanges.pdf just after the Great Recession, Mr.  Peterffy writes: "
 
 > Collecting margins is not the clearinghouse’s only function. When a clearing member fails, the clearinghouse has to be able to step into the failing clearing member’s position and liquidate that position while trying to minimize losses and public panic. And here we come full circle, because if there is not a liquid market at the exchange, how will that position be liquidated? If it is a large position, what is the clearinghouse going to do? If the losses exceed the clearinghouse's resources, who will end up with those losses? The other members will, but if some of them do not have sufficient funds, we will be faced with a domino effect
 
@@ -475,10 +486,7 @@ here we have to setup the thin capitalization beforehand with apex
 as the tie intro from manual:
 _Id. from WRP XYZ_
 
-Concerningly, the OCC says that margin failure testing is both "a highly manual process" and "would require significant investment of time and resources" in their comment on the rule, _available at_ https://www.sec.gov/comments/s7-10-23/s71023-225499-472722.pdf#page=10. The latter statement, as I read it, implies that major systemic and interlateral members of the Custodial Structure do not presently simulate advanced recovery scenarios for member failures. I find this gravely concerning given the quick markdown of Robinhood's gross exposure and margining markdown four short years ago. 
 
-
-As the Commission knows, the broker's $3.7 billion obligation to the Custodial Structure placed the intermediary at risk for insolvency given their $700 million in free collateralizable assets.[^staff-gme-study] Accordingly, such Regime members, without public review or comment, elected to decrease obligations by $2 billion,[^rh-arg-main] an amount of money available by means of emergency Wall Street fundraising, quite possibly placing the stability of the entire financial system at stake. Should we trust our most meaningful periods of market volatility such as Trade 385 in the hands of systems subject to fat-fingering or human-processing errors?
 
 
 Thhin  clearing agnecy  capitalizaed  backstoip outside of defaulitng mnemebr
@@ -551,7 +559,12 @@ Congressional report:
 
 ### Next thing, continuing connect to financial system
 
-start with thin capitalization
+
+
+start with thin capitalization[^id-srac]
+
+[^id-srac]: _See_ _supra_ note {{^bailout-chat}}. at 2:44:00, Cunliffe syas, "CCP capital is generally pretty small relative to the size of their operations."  Staff  themselves seems to cvvoncur with this concenr ewhnre conisering any potential  bailout from the Federal  Reserve  _infra_ note {{^street-name-2}}.  _See also_ remarks of  leading  advocacy  consitutaant at the video clip linked in note  16  of PREV, stating that "the central clearing  counterparties are  very  thinly  capitalized."
+
 
 extrapolate to business profit
 
@@ -632,7 +645,7 @@ Information on how the system worked for custodianship and immobilization is in 
 
 [^overvoting-fabrication]: _See, e.g.,_ an internal transfer agent service document describing six ways to truncate or otherwise throw out votes in elections where more shares are voted than exist, _available at_ https://wooten.link/overvoting-fabrication.  Should  agnets  relly need to resort ot throwing away  votes becaue  the  Custodial Sturcture allows more shares to  ccirculate than exist?
 
-[^BASIC-UCC]: _See_ remarks on the BANKING AND SECURITIES INDUSTRY COMMITTEE amendments to UCC in 1972, mentioned in the concept release at n.62, enabling the custodianship and immobilization necessary for margin loans, _available at_ https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf#page=69. Upon the adoption of these new State laws, "DTC commenced taking steps to implement the long-desired broadening of its ownership, even though a small percentage of its eligible issues would be from non-enacting states." As the Commission knows, this ownership stake often exceeds 99.9% of public issuers, presenting an immense centralization risk should its nominee partnership face any threats.
+[^BASIC-UCC]: _See_ remarks on the BANKING AND SECURITIES INDUSTRY COMMITTEE amendments to UCC in 1972, mentioned in File No. S7-27-15 (the "concept release") at n.62, _available at_ https://www.sec.gov/files/rules/concept/2015/34-76743.pdf; enabling the custodianship and immobilization necessary for margin loans, _available at_ https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf#page=69. Upon the adoption of these new State laws, "DTC commenced taking steps to implement the long-desired broadening of its ownership, even though a small percentage of its eligible issues would be from non-enacting states." As the Commission knows, this ownership stake often exceeds 99.9% of public issuers, presenting an immense centralization risk should its nominee partnership face any threats.
 
 [^FSU-UCC]: _See_ Florida State University Law Review's article: _A Critical Look at Secured Transactions Under Revised UCC Article 8_, _available at_ https://ir.law.fsu.edu/lr/vol14/iss4/2. In 1987, Dr. Paul B. Rasor, Ph.D. therein states:
 > The extension of Article 8 to uncertified shareholder interests did not have anything to do with the problems of secured lenders. Instead, it grew out of the so-called "paperwork crunch" which came to a head in the late 1960s in the securities industry... financial intermediaries and other bailees will presumably have records showing which notices were received when. Nothing in the revised Article 8 affects this.
@@ -705,7 +718,7 @@ Journalists at the time highlighted "the spillover effects on the government sec
 
 [^ny-fed-id1]: _Id._ at 5.
 
-[^hidden-errs]: _See_ _supra_ note {{^game-stopped}} at § III.2, finding and disclosing over a year after the fact that DTCC arbitrarily chose to waive margin charges and had "regularly waived such charges during periods of acute volatility" for years prior. Congressional staff found that "at least one member firm made a business decision" to allow trades creating excess-risk charges because NSCC's charge "was either not applied or reduced 63 times" to the tune of billions in risk deposits. In following this series of repeated margin-forgiveness decisions, Congress found a single managing director "has the ultimate authority to authorize waivers" and "does not need to consult with anyone to authorize a waiver." Should these calculations, so crucial to the integrity and stability of our great market system, really lie in the hands of a select few individuals, "particularly when the risk of default is greatest[?]"
+[^hidden-errs]: _See_ _supra_ note {{^game-stopped}} at § III.2, finding and disclosing over a year after the fact that DTCC arbitrarily chose to waive margin charges and had "regularly waived such charges during periods of acute volatility" for years prior. Congressional staff found that "at least one member firm made a business decision" to allow trades creating ECP charges because NSCC's charge "was either not applied or reduced 63 times" to the tune of billions in risk deposits. In following this series of repeated margin-forgiveness decisions, Congress found a single managing director "has the ultimate authority to authorize waivers" and "does not need to consult with anyone to authorize a waiver." Should these calculations, so crucial to the integrity and stability of our great market system, really lie in the hands of a select few individuals, "particularly when the risk of default is greatest[?]"
 
 [^shoerer]: _See, e.g.,_ one article detailing the bankruptcy of Stoever, Glass & Co. in February, an intermediary which had been in business for over six decades, _available at_ https://www.investmentnews.com/goria/practice-management/60-year-old-new-york-broker-dealer-files-bankruptcy-closes-down/259356. In a bankruptcy filing of their affiliated wealth management arm, the firm has at least an estimated $1 million in liabilities compared to under $50,000 in assets.
 
@@ -1025,17 +1038,6 @@ I really don't see a need to formally acknowledge this because it is a complete 
 
 [^Discord-GME]: _See_ "Monopoly Bailout Discussion" as first reference in an extended piece on growing systemic risks, _available at_ https://wooten.link/GME. _See also_ invitation to join the public server, open to any internet user, _available at_ https://wooten.link/join. Staff will need to configure an account and enter the group before viewing the context of the first link and other searchable discussions over this concept release.
 
-[^bailout-chat]: Relevant quotes from Jon Cunliffe, Deputy Governor for Financial Stability at the Bank of England from https://youtu.be/0PtULsOtI2o?t=9311:
-"non-default losses could therefore wipe out the capital of the CCP and lead it to insolvency"
-"the CCP rule book means it can effectively wind itself up without bankruptcy. The latter stages of that waterfall process could be systemically very damaging in the allocation of losses across the wider financial system"
-"financial markets could disappear if we lose effective clearing services"
-"the CCP service needs to be kept operating and the transmission of stress needs to be kept to a minimum"
-"CCP capital is generally pretty small relative to the size of their operations"
-“The first and this is a key issue for us is the question of incentives because our CCP equity is not going to be written down. In the case of default losses, do CCPs really have the right incentives to risk manage properly, particularly when they're in competition as many are internationally with other CCPs? And a point that's raised by the private sector is whether the allocation of losses between members on the one hand and CCP owners on the other is unfair because it's very little CCP skin in the game when the losses are mutualized."
-"I think we're going to be in a pretty heavy systemic crisis... a reservoir of pre-funded resources that can be accessed only in resolution might be necessary to enable CCP clearing service to continue to operate."
-"When you talk to the clearing members at very senior levels, they say they're worried about the risk in CCPs and the fact that they are exposed to these risks, both the neutralized default and the non-default. And they 
-don't have kind of enough influence on the CCPs.”
-
 [^heat-lamp]: _See, e.g.,_ comments referencing a "due diligence library" with hundreds of original research pieces discussing meaningful operational nuances not known to the markets; _available at_ https://www.sec.gov/comments/s7-14-22/s71422-279105.htm, https://www.sec.gov/comments/s7-08-22/s70822-272484.htm, https://www.sec.gov/comments/s7-18-21/s71821-20111377-264966.pdf, _inter alia_. _See also relevantly_ one particular piece documenting the operational efficiency custodianship practices of certain agent share purchase plans, expanding operative trust past the bounds specified in concept release § VII.E.2, _available at_ https://wooten.link/heat. Namely, we have confirmed through discussions, conversations, and by definitive website "Q&A section" updates certain operations by a leading transfer agent that allow shares held in a directly-registered investor's name to be swept into agent nominee custodianship without due notice or consent should such an investor enroll in an issuer plan, be it directly shelved on an S-3 or not voluntarily perpetuated by issuers themselves. While the release does mention this option as a possibility for known brokered holdings, I find it materially worrisome given the declared holding of plan-custodian nominee shares in a DTCC/Cede account at a market broker for the sake of accessing trading liquidity. --I might temper this section a bit, I think we can be very clear about what's been admitted to but also be clear about what we don't know regarding the Dingo nominee holdings and the subsection held with Cede--
 
 [^recently]: _See, e.g., recently_ RH fee, discussion thereof both TS and DC, _available at_ https://www.sec.gov/newsroom/press-releases/2025-5.
@@ -1108,9 +1110,7 @@ PENDING in South Dakota, Tennessee, North Dakota, Iowa, New Hampshire, Oklahoma,
 [^state-stopping]: _See_ remarks of a leading investor advocate documentary, _available at_ https://youtu.be/Vbr3hfjVOxw (retirement implications).
 SD: https://sdlegislature.gov/Session/Bill/25204/263148 (but not audio)
 
-Bob: Chatten on "UCC9??? I have only focused on UCC8" regarding the 1978 amendments.
-^
-OUT OF SCOPE
+
 
 
 Firstly, we can cite these MF's absolute nothingball of deception:
@@ -1146,26 +1146,20 @@ These shouldn't need to be directly quoted.
 
 // banking lobby threats in Tennessee {{state-stopping}}
 
-The larger big source is the NY Fed response to "EU Clearing and Settlement Legal Certainty Group" European Commission International Market and Services DG / Financial Services Policy and Financial Markets
-at https://archive.org/details/ec-clearing-questionnaire.
 
-
-![corrupted-venues](imgs/competing-feed-fragmentation-problems.png)
-
-[^fragmentation-img]
-
-[^fragmentation-img]: _See, e.g._ wokr from The MITRE Corp., Tyler Gray, Brendan Tivnan, and Christopher Danforth reproduced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), _available at_ https://doi.org/10.1371/journal.pone.0226968. Many of  the eleven esteemed authors therof rprsetn two established American unitversiites, and seven of them are affiliatged  with a 501(c)(3) established to advance national security and serve the public interest. Their findings revea XYZ  from 19
-
-§ I.1.b.ii ¶ 10 at 8:
+_See_ _supra_ note {{^certainty}} § I.1.b.ii ¶ 10 at 8:
 in re question
 > Where securities are held in pooled form (e.g. a collective securities position, rather than segregated individual positions per person), does the investor have rights attaching to particular securities in the pool?
 they write:
 > No. The security entitlement holder does not have rights attaching to particular securities in the pool, he has a _pro rata_ share of the interests in the financial asset held by its securities intermediary to the amount needed to satisfy the aggregate claims of the entitlement holders in that issue. This is true even if investor positions are "segregated."
 
-_See also_ great taking at 45 which is § III ¶ 12
-The other quotes get into control and specifically "an investor is always vulnerable to a securities intermediary that does not itself have interests in a financial asset sufficient to cover all of the securities entitlements that it has created in that financial asset" but then you're diving into the two exceptions tacked by the "margin" BS ULC reply at n.15.
+_Id._ ¶ 12.
+The other quotes get into control and specifically "an investor is always vulnerable to a securities intermediary that does not itself have interests in a financial asset sufficient to cover all of the securities entitlements that it has created in that financial asset" but then you're diving into the two exceptions tacked by the "margin" [feDreply at n.15.](https://img1.wsimg.com/blobby/go/1ee786fb-3c78-4903-9701-d614892d09d6/taking-feb24-screen2.pdf#page=45)
 
-[mitre-cryptop-id]: PENDING: We have href citing "Hidden centralization in decentralized financial markets." in re crypto task force chat from leadership at https://www.sec.gov/files/memo-mitre-corporation-022125.pdf
+
+
+
+[mitre-cryptop-id]: from prior workin  _supra_ note {{^fragmentation-img}}: We have href citing "Hidden centralization in decentralized financial markets." in re crypto task force chat from leadership at https://www.sec.gov/files/memo-mitre-corporation-022125.pdf
 
 [don-dict-fn-pending]: Namely, leading advocates promote [doing XYZ above]. These legal experts also endorse [509*11 cross-ref].
 
@@ -1756,16 +1750,15 @@ https://www.alri.ualberta.ca/wp-content/uploads/1993/06/fr067.pdf#page=4
 
 
 --- [pledigng to  OCCC from DTCC]
+[^occ-dtcc-plerdgingb]
 https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=11
 
 https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=112  (occ cross ref  from 11)
 
-https://www.reddit.com/r/GME/comments/mi8mo9/legal_interpretation_of_the_proposed_srdtc2021005/
 
 
 he Collateral Loan Program allows you to pledge securities from held in your general free account as collateral for a loan or for other purposes (such as Letters of Credit) to a pledgee participating in the program. 
 
-for married puts
 
 https://www.reddit.com/r/Superstonk/comments/ngwhzu/where_is_srdtc2021005_the_update/
 
@@ -1787,8 +1780,6 @@ https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr
 https://one.zoho.com/zohoone/blocktransfer/home/cxapp/workdrive/home/b83hmf05972c82a1c4790990d79265601bc26/teams/b83hmf05972c82a1c4790990d79265601bc26/ws/n2fp6e9c05b7f8454414fbafad2ae5454b6e9/folders/900duc67948ae27f44ffe85627a6c25ddb699?frameorigin=https%3A%2F%2Fone.zoho.com
 https://github.com/WhyDRS/SEC-Comments/issues/12
 
-https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux/
----- WITH married puts
 
 --  secrative rule  change  fuile  Nos.
 https://www.reddit.com/r/Superstonk/comments/13vtgc1/comment_to_the_sec_against_heavily_redacted/
@@ -1892,7 +1883,7 @@ https://www.sec.gov/comments/sr-occ-2021-003/srocc2021003-1607622.htm
 
 -- RWD  lesss  trigger  automation
 https://www.sec.gov/files/rules/sro/occ/2020/34-90712.pdf#page=5
-(several)  https://www.sec.gov/files/rules/sro/occ/2023/34-97785.pdf#page=13
+{{^occ-wasiving}}
 https://www.sec.gov/files/rules/sro/occ/2023/34-98107.pdf#page=12  (discussing  board events  and  preparing)
 
 --- RWD Plan Governance complexity
@@ -1937,7 +1928,8 @@ https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
 CLIPS:
 
 - [Importance of Self-Custody 🔐](https://www.youtube.com/clip/Ugkx0KLlnP--6Q-u4L7H5zrgWbDhjpKr43dL)
-- [Growing Systemic CCP Risk](https://www.youtube.com/clip/UgkxX1DN63sYrhFeAXBDM76mAyRXQBl-TGME)
+_See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increased interconnecftted systemic  reliance onn cCPs as cocentratred risk respoitoryies for material swap contracts  , _available at_  https://www.youtube.com/clip/UgkxX1DN63sYrhFeAXBDM76mAyRXQBl-TGME.
+
 - [Systemic Centralized Trust Quandaries (Securrency)](https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX)
 
 - [DTCC Bailout Needed (Conn)](https://www.youtube.com/clip/UgkxV1YeRljQHPcN4NO5aBdj1HPS7apnbNrC)
@@ -1946,6 +1938,11 @@ CLIPS:
 
 - [🧠 Something's Wrong 📉](https://www.youtube.com/clip/Ugkx_V1DjK4hfuqgfPeARudw1_efek9tyx-e)  `pinkcats`
  on  votiong
+
+
+
+conc:
+Thank you and God Bless America!
 
 DD's:
 
@@ -1983,6 +1980,7 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 -- SR-OCC-2024-014 w as the one twehre they did PREV with more discolosure
 
 [^2024-014-sec]: https://www.sec.gov/files/rules/sro/occ/2024/34-101246.pdf
+
 "its GARCH model" (being modified) "may cause or exacerbate such financial instability." atg 25
 
 14  has  whene thye  did  it  for '21
@@ -2015,3 +2013,28 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 
 [^ftd-foia]: _See, e.g.,_ changin staff  data positions related  to t he responses to  25-00185-FOIA, suggesting  that  certain FTD information woudld harm market integrity. In speakign with the author of this erequest, it's become clear that the'yve  been patiently wiating  for answers lasst year because of a true ccare for market integrity. _relvantly_, incomplete data  from the few central providers such as  _Id._ have  historically  failed to deliver  prompt and adccurate informmation to he t Commission  itself when  ehavily-shorted securities are  in question.  _See, e.g.,_ a memorandum  froom the Office of Econmicc Analysis at  note 1, stating that  staff did not revceive significant daily  FTD  information held by NSCC all  the  way  back in 2006, _available at_ https://www.sec.gov/spotlight/failstodeliver082106.pdf.
 
+[^bailout-chat]: _See_  Systemic Resolution Advisory Committee under the Division of Complex Institution Supervision and Resolution, with  Cunliffe's discussion starting at the thimestamp, _available at_  https://youtu.be/0PtULsOtI2o?t=9311. Gvien "non-default losses could therefore wipe out the capital of the CCP and lead it to insolvency,"  I  find it extremely  questionable  that the OCC desired to  expand itt's emergency-resolution  repurchasing parties to nonb-nbank liquidity  procidors. We are almost facing the ultimate question of who should pay for Wall Street's massive procycliccal losses.
+
+[^peeter-intro-supra]: _See_ _supra_ note {{^intro-quote-date}}. 
+
+[^certainty]: _See_ Financial Services Policy and Financial Markets questionanaire  cop[leted  by the  legal  team  of American's top  central banksers, _available at_ https://archive.org/details/ec-clearing-questionnaire.
+
+[^great-taking]: _See_ Webb's book specifically  detailing the ins and outs of prepty-right dchallenges, _available at_ https://thegreattaking.com.
+
+[^fragmentation-img]: _See, e.g._ wokr from The MITRE Corp., Tyler Gray, Brendan Tivnan, and Christopher Danforth reproduced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), _available at_ https://doi.org/10.1371/journal.pone.0226968. Many of  the eleven esteemed authors therof rprsetn two established American unitversiites, and seven of them are affiliatged  with a 501(c)(3) established to advance national security and serve the public interest. Their findings revea over  $160 millikon of arbitrage progfits tstmming from latengcy ies between  tthe  complex exchanges routes, securities i nformation processorts ("SIP"),  and direct geogrphical feeds/.
+
+[^married-puts]: _See, e.g.,_ use of married puts amongst  a select  few  market particiants  tio oruoirtedky  extend  their levergaaged  borrowings against a certain issu, _available at_  https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of,  https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux, and https://www.reddit.com/r/GME/comments/mi8mo9/legal_interpretation_of_the_proposed_srdtc2021005. THe last post specifically  introduces the communtiyty  to material further explored  _infra_ note {{^occ-dtcc-plerdgingb}},  allowing  FTd reserts  through  the  collateral  loan  program duly adopted  in  the related SRO change.  While the amendment seems  tog attmept  forced underlying delivery  between  the DTC  and OCC,   it also  directly  detracts from clkearing memebrss;' avaliable margin deposits  during sustpension.
+
+[^occ-waiving]: _See, e.g.,_ amentments  to  OCCs recover and ordery wind-down pllan which  increase reliance  on  human  jusdgmmenet at the  expense of  acctual margining algorithsms, _available at_ https://www.sec.gov/files/rules/sro/occ/2023/34-97785.pdf. "Rather than rely on a few of many possible events that could trigger a wind-down, the proposed revisions to the RWD Plan would move to a single WDP Trigger Event based on a determination by OCC's Board of Directors[,]" rreads the approved release at 13. Should we trust the  self-interested boardrooms  of Wall Street with the  solvent function  of  our financial  system  over and above p;rroven algorthmic margins systems designed by at least dozens of staff engineers?
+
+[^occ-efs]: _See_ _infra_ note {{^2024-014-sec}}  n.42  (explaining  how  a beoricratic Model Risk Working Group can mnaually  tune margigin system weights  during hightened volatility, which proved detrimental in premmpting risks in PREV §  II.C.3).  Two footnotesd later, the OCC clairifdies that this  committe's  judjment overrode an algorithm with "more than 200 individual risk factors" for periods of up  to 190 days,  a length of time certainly  far  enough  to drawft capital indadequancies seen in PREV  § II.A.b. Lately,. so many of  OCC's ruile changes  as k for a n operational deference to management  (and redact key  margining information) that I wonder  if  their CCP even plans to rely  on  GARCH zshould a crisis  arise.
+
+[^TimothyCuddihy]: _See_ _infra_ note {{^hidden-errs}},  placing billions of ollars in unilateral waivers in the deciding hands of one person. As staff k now, these waivers were the difference between intra-day  solvency fror  a  broker-dealer who intentionally chose  to  hand their own clearing  (adnd the associated risks)  to promote business efficinecy _infra_ note {{^rh-clearing-self}}. Should  a firm not bear  the conomic consequences of taking on increased risk in the financial  system  to "eliminate [internalized] fees[?]"
+
+[^rh-margin-claims]: _See_ _infra_ note {{^game-stopped}} at 20. THe subsubsection  immediatly  proceeding these disclosures explains how Robinhood leadership intentionally  declined to proepr;yl  model  the  week's margin requirements leading up to t he PCO event . Just b efore this finding,  House staff find that thefirms Head of Data Science did not bother reading  the public formula for calculating collateral charges, and afterh th PCO event they  simply resolved to using  "Excel spreadsheets to model its NSCC collateral charge" like a legacy transfer agnt trackign shares.
+
+[^cap-rais-erh]: _See_ first  cpaital  riase  of over a billion dollars the  very next day thrrough convertile notes from existin g backers in an  "emergency infusion,", _available at_ https://www.reuters.com/article/business/robinhood-raises-1-billion-of-fresh-funding-from-existing-investors-idUSKBN29X2ZN.  _See also_  second raise of $2.4  billion in another  convertible-debt raie priced about a quarter below  the IPO  price sold  to the public  five monthslater, _available at_ https://www.reuters.com/business/finance/robinhood-raises-another-24-bln-funds-investors-2021-02-01. All  this centralized  risk-sseeking  cusupport  came  at a profound  time in  capital markets,  and it  now seems the oCC  wants  a gaunrteed buyer of  its own member  defficincies  for the  next   crisis, thoghtfully soruced at money-market rates. Notably,  Robinhood completed  these investments one day  before the  DTCC's ECP excemption ended, but can  we really preidct when the  next market  downturn will  conclude?
+
+[^blackbox-nsccc]: _See_ _supra_ note {{^rh-margin-claims}} nn.60 and 124–127.  _See also_ excchagne between Vladimir Tenev and Elon Musk the day after the  PCO  event, _available at_ https://www.youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k.
+
+_Id._  Valaddamir says they have ""no reason to believe" CItadel is  in charge of the DTCC. THis  claim  makes sense at the time  given the market-maker was not on Board then,  as ttested  by public disclosree, _available at_  https://web.archive.org/web/20210201075846/https://www.dtcc.com/about/leadership/board. However,  by  June of  that same year a citadel eemployee  was added to  DTCC's  Board and  rremains  there to this day, with the original modification at thierr public site, _available at_ https://web.archive.org/web/20210610132842/https://www.dtcc.com/about/leadership/board. In _supra_ note {{^bailout-chat}}  at 3:12:00, Cunliffe  states six monthgs later that clearing members "don't have kind of enough influence on the CCPs;"  do  staff  share this  view?
