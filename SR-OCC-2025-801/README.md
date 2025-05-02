@@ -737,8 +737,9 @@ Journalists at the time highlighted "the spillover effects on the government sec
 
 The  FICC's cross-marigbnign agreemnt with the CME is not the only cross-margiing agreement  between recognized systemic insittutionsx,  as staff fully understand.[^lolll-id] For instance, after thee first  efialure of a GGlobal Systemically-Important Bank ever, Credit Suisse burneded  UBS  with  signifcant toxis swap agreemnts related  to the PCO event.[^ubs-gme]  I  could go on listing cases of interconnectedness between  CCPs for anoyhtre twenty pages,  but I don't have the time.
 
-Rather, I hope staff will suffice with a select  few instances of  OCC's arrangementsd as  sufficient proof that the detrimental fall  of options cleariing serrvices would  take dow nthe American  financial systme. Ever  since lloosening margin despotti requirements  in SR-OCC-2007-004 to regualr accounts,  the OCC  has widdled down a slipperly  slope of  expanding  their access to collarteralizable margin.[^first-change]  Chiefly,  I find this particulary  concenring  due  ot the points brought up  in note 4 opf PREV.
+Rather, I hope staff will suffice with a select  few instances of  OCC's arrangementsd as  sufficient proof that the detrimental fall  of options cleariing serrvices would  take dow nthe American  financial systme. Ever  since lloosening margin despotti requirements  in SR-OCC-2007-04 to regualr accounts,  the OCC  has widdled down a slipperly  slope of  expanding  their access to collarteralizable margin.[^first-change]  Chiefly,  I find this particulary  concenring  due  ot the points brought up  in note 4 opf PREV.
 
+Hopefully  by  this point we've  etbalished that the CCPSs are very thinkly  capitalized.[^risklolll]
  
 
 here we have to setup the thin capitalization beforehand with apex
@@ -746,10 +747,12 @@ here we have to setup the thin capitalization beforehand with apex
 as the tie intro from manual:
 _Id. from WRP XYZ_
 
+[^no-more-NDAs-Ip=-poprpomise]
 
 
+Thhin  clearing a g 
 
-Thhin  clearing agnecy  capitalizaed  backstoip outside of defaulitng mnemebr
+necy  capitalizaed  backstoip outside of defaulitng mnemebr
 
 at https://democrats-financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf#page=82
 https://www.reddit.com/r/Superstonk/comments/1dz57am/trade_385_the_most_important_ignored_aspect_of
@@ -765,13 +768,6 @@ trade385 at 87 which thus dropping $895.2M In Risk - Normalizing from 10:46a to 
 
 
 Apex "wasn't prepared to post those funds." per {{^apex-fine-foreshadow}} at 7
-
-
-
-
-Boarded conversation on BNY Mellon backend transfers dated 11 Jul 2023.
-
-re discussion with board panel: we have one now C-suite at a brokerage founded in 2005 which claims "clearing has remained the same analog, batch-process-driven industry for the past 20+ years. That translates to increased risk, additional cost and an overall inability to meet the needs of today's financial institutions."
 
 
 
@@ -998,7 +994,7 @@ Over the years, we've come to greatly appreciate staff's perpetual diligent effo
 
 [^cede-questions]: href backcite Concept note 87 at https://www.scribd.com/document/329172045/Senate-Doc-93-62-Title-Acknowledgements-Intro
 
-### Burgeoning Views
+### Burgeoning Views <!-- href'd  in risklolll -->
 
 In the last ten years, certain blockchain technologies have emerged through the work of no central solicitor. Indeed, communities themselves both spawn up around the promise of these innovations and actively participate in building their future successful implementations. This work removes the need for centralized trust and explicitly obviates the function of DTCC and its subsidiaries. In a book profiling the DTCC at the brink of the Great Recession, the corporation's founding CEO wrote:[^dentzer]
 
@@ -2074,4 +2070,8 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 
 [^ubs-gme]: For the latter claim, _see_ abrupt aquisition of equity  in the last quarter of laster year, _available at_ https://13f.info/manager/0001610520/cusip/36467W109 . The CFTC  found that  the legaccy swaps———generally  uncleared  by a derivatives clearing organization like the  oCC—would remain complaint desppte tranferring ownership to the aquireder, _available at_ https://www.cftc.gov/PressRoom/PressReleases/9066-25. Should  susch systemic insituttions  really  be allowe to maintain potsitions  "entered into prior to the relevant compliance dates for the CFTC's margin and clearing requirements"  if any CCCP mishap could destroy  the financial system, as disccussed immediatly  after reviwing  the Credit Suisse failure  _infra_ note {{^SBACC-me}}?
 
-[^first-change]: 
+[^first-change]: This ruel  change  was  so  out-of-line wiht existing interpreationfs  of 17 CFR § 240.15c3-3 that the OPCC requeested accelerated Approval to  further  thier  common operantus  of denying  public  inpub, establishedi  n PREV  n.117 . _Compare_ this  treatments of investor monies  to the  gnerlty permission asked nearly two  years prior to  segregate  margin "lien accounts" —which "would correspond to cross-margining agreements between OCC and other futures clearing organizations"  like DTC— from general  cash holdigns in SR-OCC-2003-04, _available at_ https://www.sec.gov/files/rules/sro/occ/34-51330.pdf. Note 3  further cites  ecamples  of the OCC's agrements  "with the Chicago Board Options Exchange (“CBOE”), American Stock Exchange, New York Stock Exchange (“NYSE”), Chicago Mercantile Exchange (“CME”), Chicago Board of Trade and various member firms... under which eligible customers may elect to establish accounts,"  accounts which  OCC  itself later  cites "may be cross-margined with related futures products regulated exclusively by the Commodity Futures Trading Commission[.]"  Shoujddl  we  subject all collateral to such  treamnt, without informaing investpors that their whole portfolio could  receive a material haircut if any such firms cease operations? 
+
+[^risklolll]: _See_ _infra_ note {{^street-name-2}} for impliccations  of this unsamefe practice. SDtaff backl  then  draw the line to insovenccy, and I see nothing but that option today. _See, e.g.,_ reamkrs  by Dentzer _infra_ § {{Burgeoning Views  RTDOO}} for  concurrent opinions made public from CCP leadshethip. In concersations with  C-suite executives or past highly-rleated parties, I can publicly state that  such views are  not  uncopmmon.
+
+[^no-more-NDAs-Ip=-poprpomise]: _Id._  _See also_ public comments from the  CEO  of  a correspondent clearing firm, _available at_ https://rqdclearing.com/rqd-ushering-in-the-modern-clearing-solution-thats-required. WEhile I  cannot rpresently  comment  on the full depth  of insights from this post and discourse  on  11 Jul 2023, I would like  ot hilidght a key quote to  staff: "clearing has remained the same analog,  batch-process-driven industry for the past 20+ years. That translates to increased risk, additional cost and an overall inability to meet the needs of today’s financial institutions.
