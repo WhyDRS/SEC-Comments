@@ -25,7 +25,7 @@ cc: `foiapa@sec.gov` (note for the Pollack Study as _Id._  to note 22 of 64 FR 5
 
 cc: `crypto@sec.gov`
 
-bcc: `erm71@who.eop.gov`
+bcc: `sean.dillon@mail.house.gov`
 
 ### Subject Line
 
@@ -41,7 +41,7 @@ We hope the new Crypto Task Force will consider rules directly protecting invest
 
 FOIA Services,
 
-Please see request in note 8XYZ9 (DTC submit) and 24329OCC (reminder on 24-01211-E).
+Please see request in note 24329.
 
 
 In good faith,
@@ -275,7 +275,6 @@ Over  the two  busness days after this assessed charge, Robinhood had to  reach 
 
 
 
-_id._ Shoudl the OCC really have access to large institutional money market funds if "we're going to be in a pretty heavy systemic crisis" where  "a reservoir of pre-funded resources that can be accessed only in resolution might be necessary to enable CCP clearing service to continue to operate[?]" These are not unknown foreign risks whicch clearing members themselves are unaware of , so why then can these firms not deal with the risk managfment themselves if  "[w]hen you talk to the clearing members at very senior levels, they say they're worried about the risk in CCPs and the fact that they are exposed to these risks, both the mutualized default and the non-default[?]" Cuunliffe  goes ton to explain  the  conflict of  itnerests between clearing members minimizing  trade execution costs while having less direct influence over the CCP  than iddeal.
 
 
 As the Commission knows, the broker's $3.7 billion obligation to the Custodial Structure placed the intermediary at risk for insolvency given their $700 million in free collateralizable assets.[^staff-gme-study] Accordingly, such Regime members, without public review or comment, elected to decrease obligations by $2 billion,[^rh-arg-main] an amount of money available by means of emergency Wall Street fundraising, quite possibly placing the stability of the entire financial system at stake. Should we trust our most meaningful periods of market volatility such as Trade 385 in the hands of systems subject to fat-fingering or human-processing errors?
@@ -567,6 +566,9 @@ start with thin capitalization[^id-srac]
 
 [^id-srac]: _See_ _supra_ note {{^bailout-chat}}. at 2:44:00, Cunliffe syas, "CCP capital is generally pretty small relative to the size of their operations."  Staff  themselves seems to cvvoncur with this concenr ewhnre conisering any potential  bailout from the Federal  Reserve  _infra_ note {{^street-name-2}}.  _See also_ remarks of  leading  advocacy  consitutaant at the video clip linked in note  16  of PREV, stating that "the central clearing  counterparties are  very  thinly  capitalized."
 
+Congrss found that some broekrs are "thinly capitalized for a highly volatile environment[,]"  including such firms 3wheich are cleraring mmebrs at CCPs/.[^rofl]
+
+[^rofl]: _See_ _supra_ note {{^game-stopped}}  at 97.  _See also generally_ Key Finding #3. House staff  note on the  prior page  that  introdu es this finding  how several  "member firms Committee staff interviewed either did not model for, or otherwise explicitly plan for"  ECP  charges  before the PCO event.
 
 extrapolate to business profit
 
@@ -1944,7 +1946,7 @@ _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increa
 
 
 conc:
-Thank you and God Bless America!
+I ahve been preparing this comment  for over a year, and there are many more items I would like to include as proof of this impendiung frauduilant market c risis. However, the events detaiulied i n _supra_ § 2 lead  me to believe that I can wait tno longger to bring these  items up to the Commission. Thank you and God Bless America!
 
 DD's:
 
@@ -2040,3 +2042,6 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 [^blackbox-nsccc]: _See_ _supra_ note {{^rh-margin-claims}} nn.60 and 124–127.  _See also_ excchagne between Vladimir Tenev and Elon Musk the day after the  PCO  event, _available at_ https://www.youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k.
 
 _Id._  Valaddamir says they have ""no reason to believe" CItadel is  in charge of the DTCC. THis  claim  makes sense at the time  given the market-maker was not on Board then,  as ttested  by public disclosree, _available at_  https://web.archive.org/web/20210201075846/https://www.dtcc.com/about/leadership/board. However,  by  June of  that same year a citadel eemployee  was added to  DTCC's  Board and  rremains  there to this day, with the original modification at thierr public site, _available at_ https://web.archive.org/web/20210610132842/https://www.dtcc.com/about/leadership/board. In _supra_ note {{^bailout-chat}}  at 3:12:00, Cunliffe  states six monthgs later that clearing members "don't have kind of enough influence on the CCPs;"  do  staff  share this  view?
+
+_See_ _supra_ note {{^bailout-chat}}, _infra_ § 2, and advance noteice at n.17. Shoudl the OCC really have access to large institutional money market funds if "we're going to be in a pretty heavy systemic crisis" where  "a reservoir of pre-funded resources that can be accessed only in resolution might be necessary to enable CCP clearing service to continue to operate[?]" These are not unknown foreign risks whicch clearing members themselves are unaware of , so why then can these firms not deal with the risk managfment themselves if  "[w]hen you talk to the clearing members at very senior levels, they say they're worried about the risk in CCPs and the fact that they are exposed to these risks, both the mutualized default and the non-default[?]" Cuunliffe  goes ton to explain  the  conflict of  itnerests between clearing members minimizing  trade execution costs while having less direct influence over the CCP  than iddeal.
+
