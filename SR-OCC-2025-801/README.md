@@ -25,6 +25,8 @@ cc: `foiapa@sec.gov` (note for the Pollack Study as _Id._  to note 22 of 64 FR 5
 
 cc: `crypto@sec.gov`
 
+bcc: `erm71@who.eop.gov`
+
 ### Subject Line
 
 Comments on File Number SR-OCC-2025-801
@@ -43,11 +45,11 @@ Please see request in note 8XYZ9 (DTC submit) and 24329OCC (reminder on 24-01211
 
 
 In good faith,
-John Wooten
+[Name]
 Member, WhyDRS
 
-P.S. Crypto Task Force, these comments at nn. A, B, aNd C  relate to a previous communication sent on 30 Apr 2025.
-
+P.S. Crypto Task Force, these comments at nn. A, B, aNd C  relate to John's previous communication sent on Apr  30.
+ 
 ### tmp  discord  #generlawr reveiw annoucnemnt
 
 Hi @here,
@@ -279,10 +281,12 @@ _id._ Shoudl the OCC really have access to large institutional money market fund
 As the Commission knows, the broker's $3.7 billion obligation to the Custodial Structure placed the intermediary at risk for insolvency given their $700 million in free collateralizable assets.[^staff-gme-study] Accordingly, such Regime members, without public review or comment, elected to decrease obligations by $2 billion,[^rh-arg-main] an amount of money available by means of emergency Wall Street fundraising, quite possibly placing the stability of the entire financial system at stake. Should we trust our most meaningful periods of market volatility such as Trade 385 in the hands of systems subject to fat-fingering or human-processing errors?
 
 
+Vlad says only raised $2 billion VC beforehand and mentions "a little bit of an opaque formula" when discussing the VaR formula, which "is not fully transparent" and "there are ways to reverse-engineer it, but it's not, kind of, publicly shared. And then there's a special component which is discretionary, so that kind of acts as a multiplier." 
 
+Musk: "Discretionary meaning, it's just their opinion?"  
+Vlad: "Yeah..."
 
-Vlad says onyl raised 2 billion $ beforehand and "a little bit of an opaque forumla" (whole margin calc.) when discussing the VAR formula which "it's not fully transparent" and "there are ways to reverse-endinggeer it, but it's not,m kind of, publicly shared. And then there's a special compoenent which is discresionary, so that kind of acts as a multiplier." Musk: "Discressionary menaing, it's just their opinion?" Vlad: "Yeah..."
-"four years ago" part: https://youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k
+"Four years ago" part: https://youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k
 
 
 
