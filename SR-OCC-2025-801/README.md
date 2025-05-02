@@ -71,7 +71,6 @@ also i want the 6dasys star wars img
 
 
 
-TODO ending fn and sponosr def to https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE
 
 ## Document
 
@@ -1777,7 +1776,7 @@ https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-78.pdf
 https://www.sec.gov/files/rules/sro/dtc200302/edwardjones041503.pdf
 
 -- mononpoly  claims incl. lkivingston
-https://www.sec.gov/files/rules/sro/dtc200302/jmeuse030503.txt
+https://www.sec.gov/files/rules/sro/dtc200302/jmeuse030503.
 https://www.sec.gov/files/rules/sro/dtc200302/transfer030603.txt
 
 --  a trapped i ndsutyr
@@ -1799,8 +1798,8 @@ https://www.newyorkfed.org/medialibrary/media/research/epr/2012/1210cope.pdf
 
 --  systemicc  shagnes andd staff stufies on ucc 8
 https://www.jstor.org/stable/40687585?read-now=1&oauth_data=eyJlbWFpbCI6ImpvaG4ud29vdGVuQGJsb2NrdHJhbnNmZXIuY29tIiwiaW5zdGl0dXRpb25JZHMiOltdLCJwcm92aWRlciI6Imdvb2dsZSJ9&seq=21#page_scan_tab_contents
-https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=71 market 2000
-https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=28  disadvantaged
+https://www.4.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=71 market 2000
+https://www.4.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=28  disadvantaged
 https://chatgpt.com/c/680c0ffc-6440-8010-9e6b-fe1533c9af40
 https://www.jdsupra.com/legalnews/financial-markets-infrastructure-the-eu-5177606/
 
@@ -2010,6 +2009,7 @@ _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increa
  on  votiong
 
 
+[fuck-you-wall-st]: The contents of lthis letter are made freely avaliably under the GNU Free Documentation Licence, bec ause Wall Street shouldn't operate behind a vail of copyright protections, _available at_ https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE.
 
 conc:
 I ahve been preparing this comment  for over a year, and there are many more items I would like to include as proof of this impendiung frauduilant market c risis. However, the events detaiulied i n _supra_ § 2 lead  me to believe that I can wait tno longger to bring these  items up to the Commission. Thank you and God Bless America!
