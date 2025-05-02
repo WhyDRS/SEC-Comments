@@ -1676,77 +1676,7 @@ updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users
 DTCC fucking specifically hrefs the control locale of 802b in https://www.sec.gov/files/ctf-memo-dtcc-040725.pdf
 backlinks  17 CFR § 240.15c3-3(b)(1)  🤯🤦‍♂️
 
-##  SR-DTC-2003-02 
 
-Livingston comment  TO :  https://www.sec.gov/files/rules/sro/dtc200302/transfer030603.txt
-
-> Transfer Online was told that if Nutek, Inc. shares were not transferred into their nominee name, "Cede & Co", Transfer Online would be in violation of the operational agreement between our two companies and that we would be held accountable. 
-
-> This put Transfer Online between the Issuer’s request (on whose behalf we act) and DTC’s demand and so we inquired to the S.E.C as to what, or if, any legal or statutory obligations existed to either party which superceded our agreement to act as agent for the Issuer. The S.E.C was unable to issue guidance in this matter so having no idea what “being held accountable” would mean to Transfer Online, and having received several phone calls from DTC requesting to know myposition and what my intentions were, I suggested to the Issuer that until such time they were prepared to handle any potential legal issues with an entity as large as The Depository Trust Company that they let the shares be processed as usual. 
-
-> Many Issuers have come forward with their opinions and interest in joining the exodus from DTC. They are frustrated by dramatic unexplained price movements, confounded when in a single day, in companies with a high percentage of shares held by insiders, more than the number of shares outstanding for their company are traded
-
-> The company is essentially cutoff from the majority of stock transactions that take place behind the closed doors of DTC in book entry movements of shares. 
-
-CLOSED DOORS
-
-> This leaves an Issuer powerless to research the trading of their own stock, communicate with the shareholders or take action against those who might be harming their company with questionable even perhaps illegal trading practices.
-
-org wquote: 
-
-> My experience over the years suggests that shareholders are seldom fully advised of the different types of ownership they can have, or of the full implications of holding shares in street name. Requesting certificates is always riddled with obstacles to deter this form of ownership.
-
-> Like many of the Issuers seeking withdrawal from DTC, I have often been suspicious of oversold stock. When tabulating shares for a Proxy Vote oftentimes there will be more shares voted by the brokers than there are shares outstanding in the company. When the question is raised with ADP (another representative of participants) their response is that they simply report what the brokers tell them they have. Why are brokers reporting more shares than they could possibly hold and why is it the obligation of the company or its agent to research why the numbers are wrong at their expense?
-
-> There is a problem with this system as there are many Issuers, and some transfer agents, that cannot meet the requirements that are set by DTC nor can they afford to participate in the DTC FAST system because once an Issuer enters into the FAST system, DTC will no longer pay fees for any activity they request and the Issuer then becomes responsible for those fees. Since those very same fees were paid for services by DTC when stock is in physical form, it is difficult to comprehend why this is the case when there are no certificates.
-
-> As in any case where a company holds a monopoly you have to play by their rules or you don’t play at all. The entire system has been designed for larger companies who do not think twice about spending great deals of money on their transfer agent fees, but smaller corporations who don't have the resources and consequently cannot afford to participate use withdrawing from DTC as their only method of having some control over their shareholder records.
-
-> There is more than one way for the prompt and accurate settlement of securities transactions to occur and also preserve the integrity of the Issuers shareholders records. Presently, all solutions are based on a system where DTC is basically taking on the role of transfer agent as well as being an organization for and by the brokers. Over the years I have watched most companies move from majority of ownership held on their records toward a situation where over half the shares are held as registered to Cede & Co. and these shares usually represents 3-4 times the number of shareholders that appear on the records of the company.
-
----
-
-lawyer  comments that  "I have an OTC: Bulletin Board listed client that submitted proxies and got TWELVE MILLION MORE VOTES than there were shares outstanding, when there were about twenty million shares outstanding. I have another OTC: Bulletin Board listed client that did a stock dividend of one new share for each 100 shares owned. After it had issued the appropriate number of shares based upon the total issued and outstanding shares, shareholders representing another SIX MILLION shares demanded to receive their dividend distribution.  These are two examples, I can provide many more and my colleagues all over the United States can provide hundreds more."
-
->  why should it be the right of DTC to decide who does and does not participate in DTC?...  Is DTC or is it not a voluntary organization? If so, should not the issuers subject to DTC be able to decide whether or not they are to be "volunteered"?
-— Raleigh, North Carolina U.S.A. , _available at_ https://www.sec.gov/files/rules/sro/dtc200302/hgbagwell030603.txt
-
-> Why shouldn't a company have the ability to chose to be with the DTC or not. Let the "free market" society continue. Regulation is for protection of the investor, let the public companies chose.
-https://www.sec.gov/files/rules/sro/dtc200302/supervp032003.txt
-
-> In the end, a free market will correct abuses. But if the SEC constrains the market, by regulating how and where a company may settle the trades of its shares, in a way that results in unfair practices by which individual investors are hurt, it is guilty of both denying the play of free market forces and of forcing investors and companies into an obligatory system of abuse.
-— Michael Sondow https://www.sec.gov/files/rules/sro/dtc200302/msondow040403.txt
-
-
-### Auxer sotry fn  as
-
-- src:  https://www.sec.gov/files/rules/sro/dtc200302/rjscott032003.pdf
-- 8-kSB filing: https://www.sec.gov/Archives/edgar/data/1088734/000104653200000006/0001046532-00-000006.txt
-- since ceased to be a reporting company
-
-
-### genral comments
-
-74 total (minus 1 duplicate)
-
-49 mention naked only
-4 mention naked + monopoly
-
-3 only mention shorting
-
-2 mention monooply only
-
-15 in support; 1 not from PDF
-ghenrally same ass fucking statemnets ????
-these 15 not included in above counts b/c didn;t' use the woirding
-
-∴ we have 53/74= 71.6%
-
-"Over  two-thirds  fof  commentors explicitly  meniton naked  shorting,  and  four  of  them  combine  this accusation with labelling the DTC  as a monopoly[^monopoly-quote] Additionally, zero comment letters from the 15 supportive commentors came from outside of the industry.  iN  analyzing these letters, I also found  it strange that substantially all of them used the same language supporting  DRS.[^drs-note]
-
-[^monopoly-quote]: _See, e.g.,_ remarks of XYZ noting that,  twenty  years ago,  the  corpoation had "such a tight monopoly on trade settlement" largely  because  it "is a self-regulatory agency run by the very firms in question for Naked Shorting" which  today  govenr the  OCC, _available at_ https://www.sec.gov/files/rules/sro/dtc200302/depatch030403.txt. I believe it's worth hioghlighting  the hubris empowering certain self-regulating  SIFMUs, as exemplkified  by several  commentors' highlghting that thios partricuialr  SRO released  statements saying  they could do whoat they  asked p ermission to  do  ikn the proposed  rule  change  months before even  submitting such admentment to the  Commission.  I  respetfulyl  submit to the Commission that i t may hinder the  competativeness  of  our American market system and associated  eocnomyy If  an  inssutiton  subject  only t op  credit limitations  "continues to allow a never ending summation on the float of a company."
-
-[^drs-note]: _See, e.g.,_ simialirt between Merrill Lynch; Sterne, Agee & Leach;  and   Edward Jones, _available at_ https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-81.pdf; https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-78.pdf; and https://www.sec.gov/files/rules/sro/dtc200302/edwardjones041503.pdf. More specifically,  all  mocommentors i n favor  of  the rule  change  were bbanks,  clearing  agencies,  or wall  Street  representatibves. Notably,  at  least three  supportive commentors  from "clearing agncies" were broker-dealers offering "correspondent clearing" with a direct interet  in  roppogating SRO services.
 
 
 ##  all pending whatcan srcs
@@ -2029,7 +1959,7 @@ I ahve been preparing this comment  for over a year, and there are many more ite
 
 [^SBACC-me]: https://youtu.be/zZMKIoI420w
 
-
+[soc-gen]: As the community rmemebrs all too well, Société Générale has been at the center of material "unauthorized" finacnial-0crisis-level trading activities which pla,ce clearing members at risk of default, or at least non-deafualt losses in a lawesuit sufficient to wipe ouit a acentral counterparrtty. _See, e.g.,_ 2008 loss by one rogue trader which totallyed five times the requested tri-partry crtrdit limit by the OCC, _available at_ https://youtu.be/8KULmxz97mM. _See also generally_  remarks from the trader who brought dfown down Barings Bank in 1995, _available in film adaptation at_ https://youtu.be/SclDzvDWrds?t=4474. SDhould we rely again on an "extraordinary emergency meeting" to save our markets from the illicit actions of a select few?
 
 
 
@@ -2043,3 +1973,6 @@ I ahve been preparing this comment  for over a year, and there are many more ite
 [^risklolll]: _See_ _infra_ note {{^street-name-2}} for impliccations  of this unsamefe practice. SDtaff backl  then  draw the line to insovenccy, and I see nothing but that option today. _See, e.g.,_ reamkrs  by Dentzer _infra_ § {{Burgeoning Views  RTDOO}} for  concurrent opinions made public from CCP leadshethip. In concersations with  C-suite executives or past highly-rleated parties, I can publicly state that  such views are  not  uncopmmon.
 
 [^no-more-NDAs-Ip=-poprpomise]: _Id._  _See also_ public comments from the  CEO  of  a correspondent clearing firm, _available at_ https://rqdclearing.com/rqd-ushering-in-the-modern-clearing-solution-thats-required. WEhile I  cannot rpresently  comment  on the full depth  of insights from this post and discourse  on  11 Jul 2023, I would like  ot hilidght a key quote to  staff: "clearing has remained the same analog,  batch-process-driven industry for the past 20+ years. That translates to increased risk, additional cost and an overall inability to meet the needs of today’s financial institutions.
+
+_Id._ _See also_ remarks of a prominent retail investor advocate in the early 2000s, noting that,  twenty  years ago,  the  corpoation had "such a tight monopoly on trade settlement" largely  because  it "is a self-regulatory agency run by the very firms in question for Naked Shorting" which  today  govenr the  OCC, _available at_ https://www.sec.gov/files/rules/sro/dtc200302/depatch030403.txt. I believe it's worth hioghlighting  the hubris empowering certain self-regulating  CCPs, as exemplkified  by several  commentors' highlghting that thios partricuialr  SRO released  statements saying  they could do whoat they  asked p ermission to  do  ikn the proposed  rule  change  months before even  submitting such admentment to the  Commission.  I  respetfulyl  submit to the Commission that i t may hinder the  competativeness  of  our American market system and associated  eocnomyy If  an  inssutiton  subject  only t op  credit limitations  "continues to allow a never ending summation on the float of a company."
+
