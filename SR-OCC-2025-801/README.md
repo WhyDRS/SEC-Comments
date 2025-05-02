@@ -6,12 +6,12 @@ title: In re SR-OCC-2025-801 (Liquidity-Facility Counterparty Rehypothecation)
 Originator: John Wooten <@JFWooten4>
 Discussion: https://github.com/WhyDRS/SEC-Comments/discussions/14
 Extends: https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf
-Status: Draft
+Status: Community Review
   live: 18 May 2025
   file: SR-OCC-2025-801
   href: https://www.sec.gov/files/rules/sro/occan/2025/34-102462.pdf
 ```
-<!-- please phrase `extends` starting extension as "My Comments in re..."  -->
+<!-- please phrase `extends` starting extension as "My comments in re..."  -->
 
 # Non-Letter Content
 
