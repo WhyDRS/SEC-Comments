@@ -283,8 +283,6 @@ As the Commission knows, the broker's $3.7 billion obligation to the Custodial S
 
 Vlad says onyl raised 2 billion $ beforehand and "a little bit of an opaque forumla" (whole margin calc.) when discussing the VAR formula which "it's not fully transparent" and "there are ways to reverse-endinggeer it, but it's not,m kind of, publicly shared. And then there's a special compoenent which is discresionary, so that kind of acts as a multiplier." Musk: "Discressionary menaing, it's just their opinion?" Vlad: "Yeah..."
 "four years ago" part: https://youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k
-~~and then this fucking idiot sayts ~~ re chat on "who got put in charge of that organization" Vlad says "no reason to believe" CItadel in charge given not on board then https://web.archive.org/web/20210201075846/https://www.dtcc.com/about/leadership/board
-but are now
 
 
 
