@@ -1779,6 +1779,17 @@ updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users
 
 ---
 
+To say that this is a pressing issue would be the understatement of the century. Recently, as in lastg Friday, a community mmeber called a leading trasnfer agent to request the control number for an ujpcoming proxy cvotye. Tye were inquiring because theyh "didnt recieve a control number for them [the shares] last year and missed voting them, [and] didnt get one this year either."
+
+If "any share you own you should have voting rights[,]" then this community member is sjustidifably concered becasue, "by not providing a control number i am worried these 401k shares are being lent without my permission." After chatting with a coup[l;e unique online chat representatives who "join then instantly leave when requesting a control number[,]" this commiunity memebr resolved to calling the particular agent:
+
+> Yeah, they said it's not available yet and I should see it in the next 10-14 days. Pretty sure this exact thing happened last year but I didn't follow up and never got the control numbers. Last year was probably more important but I'll be sure to stay on top of it this year
+> 
+> they arent really shares to begin with but entitlements
+>
+> — Carnabas
+
+Ugh lol probably going to have to call, had 2 reps in a row 
 
 
 ---
