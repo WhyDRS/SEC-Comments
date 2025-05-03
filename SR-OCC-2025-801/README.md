@@ -511,7 +511,10 @@ Despite recent optimistic support of artificial intelligence, I believe we'll st
 
 At the end of last year, Commissioner Mark T. Uyeda discussed this ruling alongside similar treatment of Trump Media and Technology Group Corp.[^uyeda-spac-cases] This kind of in-depth analysis of facts and circumstances requisites manual human involvement in a way which could endanger the integrity of our great financial system should it be needed for the daily operations of the Custodial Regime as a trading interface in and of itself. As a case exemplifying this principle, might I share a story from my relatively-isolated childhood?
 
-Growing up, I was not the kind of child to play sports or explore the outdoors willingly. I recall one year in middle school where my mom would lock me outside the house for half an hour a day. She got quite flustered when I sat in the garage working on trivial phone apps. It was that tendency to find electronic solitude each day that led me into our great market system as an individual investor. But despite great advancements in computer technology, many legacy financial functions still rely on faulty physical verification protocols.
+Growing up, I was not the kind of child to play sports or explore the outdoors willingly. I recall one year in middle school where my mom would lock me outside the house for half an hour a day. She got quite flustered when I sat in the garage working on trivial phone apps. It was that tendency to find electronic solitude each day that led me into our great market system as an individual investor. But despite great advancements in computer technology, many legacy financial functions still rely on faulty physical verification protocols.[^dannny]
+
+[^dannny]:  _See, e.g.,_ reamkrs of G. Daniel Doney XYZ__ABC, _available at_ https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX
+
 
 While these range in severity from medallion stamps to DTC offering confirmation meetings and required calls, the core challenge remains anchored in the legacy Custodial System's centralization. With Cede as the nexus of all market activity, investors often unwillingly but coercively need to vest power and control to Wall Street's whimsical hypothecation facilities, which I will not extensively explore in this letter.
 
@@ -1790,7 +1793,7 @@ Membert, WhyDRS
 
 [st-john-ucc]: _See_ analysis of changes an adopting  comment notes o 1994 reisions toArticle 8 frpm Francis J. Facciolo, J.D.  after six years  of study, _available at_ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf.
 
-[dannny]:  _See, e.g.,_ reamkrs of G. Daniel Doney XYZ__ABC, _available at_ https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX
+
 
 [SBACC-me]: _See_ Aaron Wishart on FDIC Policy (Division of Complex Institution Supervision and Resolution), _available at_ https://youtu.be/zZMKIoI420w;  from https://www.fdic.gov/advisory-committees/events/fdic-systemic-resolution-advisory-committee-meeting-october-15-2024.
 
