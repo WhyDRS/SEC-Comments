@@ -48,7 +48,7 @@ In good faith,
 [Name]
 Member, WhyDRS
 
-P.S. Crypto Task Force, these comments at nn. {{^CBDC}}, B, aNd C  relate to John's previous communication sent on Apr  30.
+P.S. Crypto Task Force, these comments at note {{^CBDC}} relate to John's previous communication sent on Apr  30.
  
 ### tmp  discord  #generlawr reveiw annoucnemnt
 
