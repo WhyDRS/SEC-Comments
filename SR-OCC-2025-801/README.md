@@ -9,7 +9,7 @@ Extends: https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-135575
 Status: Community Review
   live: 18 May 2025
   file: SR-OCC-2025-801
-  href: https://www.sec.gov/files/rules/sro/occan/2025/34-102462.pdf
+  href: https://wooten.link/TAR1
 ```
 <!-- please phrase `extends` starting extension as "My comments in re..."  -->
 
@@ -51,11 +51,6 @@ Member, WhyDRS
 P.S. Crypto Task Force, these comments at nn. {{^CBDC}}, B, aNd C  relate to John's previous communication sent on Apr  30.
  
 ### tmp  discord  #generlawr reveiw annoucnemnt
-
-
-
-
-
 
 ## Document
 
