@@ -1,5 +1,5 @@
 ---
-title: In re SR-OCC-2025-801 (Liquidity-Facility Counterparty Rehypothecation)
+title: In re SR-OCC-2025-801 (Liquidity-Facility Counterparty Rehypothecation) 🚀
 ---
 
 ```
