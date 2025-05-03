@@ -438,59 +438,6 @@ Concerningly, the OCC says that margin failure testing is both "a highly manual 
 
 
 
-### Control fo All Seucirties
-
-# Centralization study case from 1986 market fialure FOOTNOTE 
-
-Incidentally, this is the same date as https://github.com/WhyDRS/SEC-Comments/pull/25#discussion_r1949891927 👀
-
-also that year, we have https://core.ac.uk/download/pdf/6366003.pdf#page=11 (CAUTION, mirror context)
-note 51 is also really sick, _available at_ https://home.treasury.gov/news/press-releases/hp1239
-
-## LAST CRPYOT ROUNDTABLE -- footnote!
-
-https://youtu.be/GtyR5nMWEwk?feature=shared&t=1886
-BD needs posession or control
-
-1:06:00 menitons bank as end of line for control (systemic req)
-
-
-https://youtu.be/Zu5lFsjCknw - safehaurding classification at 60
-href ass disccussion on perfecting interests at>   
-
-### on  wall  st
-Rachel
-mark - promotes netting, bugs at 1:44:00
-baylor
-mooney duhhttps://www.youtube.com/watch?v=C638kTY9R50&t=3299s (literaslly reading a scrpt!!!!!!!) @42
-
-
-###  on  main st
-veronica
-tasmmy
-gbrandon
-lasrry
-adam -0 UCC 8 AT 34:00 (2nd)
-ryan
-justin
-larry
-
-
-
-
-
-
-
-
-
-
-
-
-this continues  the UCC 8  1994  review ddiscussion
-src here likely  duplicates: https://code.dccouncil.gov/us/dc/council/code/sections/28:8-503
->   There is no reason to think that rules permitting customers of an intermediary to trace and recover securities that their intermediary wrongfully transferred work to the advantage of investors in general. To the contrary, application of such rules would often merely shift losses from one set of investors to another. The uncertainties that would result from rules permitting such recoveries would work 
-
-
 
 
 
