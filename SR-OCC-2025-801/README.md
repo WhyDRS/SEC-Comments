@@ -262,33 +262,34 @@ The OCC falls squarely in this same risk centrality provision, which I found abu
 >
 > — Jon Cunliffe
 
-Given the extrmee   ompexity  of trading systems  in the  cUsotidal Structure  pre-CCP  clearing, i have  to  believe  that regulators will fae an impossible task of uncovering an early failure event. If this goes awry like before, there doesn't seem to be very  muh we can ddo to save legqacy credit systmes. distubringgly,  past incicdents  ere directly  sidestepped by CCPs through mnaual risk takeovers wich overrode margining rules  at the risk of the financial system.[^peeter-intro-supra]
+Given the extreme complexity of trading systems in the Custodial Structure pre-CCP clearing, I have to believe that regulators will face an impossible task of uncovering an early failure event. If this goes awry like before, there doesn't seem to be very much we can do to save legacy credit systems. Disturbingly, past incidents were directly sidestepped by CCPs through manual risk takeovers which overrode margining rules at the risk of the financial system.[^peeter-intro-supra]
 
-the  uRopean Union noticed  htese  risks two decades ago  when they  put together a  Clearing and Settlement Legal Certainty Group  to ask the   Dederal Reserve  Bank of New  York 58 questiopns about the neww clearing ownerhsip system under Artiel 8.[^certainty] As made abundandtly  cclear  by David Rodgfers Webb, the point of this exchhange was  to establish  clegla  certainty  not for invesotrs ,  but for  secured creditors of financial intermediaries  relying on posted  customer  assets  lent t benkers.[^great-taking] While we will dive into the ownerhip implcciationsx of these ruling intertrepatinos in the next section, I  find  them parmount to introduce n ow since  all of  today's  coplex interrelated systems base their operations  on this assumption that one dcentral depository can  manage  the control records o f all participants  given legal title  ot  securities.
+The European Union noticed these risks two decades ago when they put together a Clearing and Settlement Legal Certainty Group to ask the Federal Reserve Bank of New York 58 questions about the new clearing ownership system under Article 8.[^certainty] As made abundantly clear by David Rodgers Webb, the point of this exchange was to establish legal certainty not for investors, but for secured creditors of financial intermediaries relying on posted customer assets lent to bankers.[^great-taking] While we will dive into the ownership implications of these ruling interpretations in the next section, I find them paramount to introduce now since all of today's complex interrelated systems base their operations on this assumption that one central depository can manage the control records of all participants given legal title to securities.
 
-Oe synmprotm of this  central  control over  collateral  has been  the competition and gfragmentation of trading venues, largely  for the benefit of  Wall Street  firms seekign price improvement from public info:[^fragmentation-img]
+One symptom of this central control over collateral has been the competition and fragmentation of trading venues, largely for the benefit of Wall Street firms seeking price improvement from public info:[^fragmentation-img]
 
 ![corrupted-venues](imgs/competing-feed-fragmentation-problems.png)
 
-Given  there  are  ,pre matopma; excjamges tramsactomg om p[rtaopms  amd  mo SIP  price feeds,   options have an even greater decree of varipos ccomplexities which can create  hidden  system risks.[^married-puts] pReviosuly,  CCPs  have  responseded to  increased margin  demands by waiving algorthmic riddk deposits.[^occ-waiving] Might we consider breifly  the  operational power  placed  in the hands o fz a  Timothy Cuddihy?[^TimothyCuddihy]
+Given there are more national exchanges transacting on platforms and no SIP price feeds, options have an even greater degree of various complexities which can create hidden system risks.[^married-puts] Previously, CCPs have responded to increased margin demands by waiving algorithmic risk deposits.[^occ-waiving] Might we consider briefly the operational power placed in the hands of a Timothy Cuddihy?[^TimothyCuddihy]
 
-An exccample of "insider activities"  and centralirtyy emmerged  when  Robinhood received a  $3.7 billion  margin  call despite only  having acess  capital of $0.7 billion. Somehow , the firm made it through  this  day  thanks  to  the sort  of beurocratic deference now afforded  to  OCC clearing members.[^occ-efs] As the  Commission  knows, the House Committee on Financial Services found that the largest components of this collateral requirement included a Value-at-Risk ("VaR") charge of approximately $1.3 billion and an Excess Capital Premium ("ECP") charge of $2.2 billion.[^rh-margin-claims]
+An example of "insider activities" and centrality emerged when Robinhood received a $3.7 billion margin call despite only having access capital of $0.7 billion. Somehow, the firm made it through this day thanks to the sort of bureaucratic deference now afforded to OCC clearing members.[^occ-efs] As the Commission knows, the House Committee on Financial Services found that the largest components of this collateral requirement included a Value-at-Risk ("VaR") charge of approximately $1.3 billion and an Excess Capital Premium ("ECP") charge of $2.2 billion.[^rh-margin-claims]
 
-Over  the two  busness days after this assessed charge, Robinhood had to  reach  out  ot Sand Hill to raise over $3.4 billion.[^cap-rais-erh] In remarkign on the  "apparent" public model releaed  by the NSCC, the firm's CEO  mimiced it's Head of DData  Sccience in calling collateral charges  a black box.[^blackbox-nsccc]
+Over the two business days after this assessed charge, Robinhood had to reach out to Sand Hill to raise over $3.4 billion.[^cap-rais-erh] In remarking on the "apparent" public model released by the NSCC, the firm's CEO mimicked its Head of Data Science in calling collateral charges a black box.[^blackbox-nsccc]
 
 
-I have other cmoments about this event which I do not have time to elaborate on fully.[^11111]
 
+I have other cmoments about this event which I do not have time to elaborate on fully.[^11111] _See, e.g.,_ reamrks of Vlad when they say Robinhood only raised $2 billion in venture capital beforehand, then they mention how the DTCC uses "a little bit of an opaque formula" when discussing the VaR formula, which "is not fully transparent" and "there are ways to reverse-engineer it, but it's not, kind of, publicly shared. And then there's a special component which is discretionary, so that kind of acts as a multiplier."
+
+
+> Musk: "Discretionary meaning, it's just their opinion?"  
+>
+> Vlad: "Yeah..."
+
+
+##### other thoughts
 
 As the Commission knows, the broker's $3.7 billion obligation to the Custodial Structure placed the intermediary at risk for insolvency given their $700 million in free collateralizable assets.[^staff-gme-study-BUTNOTSETUPYET-TODO] Accordingly, such Regime members, without public review or comment, elected to decrease obligations by $2 billion,[^rh-arg-main] an amount of money available by means of emergency Wall Street fundraising, quite possibly placing the stability of the entire financial system at stake. Should we trust our most meaningful periods of market volatility such as Trade 385 in the hands of systems subject to fat-fingering or human-processing errors?
 
-
-Vlad says only raised $2 billion VC beforehand and mentions "a little bit of an opaque formula" when discussing the VaR formula, which "is not fully transparent" and "there are ways to reverse-engineer it, but it's not, kind of, publicly shared. And then there's a special component which is discretionary, so that kind of acts as a multiplier." 
-
-Musk: "Discretionary meaning, it's just their opinion?"  
-Vlad: "Yeah..."
-
-"Four years ago" part: https://youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k
 
 
 
