@@ -1779,6 +1779,15 @@ updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users
 
 ---
 
+I ahve been preparing this comment  for over a year, and there are many more items I would like to include as proof of this impendiung frauduilant market c risis. However, the events detaiulied i n _supra_ § 2 lead  me to believe that I can wait tno longger to bring these  items up to the Commission. Thank you and God Bless America!
+
+
+[pending-collapsable-fn]
+DTCC fucking specifically hrefs the control locale of 802b in https://www.sec.gov/files/ctf-memo-dtcc-040725.pdf
+backlinks  17 CFR § 240.15c3-3(b)(1)  🤯🤦‍♂️
+
+## Final Thoughts
+
 To say that this is a pressing issue would be the understatement of the century. Recently, as in lastg Friday, a community mmeber called a leading trasnfer agent to request the control number for an ujpcoming proxy cvotye. Tye were inquiring because theyh "didnt recieve a control number for them [the shares] last year and missed voting them, [and] didnt get one this year either."
 
 If "any share you own you should have voting rights[,]" then this community member is sjustidifably concered becasue, "by not providing a control number i am worried these 401k shares are being lent without my permission." After chatting with a coup[l;e unique online chat representatives who "join then instantly leave when requesting a control number[,]" this commiunity memebr resolved to calling the particular agent:
@@ -1789,19 +1798,10 @@ If "any share you own you should have voting rights[,]" then this community memb
 >
 > — Carnabas
 
-Ugh lol probably going to have to call, had 2 reps in a row 
 
 
----
-Carnabas — 11:55 AM
-Ugh
 
 
-DTCC fucking specifically hrefs the control locale of 802b in https://www.sec.gov/files/ctf-memo-dtcc-040725.pdf
-backlinks  17 CFR § 240.15c3-3(b)(1)  🤯🤦‍♂️
-
-## conc:
-I ahve been preparing this comment  for over a year, and there are many more items I would like to include as proof of this impendiung frauduilant market c risis. However, the events detaiulied i n _supra_ § 2 lead  me to believe that I can wait tno longger to bring these  items up to the Commission. Thank you and God Bless America!
 
 
 #  all pending whatcan srcs
