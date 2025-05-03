@@ -815,3 +815,75 @@ The one item I'd like to add in a footnote here or in the 144 no-action:
 There was a call between Coinbase and staff discussing their purported TA/ATS structure, which gives rise to clearing agent participation. They claim to ignore this and argue that it does not apply—hurr durr >?>WAS>—lol at App. A ¶ 24,
 _available at_ https://assets.ctfassets.net/c5bd0wqjc7v0/2pW56ln6rPJ7koLHlu2L8G/5041e0166c408698b621fde543539d76/2023-04-19_Coinbase_Wells_Submission.pdf#page=68.
 ¶ 25 talks on DAS.
+
+
+{{^re: DTC-DA-study}}
+
+
+# Triplicate _Id._ fpootnotes
+
+- Independent PB research of "kill switch" as introduced:  *caution*
+  https://www.youtube.com/clip/Ugkxd0_I3EmB6m2oRNnJ2kTku32HTsIleI34
+  On a **FUCKING SLOW DOWN PIT STOP** at
+  https://www.dtcc.com/-/media/Files/Downloads/issues/Unscheduled_Close.pdf
+
+id  That references:
+  - https://wooten.link/DTC-closure-v1
+  - Alternative: https://wooten.link/DTC-closure-v2
+
+## fn here on Federal Holiday "Regarding Questionable Custodianship Operations"
+[^slowing]
+
+Recently, my partner hit a cat on her drive home from work. Reflecting on the moment, she remarked that she "knew she was supposed to brake" but was in a late-night panic after a hard day. On approach, she swerved to avoid the cat, but unfortunately, it ran in the direction she swerved.
+
+
+Segway to "Just washed my car."
+
+There was a small mud spot on the tire, but I didn't have a tire cleaning product. Once I finished, I drove it into the garage and tried to clean it. Even though there was only one dirty area, I had to wipe down the whole tire because it was too dark to see the blemish.
+
+
+# FOOTNOTE- Original document mentioned on June 4 was amended on Dec 30, 2024.\
+  Removed the ability of issuers to access _Security Position Reports_ or the _Issuer Agent Portal_ (grom change at 6).
+
+
+## _Id._
+
+And then, simply to **compare** the fragility of these institutions with the decentralized, scalable, global ledger technology existing on blockchain.
+
+As for the slowdown arguments in _supra_ note {{[^slowing]}}, we could start with a reference to 279 with how they themselves have proposed these things. Alternatively:
+
+## _id._ 2
+
+Chat on how I came into markets and industry and sector and all that last year through two major investor-focused reform efforts aimed at promoting the stability (transparency, and inclusivity) of our financial system.
+
+How Wall St has again and again tried to isolate themselves from idiosyncratic risks and force Main St into potential bankruptcy and such through the liquidation stack, which directly ties into the blatant protection under UCC.
+
+### otgher exisitgng notes /storyyies
+
+Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry?
+
+Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?
+
+
+
+
+
+
+
+
+
+
+
+
+# WQHATCAN PRIOT WORK FN
+Petitions for Rulemaking: Amend Clearing Agency Rules for Consistent Close-Outs
+[File No. 4-842] https://www.sec.gov/files/rules/petitions/2024/petn4-842.htm
+https://github.com/orgs/WhyDRS/discussions/2#discussioncomment-10537423
+
+File No. SR-OCC-2024-001, which has at least three major Reddit threads:
+https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001.htm
+
+
+
+
+
