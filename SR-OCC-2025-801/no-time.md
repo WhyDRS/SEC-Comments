@@ -258,11 +258,6 @@ https://www.sec.gov/files/litigation/litreleases/2022/34-95670.pdf
 
 
 
-# CLIPS:
-
-- [Importance of Self-Custody 🔐](https://www.youtube.com/clip/Ugkx0KLlnP--6Q-u4L7H5zrgWbDhjpKr43dL)
-_See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increased interconnecftted systemic  reliance onn cCPs as cocentratred risk respoitoryies for material swap contracts  , _available at_  https://www.youtube.com/clip/UgkxX1DN63sYrhFeAXBDM76mAyRXQBl-TGME.
-
 - [Systemic Centralized Trust Quandaries (Securrency)](https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX)
 
  Collective SS mod interview of Conn in case of no shares in Cede:
@@ -273,6 +268,30 @@ _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increa
 
 - [🧠 Something's Wrong 📉](https://www.youtube.com/clip/Ugkx_V1DjK4hfuqgfPeARudw1_efek9tyx-e)  `pinkcats`
  on  votiong
+
+[re ^DA-EO]
+— just after reading through this, thinking it may be handy to add a small disclaimer to the already effective section at the top, trying to draw the line between views which represent the collective and those which are personal. Something that shouldn't need to be said but perhaps still could be, considering how new the concept of a DUNA is —
+
+
+!!!!!!!!!!!!! mega backlogged here <<>>>
+
+
+In another filing, they also argue against increasing risk analysis of CCP Regime operations by service providers such as their own matching subsidiary granted exemption from registration as a clearing agency.
+
+
+As shown by a publication on the day thereof, _available at_ https://www.benzinga.com/news/21/01/19376058/heres-which-brokerages-platforms-have-blocked-trading-in-volatile-stocks, this contagion spread beyond a systemic central routing agency, an intermediary staff identified in the report at _infra_ note {{^staff-gme-study}} <-- throw in somehwere prior with a page at Z>}}, which increasingly serves "younger investors and smaller accounts" as described at note 31 thereof. [Question circa "shoudl we rallyl burden our neweest and most vulnerable investors to the whims of xyz centralizyu as per comoiundign ngegatives]? Fairly simple to connect to the three-hour outage at clearing v. the all-day event at brokers." 
+
+and then at the bezinga _Id._ we have "the clearing firms are not that well-capitalized" from Webull CEO (prob cite his intervieew somehwere)
+- main https://youtu.be/4RS4JIEVyXM?feature=shared&t=751
+- supp https://www.youtube.com/watch?v=Hkuz_T-muwI (less ideal facure)
+- cross https://finance.yahoo.com/video/heres-why-robinhood-restricting-users-173049721.html
+
+clearly not everyone , thus a select undercaptialization and large extent towards apex
+https://www.reddit.com/r/stocks/comments/l8rhr3/weekend_gme_thread_homework_for_all_lets_stop/
+
+
+Etrade does its own routing
+
 
 
 
@@ -989,3 +1008,140 @@ https://home.treasury.gov/system/files/221/CombinedChargesforArchivesQ42024.pdf#
 
 
 
+fuck idk
+
+
+
+
+
+
+[^cvvv1-2-broker-crypto-alt]
+Email dated 6 Dec 2023 indicated, "Crypto services ending soon" and "SoFi will be discontinuing crypto services on December 19, 2023."
+
+"You have until January 28, 2024, to sell your crypto holdings and close your crypto account."
+
+This resulted in the disposition of Lumens bought at or about the price level on June 17, 2022. They were sold and credited to the broker account on 29 Jan 2024 (~20 x 51).
+
+
+
+
+# MEan words
+
+
+#### Fidelity
+
+Transferred ACH into account at the start of the year.
+Wanted to put it into a 2024 Roth contribution (cannot make this internal transfer until the end of the period—just for investing in our great nation's assets, which aren't even truly owned...).
+Can't—need to wait at least three weeks for cash to settle for "protection of my account," even though banking Reg E specifically puts liability on the intermediary.
+- Extrapolates into the Coinbase argument (still unresolved) and client verification and ID problem solved by crypto/Nakamoto.
+
+
+
+
+
+
+
+## coinabse
+
+
+_See_ subsequent Form 4 filings:
+
+- $1.82 billion sale on list date and subsequent day
+- [USV rep duplicate fix](https://www.sec.gov/Archives/edgar/data/1227688/000120919121027705/xslF345X03/doc4a.xml)
+- [USV rep duplicate](https://www.sec.gov/Archives/edgar/data/1227688/000120919121027149/xslF345X03/doc4.xml)
+- [USV named](https://www.sec.gov/Archives/edgar/data/1532179/000120919121027148/xslF345X03/doc4.xml)
+
+All of them are at https://www.secform4.com/insider-trading/1679788-12.htm, but the link may be unstable.
+
+Around the time Coinbase decided to close down its longstanding nonprofit initiative, I helped my partner open a Coinbase account so that she could deposit U.S. dollars onto the Stellar network. The purpose of these funds was to invest in an asset tradable on a decentralized exchange. When opening the account, we answered all questions indicating such intentions, provided all requested PII, and linked her bank account.
+
+Within a few months, it was time to acquire the asset I wanted my partner to invest in. The price was ready to break out, so we started depositing funds into the account. Over the course of at least three months, my partner deposited her savings with Coinbase to acquire USD Coin ("USDC") and subsequently withdraw those tokens onto her blockchain wallet, as established offline and initialized through a hardware security device. These funds originated in part from her full-time employment and in part from a parental graduation gift upon her completion of college last year.
+
+At least three initial deposits from Coinbase into my partner's wallet went fine, and she slowly accumulated the target asset. At no point did my partner send any assets to other wallets through a direct transfer. Moreover, she never interacted with any smart contracts that could implicate "impermissible activities." It was a very simple distributed-ledger account that received funds and used them to acquire assets.
+
+Then, my partner received a bonus from work roughly equivalent to half her portfolio. Thereafter, she deposited a majority of the funds into Coinbase, where we expected to wait a couple of days for the transfer to clear.[^banking-BS] On 14 Oct 2024, she received this email, given with original emphasis:
+
+> Coinbase takes several steps to keep your account safe, and we actively monitor for unusual activity and scams that may affect our customers. **Based on this monitoring, we are concerned you may have sent, or are trying to send, crypto to a fraudulent person or platform.** Out of an abundance of caution and to protect you against potential losses, we have temporarily **limited your ability to send additional crypto until November 14, 2024.** This restriction will be removed automatically after the set time period elapses.
+
+This was extremely concerning given my past experiences trading financial assets. I began acquiring this particular asset for my partner months prior because I knew it would materially increase in value. Indeed, in a transaction four days before this communication, I invested the last of my USDC savings into this asset given its technical breakout setup.[^john-acquisition]
+
+My partner had been asked to submit facial scans and identification documents to Coinbase before, so we were surprised by the recurrent request to complete a "government check" of her physical credentials. We completed this document submission and liveness ascertainment at least three times so as to satisfy Coinbase. We received an affirmative acceptance by an automated system, but the Coinbase interface still said my partner could not transfer her USDC for an entire month "as a precautionary measure, to protect you against potential loss."
+
+In the interim waiting period, Coinbase maintained my partner's ability to buy the target asset through their centralized exchange interface. However, the only available trading option required at least a 1% commission on top of a three-figure trading fee. Comparatively, the free decentralized exchange on the network offers the same service without the risk of front-running.[^Garand-story] Accordingly, and in the capitalist principle of not supporting businesses which I despise, I refuse to trade on a centralized exchange what can otherwise be transacted on a decentralized exchange.[^cex-dex]
+
+Over a week later on the 23rd, my partner received an email declaring that Coinbase had "completed your account review, and buy/send/deposit services remain disabled at this time." When logging into the Coinbase website, she was greeted with a new message stating her account could no longer send any assets at any time as "a precautionary measure, to protect you against potential loss." Since this was worded similarly to the last message, I assumed she could transfer them later, such as the original November date given such comprehensive disclosure of personal information.
+
+At the time, my partner had no other option to deposit funds into her wallet in a timely manner. Indeed, transferring back to her bank account would take days before another days-long wait to any alternatives, which then imposed their own holding-period transfer restrictions. Thus, she was stuck with the funds sitting in her account, unable to send them anywhere they could be bridged over to the decentralized exchange. Does the Commission tolerate this lethargic processing of customer deposits?[^debank]
+
+Upon checking back on the account on the original release date three weeks later, I found the same message that all transfers were disallowed. This was quite frustrating because the price of the target asset had increased by more than 30% while we waited for the deposit to process. Notwithstanding, I meticulously checked the account each day thereafter, until a new message appeared over two weeks later on the 29th:
+
+> We are reviewing your account. This process can take up to 3 days.
+
+At this point, the value of the target asset had increased by a factor of six. This was materially concerning because the profit on that trade would have been approximately twice my partner's pre-tax annual income. In the next three days, the target asset continued to appreciate while Coinbase reviewed her account.
+
+
+[^banking-BS]: As staff know, the American banking system often takes multiple days to transfer funds between accounts. Unfortunate as this is, Coinbase worsens the process for acquisitions of USDC by traditionally disallowing blockchain transfers for at least a week after this period. Accordingly, any transaction intent on blockchain asset acquisitions from a bank account forces users to gamble that the price won't materially increase during the extensive waiting period.
+
+[^john-acquisition]: _See_ original on-chain storage of funds safekept for housing expenses, _available at_ https://stellar.expert/explorer/public/tx/c91bbd05e35f7abd31394129561ed2f37da1fa46dbf29be197c6f7433f7dec52. _See also_ subsequent conversion into a native layer-1 utility token for investment purposes, _available at_ https://stellar.expert/explorer/public/tx/063f37c0f5e0b0714c6474cad185ca4ddd9ab22d5a84d315c030081f503e62a7. Accounts can swap between any blockchain-network assets with a permissionless order book which employs zero intermediaries, as can be seen in an example between two completely arbitrary user-defined tokens, _available at_ https://stellar.expert/explorer/public/tx/2acf44db14c9263b6f7573cd997b8e065c3c9222a85dd26ad8da4940dd2df31e.
+
+[^Garand-story]: _See_ note 7 of a technical development discussion detailing the common practices of proprietary traders to arbitrage between centralized cryptocurrency exchanges through power and latency analysis, _available at_ https://wooten.link/1558. Given the nonexistence of a NMS for cryptocurrencies and a generally international market for their central exchange, does the Commission believe staff can efficiently oversee all forthcoming trading and registration supervision? Or would staff prefer an updated system based on the decentralized governance ethos commonly underlying these common endeavors which are so often paired with decentralized exchanges?
+
+[^cex-dex]: Namely, all mainstream instances of the former type operate solely on a profit-driven proprietary business model. Often these entities fundraise from the investing public in an effort to sustain their enterprise, which exists exclusively due to fees later charged for trading services. I find this particularly concerning because exchanges and liquidity have a well-known "lock-in" effect whereby the network effect of bids and offers accrues exclusively to the provider of an exchange venue. As staff know, Wall Street perpetually uses this value for bribing introducing brokers for order flow, which hinders price discovery through met supply and demand.
+
+[^debank]: _See also_ Congressional industry sentiment impeding technological growth in our great Nation by revoking access to the legacy interbank payment and account network, _available at_ https://youtu.be/WgjUM8U81FY?t=4639. Might distributed ledger technologies and decentralized governance offer a resilient and transparent record of investor assets? Could they at least challenge the "brick wall" of opacity and nonresponsive support options present at central intermediaries like Coinbase?
+
+
+
+
+
+
+
+
+#### Other THInking THing Yay
+
+
+[mitre-cryptop-id]: from prior workin  _supra_ note {{^fragmentation-img}}: We have href citing "Hidden centralization in decentralized financial markets." in re crypto task force chat from leadership at https://www.sec.gov/files/memo-mitre-corporation-022125.pdf
+
+[don-dict-fn-pending]: Namely, leading advocates promote [doing XYZ above]. These legal experts also endorse [509*11 cross-ref].
+
+{{euromoney}}:: https://www.euromoney.com/article/b1322h65c9hbf8/prime-brokerage-the-day-the-music-stopped
+
+In discussing foreign regulations which mimic the State bankruptcy proceeding exceptions, _Euromoney_ wrote that "brokers can claim ownership of all cash and securities held with them even if the account is not in debt and securities are being held long."[^euromoney-supercess]
+
+[^euromoney-supercess]: _See_ "The unwinding of onlending" at _supra_ note {{euromoney}}. Thereafter, a fund manager with 75% of their fundamentally solvent and even profitable positions seized reported that "The administrator is stating that to the extent Lehman rehypothecated our stocks we may have lost our proprietary interest in them and thus are now general creditors in the bankruptcy. We thought and were told our securities and our cash were segregated and further insured... This is not about regulation, it is about counterparty credit risk."
+
+Quote from prof at 6
+https://jhfinance.web.unc.edu/wp-content/uploads/sites/12369/2016/02/Hedge-Funds-as-Liquidity-Providers-Evidence-From-The-Lehman-Bankruptcy.pdf
+
+_GT_ source on JPM secured credit at:
+https://img1.wsimg.com/blobby/go/1ee786fb-3c78-4903-9701-d614892d09d6/taking-feb24-screen2.pdf#page=66
+which incorporates the defense safe harbor:
+https://www.creditslips.org/files/lehman_brothers_holdings_inc.__14.pdf
+and the ruling
+https://www.nysb.uscourts.gov/sites/default/files/opinions/198038_134_opinion.pdf
+
+We should get the Caselaw links ideally.
+in the interim, we have https://mpalmer.heresy.is/webnotes/TheGreatTaking/Safe-Harbor.html; https://www.courtlistener.com/docket/4326736/lehman-brothers-holdings-inc/?page=342
+
+
+
+
+
+
+## ancilalr #1`
+Coinbase as still no riinsstate my partern's account, espite material XXYZABC refrence  Rule 17Ad-2 in fn but super duper extrapolated![^info2]
+
+updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users to go through thier private proporiettary claims proecess before touchgign court securities law judgements (with jury rights waived  and dmmeonicile in NY for all biz non-Small-Claims)
+
+[^info2]: As i understanf it, their  complaicne team is wearvy of her exlcusive use  of the platform to deposit Ammrican dollars an subsequenrtly  transfer USDCC to  a cold-starge wallet/ She mdae nine psits last year afterr opening an aount six months prior: $2000 on Feb 20, $500  on May 8, $2000 on Jun 11, $2500 on Jul 7, $5000 on Jul 10, $600 on Jul 17, $1715.44 on Aug 28, andd $6000 on Sep 20 (whih was reversed and rolled into a $15000 deposit on Oct 9, whhich was subsequently frozen). _See also_ USDC governance conversation XYZ_AELABORATION  HERE AS NEEDED, _available at_  LNNS_HREF_FOR_LNNS_TS_9-APR
+
+
+
+
+
+
+
+[pending-collapsable-fn]: r u ready?
+<!-- I weould apperciatge if this was crafted without swear words, which is osmething I cannot do rn 🚀 -->
+DTCC fucking specifically hrefs the control locale of 802b in https://www.sec.gov/files/ctf-memo-dtcc-040725.pdf
+backlinks  17 CFR § 240.15c3-3(b)(1)  🤯🤦‍♂️
