@@ -623,28 +623,6 @@ Indeed, staff's own findings report that the "vast majority of GME stock trades 
 > 
 > — Commissioner Hester Peirce[^peirce-bailout-quote]
 
-_supra_ has TOC:
-Here are just the section numbers and names:
-
-**I. OTC Derivatives, Clearinghouses, and Their New Regulatory Framework**  
-A. OTC Derivatives in a Changing Regulatory Landscape  
-B. What Clearinghouses Do  
-C. How Swap Clearinghouses Are Regulated  
-
-**II. Problems with the Current Regulatory Framework**  
-A. Potential for Expanded CCPs to Destabilize the Financial System  
-B. Potential for Clearing Mandate to Undermine Risk Management Outside the CCP  
-C. Mandated Central Clearing Could Impair Counterparty Monitoring  
-D. Mandated Clearing Could Force Improper Risks into CCPs  
-E. Regulatory Conflicts of Interest Could Impair CCP Risk Management  
-F. Bailout Risk  
-
-**III. A Better Approach to Managing Risk**  
-A. Elimination of the Clearing Mandate  
-B. Principles-Based Regulation  
-C. Properly Aligned CCP Ownership and Governance  
-D. End Implicit and Explicit Promises of Bailouts
-
 
 
 I find these differing interests concerning because of historic instabilities in "automated" clearing which lead to emergency capital calls such as those seen in the PCO event. For instance, over a decade after DTC was founded, "a computer problem prevented the Bank of New York from delivering securities from its custodial accounts."[^ny-fed-fails] Unfortunately, many of these behind-the-scenes systems errors can stay hidden from investors, leaving them unaware of processing challenges until it's too late.[^hidden-errs]
