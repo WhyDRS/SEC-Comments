@@ -1747,6 +1747,19 @@ updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users
 [^info2]: As i understanf it, their  complaicne team is wearvy of her exlcusive use  of the platform to deposit Ammrican dollars an subsequenrtly  transfer USDCC to  a cold-starge wallet/ She mdae nine psits last year afterr opening an aount six months prior: $2000 on Feb 20, $500  on May 8, $2000 on Jun 11, $2500 on Jul 7, $5000 on Jul 10, $600 on Jul 17, $1715.44 on Aug 28, andd $6000 on Sep 20 (whih was reversed and rolled into a $15000 deposit on Oct 9, whhich was subsequently frozen). _See also_ USDC governance conversation XYZ_AELABORATION  HERE AS NEEDED, _available at_  LNNS_HREF_FOR_LNNS_TS_9-APR
 
 
+## thing!
+
+
+
+
+[^st-john-ucc]: _See_ analysis of changes an adopting  comment notes o 1994 reisions toArticle 8 frpm Francis J. Facciolo, J.D.  after six years  of study, _available at_ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf.
+
+
+
+[^SBACC-me]: _See_ Aaron Wishart on FDIC Policy (Division of Complex Institution Supervision and Resolution), _available at_ https://youtu.be/zZMKIoI420w;  from https://www.fdic.gov/advisory-committees/events/fdic-systemic-resolution-advisory-committee-meeting-october-15-2024.
+
+
+
 
 
 ---
@@ -1787,14 +1800,5 @@ Membert, WhyDRS
 
 
 
-
-
-
-
-[st-john-ucc]: _See_ analysis of changes an adopting  comment notes o 1994 reisions toArticle 8 frpm Francis J. Facciolo, J.D.  after six years  of study, _available at_ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf.
-
-
-
-[SBACC-me]: _See_ Aaron Wishart on FDIC Policy (Division of Complex Institution Supervision and Resolution), _available at_ https://youtu.be/zZMKIoI420w;  from https://www.fdic.gov/advisory-committees/events/fdic-systemic-resolution-advisory-committee-meeting-october-15-2024.
 
 
