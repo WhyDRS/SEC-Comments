@@ -1121,52 +1121,6 @@ SD: https://sdlegislature.gov/Session/Bill/25204/263148 (but not audio)
 
 
 
-Firstly, we can cite these MF's absolute nothingball of deception:
-: _See_ https://wooten.link/ULC-fraud
-
-
-which starts off with:
-
-> UCC Article 8 gives priority to those lenders who extend secured credit to the clearing corporation to provide the liquidity that might be needed to settle a given day's trades if one of the brokers or banks fails to perform its obligations to deliver securities sold or make payment for securities purchased.
-
-at 2
-
-
-and then it's a radical extrapolation to FTDs from the FOIA data request debunk.
-
-Individual margin was already growing rapidly, and
-
-These shouldn't need to be directly quoted.
-
-
-> UCC §§ 8-503 and 8-511. 
-
-> 8-503 mentions the 2 exceptions giving certain secured creditors priority over entitlement holders in 8-511 ~~~~so we strike that reference to 8-511.~~
-
-8-503(a): "except as otherwise provided in Section 8-511"
-
-> in 8-511 we strike the 2 exceptions (b) and (c).
-
-
-
-
-
-
-// banking lobby threats in Tennessee {{state-stopping}}
-
-
-_See_ _supra_ note {{^certainty}} § I.1.b.ii ¶ 10 at 8:
-in re question
-> Where securities are held in pooled form (e.g. a collective securities position, rather than segregated individual positions per person), does the investor have rights attaching to particular securities in the pool?
-they write:
-> No. The security entitlement holder does not have rights attaching to particular securities in the pool, he has a _pro rata_ share of the interests in the financial asset held by its securities intermediary to the amount needed to satisfy the aggregate claims of the entitlement holders in that issue. This is true even if investor positions are "segregated."
-
-_Id._ ¶ 12.
-The other quotes get into control and specifically "an investor is always vulnerable to a securities intermediary that does not itself have interests in a financial asset sufficient to cover all of the securities entitlements that it has created in that financial asset" but then you're diving into the two exceptions tacked by the "margin" [feDreply at n.15.](https://img1.wsimg.com/blobby/go/1ee786fb-3c78-4903-9701-d614892d09d6/taking-feb24-screen2.pdf#page=45)
-
-
-
-
 [mitre-cryptop-id]: from prior workin  _supra_ note {{^fragmentation-img}}: We have href citing "Hidden centralization in decentralized financial markets." in re crypto task force chat from leadership at https://www.sec.gov/files/memo-mitre-corporation-022125.pdf
 
 [don-dict-fn-pending]: Namely, leading advocates promote [doing XYZ above]. These legal experts also endorse [509*11 cross-ref].
