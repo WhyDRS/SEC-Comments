@@ -111,7 +111,7 @@ hhen Tim failed to immeiately feposit more than tne  times the initla cah in his
 Investors simply  shouldnt' need  to  watch  their brokers withdrawe their profits from their own account,  as happened to Tim in Feburuary. But this asset siezure is explcicitly  presently enabled by the ltter of the law  in all 50 states. Might the Commission consider superceediing these weak investor  ptoections through 15 U.S.C. § 78q-1(f)?
 
 
-[^start-reen-ieelds]: _See  generally_ PREV  . capitalized phrases  or  acronyms largely defined  therein. The community at large greatly apprrciated  the Commission's diligence leading up  to hte oCC's withdrawel of porposed changes.
+[^start-reen-ieelds]: _See  generally_ PREV  . capitalized phrases  or  acronyms largely defined  therein. The community at large greatly apprrciated  the Commission's diligence leading up  to hte oCC's withdrawel of porposed changes. _See, e.g.,_ a coimmunity hub atr https://wooten.link/join.
 
 [^occm]: _See generally,_ my omments in esponse  to the incredible recent staff acctions  establishing a rhoust tehniccal filing interfacce, _available at_ https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf. 
 
@@ -1462,49 +1462,6 @@ We should get the Caselaw links ideally.
 in the interim, we have https://mpalmer.heresy.is/webnotes/TheGreatTaking/Safe-Harbor.html; https://www.courtlistener.com/docket/4326736/lehman-brothers-holdings-inc/?page=342
 
 
-
-# Social Externalities FN
-
-https://doi.org/10.21033/pdp-2021-02
-
-# FN Meeting on Sep 23 at 1 PM ET
-
-Implicates chiefly as a prerequisite the self-custody arguments made [here](https://github.com/JFWooten4/DUNA-docs/issues/6).[^arg]
-
-[^arg]: Chief arguments to address are in this repository's issues; the remainder likely flows into TAR2.
-
-Ideated to segue into the no-action, pending 144A(e).
-^[144e]: lkight detference back to PREV 1.b oc
-
-
-# Staff Remarks 2 GFOOTNOTES
-
-- Comments suggested for the most transparent due process.
-- No comments on DEX trading.
-- Introduce routing conundrum from FxDAO discussion at [wooten.link/1558](https://wooten.link/1558).
-- Discuss mandated execution paths and central intermediaries named in Reg SHO, NMS.
-- Limited transactions effecting ATS.
-- Commodities not in 15c3-3 (dodged interoperability).
-- "Digital asset security definition is controversial."[^bod]
-
-[^bod]: Implicates previous n.132, which probably shouldn't be explicitly hyperlinked.
-
-- Traditional TA ledger vs. TA blockchain distinctions remain unclear or uncovered.
-- Statement generalized but fact-specific on applications over written questions.
-
-## Alternate Division B/D Direct Statements (*?)
-
-Minimize investor exposure to:
-- "risk loss/theft"
-- "broker financial losses"
-
-## Further Correspondence Documented in Email Around _ID's_ Timeframe[^names]
-
-No distinguishing between type of digital asset securities given "truly securities"
-
-[^names]: _See_ names referenced as 2-chat; 3 mimic. SEP 26, 2024, 9:47 AM.[^rmm]
-
-[^rmm]: Comments should CC all relevant parties. Content body should include the question of recording meetings related to rule change proposals. When referencing "community" (required), hyperlink to meep6. IBR note 16 in previous correspondence by replying to the joint request from Sep 27. (?)
 
 
 
