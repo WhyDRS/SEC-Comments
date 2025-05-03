@@ -1598,10 +1598,6 @@ Received at least three calls from LR and a compliance email mandating a call by
 ## Proposed Decetralized Govenrnane mechanisms
 
 
-### governance  via SROs, potential question under Alpine rock(missile)<!>
-https://www.sec.gov/comments/s7-08-22/s70822-658462.htm
-
-
 
 
 
@@ -1676,6 +1672,13 @@ What we need should DTC fail is nothing short of a completely new (inter)nationa
 [^global]: In such an interconnected era with profound technological abundance, I see only inevitably the emergence of a global stock market. I earnestly hope that our great Nation will continue leading the forefront of the world's capital market by supporting this work. _See also_ work in a number of foreign nations implementing an inter-agency Direct Registration System, _available at_ https://ijlr.iledu.in/wp-content/uploads/2023/06/V3I205.pdf#page=3. (insider trading link here...) ~~The vast bulk of this work employs proprietary, centralized, and corruptible central bookkeepers.~~
 
 [^DTCC-path]: _See_ documentation from Dr. Dan Awrey, J.D. and Joshua Macey, J.D., detailing the monopolization of market plumbing, _available at_ https://www.yalelawjournal.org/article/open-access. The authors detail how open-access and interoperability actually hindered the free market for clearing agencies, mandating them to all conform to common infrastructure. _Compare_ centralization here to the diverse competitive industry intended by Congress and the Commission _supra_ note {{^best-eff-mon}}.
+
+
+
+
+### Reccomendaitkon #3: Save the American Public's Pensions
+
+It'd be cool if staff mnight Copnsdiedr the remakrs of a fellow commentor, _available at_   https://www.sec.gov/comments/s7-08-22/s70822-658462.htm :)
 
 
 
