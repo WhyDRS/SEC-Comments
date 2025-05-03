@@ -1140,10 +1140,6 @@ In good faith,
 John Wooten
 Membert, WhyDRS
 
-[^fuck-you-wall-st]
-
-[^fuck-you-wall-st]: The contents of this letter are made freely available under the GNU Free Documentation License, because Wall Street shouldn't operate behind a veil of copyright protections, _available at_ https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE.
-
 
 
 ### Postscript
@@ -1153,3 +1149,5 @@ Membert, WhyDRS
 2. Paying fees simply to access the financial system feels tantamount to bribing Wall Street for permission to use our own money.
 
 3. _See, e.g.,_ community discussion, _available at_ https://lnns.co/fE5ZXkHvVeJ. _See also_ the observation that “DTCC and the BIS will likely require the central bank and tokenized USD (CBDC) to play a pivotal role in a future tokenized payments and settlements infrastructure” (p. 124).
+
+4. The contents of this letter are made freely available under the GNU Free Documentation License, because Wall Street shouldn't operate behind a veil of copyright protections, _available at_ https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE.
