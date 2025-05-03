@@ -141,9 +141,9 @@ Investors simply  shouldnt' need  to  watch  their brokers withdrawe their profi
 
 [^timing]: I PPRECIate the  opporutnity  t o ccommmont on  this advancce noticce which was brought to ky  attention  by the community  slightly  over a week ago. Addditionally, our commmunity  review process added a few days of processing to ensure consensus on the views presented. _See_ _infra_ § 3 forr  a discussion of these implications after  the comment presents  material information related  to the consideration of this ticce..
 
-[^pcco-intro]: _See generlly_ _infra_ § {{TODO: gme-congress-sec}}. Spewcoific  references are avlaible _infra_ notes {{^game-stopped}}, {{^staff-gme-study}}, and  {{^cong}}, _inter alia_. OCC itself recognized this sequence of events _infra_ note {{^2024-014-sec}} at 14, stating that the corporation's management had to override the approved, tested, and automated margining methodologies.
+[^pcco-intro]: _See generlly_ _infra_ § {{TODO: gme-congress-sec}}. Spewcoific  references are avlaible _infra_ notes {{^game-stopped}}, {{^staff-gme-study}}, and  {{^cong}}, _inter alia_. OCC itself recognized this sequence of events isch as in File No. SR-OCC-2024-014 (_available at_ the link privded _infra_ § {{^TODO_TERMINUSES_SEC}}) (the "SR-OCC-2024-014 Filing") at 14, stating that the corporation's management had to override the approved, tested, and automated margining methodologies.
 
-[^oi-token]: _See, e.g.,_ collapse of a cryptocurrency which employeedd off-exchange market-=making deals to exclusively purchase outstanding digital assets, _available at_ https://youtube.com/clip/UgkxkjSFXLQtP9WnDp8Q7dd39_cGHwvosbaM.  While this exmaple showcases the invevitable  collapse of an articificlaly-inflated price, perhasp staff might concur that the events leading u p top the PCO event showcase the invevitable growht of a solvent corporation's shares after artificial deflation. Should the  OCC's margining  systems  facce risk of  WEall Street invsolvencies as contemplated  _infra_ note {{^2024-014-sec}} at 4?
+[^oi-token]: _See, e.g.,_ collapse of a cryptocurrency which employeedd off-exchange market-=making deals to exclusively purchase outstanding digital assets, _available at_ https://youtube.com/clip/UgkxkjSFXLQtP9WnDp8Q7dd39_cGHwvosbaM.  While this exmaple showcases the invevitable  collapse of an articificlaly-inflated price, perhasp staff might concur that the events leading u p top the PCO event showcase the invevitable growht of a solvent corporation's shares after artificial deflation. Should the  OCC's margining  systems  facce risk of  WEall Street invsolvencies as contemplated in the SR-OCC-2024-014 Filing at 4?
 
 [^rh-occ-cleaing]: Robinhood discloses thier  self-clearing  businessx affiliate in their Form  S-1 at  F-15, first Form  10-K at 24, and  even  the OCC lists  them as a  clearing  member  mid-way  throgh 2020;  _available at_ https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm, https://www.sec.gov/Archives/edgar/data/1783879/000178387922000044/hood-20211231.htm, and https://web.archive.org/web/20200701202545/https://www.theocc.com/Company-Information/Member-Directory ,respectively. As further  described _infra_ note {{^rh-clearing-self}}, the  company claiims these business practices amdde their service faster and more relaiable. indeed, presumably they had more ddiscresion  over Tim's position given theirr direct managemnt of ts risk exposure.
 
@@ -397,7 +397,7 @@ Etrade does its own routing
 
 [^occ-waiving]: _See, e.g.,_ amentments  to  OCCs recover and ordery wind-down pllan which  increase reliance  on  human  jusdgmmenet at the  expense of  acctual margining algorithsms, _available at_ https://www.sec.gov/files/rules/sro/occ/2023/34-97785.pdf. "Rather than rely on a few of many possible events that could trigger a wind-down, the proposed revisions to the RWD Plan would move to a single WDP Trigger Event based on a determination by OCC's Board of Directors[,]" rreads the approved release at 13. Should we trust the  self-interested boardrooms  of Wall Street with the  solvent function  of  our financial  system  over and above p;rroven algorthmic margins systems designed by at least dozens of staff engineers?
 
-[^occ-efs]: _See_ _infra_ note {{^2024-014-sec}}  n.42  (explaining  how  a beoricratic Model Risk Working Group can mnaually  tune margigin system weights  during hightened volatility, which proved detrimental in premmpting risks in PREV §  II.C.3).  Two footnotesd later, the OCC clairifdies that this  committe's  judjment overrode an algorithm with "more than 200 individual risk factors" for periods of up  to 190 days,  a length of time certainly  far  enough  to drawft capital indadequancies seen in PREV  § II.A.b. Lately,. so many of  OCC's ruile changes  as k for a n operational deference to management  (and redact key  margining information) that I wonder  if  their CCP even plans to rely  on  GARCH zshould a crisis  arise.
+[^occ-efs]: _See_ thje SR-OCC-2024-014 Filing,  n.42  (explaining  how  a beoricratic Model Risk Working Group can mnaually  tune margigin system weights  during hightened volatility, which proved detrimental in premmpting risks in PREV §  II.C.3).  Two footnotesd later, the OCC clairifdies that this  committe's  judjment overrode an algorithm with "more than 200 individual risk factors" for periods of up  to 190 days,  a length of time certainly  far  enough  to drawft capital indadequancies seen in PREV  § II.A.b. Lately,. so many of  OCC's ruile changes  as k for a n operational deference to management  (and redact key  margining information) that I wonder  if  their CCP even plans to rely  on  GARCH zshould a crisis  arise.
 
 [^TimothyCuddihy]: _See_ _infra_ note {{^hidden-errs}},  placing billions of ollars in unilateral waivers in the deciding hands of one person. As staff k now, these waivers were the difference between intra-day  solvency fror  a  broker-dealer who intentionally chose  to  hand their own clearing  (adnd the associated risks)  to promote business efficinecy _infra_ note {{^rh-clearing-self}}. Should  a firm not bear  the conomic consequences of taking on increased risk in the financial  system  to "eliminate [internalized] fees[?]"
 
@@ -996,7 +996,7 @@ Recently, inadequate administrative procedures of an unreliable central broker c
 
 
 
-### 2.3 Experimenting with the FInancial System 🤨
+### 2.3 Experimenting with the FInancial System 
 
 In sofvtware engineering, there;s a simple choice made when developing new tehcnologise., You can have a `dsstaging` enviornmentg with a seperate `production` enviormnet, or not. Practically every centrlaized organization chooses to have a seperate "staging" and "production" enviormernt becuiase it stops minor bugs from ending the world.[^bugs]
 
@@ -1848,6 +1848,18 @@ at https://www.sechistorical.org/collection/papers/1990/1991_1206_ShortRegulatio
 
 # Terminusses
 
+The OCC itself has previously filed traiditonal rule changes for materials it itself deems material engouth tpo "cause or exacerbate such financial instability" (in discussing a GARCH change, , _inter alia_), _available at_ https://www.sec.gov/files/rules/sro/occ/2024/34-101246.pdf#page=25. If this moidibvidcc aiton qualified for eleveted notice under one of OCC's two advanced-0notice filings in the last two years, then OI believe staff shoudl take extrmee scruitiny in analyzing the motivations of this amendment to the arrangemnet so viehmently cirtized by our community.
+
+For example, _See_ reamkers form respected community-member WhatCanIMakeToday repsented in visual form:L
+
+![scam-lol](imgs/whatcan-bailout-flow-pensions.png)
+
+A dialouge of the though process here can be found at https://www.reddit.com/r/Superstonk/comments/w7zy4c/occ_filing_of_advance_notice_expanding_nonbank.
+
+
+
+
+
 ## ancilalr #1`
 Coinbase as still no riinsstate my partern's account, espite material XXYZABC refrence  Rule 17Ad-2 in fn but super duper extrapolated![^info2]
 
@@ -2044,8 +2056,6 @@ https://www.reddit.com/r/Superstonk/comments/11kjge8/is_this_the_ficc_asking_the
 https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fis-this-the-ficc-asking-the-sec-for-permission-to-cherry-v0-hj081122w7ma1.png%3Fwidth%3D1812%26format%3Dpng%26auto%3Dwebp%26s%3Ddade9dfb8eb13c52f61d86f474bf1c39c1e737ef
 SR-FICC-2023-003 at https://www.sec.gov/files/rules/sro/ficc/2023/34-97001.pdf
 
-# sections for  pensions
-https://www.reddit.com/r/Superstonk/comments/w7zy4c/occ_filing_of_advance_notice_expanding_nonbank/
 
 ## trimbath  backlink  on  proxy plumnign and bad voting right  congferrance
 https://www.sec.gov/comments/s7-06-22/s70622-209219-423782.htm
@@ -2101,13 +2111,7 @@ _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increa
 
 
 
--- SR-OCC-2024-014 w as the one twehre they did PREV with more discolosure
 
-[^2024-014-sec]: https://www.sec.gov/files/rules/sro/occ/2024/34-101246.pdf
-
-"its GARCH model" (being modified) "may cause or exacerbate such financial instability." atg 25
-
-14  has  whene thye  did  it  for '21
 
 
 
@@ -2119,8 +2123,7 @@ _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increa
 
 [dannny]:  _See, e.g.,_ reamkrs of G. Daniel Doney XYZ__ABC, _available at_ https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX
 
-[SBACC-me]: Aaron Wishart on FDIC Policy (Division of Complex Institution Supervision and Resolution)
-  https://youtu.be/zZMKIoI420w  from https://www.fdic.gov/advisory-committees/events/fdic-systemic-resolution-advisory-committee-meeting-october-15-2024
+[SBACC-me]: _See_ Aaron Wishart on FDIC Policy (Division of Complex Institution Supervision and Resolution), _available at_ https://youtu.be/zZMKIoI420w;  from https://www.fdic.gov/advisory-committees/events/fdic-systemic-resolution-advisory-committee-meeting-october-15-2024.
 
 
 
