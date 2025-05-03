@@ -247,24 +247,6 @@ Thus, it would be impossible for all Cede claimants to bear rights to common sto
 [^bbby-sec]: _See_ Form 10-K filed the next quarter, _available at_ https://www.sec.gov/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm. At 2, the document reads: "The number of shares outstanding of the registrant’s common stock (par value $0.01 per share) at May 9, 2023: 739,056,836."
 
 
-# high-0levle  of the  waterfall  and  tear-upis from 4–7
-https://www.theocc.com/getmedia/e8792e3c-8802-4f5d-bef2-ada408ed1d96/default-rules-and-procedures.pdf
-
-
-## nuanaced  tear-up documentation
-https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=24.26
-https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=18.61 (also mentionns the onbank vneue )
-
-## occ  choicess  for  procytclical treamtent
-https://www.sec.gov/files/rules/sro/occ/2024/34-99393.pdf#page=4
-
-
-
-# likely unceecesary
-
-## manua lmargin again,  largely  covered  already
-https://www.reddit.com/r/Superstonk/comments/1ae0toi/occ_proposes_reducing_margin_requirements_to/
-
 
 
 
