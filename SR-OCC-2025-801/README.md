@@ -1057,25 +1057,9 @@ To sum, we are building on top of well-defined cryptographic norms of both colla
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-### Parallel Experience
+### Open Source Community
 
 Sluggish financial intermediaries are no surprise to our community. Many international investors have needed
-
-
-
-
-### Open Source Community
 
 I started drafting this letter in true form after an opening community discussion[^GH-discussion] in our growing public GitHub collaboration system. Thereafter, we discussed the contents and implications of these policy amendments at depth.[^TS-TAR-ep] More broadly, we've been discussing the necessary structural changes and adoption plans for the better part of a year in our collective Discord server, as is additionally common in modern blockchain development groups.[^Discord-GME]
 
