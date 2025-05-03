@@ -1332,7 +1332,7 @@ Membert, WhyDRS
 
 
 
-# {REQ} Added notes for exemplary point re S-G discussion and context before CB bantherun
+# this needs tgo be somewhere
 
 This (personal part) should frame paying bribes[^b/f] to financial intermediaries to transfer fiat value (maybe word more nicely to `dollars`) for the purpose of sovereign use on-chain (but wording there probably needs to align more towards libre principles in a _triad_).[defeat]
 
