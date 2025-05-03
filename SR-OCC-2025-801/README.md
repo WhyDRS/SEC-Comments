@@ -235,6 +235,15 @@ Unfortunately,  Wall Street's system  of  rehypothecation  rroutinely  "expands"
 
 > Short interest can exceed 100%—as it did with GME—when the same shares are lent multiple times by successive purchasers. If someone purchases a stock from a short seller and subsequently lends the stock out again, it will appear as if the stock was sold short twice for the purpose of the short interest calculation.
 
+<!-- TODO
+> 
+> for any given moment in time, one security can be attributed to multiple financial transactions
+
+
+https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-outs-of-collateral-re-use-20181221.html
+
+-->
+
 This isonly possible bcause of the fungablity  of omnibus shartes conceenrtradted udner the singular hands of Cede. Frankly , there have been too many  exxamples of public record discrepencies to warrant  material substantiation in rleation to its impact on OCC's margiing operations.[^eg-naked-shorts-later] One other prominnet recent exampple  of thesee factual innacuracie can be trivially  found i the bankruptcy of an issuer popular with individual investors went bankrupt two years ago with a disproportionate proposition of shares outstanding compared to those held under the Custodial Structure according to centralized FAST declarative ownership data.
 
 This fate is all too  common for firms alledging fwrongoing oon behalf of the Custodial Structure. Briefly, the firm  declared  Chapter  11  on April 23 2023,  amd its bankruptcy documents two weeks late showed Cede  as owning 776,404,408 common shares.[^bbby-case] However, the issuer's books and records at the transfer agent recorded only 739,056,836 shares outstanding four days after the bankruptcy capitalization table,
@@ -251,6 +260,28 @@ Thus, it would be impossible for all Cede claimants to bear rights to common sto
 [^bbby-case]: _See_ llit ofg equity srurtyholders under bankruptcy code, _available at_ https://wooten.link/kroll-cede at 8. Cede's equity holddiings are listed in dupliccate, which we found particualrly  strangee in ddisucssion  of anoyhte securityty with this clerical pheonmenon, _available at_ https://x.com/JFWooten4/status/1753471580842209390.
 
 [^bbby-sec]: _See_ Form 10-K filed the next quarter, _available at_ https://www.sec.gov/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm. At 2, the  document reads: "The number of shares outstanding of the registrant’s common stock (par value $0.01 per share) at May 9, 2023: 739,056,836."
+
+
+# high-0levle  of the  waterfall  and  tear-upis from 4–7
+https://www.theocc.com/getmedia/e8792e3c-8802-4f5d-bef2-ada408ed1d96/default-rules-and-procedures.pdf
+
+
+## nuanaced  tear-up documentation
+https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=24.26
+https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=18.61 (also mentionns the onbank vneue )
+
+## occ  choicess  for  procytclical treamtent
+https://www.sec.gov/files/rules/sro/occ/2024/34-99393.pdf#page=4
+
+
+
+# likely unceecesary
+
+## manua lmargin again,  largely  covered  already
+https://www.reddit.com/r/Superstonk/comments/1ae0toi/occ_proposes_reducing_margin_requirements_to/
+
+
+
 
 
 #### Equivalnet Outstanding Custodial Mishandling
@@ -651,6 +682,13 @@ given "no further actions may be taken to develop or implement" a CBDC {{^White 
 
 ## Clear Unsolved Challenges
 
+
+
+
+
+
+
+
 Despite best offers from staff throughout an administration of intense individual investor advocacy, many of our structural market problems remain. We applaud the Commission for their exemplary efforts in XYZ_REG_NMS_tick_yya and implementing the universal proxy.[^pers]
 
 These well-intentioned policies chip away piecemeal at the larger challenges of a securities industry operated on the basis of a single opaque, concentrated, and overbearing private corporation. This structure perpetuates a radically inefficient extractive system full of coercive risks, compared to a decentralized ledger system.
@@ -795,6 +833,13 @@ trade385 at 87 which thus dropping $895.2M In Risk - Normalizing from 10:46a to 
 
 
 Apex "wasn't prepared to post those funds." per {{^apex-fine-foreshadow}} at 7
+
+
+
+### FN interleaved DTC/OCC systems
+> In the Stock Loan/Hedge Program, prospective Lending and Borrowin Clearing Members identify each other (independent of OCC), agree to bilaterall negotiated terms of the stock loan (in this case, a “Hedge Loan”), and then send th details of the stock loan to the Depository Trust Company (“DTC”) designating the stoc loan as a Hedge Loan for guaranty and clearance at OCC. The Lending Clearin Member then instructs DTC to transfer a specified number of shares of Eligible Stock1
+https://www.sec.gov/files/litigation/litreleases/2019/34-87476.pdf#page=9.51
+
 
 
 
@@ -1439,6 +1484,14 @@ Received at least three calls from LR and a compliance email mandating a call by
 
 ## Proposed Decetralized Govenrnane mechanisms
 
+
+### governance  via SROs, potential question under Alpine rock(missile)<!>
+https://www.sec.gov/comments/s7-08-22/s70822-658462.htm
+
+
+
+
+
 LAregly, I've been waiting top see the full Supreme Court review process on _Alpine_ before thorougholy investigating adn deverlopign infrasturcutre around these functionalitiers of the DUNA. Nortwihthdsitngm, I find it relevant ot mkae a select few comments based on the existing triumph in the D.C. Circuit.[dc]
 
 
@@ -1724,6 +1777,13 @@ updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users
 
 
 
+---
+
+
+
+---
+Carnabas — 11:55 AM
+Ugh
 
 
 DTCC fucking specifically hrefs the control locale of 802b in https://www.sec.gov/files/ctf-memo-dtcc-040725.pdf
@@ -1741,23 +1801,6 @@ https://www.federalregister.gov/documents/2020/11/09/2020-24783/self-regulatory-
 https://x.com/xximpod/status/1835990569954246837
 
 https://www.sec.gov/files/rules/sro/occan/2025/34-102462.pdf#page=16
-
--- industry r epso0nses  
-https://www.sec.gov/files/rules/sro/dtc200302/mcashion030603.txt
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-83.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/bnyclearing032503.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/1stclearing031803.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-82.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-79.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/mizuhotrust040703.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/charlesschwab041403.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/kthompson040403.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/prudential040303.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/rbcdain042303.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/bancamer031803.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-81.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-78.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/edwardjones041503.pdf
 
 -- mononpoly  claims incl. lkivingston
 https://www.sec.gov/files/rules/sro/dtc200302/jmeuse030503.
@@ -1777,142 +1820,30 @@ https://www.reddit.com/r/Superstonk/comments/1k72g9z/occ_wants_more_liquidity_mo
 
 "control" at 35 min in  Great  collateral  Expr only
 
----  tri partt  report  epxlaining
-https://www.newyorkfed.org/medialibrary/media/research/epr/2012/1210cope.pdf
-
---  systemicc  shagnes andd staff stufies on ucc 8
-https://www.jstor.org/stable/40687585?read-now=1&oauth_data=eyJlbWFpbCI6ImpvaG4ud29vdGVuQGJsb2NrdHJhbnNmZXIuY29tIiwiaW5zdGl0dXRpb25JZHMiOltdLCJwcm92aWRlciI6Imdvb2dsZSJ9&seq=21#page_scan_tab_contents
-https://www.4.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=71 market 2000
-https://www.4.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=28  disadvantaged
-https://chatgpt.com/c/680c0ffc-6440-8010-9e6b-fe1533c9af40
-https://www.jdsupra.com/legalnews/financial-markets-infrastructure-the-eu-5177606/
-
-
--- same but  specific stories
-Cede & Co. v. Technicolor...
-https://www.sechistorical.org/collection/papers/1970/1976_0101_DTCAR.pdf
-https://www.finra.org/rules-guidance/notices/93-77#:~:text= PLEDGE
-https://www.finra.org/rules-guidance/notices/93-77#:~:text= DREXEL
-https://archives.federalregister.gov/issue_slice/1993/10/13/52889-52917.pdf#page=4
-https://www.alri.ualberta.ca/wp-content/uploads/1993/06/fr067.pdf#page=4
-
-
-
-
-
---- [pledigng to  OCCC from DTCC]
-[^occ-dtcc-plerdgingb]
-https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=11
-
-https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=112  (occ cross ref  from 11)
-
-
-
-he Collateral Loan Program allows you to pledge securities from held in your general free account as collateral for a loan or for other purposes (such as Letters of Credit) to a pledgee participating in the program. 
-
-
-https://www.reddit.com/r/Superstonk/comments/ngwhzu/where_is_srdtc2021005_the_update/
-
-
-
-changes  of reform after  drexel; not  applciable to AGNETS
-https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
 
 
 
 
 
 
--- sro  creidt loosening
-https://www.sec.gov/files/34-97597.pdf
-https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-nscc-2023-005
-
--- remakrs on  clai  cases, estbalish brokers knowing  deceipt
-https://one.zoho.com/zohoone/blocktransfer/home/cxapp/workdrive/home/b83hmf05972c82a1c4790990d79265601bc26/teams/b83hmf05972c82a1c4790990d79265601bc26/ws/n2fp6e9c05b7f8454414fbafad2ae5454b6e9/folders/900duc67948ae27f44ffe85627a6c25ddb699?frameorigin=https%3A%2F%2Fone.zoho.com
-https://github.com/WhyDRS/SEC-Comments/issues/12
-
-
---  secrative rule  change  fuile  Nos.
-https://www.reddit.com/r/Superstonk/comments/13vtgc1/comment_to_the_sec_against_heavily_redacted/
-
---- dtc pro  rata &  cede
-https://www.reddit.com/r/Superstonk/comments/13ia7h3/end_game_part_deux_problems_at_the_dtcc_plus_the/
-Simply changing how shares are held from beneficially owned to directly registered automatically increases how much of the Company you own.  This is true for any Company where shareholders may suspect the DTC has more shares on their books than they should.  Any shareholder that suspects naked shorting is an issue (e.g., 🎮) would be similarly incentivized to own a bigger portion of the Company by simply Direct Registering Shares.  
-
-Except the DTC hasn't been telling people how many beneficial interests are out there. So it's actually worse than that for Beneficial Shareholders... the SEC says that each participant or pledgee (i.e., beneficial shareholder) having an interest in securities credited to their account has a pro rata interest in the securities of that issue held by the DTC. All the beneficially owned shares held by beneficial shareholders split the pie held by the DTC.
-
--- shadow  bankjing remarks
-https://www.reddit.com/r/Superstonk/comments/147e5di/shadow_banking_system_embiggening_systemic_risks
-https://www.imf.org/external/pubs/ft/wp/2010/wp10172.pdf#page=10  (large  big)
-
--- naked hsorting thinggs,  cuklminating  in approval  of no cert pulls
-https://www.sec.gov/rule-release/34-42037 as  64 FR 57996
-https://www.sec.gov/comments/s7-19-07/s71907-1436.pdf#page=5
-https://www.sec.gov/files/rules/concept/s72499summary.htm
-
--- expanding nonbank lrf  (mass  comments  from  SS)
-https://www.reddit.com/r/Superstonk/comments/w7zy4c/comment/ihnf9p7/?context=3
-https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
-https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803-306305.htm  (good quote)
-
---  "manual  ovolveriding" risk  control  settinghs
-https://www.reddit.com/r/Superstonk/comments/11kjge8/is_this_the_ficc_asking_the_sec_for_permission_to/
-https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fis-this-the-ficc-asking-the-sec-for-permission-to-cherry-v0-hj081122w7ma1.png%3Fwidth%3D1812%26format%3Dpng%26auto%3Dwebp%26s%3Ddade9dfb8eb13c52f61d86f474bf1c39c1e737ef
-SR-FICC-2023-003 at https://www.sec.gov/files/rules/sro/ficc/2023/34-97001.pdf
-
---- sections for  pensions
-https://www.reddit.com/r/Superstonk/comments/w7zy4c/occ_filing_of_advance_notice_expanding_nonbank/
-
----  participating  petitionf
-https://www.sec.gov/files/petn4-842-03072025.htm
-https://www.sec.gov/comments/4-842-petn/4842-petn-228.htm  (custom  good one iwth a smith)
-
---  coimmeents  challenging  marignign  risks
-https://www.sec.gov/files/rules/sro/occ/2023/34-98101.pdf#page=24      SR-OCC-2022-012
-https://www.theocc.com/getmedia/743f6b9a-5758-4393-a9e1-7ac9b5636bf0/sr_occ_20_801_notice_of_no_objection.pdf#page=11
-
---  setting up the marigning at  500M
-https://www.theocc.com/getmedia/743f6b9a-5758-4393-a9e1-7ac9b5636bf0/sr_occ_20_801_notice_of_no_objection.pdf;
-
--- original master repo plan Stability ocnsiderations
-https://www.sec.gov/files/litigation/litreleases/2015/34-73979.pdf#page=11
-
---  SR-OCC-2022-803
-https://www.sec.gov/files/litigation/litreleases/2022/34-95670.pdf
-
-" when the same shares are lent multiple  times by successive purchaser" at   ^staff-gme-study  #page=26
-
---  cede  number  from https://discord.com/channels/@me/1199451596690575360/1329914380107645019
-https://www.reddit.com/r/BBBY/comments/1392f2l/umm_cede_held_776m_shares_of_bbby_common_stock/
-
--- manua lmargin again,  largely  covered  already
-https://www.reddit.com/r/Superstonk/comments/1ae0toi/occ_proposes_reducing_margin_requirements_to/
-
---  high-0levle  of the  waterfall  and  tear-upis from 4–7
-https://www.theocc.com/getmedia/e8792e3c-8802-4f5d-bef2-ada408ed1d96/default-rules-and-procedures.pdf
-
---  nuanaced  tear-up documentation
-https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=24.26
-https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=18.61 (also mentionns the onbank vneue )
-
---  occ  choicess  for  procytclical treamtent
-https://www.sec.gov/files/rules/sro/occ/2024/34-99393.pdf#page=4
-
-https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-outs-of-collateral-re-use-20181221.html
-for any given moment in time, one security can be attributed to multiple financial transactions
-
----  trimbath  backlink  on  proxy plumnign and bad voting right  congferrance
-https://www.sec.gov/comments/s7-06-22/s70622-209219-423782.htm
 
 
 
 
 
 
---  public  infput
-https://www.sec.gov/files/rules/sro/occ/2021/34-91079.pdf (no ccomments  on terse technical)
+-- 
 
-https://www.sec.gov/comments/sr-occ-2021-003/srocc2021003.htm (v.  indfustriy  inside knowledtge0)
+--  
+
+--  
+
+---  
+
+
+
+
+
 
 
 
@@ -1946,21 +1877,115 @@ https://www.theocc.com/getattachment/708119b9-caf4-4a3f-a09d-b90d6d751ada/OCC_fi
 
 
 
--- governance  via SROs, potential question under Alpine
-https://www.sec.gov/comments/s7-08-22/s70822-658462.htm
-
-
-
-
-
---  interleaved DTC/OCC systems
-> In the Stock Loan/Hedge Program, prospective Lending and Borrowin Clearing Members identify each other (independent of OCC), agree to bilaterall negotiated terms of the stock loan (in this case, a “Hedge Loan”), and then send th details of the stock loan to the Depository Trust Company (“DTC”) designating the stoc loan as a Hedge Loan for guaranty and clearance at OCC. The Lending Clearin Member then instructs DTC to transfer a specified number of shares of Eligible Stock1
-https://www.sec.gov/files/litigation/litreleases/2019/34-87476.pdf#page=9.51
+-- 
 
 
 -- last 2 items  for whatcna's  excchange  prop
 https://www.sec.gov/comments/sr-occ-2022-802/srocc2022802.htm
 https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
+
+
+
+
+
+
+# FN  tri partt  report  epxlaining
+_See, e.g.,_ dooscssion of tri-party repos from the same solurjce as aindicatesd _supra_ note {{^certainty}}, _available at_  https://www.newyorkfed.org/medialibrary/media/research/epr/2012/1210cope.pdf.
+
+# FN  systemicc  shagnes andd staff stufies on ucc 8
+https://www.jstor.org/stable/40687585?read-now=1&oauth_data=eyJlbWFpbCI6ImpvaG4ud29vdGVuQGJsb2NrdHJhbnNmZXIuY29tIiwiaW5zdGl0dXRpb25JZHMiOltdLCJwcm92aWRlciI6Imdvb2dsZSJ9&seq=21#page_scan_tab_contents
+https://www.4.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=71 market 2000
+https://www.4.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=28  disadvantaged
+https://chatgpt.com/c/680c0ffc-6440-8010-9e6b-fe1533c9af40
+https://www.jdsupra.com/legalnews/financial-markets-infrastructure-the-eu-5177606/
+
+
+## FN pledigng to  OCCC from DTCC]
+[^occ-dtcc-plerdgingb]
+https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=11
+
+https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=112  (occ cross ref  from 11)
+
+
+
+he Collateral Loan Program allows you to pledge securities from held in your general free account as collateral for a loan or for other purposes (such as Letters of Credit) to a pledgee participating in the program. 
+
+
+https://www.reddit.com/r/Superstonk/comments/ngwhzu/where_is_srdtc2021005_the_update/
+
+
+
+changes  of reform after  drexel; not  applciable to AGNETS
+https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
+
+
+## fingerfs crossed on this FNM -- sro  creidt loosening
+https://www.sec.gov/files/34-97597.pdf
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-nscc-2023-005
+
+
+## SUBTLE FOOTNOTE VERY FUCKING CAREFUL HERE TO MAINLY INTRO THE SERECS VIA TYHE FUCKING ECONOMIST LINK #@ {{^^california}}
+
+remakrs on  clai  cases, estbalish brokers knowing  deceipt
+https://one.zoho.com/zohoone/blocktransfer/home/cxapp/workdrive/home/b83hmf05972c82a1c4790990d79265601bc26/teams/b83hmf05972c82a1c4790990d79265601bc26/ws/n2fp6e9c05b7f8454414fbafad2ae5454b6e9/folders/900duc67948ae27f44ffe85627a6c25ddb699?frameorigin=https%3A%2F%2Fone.zoho.com
+https://github.com/WhyDRS/SEC-Comments/issues/12
+
+
+# FN dtc pro  rata &  cede
+https://www.reddit.com/r/Superstonk/comments/13ia7h3/end_game_part_deux_problems_at_the_dtcc_plus_the/
+Simply changing how shares are held from beneficially owned to directly registered automatically increases how much of the Company you own.  This is true for any Company where shareholders may suspect the DTC has more shares on their books than they should.  Any shareholder that suspects naked shorting is an issue (e.g., 🎮) would be similarly incentivized to own a bigger portion of the Company by simply Direct Registering Shares.  
+
+Except the DTC hasn't been telling people how many beneficial interests are out there. So it's actually worse than that for Beneficial Shareholders... the SEC says that each participant or pledgee (i.e., beneficial shareholder) having an interest in securities credited to their account has a pro rata interest in the securities of that issue held by the DTC. All the beneficially owned shares held by beneficial shareholders split the pie held by the DTC.
+
+
+# shadow  bankjing remarks
+https://www.reddit.com/r/Superstonk/comments/147e5di/shadow_banking_system_embiggening_systemic_risks
+https://www.imf.org/external/pubs/ft/wp/2010/wp10172.pdf#page=10  (large  big)
+
+# expanding nonbank lrf  (mass  comments  from  SS)
+https://www.reddit.com/r/Superstonk/comments/w7zy4c/comment/ihnf9p7/?context=3
+https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
+https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803-306305.htm  (good quote)
+
+# "manual  ovolveriding" risk  control  settinghs
+https://www.reddit.com/r/Superstonk/comments/11kjge8/is_this_the_ficc_asking_the_sec_for_permission_to/
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fis-this-the-ficc-asking-the-sec-for-permission-to-cherry-v0-hj081122w7ma1.png%3Fwidth%3D1812%26format%3Dpng%26auto%3Dwebp%26s%3Ddade9dfb8eb13c52f61d86f474bf1c39c1e737ef
+SR-FICC-2023-003 at https://www.sec.gov/files/rules/sro/ficc/2023/34-97001.pdf
+
+# sections for  pensions
+https://www.reddit.com/r/Superstonk/comments/w7zy4c/occ_filing_of_advance_notice_expanding_nonbank/
+
+## trimbath  backlink  on  proxy plumnign and bad voting right  congferrance
+https://www.sec.gov/comments/s7-06-22/s70622-209219-423782.htm
+
+
+# !!!! FN TO INTRODUCE WHATCAN !!!!!! <!-- start of s 3 main probvsZ -->
+
+participating  petitionf
+https://www.sec.gov/files/petn4-842-03072025.htm
+https://www.sec.gov/comments/4-842-petn/4842-petn-228.htm  (custom  good one iwth a smith)
+
+# coimmeents  challenging  marignign  risks VERY FUCKING VERY SHORT
+https://www.sec.gov/files/rules/sro/occ/2023/34-98101.pdf#page=24     
+ SR-OCC-2022-012
+https://www.theocc.com/getmedia/743f6b9a-5758-4393-a9e1-7ac9b5636bf0/sr_occ_20_801_notice_of_no_objection.pdf#page=11
+
+## FN for inreasing the inital deposit base form src
+
+setting up the marigning at  500M
+https://www.theocc.com/getmedia/743f6b9a-5758-4393-a9e1-7ac9b5636bf0/sr_occ_20_801_notice_of_no_objection.pdf;##
+
+### original master repo plan Stability ocnsiderations
+https://www.sec.gov/files/litigation/litreleases/2015/34-73979.pdf#page=11
+
+### SR-OCC-2022-803
+https://www.sec.gov/files/litigation/litreleases/2022/34-95670.pdf
+
+
+
+
+
+
 
 # CLIPS:
 
