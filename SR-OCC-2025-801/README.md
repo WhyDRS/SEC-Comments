@@ -442,16 +442,6 @@ Concerningly, the OCC says that margin failure testing is both "a highly manual 
 
 
 
-
-## FN Central DTCC DA Study Cited Later
-
-Requisitioning control over the entire industry by a single corporation, which exists with for-profit stakeholders, either directly or indirectly.
-
-In the former case, we have a public corporation that outed in their S-1 filing (no citation) that they will "[insert quote on saving the world crap]... [insert very compelling different quote about making one billion monies]."
-
-
-
-
 #### Operational Deception Investigations
 
 Despite recent optimistic support of artificial intelligence, I believe we'll still need genuine human involvement and connections in uncovering nuanced securities frauds. One such investigation into the proposed SPAC purchaser of Apex resulted in a $1,500,000 fine just last year.[^apex-spac-fine] Unfortunately, the Commission never received these funds because the investment corporation returned all investor funds on the day of the order.[^apex-spac-dissolve]
