@@ -648,3 +648,72 @@ Requisitioning control over the entire industry by a single corporation, which e
 In the former case, we have a public corporation that outed in their S-1 filing (no citation) that they will "[insert quote on saving the world crap]... [insert very compelling different quote about making one billion monies]."
 
 
+
+#### nauybe still the busiuoness competatitvenes
+
+Congressional report:
+§ III.2.a: 
+
+§ III.2.a: NSCC margin req went up by a factor of over 14 times in under an hour, eqaling over 900mm "Apex's overnight process for clearing trades require manual verification for trades..."
+"created a temporary imbalance in trading activity, i.e., a net buy position, which represents greater risk in a trading book and resulted in the NSCC assessing a heightened Valueat-Risk charge to Apex"
+"the need to manually acknowledge the sell-side of the trade, they promptly approved the trade."
+
+
+
+
+
+extrapolate to business profit
+
+
+mistreatment of deposits via FINRA
+as segue to quandarous default account agreements with the CapOne Card Payment error
+
+Apex froze for all     custodian-B/D clients
+
+
+
+replacement Cede as LLC ref to occm
+
+
+
+Lastly, we have Apex suing a client in a case which was ultimately dismissed -= Axos
+from Congfressional report at 88: "Axos prohibited new opening transactions in certain meme stocks on February 2, 2021, due to liquidity concerns, and feared that without taking such measures it would likely exhaust its available funding sources"
+
+On an earnings call 28 Jan 2021, the CEO said 
+"We will transition to a self-clearing model later this month with Axos Clearing becoming the clearing firm for Axos Invest."
+https://www.fool.com/earnings/call-transcripts/2021/01/28/axos-financial-inc-ax-q2-2021-earnings-call-transc
+
+
+
+
+
+
+
+conta DTCC statement "A dramatic increase in a clearing member's VaR charges over a short period results directly from a correspondingly large increase in the risk presented to NSCC by the clearing member's portfolio, due to increases in transaction volume, volatility and concentration of the unsettled transactions in the clearing member's portfolio," at https://web.archive.org/web/20210519134404/https://www.dtcc.com/-/media/Files/PDFs/DTCC-Statement-February-2021-Mike-Bodson.pdf
+
+
+
+
+
+
+
+[^White House-da]: "The Working Group's report shall consider provisions for market structure, oversight, consumer protection, and risk management."
+— The White House aty https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/
+
+
+
+
+
+
+
+
+
+we  haveth echives  podcast  on DTC-DA which seguaetys  to DTCC CBDC
+
+given "no further actions may be taken to develop or implement" a CBDC {{^White House-da}}
+
+--https://www.dtcc.com/-/media/WhitePapers/Transforming-Collateral-Management-With-Digital-Assets-JSCC.pdf--
+
+
+
+
