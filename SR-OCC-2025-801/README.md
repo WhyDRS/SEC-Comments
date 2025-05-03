@@ -543,13 +543,6 @@ Congrss found that some broekrs are "thinly capitalized for a highly volatile en
 
 [^rofl]: _See_ _supra_ note {{^game-stopped}}  at 97.  _See also generally_ Key Finding #3. House staff  note on the  prior page  that  introdu es this finding  how several  "member firms Committee staff interviewed either did not model for, or otherwise explicitly plan for"  ECP  charges  before the PCO event.
 
-[ne1`ed]: FINRA Fines Apex Clearing $3.2 Million for Violations Relating to Fully Paid Securities Lending Program
-18M in cash in leui
-announce: https://www.finra.org/media-center/newsreleases/2025/finra-fines-apex-clearing-32-million-violations-relating-fully-paid
-cash pt note 4 "subject to higher tax rates" at https://www.finra.org/sites/default/files/2025-02/Apex_Clearing_Corp_AWC_20210721204.pdf#page=4
-Between January 2019 and June 2023
-
-
 
 
 ### Required Central Propogation roles FOOTNOPTE IN THIS SUB§
@@ -660,10 +653,11 @@ Rather, I hope staff will suffice with a select  few instances of  OCC's arrange
 Hopefully  by  this point we've  etbalished that the CCPSs are very thinkly  capitalized.[^risklolll]
  
 
-here we have to setup the thin capitalization beforehand with apex
+here we have to setup the thin capitalization beforehand with apex[ne1`ed]
 
-as the tie intro from manual:
-_Id. from WRP XYZ_
+[ne1`ed]:  _See, e.g.,_ FINRA Fines Apex Clearing $3.2 Million for Violations Relating to Fully Paid Securities Lending Program, including punishment for an $18M payment of  cash in leui pof dividends , _available at_ https://www.finra.org/media-center/newsreleases/2025/finra-fines-apex-clearing-32-million-violations-relating-fully-paid. _See also_ full order pt note 4 explaingi how these payments are "subject to higher tax rates[,]" , _available at_ https://www.finra.org/sites/default/files/2025-02/Apex_Clearing_Corp_AWC_20210721204.pdf#page=4. This went on for overf four years depsite material warning from Dr./ T./
+
+
 
 [^no-more-NDAs-Ip=-poprpomise]
 

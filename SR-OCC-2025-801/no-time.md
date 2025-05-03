@@ -739,3 +739,9 @@ A. Elimination of the Clearing Mandate
 B. Principles-Based Regulation  
 C. Properly Aligned CCP Ownership and Governance  
 D. End Implicit and Explicit Promises of Bailouts
+
+
+as the tie intro from manual:
+_Id. from WRP XYZ_
+
+
