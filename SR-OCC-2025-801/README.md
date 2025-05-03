@@ -1146,10 +1146,10 @@ Membert, WhyDRS
 
 
 
-### Postscript: On the Cost of Moving Dollars On‑Chain
+### Postscript
 
-This personal section should address the reality of paying fees—sometimes perceived as bribes[^b/f]—to financial intermediaries simply to move dollars into sovereign, on‑chain use. Ideally the wording aligns with our broader libre‑principle “triad” framework.[^defeat]
+1. Moving dollars on‑chain carries considerable social costs.
 
-[^b/f]: Or *fees*, as the case may be. _Verbatim._
+2. Paying fees simply to access the financial system feels tantamount to bribing Wall Street for permission to use our own money.
 
-[^defeat]: _See, e.g.,_ community discussion, _available at_ https://lnns.co/fE5ZXkHvVeJ. _See also_ the observation that “DTCC and the BIS will likely require the central bank and tokenized USD (CBDC) to play a pivotal role in a future tokenized payments and settlements infrastructure” (p. 124).
+3. _See, e.g.,_ community discussion, _available at_ https://lnns.co/fE5ZXkHvVeJ. _See also_ the observation that “DTCC and the BIS will likely require the central bank and tokenized USD (CBDC) to play a pivotal role in a future tokenized payments and settlements infrastructure” (p. 124).
