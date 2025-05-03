@@ -6,12 +6,12 @@ title: In re SR-OCC-2025-801 (Liquidity-Facility Counterparty Rehypothecation)
 Originator: John Wooten <@JFWooten4>
 Discussion: https://github.com/WhyDRS/SEC-Comments/discussions/14
 Extends: https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf
-Status: Draft
+Status: Community Review
   live: 18 May 2025
   file: SR-OCC-2025-801
   href: https://www.sec.gov/files/rules/sro/occan/2025/34-102462.pdf
 ```
-<!-- please phrase `extends` starting extension as "My Comments in re..."  -->
+<!-- please phrase `extends` starting extension as "My comments in re..."  -->
 
 # Non-Letter Content
 
@@ -48,7 +48,7 @@ In good faith,
 [Name]
 Member, WhyDRS
 
-P.S. Crypto Task Force, these comments at nn. A, B, aNd C  relate to John's previous communication sent on Apr  30.
+P.S. Crypto Task Force, these comments at nn. {{^CBDC}}, B, aNd C  relate to John's previous communication sent on Apr  30.
  
 ### tmp  discord  #generlawr reveiw annoucnemnt
 
@@ -71,7 +71,6 @@ also i want the 6dasys star wars img
 
 
 
-TODO ending fn and sponosr def to https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE
 
 ## Document
 
@@ -236,6 +235,15 @@ Unfortunately,  Wall Street's system  of  rehypothecation  rroutinely  "expands"
 
 > Short interest can exceed 100%—as it did with GME—when the same shares are lent multiple times by successive purchasers. If someone purchases a stock from a short seller and subsequently lends the stock out again, it will appear as if the stock was sold short twice for the purpose of the short interest calculation.
 
+<!-- TODO
+> 
+> for any given moment in time, one security can be attributed to multiple financial transactions
+
+
+https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-outs-of-collateral-re-use-20181221.html
+
+-->
+
 This isonly possible bcause of the fungablity  of omnibus shartes conceenrtradted udner the singular hands of Cede. Frankly , there have been too many  exxamples of public record discrepencies to warrant  material substantiation in rleation to its impact on OCC's margiing operations.[^eg-naked-shorts-later] One other prominnet recent exampple  of thesee factual innacuracie can be trivially  found i the bankruptcy of an issuer popular with individual investors went bankrupt two years ago with a disproportionate proposition of shares outstanding compared to those held under the Custodial Structure according to centralized FAST declarative ownership data.
 
 This fate is all too  common for firms alledging fwrongoing oon behalf of the Custodial Structure. Briefly, the firm  declared  Chapter  11  on April 23 2023,  amd its bankruptcy documents two weeks late showed Cede  as owning 776,404,408 common shares.[^bbby-case] However, the issuer's books and records at the transfer agent recorded only 739,056,836 shares outstanding four days after the bankruptcy capitalization table,
@@ -252,6 +260,28 @@ Thus, it would be impossible for all Cede claimants to bear rights to common sto
 [^bbby-case]: _See_ llit ofg equity srurtyholders under bankruptcy code, _available at_ https://wooten.link/kroll-cede at 8. Cede's equity holddiings are listed in dupliccate, which we found particualrly  strangee in ddisucssion  of anoyhte securityty with this clerical pheonmenon, _available at_ https://x.com/JFWooten4/status/1753471580842209390.
 
 [^bbby-sec]: _See_ Form 10-K filed the next quarter, _available at_ https://www.sec.gov/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm. At 2, the  document reads: "The number of shares outstanding of the registrant’s common stock (par value $0.01 per share) at May 9, 2023: 739,056,836."
+
+
+# high-0levle  of the  waterfall  and  tear-upis from 4–7
+https://www.theocc.com/getmedia/e8792e3c-8802-4f5d-bef2-ada408ed1d96/default-rules-and-procedures.pdf
+
+
+## nuanaced  tear-up documentation
+https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=24.26
+https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=18.61 (also mentionns the onbank vneue )
+
+## occ  choicess  for  procytclical treamtent
+https://www.sec.gov/files/rules/sro/occ/2024/34-99393.pdf#page=4
+
+
+
+# likely unceecesary
+
+## manua lmargin again,  largely  covered  already
+https://www.reddit.com/r/Superstonk/comments/1ae0toi/occ_proposes_reducing_margin_requirements_to/
+
+
+
 
 
 #### Equivalnet Outstanding Custodial Mishandling
@@ -426,8 +456,14 @@ Concerningly, the OCC says that margin failure testing is both "a highly manual 
 
 ### Control fo All Seucirties
 
+# Centralization study case from 1986 market fialure FOOTNOTE 
 
-<TODO>
+Incidentally, this is the same date as https://github.com/WhyDRS/SEC-Comments/pull/25#discussion_r1949891927 👀
+
+also that year, we have https://core.ac.uk/download/pdf/6366003.pdf#page=11 (CAUTION, mirror context)
+note 51 is also really sick, _available at_ https://home.treasury.gov/news/press-releases/hp1239
+
+## LAST CRPYOT ROUNDTABLE -- footnote!
 
 https://youtu.be/GtyR5nMWEwk?feature=shared&t=1886
 BD needs posession or control
@@ -455,11 +491,33 @@ ryan
 justin
 larry
 
----
+
+
+
+
+
+
+
+
+
+
 
 this continues  the UCC 8  1994  review ddiscussion
 src here likely  duplicates: https://code.dccouncil.gov/us/dc/council/code/sections/28:8-503
 >   There is no reason to think that rules permitting customers of an intermediary to trace and recover securities that their intermediary wrongfully transferred work to the advantage of investors in general. To the contrary, application of such rules would often merely shift losses from one set of investors to another. The uncertainties that would result from rules permitting such recoveries would work 
+
+
+
+
+
+
+
+## FN Central DTCC DA Study Cited Later
+
+Requisitioning control over the entire industry by a single corporation, which exists with for-profit stakeholders, either directly or indirectly.
+
+In the former case, we have a public corporation that outed in their S-1 filing (no citation) that they will "[insert quote on saving the world crap]... [insert very compelling different quote about making one billion monies]."
+
 
 
 
@@ -614,7 +672,7 @@ conta DTCC statement "A dramatic increase in a clearing member's VaR charges ove
 — The White House aty https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/
 
 
-### Required Central Propogation roles
+### Required Central Propogation roles FOOTNOPTE IN THIS SUB§
 
 we  haveth echives  podcast  on DTC-DA which seguaetys  to DTCC CBDC
 
@@ -623,6 +681,13 @@ given "no further actions may be taken to develop or implement" a CBDC {{^White 
 --https://www.dtcc.com/-/media/WhitePapers/Transforming-Collateral-Management-With-Digital-Assets-JSCC.pdf--
 
 ## Clear Unsolved Challenges
+
+
+
+
+
+
+
 
 Despite best offers from staff throughout an administration of intense individual investor advocacy, many of our structural market problems remain. We applaud the Commission for their exemplary efforts in XYZ_REG_NMS_tick_yya and implementing the universal proxy.[^pers]
 
@@ -771,6 +836,13 @@ Apex "wasn't prepared to post those funds." per {{^apex-fine-foreshadow}} at 7
 
 
 
+### FN interleaved DTC/OCC systems
+> In the Stock Loan/Hedge Program, prospective Lending and Borrowin Clearing Members identify each other (independent of OCC), agree to bilaterall negotiated terms of the stock loan (in this case, a “Hedge Loan”), and then send th details of the stock loan to the Depository Trust Company (“DTC”) designating the stoc loan as a Hedge Loan for guaranty and clearance at OCC. The Lending Clearin Member then instructs DTC to transfer a specified number of shares of Eligible Stock1
+https://www.sec.gov/files/litigation/litreleases/2019/34-87476.pdf#page=9.51
+
+
+
+
 
 [^cvvv1-2-broker-crypto-alt]
 Email dated 6 Dec 2023 indicated, "Crypto services ending soon" and "SoFi will be discontinuing crypto services on December 19, 2023."
@@ -808,7 +880,18 @@ Specific reports probably just remove:
 - Q4: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fa-collection-of-drs-statements-v0-nfekl3sb6r4c1.png%3Fwidth%3D1186%26format%3Dpng%26auto%3Dwebp%26s%3De4f4019421439ae9ee54bd59f58b61735b18936d
 addressed in fn}}
 
-#### Coinbase
+#### Inaqueate XYZ ABC 1234
+
+
+##### Fidelity
+
+Transferred ACH into account at the start of the year.
+Wanted to put it into a 2024 Roth contribution (cannot make this internal transfer until the end of the period—just for investing in our great nation's assets, which aren't even truly owned...).
+Can't—need to wait at least three weeks for cash to settle for "protection of my account," even though banking Reg E specifically puts liability on the intermediary.
+- Extrapolates into the Coinbase argument (still unresolved) and client verification and ID problem solved by crypto/Nakamoto.
+
+
+##### Coinbase
 
 I share the Commission's stated public view that Coinbase Global, Inc.[^cb-light] ("Coinbase") presents a brazen overstepping of "well-established principles of the federal securities laws."[^cb-suit-main] It shook me to the bone when I heard Coinbase's chief legal counsel say that their only licensure was state money transmission reporting at SFVegas 2021.[^title] As a user of this centralized platform since 2017, I found enforced policies and procedures meaningfully questionable, as at least three accounts I control have been unilaterally shut down or meaningfully restricted.[^723-basis-date]
 
@@ -924,7 +1007,7 @@ This has been my oversight vision ever since I started working on the transfer a
 Hopefully, we can overcome these challenges together over the years with a proactive governance scheme embodying the Commission's public objectives. Might now be the time to take action on the years of work built by industry innovators since the advent of widespread blockchain technologies? Namely, so much of my past work entailed codifying present securities distribution and holding laws into a decentralized protocol. This system builds on thousands and thousands of hours of work made freely available through blockchain networks. Given the auspice of our present Administration to promote these developments, perhaps this is the time to prepare ourselves with a backup market system rooted in efficiency, transparency, and honesty.
 
 
-[^staff-nums]: _See, e.g.,_ criticism from an organization we have generally found pause with describing the relatively linear growth of the Commission over the past two decades, _available at_ https://www.congress.gov/118/meeting/house/116994/witnesses/HHRG-118-BA16-Wstate-BurtonD-20240320.pdf#page=3. The document later claims that "the term SRO is now a misnomer" because such organizations "have more personnel conducting regulatory functions than the SEC and combined budgets roughly comparable to the SEC." As the Commission knows and this report notes, Congress has practically no oversight of these regulators, private agents who've been afforded potentially unconstitutional power governing while "largely unaccountable to the industry or to the public." I affirmed these concurrent sentiments directly with our community last year given developments in a case teed up for the Supreme Court challenging the authority decreed to "the most important regulator of financial services providers," _available at_ https://wooten.link/alpine. Surely, staff are familiar with these proceedings, and I provide abbreviated citations for public education and specificity only. My stylized link abbreviations are a temporary measure until we configure certain organizational open-source document repositories, used in place of unreliably hosted servers or excessively lengthy web addresses.
+[^staff-nums]: _See, e.g.,_ criticism from an organization we have generally found pause with describing the relatively linear growth of the Commission over the past two decades, _available at_ https://www.congress.gov/118/meeting/house/116994/witnesses/HHRG-118-BA16-Wstate-BurtonD-20240320.pdf#page=3. The document later claims that "the term SRO is now a misnomer" because such organizations "have more personnel conducting regulatory functions than the SEC and combined budgets roughly comparable to the SEC." As the Commission knows and this report notes, Congress has practically no oversight of these regulators, private agents who've been afforded potentially unconstitutional power governing while "largely unaccountable to the industry or to the public." I affirmed these concurrent sentiments directly with our community last year given developments in a case teed up for the Supreme Court challenging the authority decreed to "the most important regulator of financial services providers," _available at_ https://wooten.link/alpine-dc. Surely, staff are familiar with these proceedings, and I provide abbreviated citations for public education and specificity only. My stylized link abbreviations are a temporary measure until we configure certain organizational open-source document repositories, used in place of unreliably hosted servers or excessively lengthy web addresses.
 
 [^about-bt]: _See_ _infra_ notes {{^repos}} and {{^FOSS}}. I will defer from extended discussion into this work throughout this letter given the larger overarching items mentioned. Notwithstanding, I want to clarify the distinction between this writing and past work at BlockTrans Syndicate ("the Syndicate"). There is no distinction. I plan to continue drafting comments as a participant in both of these legal organizations. It can be generally construed that my remarks henceforth represent my own individual perspective unless I make use of the "we" pronoun, by which I mean to convey a policy or interpretation choice of the representative group submitting comments on a good-faith basis.
 
@@ -936,8 +1019,8 @@ Hopefully, we can overcome these challenges together over the years with a proac
 
 [^ncs]: Let's carefully cite a range from the NSCC petition to OCC withdrawal to EDGAR modernization to things from the ~~other side of the _hall_~~ democratic PoV (?) with deference to scrutinizing TAR at n/16 (_see Id_). <!-- TODO -->
 
-[^global-protections]: _See, e.g.,_ _Morrison v. National Australia Bank_, a Supreme Court case finding 10b-5 anti-fraud protections do not apply to international losses, _available at_ https://www.courtlistener.com/opinion/149289/morrison-v-national-australia-bank-ltd. _See also_ a presumption against extraterritorial investor protections in _City of Pontiac Policemen's & Firemen's Retirement System v. UBS AG_ (2d Cir.), _available at_ https://www.courtlistener.com/opinion/8441742/city-of-pontiac-policemens-firemens-retirement-system-v-ubs-ag. I was particularly concerned over the dismissal of the Oregon Public Employees Board's claims solely because they acquired securities in a transaction outside of America, a delineation which is impossible to make in a more decentralized peer-to-peer environment. Given the centrality of exchange to secondary markets, I do not find it acceptable that some investors trade on a different playing field than others solely because of their geographical venue.
-<!-- href retirees here -->
+[^global-protections]: _See, e.g.,_ _Morrison v. National Australia Bank_, a Supreme Court case finding 10b-5 anti-fraud protections do not apply to international losses, _available at_ https://www.courtlistener.com/opinion/149289/morrison-v-national-australia-bank-ltd. _See also_ a presumption against extraterritorial investor protections in _City of Pontiac Policemen's & Firemen's Retirement System v. UBS AG_ (2d Cir.), _available at_ https://www.courtlistener.com/opinion/8441742/city-of-pontiac-policemens-firemens-retirement-system-v-ubs-ag. I was particularly concerned over the dismissal of the Oregon Public Employees Board's claims solely because they acquired securities in a transaction outside of America, a delineation which is impossible to make in a more decentralized peer-to-peer environment. Given the centrality of exchange to secondary markets, I do not find it acceptable that some investors trade on a different playing field than others solely because of their geographical venue.<!-- href retirees here -->
+
 
 ###  Perosnal Backgorund
 
@@ -1064,24 +1147,7 @@ There was a call between Coinbase and staff discussing their purported TA/ATS st
 _available at_ https://assets.ctfassets.net/c5bd0wqjc7v0/2pW56ln6rPJ7koLHlu2L8G/5041e0166c408698b621fde543539d76/2023-04-19_Coinbase_Wells_Submission.pdf#page=68.
 ¶ 25 talks on DAS.
 
-### Cap One
 
-####  full zelle  sdtory for  "scope  of protection"
-
-16 Jan 2025: Email
-**System issue impacting deposits, payments, and transfers**
-"We began experiencing a disruption impacting the processing of some deposits, payments, and transfers, which is due to a technical issue with one of our service providers."
-
-Implicates the 400k monthly chat from May 2024 (most likely on the 28th without checking the calendar) (spanned into June 12).
-"Specifically, this has delayed processing of some transactions, including direct deposits and Early Pay credit for direct deposits, as well as **electronic payments and transfers (ACH).**" [emphasis added]
-
-
-### Fidelity
-
-Transferred ACH into account at the start of the year.
-Wanted to put it into a 2024 Roth contribution (cannot make this internal transfer until the end of the period—just for investing in our great nation's assets, which aren't even truly owned...).
-Can't—need to wait at least three weeks for cash to settle for "protection of my account," even though banking Reg E specifically puts liability on the intermediary.
-- Extrapolates into the Coinbase argument (still unresolved) and client verification and ID problem solved by crypto/Nakamoto.
 
 
 ### Open Source Community
@@ -1117,37 +1183,73 @@ I really don't see a need to formally acknowledge this because it is a complete 
 [^DTC-DA-study]: _See_ DTC study here: https://www.dtcc.com/-/media/WhitePapers/Transforming-Collateral-Management-With-Digital-Assets-JSCC.pdf
 Discussed: https://github.com/WhyDRS/Taking-Stock/blob/main/episodes/2024/Oct/30%3A%20DTCC%20Digital%20Assets%20Study.md at https://lnns.co/O8NUZfc1KGe
 
-### Selected fn YT Clips:
 
 
+
+
+
+
+
+# Triplicate _Id._ fpootnotes
 
 - Independent PB research of "kill switch" as introduced:  *caution*
   https://www.youtube.com/clip/Ugkxd0_I3EmB6m2oRNnJ2kTku32HTsIleI34
   On a **FUCKING SLOW DOWN PIT STOP** at
   https://www.dtcc.com/-/media/Files/Downloads/issues/Unscheduled_Close.pdf
-  That references:
+
+id  That references:
   - https://wooten.link/DTC-closure-v1
   - Alternative: https://wooten.link/DTC-closure-v2
 
-- **Original document mentioned on June 4 was amended on Dec 30, 2024.**
+## fn here on Federal Holiday "Regarding Questionable Custodianship Operations"
+[^slowing]
+
+Recently, my partner hit a cat on her drive home from work. Reflecting on the moment, she remarked that she "knew she was supposed to brake" but was in a late-night panic after a hard day. On approach, she swerved to avoid the cat, but unfortunately, it ran in the direction she swerved.
+
+
+Segway to "Just washed my car."
+
+There was a small mud spot on the tire, but I didn't have a tire cleaning product. Once I finished, I drove it into the garage and tried to clean it. Even though there was only one dirty area, I had to wipe down the whole tire because it was too dark to see the blemish.
+
+
+# FOOTNOTE- Original document mentioned on June 4 was amended on Dec 30, 2024.\
   Removed the ability of issuers to access _Security Position Reports_ or the _Issuer Agent Portal_ (grom change at 6).
 
 
+## _Id._
 
 And then, simply to **compare** the fragility of these institutions with the decentralized, scalable, global ledger technology existing on blockchain.
 
-As for the slowdown arguments, we could start with a reference to 279 with how they themselves have proposed these things. Alternatively:
+As for the slowdown arguments in _supra_ note {{[^slowing]}}, we could start with a reference to 279 with how they themselves have proposed these things. Alternatively:
+
+## _id._ 2
 
 Chat on how I came into markets and industry and sector and all that last year through two major investor-focused reform efforts aimed at promoting the stability (transparency, and inclusivity) of our financial system.
 
 How Wall St has again and again tried to isolate themselves from idiosyncratic risks and force Main St into potential bankruptcy and such through the liquidation stack, which directly ties into the blatant protection under UCC.
 
+### otgher exisitgng notes /storyyies
+
+Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry?
+
+Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?
+
+
+
+
+
+
+
+
+# WQHATCAN PRIOT WORK FN
 Petitions for Rulemaking: Amend Clearing Agency Rules for Consistent Close-Outs
 [File No. 4-842] https://www.sec.gov/files/rules/petitions/2024/petn4-842.htm
 https://github.com/orgs/WhyDRS/discussions/2#discussioncomment-10537423
 
 File No. SR-OCC-2024-001, which has at least three major Reddit threads:
 https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001.htm
+
+
 
 
 
@@ -1246,33 +1348,23 @@ https://www.nysb.uscourts.gov/sites/default/files/opinions/198038_134_opinion.pd
 We should get the Caselaw links ideally.
 in the interim, we have https://mpalmer.heresy.is/webnotes/TheGreatTaking/Safe-Harbor.html; https://www.courtlistener.com/docket/4326736/lehman-brothers-holdings-inc/?page=342
 
-### File No. SR-DTC-2006-16[^r]
-https://www.sec.gov/newsroom/speeches-statements/modernize-sec-transfer-agent-rules note 3
 
-as {{^note-DTC-2006}}
 
-https://www.sec.gov/comments/sr-dtc-2006-16/dtc200616-42.pdf
-
-"The DTC ... [is] attempting to make... rules... for transfer agent non-members... [who] are direct competitors of DTC."
-https://www.reddit.com/r/Superstonk/comments/pw0opj/computershare_is_a_competitor_to_the_dtc_comment/ (likely won't be cited but interesting to note).
-
-Modern context at 13 in File No. SR-DTC-2020-017.
-
-[^r]: _See also_ and an alteration on retail individual support for rescission in comment https://www.sec.gov/comments/s7-05-22/s70522-20120580-272764.pdf#page=8, which states, "The restriction that transfer agents may not effect the transfer of a security outside of the DTCC system is a legalization of a monopoly."
-
-### Social Externalities
+# Social Externalities FN
 
 https://doi.org/10.21033/pdp-2021-02
 
-### Meeting on Sep 23 at 1 PM ET
+# FN Meeting on Sep 23 at 1 PM ET
 
 Implicates chiefly as a prerequisite the self-custody arguments made [here](https://github.com/JFWooten4/DUNA-docs/issues/6).[^arg]
 
 [^arg]: Chief arguments to address are in this repository's issues; the remainder likely flows into TAR2.
 
 Ideated to segue into the no-action, pending 144A(e).
+^[144e]: lkight detference back to PREV 1.b oc
 
-#### Staff Remarks
+
+# Staff Remarks 2 GFOOTNOTES
 
 - Comments suggested for the most transparent due process.
 - No comments on DEX trading.
@@ -1287,25 +1379,24 @@ Ideated to segue into the no-action, pending 144A(e).
 - Traditional TA ledger vs. TA blockchain distinctions remain unclear or uncovered.
 - Statement generalized but fact-specific on applications over written questions.
 
-#### Alternate Division B/D Direct Statements
+## Alternate Division B/D Direct Statements (*?)
 
 Minimize investor exposure to:
 - "risk loss/theft"
 - "broker financial losses"
 
-### Further Correspondence Documented in Email Around _ID's_ Timeframe[^names]
+## Further Correspondence Documented in Email Around _ID's_ Timeframe[^names]
 
 No distinguishing between type of digital asset securities given "truly securities"
 
 [^names]: _See_ names referenced as 2-chat; 3 mimic. SEP 26, 2024, 9:47 AM.[^rmm]
 
-[^rmm]: Comments should CC all relevant parties. Content body should include the question of recording meetings related to rule change proposals. When referencing "community" (required), hyperlink to meep6. IBR note 16 in previous correspondence by replying to the joint request from Sep 27.
+[^rmm]: Comments should CC all relevant parties. Content body should include the question of recording meetings related to rule change proposals. When referencing "community" (required), hyperlink to meep6. IBR note 16 in previous correspondence by replying to the joint request from Sep 27. (?)
 
-#### Central DTCC DA Study Cited Later
 
-Requisitioning control over the entire industry by a single corporation, which exists with for-profit stakeholders, either directly or indirectly.
 
-In the former case, we have a public corporation that outed in their S-1 filing (no citation) that they will "[insert quote on saving the world crap]... [insert very compelling different quote about making one billion monies]."
+
+
 
 #### Central DTCC DA study cited later, requisitioning control over the entire industry by a single corporation that exists with for-profit stakeholders, either directly or indirectly.
 In the former case, we have a public corporation that outed in their S-1 filing (no citation) that they will "[insert quote on saving the world crap]... [insert very compelling different quote about making one billion monies]."
@@ -1394,6 +1485,23 @@ Received at least three calls from LR and a compliance email mandating a call by
 ## Proposed Decetralized Govenrnane mechanisms
 
 
+### governance  via SROs, potential question under Alpine rock(missile)<!>
+https://www.sec.gov/comments/s7-08-22/s70822-658462.htm
+
+
+
+
+
+LAregly, I've been waiting top see the full Supreme Court review process on _Alpine_ before thorougholy investigating adn deverlopign infrasturcutre around these functionalitiers of the DUNA. Nortwihthdsitngm, I find it relevant ot mkae a select few comments based on the existing triumph in the D.C. Circuit.[dc]
+
+
+[^dc]: _See_ summariziesd review of trial contents and developetments at the end oflast year, _available at_ https://www.sidley.com/en/insights/newsupdates/2024/11/dc-circuit-enjoins-finra-from-expelling. _See also_ a desciption of the accepted appeal, _available at_ https://www.reuters.com/legal/us-supreme-court-allows-finra-proceedings-against-alpine-securities-2025-03-14, where "Alpine said it faced irreparable harm from having to defend itself in FINRA's enforcement proceeding, which it called unconstitutional." While the eixsitnign prgorsds has made few strides towards this claim and others under U.S. Const. art. I, § 2,,m I intend tpo folow the work closesly. I sincerely hope the warrented but coirercive explusion detailed on in media, _available at_ https://altswire.com/alpine-securities-expelled-by-finra-amid-federal-court-fight-over-regulators-constitutionality, is not the end of Docket No. 24A786.
+
+
+
+### Why it matters lol
+_supra_ note {{^global-protections}}
+
 we have need f or  governance in the intro at  https://youtu.be/DW6L2rcEKJM
 
 
@@ -1460,7 +1568,7 @@ can href https://www.youtube.com/watch?v=OrpHfZcywJw&list=PLD_o9ntBnmGam9BuoTr_4
 
 something around - I have unsuccessfully applied for funding from the SDF or its related projects engaging in the disbursement of the network's native layer-1 utility token at least three times - centralization implications on dex
 
-### Outreach to Other Agents
+### Outreach to Other Agents FOOTNOTE and AGGREWGATED (no matter length, but 4 ¶¶idedal)
 
 This will obviously need to lie somewhere else as we expand our Association relations with industry participants. Nonetheless, I'm inking down any live thoughts from the cold calls.
 
@@ -1521,11 +1629,11 @@ No email reply
 
 No email reply
 
-# WF DTC Interactions on a More Institutionalized Side (Notes)
+# FN WF DTC Interactions on a More Institutionalized Side (Notes)
 
 Presumes a transitory framing of collaborating with brokers by positioning as replacing the DTCC and empowering them with a more efficient clearing and settlement system.
 
-### Dad Call
+## Dad Call (try for a single one upo to 4)§
 
 - Received a legal document from WF authorizing signatures with wet signatures.
 - Did not require medallions or ID certifications.¶
@@ -1542,11 +1650,10 @@ Bank DWAC'd it out and can DWAC back to own custody via physical certificate.
 Trustee may hold bond proceeds until project milestones.
 Interest paid post-bulk fundraising.
 
-# SIPC Intricacies
+# SIPC Intricacies FOPOTNOTE
 
 These can be subverted in a footnote based on leadership actions that "jeopardized the safety, soundness, and stability of the United States financial system" per [H.Res. 1574](https://democrats-financialservices.house.gov/uploadedfiles/bills-118hres1574ih.pdf), as referenced in [this video](https://youtu.be/Cn1ffXT1PS4).
 
-# FOIA Request Items (as 501(c)(3) Exemptions)
 
 
 - Any fee schedule adopted under 66 FR 20500 ¶ 11, 12, or 13 (23 Apr 2001).
@@ -1555,6 +1662,7 @@ I think we can  get most  of this in 240.17ad-22(e)(3)(ii)
 
 
 
+## possibloe _)id_ 
 
 *** _See also_ ¶ 18:
 Commission shall treat information
@@ -1596,7 +1704,7 @@ Representative.
 
 
 
-#### Highlights the paramount importance of maintaining confidence in our financial systems and the United States dollar
+# FN Highlights the paramount importance of maintaining confidence in our financial systems and the United States dollar
 
 TBD, but the easiest hook point will probably be its universal basis of quantification; try to customize with any crypto securities team quotes given time.
 
@@ -1606,13 +1714,15 @@ Then let's extrapolate this into making the SRO clearing numbers transparent so 
 
 Please wrap it up with something a little more inspirational from the depths of an equality standpoint. Everything here started around a radical change in social monetary and financial system organization with Nixon's depegging, and I want so dearly to convey that sentiment in saving securities themselves from the same fate. 💜
 
-## Good quotes from Crypto 2.0 leaders
+# FN Good quotes from Crypto 2.0 leaders
 
 On the central clearing of Treasuries in 2023, Pierce writes:
 
 > Federal Reserve Chairman Ben Bernanke explained that: "[T]he historical record shows that clearinghouse arrangements have generally withstood even severe crises. This solid performance reflects good planning and sound institutional structures but also some degree of good luck, as crises have also revealed important vulnerabilities, vulnerabilities which prompted subsequent reforms by both the private and public sectors." Good luck is not a strategy, so why can I be confident that Treasury clearinghouses will perform even in times of market stress?
 
 https://www.sec.gov/newsroom/speeches-statements/peirce-statement-rules-improve-risk-management-12-13-23 n.3
+
+## possibl;e _Id_
 
 Commissionerd Peirce and Uyeda dissent on last year's electronic modernization through (inline) XBRL and custom XMLs:
 
@@ -1627,7 +1737,7 @@ https://www.sec.gov/newsroom/speeches-statements/peirce-uyeda-statement-focus-re
 
 
 
-
+[cede<->occ]: 
 Citing sections from DTCC in re RWP rule from [^cede-fail] onward
 
 CCP12 letter: https://www.sec.gov/comments/s7-10-23/s71023-225359-472542.pdf
@@ -1636,7 +1746,7 @@ CCP12 letter: https://www.sec.gov/comments/s7-10-23/s71023-225359-472542.pdf
 - Asks not to notify the Commission when considerign insolvency and faiure of the financial system at 5.
 
 
-### Commissioner Gensler moinoply privatization reform note
+# Fn! Commissioner Gensler moinoply privatization reform note
 
 Robert A. F. Reisner
 
@@ -1647,22 +1757,17 @@ It was always clear to Henderson that the postal workers' union had more politic
 — _neither Snow Nor Rain_  at 232
 
 
-## ON CAT
+## possibl;e _Id_ but probably _supra_ note {{^cede<->occ}} ON CAT
 staff periovusly expfressed 
 "the SEC does not favor public reporting that reveals potentially sensitive trading stragegies, and furthermore that the SEC lacks authority to impose such a requirement without legislation."
 at https://www.sechistorical.org/collection/papers/1990/1991_1206_ShortRegulation.pdf#page=16
 
 
-# Centralization study case from 1986 market fialure
-
-Incidentally, this is the same date as https://github.com/WhyDRS/SEC-Comments/pull/25#discussion_r1949891927 👀
-
-also that year, we have https://core.ac.uk/download/pdf/6366003.pdf#page=11 (CAUTION, mirror context)
-note 51 is also really sick, _available at_ https://home.treasury.gov/news/press-releases/hp1239
 
 
-### mroe concluding terminusses
+# Terminusses
 
+## ancilalr #1`
 Coinbase as still no riinsstate my partern's account, espite material XXYZABC refrence  Rule 17Ad-2 in fn but super duper extrapolated![^info2]
 
 updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users to go through thier private proporiettary claims proecess before touchgign court securities law judgements (with jury rights waived  and dmmeonicile in NY for all biz non-Small-Claims)
@@ -1672,85 +1777,34 @@ updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users
 
 
 
+---
+
+To say that this is a pressing issue would be the understatement of the century. Recently, as in lastg Friday, a community mmeber called a leading trasnfer agent to request the control number for an ujpcoming proxy cvotye. Tye were inquiring because theyh "didnt recieve a control number for them [the shares] last year and missed voting them, [and] didnt get one this year either."
+
+If "any share you own you should have voting rights[,]" then this community member is sjustidifably concered becasue, "by not providing a control number i am worried these 401k shares are being lent without my permission." After chatting with a coup[l;e unique online chat representatives who "join then instantly leave when requesting a control number[,]" this commiunity memebr resolved to calling the particular agent:
+
+> Yeah, they said it's not available yet and I should see it in the next 10-14 days. Pretty sure this exact thing happened last year but I didn't follow up and never got the control numbers. Last year was probably more important but I'll be sure to stay on top of it this year
+> 
+> they arent really shares to begin with but entitlements
+>
+> — Carnabas
+
+Ugh lol probably going to have to call, had 2 reps in a row 
+
+
+---
+Carnabas — 11:55 AM
+Ugh
 
 
 DTCC fucking specifically hrefs the control locale of 802b in https://www.sec.gov/files/ctf-memo-dtcc-040725.pdf
 backlinks  17 CFR § 240.15c3-3(b)(1)  🤯🤦‍♂️
 
-##  SR-DTC-2003-02 
-
-Livingston comment  TO :  https://www.sec.gov/files/rules/sro/dtc200302/transfer030603.txt
-
-> Transfer Online was told that if Nutek, Inc. shares were not transferred into their nominee name, "Cede & Co", Transfer Online would be in violation of the operational agreement between our two companies and that we would be held accountable. 
-
-> This put Transfer Online between the Issuer’s request (on whose behalf we act) and DTC’s demand and so we inquired to the S.E.C as to what, or if, any legal or statutory obligations existed to either party which superceded our agreement to act as agent for the Issuer. The S.E.C was unable to issue guidance in this matter so having no idea what “being held accountable” would mean to Transfer Online, and having received several phone calls from DTC requesting to know myposition and what my intentions were, I suggested to the Issuer that until such time they were prepared to handle any potential legal issues with an entity as large as The Depository Trust Company that they let the shares be processed as usual. 
-
-> Many Issuers have come forward with their opinions and interest in joining the exodus from DTC. They are frustrated by dramatic unexplained price movements, confounded when in a single day, in companies with a high percentage of shares held by insiders, more than the number of shares outstanding for their company are traded
-
-> The company is essentially cutoff from the majority of stock transactions that take place behind the closed doors of DTC in book entry movements of shares. 
-
-CLOSED DOORS
-
-> This leaves an Issuer powerless to research the trading of their own stock, communicate with the shareholders or take action against those who might be harming their company with questionable even perhaps illegal trading practices.
-
-org wquote: 
-
-> My experience over the years suggests that shareholders are seldom fully advised of the different types of ownership they can have, or of the full implications of holding shares in street name. Requesting certificates is always riddled with obstacles to deter this form of ownership.
-
-> Like many of the Issuers seeking withdrawal from DTC, I have often been suspicious of oversold stock. When tabulating shares for a Proxy Vote oftentimes there will be more shares voted by the brokers than there are shares outstanding in the company. When the question is raised with ADP (another representative of participants) their response is that they simply report what the brokers tell them they have. Why are brokers reporting more shares than they could possibly hold and why is it the obligation of the company or its agent to research why the numbers are wrong at their expense?
-
-> There is a problem with this system as there are many Issuers, and some transfer agents, that cannot meet the requirements that are set by DTC nor can they afford to participate in the DTC FAST system because once an Issuer enters into the FAST system, DTC will no longer pay fees for any activity they request and the Issuer then becomes responsible for those fees. Since those very same fees were paid for services by DTC when stock is in physical form, it is difficult to comprehend why this is the case when there are no certificates.
-
-> As in any case where a company holds a monopoly you have to play by their rules or you don’t play at all. The entire system has been designed for larger companies who do not think twice about spending great deals of money on their transfer agent fees, but smaller corporations who don't have the resources and consequently cannot afford to participate use withdrawing from DTC as their only method of having some control over their shareholder records.
-
-> There is more than one way for the prompt and accurate settlement of securities transactions to occur and also preserve the integrity of the Issuers shareholders records. Presently, all solutions are based on a system where DTC is basically taking on the role of transfer agent as well as being an organization for and by the brokers. Over the years I have watched most companies move from majority of ownership held on their records toward a situation where over half the shares are held as registered to Cede & Co. and these shares usually represents 3-4 times the number of shareholders that appear on the records of the company.
-
----
-
-lawyer  comments that  "I have an OTC: Bulletin Board listed client that submitted proxies and got TWELVE MILLION MORE VOTES than there were shares outstanding, when there were about twenty million shares outstanding. I have another OTC: Bulletin Board listed client that did a stock dividend of one new share for each 100 shares owned. After it had issued the appropriate number of shares based upon the total issued and outstanding shares, shareholders representing another SIX MILLION shares demanded to receive their dividend distribution.  These are two examples, I can provide many more and my colleagues all over the United States can provide hundreds more."
-
->  why should it be the right of DTC to decide who does and does not participate in DTC?...  Is DTC or is it not a voluntary organization? If so, should not the issuers subject to DTC be able to decide whether or not they are to be "volunteered"?
-— Raleigh, North Carolina U.S.A. , _available at_ https://www.sec.gov/files/rules/sro/dtc200302/hgbagwell030603.txt
-
-> Why shouldn't a company have the ability to chose to be with the DTC or not. Let the "free market" society continue. Regulation is for protection of the investor, let the public companies chose.
-https://www.sec.gov/files/rules/sro/dtc200302/supervp032003.txt
-
-> In the end, a free market will correct abuses. But if the SEC constrains the market, by regulating how and where a company may settle the trades of its shares, in a way that results in unfair practices by which individual investors are hurt, it is guilty of both denying the play of free market forces and of forcing investors and companies into an obligatory system of abuse.
-— Michael Sondow https://www.sec.gov/files/rules/sro/dtc200302/msondow040403.txt
+## conc:
+I ahve been preparing this comment  for over a year, and there are many more items I would like to include as proof of this impendiung frauduilant market c risis. However, the events detaiulied i n _supra_ § 2 lead  me to believe that I can wait tno longger to bring these  items up to the Commission. Thank you and God Bless America!
 
 
-### Auxer sotry fn  as
-
-- src:  https://www.sec.gov/files/rules/sro/dtc200302/rjscott032003.pdf
-- 8-kSB filing: https://www.sec.gov/Archives/edgar/data/1088734/000104653200000006/0001046532-00-000006.txt
-- since ceased to be a reporting company
-
-
-### genral comments
-
-74 total (minus 1 duplicate)
-
-49 mention naked only
-4 mention naked + monopoly
-
-3 only mention shorting
-
-2 mention monooply only
-
-15 in support; 1 not from PDF
-ghenrally same ass fucking statemnets ????
-these 15 not included in above counts b/c didn;t' use the woirding
-
-∴ we have 53/74= 71.6%
-
-"Over  two-thirds  fof  commentors explicitly  meniton naked  shorting,  and  four  of  them  combine  this accusation with labelling the DTC  as a monopoly[^monopoly-quote] Additionally, zero comment letters from the 15 supportive commentors came from outside of the industry.  iN  analyzing these letters, I also found  it strange that substantially all of them used the same language supporting  DRS.[^drs-note]
-
-[^monopoly-quote]: _See, e.g.,_ remarks of XYZ noting that,  twenty  years ago,  the  corpoation had "such a tight monopoly on trade settlement" largely  because  it "is a self-regulatory agency run by the very firms in question for Naked Shorting" which  today  govenr the  OCC, _available at_ https://www.sec.gov/files/rules/sro/dtc200302/depatch030403.txt. I believe it's worth hioghlighting  the hubris empowering certain self-regulating  SIFMUs, as exemplkified  by several  commentors' highlghting that thios partricuialr  SRO released  statements saying  they could do whoat they  asked p ermission to  do  ikn the proposed  rule  change  months before even  submitting such admentment to the  Commission.  I  respetfulyl  submit to the Commission that i t may hinder the  competativeness  of  our American market system and associated  eocnomyy If  an  inssutiton  subject  only t op  credit limitations  "continues to allow a never ending summation on the float of a company."
-
-[^drs-note]: _See, e.g.,_ simialirt between Merrill Lynch; Sterne, Agee & Leach;  and   Edward Jones, _available at_ https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-81.pdf; https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-78.pdf; and https://www.sec.gov/files/rules/sro/dtc200302/edwardjones041503.pdf. More specifically,  all  mocommentors i n favor  of  the rule  change  were bbanks,  clearing  agencies,  or wall  Street  representatibves. Notably,  at  least three  supportive commentors  from "clearing agncies" were broker-dealers offering "correspondent clearing" with a direct interet  in  roppogating SRO services.
-
-
-##  all pending whatcan srcs
+#  all pending whatcan srcs
 
 
 https://www.federalregister.gov/documents/2020/11/09/2020-24783/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule
@@ -1759,25 +1813,8 @@ https://x.com/xximpod/status/1835990569954246837
 
 https://www.sec.gov/files/rules/sro/occan/2025/34-102462.pdf#page=16
 
--- industry r epso0nses  
-https://www.sec.gov/files/rules/sro/dtc200302/mcashion030603.txt
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-83.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/bnyclearing032503.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/1stclearing031803.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-82.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-79.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/mizuhotrust040703.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/charlesschwab041403.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/kthompson040403.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/prudential040303.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/rbcdain042303.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/bancamer031803.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-81.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/srdtc200302-78.pdf
-https://www.sec.gov/files/rules/sro/dtc200302/edwardjones041503.pdf
-
 -- mononpoly  claims incl. lkivingston
-https://www.sec.gov/files/rules/sro/dtc200302/jmeuse030503.txt
+https://www.sec.gov/files/rules/sro/dtc200302/jmeuse030503.
 https://www.sec.gov/files/rules/sro/dtc200302/transfer030603.txt
 
 --  a trapped i ndsutyr
@@ -1794,142 +1831,30 @@ https://www.reddit.com/r/Superstonk/comments/1k72g9z/occ_wants_more_liquidity_mo
 
 "control" at 35 min in  Great  collateral  Expr only
 
----  tri partt  report  epxlaining
-https://www.newyorkfed.org/medialibrary/media/research/epr/2012/1210cope.pdf
-
---  systemicc  shagnes andd staff stufies on ucc 8
-https://www.jstor.org/stable/40687585?read-now=1&oauth_data=eyJlbWFpbCI6ImpvaG4ud29vdGVuQGJsb2NrdHJhbnNmZXIuY29tIiwiaW5zdGl0dXRpb25JZHMiOltdLCJwcm92aWRlciI6Imdvb2dsZSJ9&seq=21#page_scan_tab_contents
-https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=71 market 2000
-https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=28  disadvantaged
-https://chatgpt.com/c/680c0ffc-6440-8010-9e6b-fe1533c9af40
-https://www.jdsupra.com/legalnews/financial-markets-infrastructure-the-eu-5177606/
-
-
--- same but  specific stories
-Cede & Co. v. Technicolor...
-https://www.sechistorical.org/collection/papers/1970/1976_0101_DTCAR.pdf
-https://www.finra.org/rules-guidance/notices/93-77#:~:text= PLEDGE
-https://www.finra.org/rules-guidance/notices/93-77#:~:text= DREXEL
-https://archives.federalregister.gov/issue_slice/1993/10/13/52889-52917.pdf#page=4
-https://www.alri.ualberta.ca/wp-content/uploads/1993/06/fr067.pdf#page=4
-
-
-
-
-
---- [pledigng to  OCCC from DTCC]
-[^occ-dtcc-plerdgingb]
-https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=11
-
-https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=112  (occ cross ref  from 11)
-
-
-
-he Collateral Loan Program allows you to pledge securities from held in your general free account as collateral for a loan or for other purposes (such as Letters of Credit) to a pledgee participating in the program. 
-
-
-https://www.reddit.com/r/Superstonk/comments/ngwhzu/where_is_srdtc2021005_the_update/
-
-
-
-changes  of reform after  drexel; not  applciable to AGNETS
-https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
 
 
 
 
 
 
--- sro  creidt loosening
-https://www.sec.gov/files/34-97597.pdf
-https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-nscc-2023-005
-
--- remakrs on  clai  cases, estbalish brokers knowing  deceipt
-https://one.zoho.com/zohoone/blocktransfer/home/cxapp/workdrive/home/b83hmf05972c82a1c4790990d79265601bc26/teams/b83hmf05972c82a1c4790990d79265601bc26/ws/n2fp6e9c05b7f8454414fbafad2ae5454b6e9/folders/900duc67948ae27f44ffe85627a6c25ddb699?frameorigin=https%3A%2F%2Fone.zoho.com
-https://github.com/WhyDRS/SEC-Comments/issues/12
-
-
---  secrative rule  change  fuile  Nos.
-https://www.reddit.com/r/Superstonk/comments/13vtgc1/comment_to_the_sec_against_heavily_redacted/
-
---- dtc pro  rata &  cede
-https://www.reddit.com/r/Superstonk/comments/13ia7h3/end_game_part_deux_problems_at_the_dtcc_plus_the/
-Simply changing how shares are held from beneficially owned to directly registered automatically increases how much of the Company you own.  This is true for any Company where shareholders may suspect the DTC has more shares on their books than they should.  Any shareholder that suspects naked shorting is an issue (e.g., 🎮) would be similarly incentivized to own a bigger portion of the Company by simply Direct Registering Shares.  
-
-Except the DTC hasn't been telling people how many beneficial interests are out there. So it's actually worse than that for Beneficial Shareholders... the SEC says that each participant or pledgee (i.e., beneficial shareholder) having an interest in securities credited to their account has a pro rata interest in the securities of that issue held by the DTC. All the beneficially owned shares held by beneficial shareholders split the pie held by the DTC.
-
--- shadow  bankjing remarks
-https://www.reddit.com/r/Superstonk/comments/147e5di/shadow_banking_system_embiggening_systemic_risks
-https://www.imf.org/external/pubs/ft/wp/2010/wp10172.pdf#page=10  (large  big)
-
--- naked hsorting thinggs,  cuklminating  in approval  of no cert pulls
-https://www.sec.gov/rule-release/34-42037 as  64 FR 57996
-https://www.sec.gov/comments/s7-19-07/s71907-1436.pdf#page=5
-https://www.sec.gov/files/rules/concept/s72499summary.htm
-
--- expanding nonbank lrf  (mass  comments  from  SS)
-https://www.reddit.com/r/Superstonk/comments/w7zy4c/comment/ihnf9p7/?context=3
-https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
-https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803-306305.htm  (good quote)
-
---  "manual  ovolveriding" risk  control  settinghs
-https://www.reddit.com/r/Superstonk/comments/11kjge8/is_this_the_ficc_asking_the_sec_for_permission_to/
-https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fis-this-the-ficc-asking-the-sec-for-permission-to-cherry-v0-hj081122w7ma1.png%3Fwidth%3D1812%26format%3Dpng%26auto%3Dwebp%26s%3Ddade9dfb8eb13c52f61d86f474bf1c39c1e737ef
-SR-FICC-2023-003 at https://www.sec.gov/files/rules/sro/ficc/2023/34-97001.pdf
-
---- sections for  pensions
-https://www.reddit.com/r/Superstonk/comments/w7zy4c/occ_filing_of_advance_notice_expanding_nonbank/
-
----  participating  petitionf
-https://www.sec.gov/files/petn4-842-03072025.htm
-https://www.sec.gov/comments/4-842-petn/4842-petn-228.htm  (custom  good one iwth a smith)
-
---  coimmeents  challenging  marignign  risks
-https://www.sec.gov/files/rules/sro/occ/2023/34-98101.pdf#page=24      SR-OCC-2022-012
-https://www.theocc.com/getmedia/743f6b9a-5758-4393-a9e1-7ac9b5636bf0/sr_occ_20_801_notice_of_no_objection.pdf#page=11
-
---  setting up the marigning at  500M
-https://www.theocc.com/getmedia/743f6b9a-5758-4393-a9e1-7ac9b5636bf0/sr_occ_20_801_notice_of_no_objection.pdf;
-
--- original master repo plan Stability ocnsiderations
-https://www.sec.gov/files/litigation/litreleases/2015/34-73979.pdf#page=11
-
---  SR-OCC-2022-803
-https://www.sec.gov/files/litigation/litreleases/2022/34-95670.pdf
-
-" when the same shares are lent multiple  times by successive purchaser" at   ^staff-gme-study  #page=26
-
---  cede  number  from https://discord.com/channels/@me/1199451596690575360/1329914380107645019
-https://www.reddit.com/r/BBBY/comments/1392f2l/umm_cede_held_776m_shares_of_bbby_common_stock/
-
--- manua lmargin again,  largely  covered  already
-https://www.reddit.com/r/Superstonk/comments/1ae0toi/occ_proposes_reducing_margin_requirements_to/
-
---  high-0levle  of the  waterfall  and  tear-upis from 4–7
-https://www.theocc.com/getmedia/e8792e3c-8802-4f5d-bef2-ada408ed1d96/default-rules-and-procedures.pdf
-
---  nuanaced  tear-up documentation
-https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=24.26
-https://www.sec.gov/files/rules/sro/occ-an/2018/34-82514.pdf#page=18.61 (also mentionns the onbank vneue )
-
---  occ  choicess  for  procytclical treamtent
-https://www.sec.gov/files/rules/sro/occ/2024/34-99393.pdf#page=4
-
-https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-outs-of-collateral-re-use-20181221.html
-for any given moment in time, one security can be attributed to multiple financial transactions
-
----  trimbath  backlink  on  proxy plumnign and bad voting right  congferrance
-https://www.sec.gov/comments/s7-06-22/s70622-209219-423782.htm
 
 
 
 
 
 
---  public  infput
-https://www.sec.gov/files/rules/sro/occ/2021/34-91079.pdf (no ccomments  on terse technical)
+-- 
 
-https://www.sec.gov/comments/sr-occ-2021-003/srocc2021003.htm (v.  indfustriy  inside knowledtge0)
+--  
+
+--  
+
+---  
+
+
+
+
+
 
 
 
@@ -1963,37 +1888,117 @@ https://www.theocc.com/getattachment/708119b9-caf4-4a3f-a09d-b90d6d751ada/OCC_fi
 
 
 
--- governance  via SROs, potential question under Alpine
-https://www.sec.gov/comments/s7-08-22/s70822-658462.htm
-
-
-
-
-Might we consider “hitting the brakes” on the markets while we publicly review the full extent of ownership diffusion across the industry?
-
-Might this approach allow us to uncover the best course of action if an extensive external audit reveals a material commandeering of American investor assets?
-
-
-Recently, my partner hit a cat on her drive home from work. Reflecting on the moment, she remarked that she "knew she was supposed to brake" but was in a late-night panic after a hard day. On approach, she swerved to avoid the cat, but unfortunately, it ran in the direction she swerved.
-
-fn here on Federal Holiday "Regarding Questionable Custodianship Operations"
-
-Segway to "Just washed my car."
-
-There was a small mud spot on the tire, but I didn't have a tire cleaning product. Once I finished, I drove it into the garage and tried to clean it. Even though there was only one dirty area, I had to wipe down the whole tire because it was too dark to see the blemish.
-
-
-
---  interleaved DTC/OCC systems
-> In the Stock Loan/Hedge Program, prospective Lending and Borrowin Clearing Members identify each other (independent of OCC), agree to bilaterall negotiated terms of the stock loan (in this case, a “Hedge Loan”), and then send th details of the stock loan to the Depository Trust Company (“DTC”) designating the stoc loan as a Hedge Loan for guaranty and clearance at OCC. The Lending Clearin Member then instructs DTC to transfer a specified number of shares of Eligible Stock1
-https://www.sec.gov/files/litigation/litreleases/2019/34-87476.pdf#page=9.51
+-- 
 
 
 -- last 2 items  for whatcna's  excchange  prop
 https://www.sec.gov/comments/sr-occ-2022-802/srocc2022802.htm
 https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
 
-CLIPS:
+
+
+
+
+
+# FN  tri partt  report  epxlaining
+_See, e.g.,_ dooscssion of tri-party repos from the same solurjce as aindicatesd _supra_ note {{^certainty}}, _available at_  https://www.newyorkfed.org/medialibrary/media/research/epr/2012/1210cope.pdf.
+
+# FN  systemicc  shagnes andd staff stufies on ucc 8
+https://www.jstor.org/stable/40687585?read-now=1&oauth_data=eyJlbWFpbCI6ImpvaG4ud29vdGVuQGJsb2NrdHJhbnNmZXIuY29tIiwiaW5zdGl0dXRpb25JZHMiOltdLCJwcm92aWRlciI6Imdvb2dsZSJ9&seq=21#page_scan_tab_contents
+https://www.4.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=71 market 2000
+https://www.4.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=28  disadvantaged
+https://chatgpt.com/c/680c0ffc-6440-8010-9e6b-fe1533c9af40
+https://www.jdsupra.com/legalnews/financial-markets-infrastructure-the-eu-5177606/
+
+
+## FN pledigng to  OCCC from DTCC]
+[^occ-dtcc-plerdgingb]
+https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=11
+
+https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005.pdf#page=112  (occ cross ref  from 11)
+
+
+
+he Collateral Loan Program allows you to pledge securities from held in your general free account as collateral for a loan or for other purposes (such as Letters of Credit) to a pledgee participating in the program. 
+
+
+https://www.reddit.com/r/Superstonk/comments/ngwhzu/where_is_srdtc2021005_the_update/
+
+
+
+changes  of reform after  drexel; not  applciable to AGNETS
+https://fmlc.org/wp-content/uploads/2018/02/Issue-3-Background-paper-on-Article-8-of-the-Uniform-Commercial-Code.pdf#page=8  
+
+
+## fingerfs crossed on this FNM -- sro  creidt loosening
+https://www.sec.gov/files/34-97597.pdf
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-nscc-2023-005
+
+
+## SUBTLE FOOTNOTE VERY FUCKING CAREFUL HERE TO MAINLY INTRO THE SERECS VIA TYHE FUCKING ECONOMIST LINK #@ {{^^california}}
+
+remakrs on  clai  cases, estbalish brokers knowing  deceipt
+https://one.zoho.com/zohoone/blocktransfer/home/cxapp/workdrive/home/b83hmf05972c82a1c4790990d79265601bc26/teams/b83hmf05972c82a1c4790990d79265601bc26/ws/n2fp6e9c05b7f8454414fbafad2ae5454b6e9/folders/900duc67948ae27f44ffe85627a6c25ddb699?frameorigin=https%3A%2F%2Fone.zoho.com
+https://github.com/WhyDRS/SEC-Comments/issues/12
+
+
+# FN dtc pro  rata &  cede
+https://www.reddit.com/r/Superstonk/comments/13ia7h3/end_game_part_deux_problems_at_the_dtcc_plus_the/
+Simply changing how shares are held from beneficially owned to directly registered automatically increases how much of the Company you own.  This is true for any Company where shareholders may suspect the DTC has more shares on their books than they should.  Any shareholder that suspects naked shorting is an issue (e.g., 🎮) would be similarly incentivized to own a bigger portion of the Company by simply Direct Registering Shares.  
+
+Except the DTC hasn't been telling people how many beneficial interests are out there. So it's actually worse than that for Beneficial Shareholders... the SEC says that each participant or pledgee (i.e., beneficial shareholder) having an interest in securities credited to their account has a pro rata interest in the securities of that issue held by the DTC. All the beneficially owned shares held by beneficial shareholders split the pie held by the DTC.
+
+
+# shadow  bankjing remarks
+https://www.reddit.com/r/Superstonk/comments/147e5di/shadow_banking_system_embiggening_systemic_risks
+https://www.imf.org/external/pubs/ft/wp/2010/wp10172.pdf#page=10  (large  big)
+
+# expanding nonbank lrf  (mass  comments  from  SS)
+https://www.reddit.com/r/Superstonk/comments/w7zy4c/comment/ihnf9p7/?context=3
+https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
+https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803-306305.htm  (good quote)
+
+# "manual  ovolveriding" risk  control  settinghs
+https://www.reddit.com/r/Superstonk/comments/11kjge8/is_this_the_ficc_asking_the_sec_for_permission_to/
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fis-this-the-ficc-asking-the-sec-for-permission-to-cherry-v0-hj081122w7ma1.png%3Fwidth%3D1812%26format%3Dpng%26auto%3Dwebp%26s%3Ddade9dfb8eb13c52f61d86f474bf1c39c1e737ef
+SR-FICC-2023-003 at https://www.sec.gov/files/rules/sro/ficc/2023/34-97001.pdf
+
+# sections for  pensions
+https://www.reddit.com/r/Superstonk/comments/w7zy4c/occ_filing_of_advance_notice_expanding_nonbank/
+
+## trimbath  backlink  on  proxy plumnign and bad voting right  congferrance
+https://www.sec.gov/comments/s7-06-22/s70622-209219-423782.htm
+
+
+# !!!! FN TO INTRODUCE WHATCAN !!!!!! <!-- start of s 3 main probvsZ -->
+
+participating  petitionf
+https://www.sec.gov/files/petn4-842-03072025.htm
+https://www.sec.gov/comments/4-842-petn/4842-petn-228.htm  (custom  good one iwth a smith)
+
+# coimmeents  challenging  marignign  risks VERY FUCKING VERY SHORT
+https://www.sec.gov/files/rules/sro/occ/2023/34-98101.pdf#page=24     
+ SR-OCC-2022-012
+https://www.theocc.com/getmedia/743f6b9a-5758-4393-a9e1-7ac9b5636bf0/sr_occ_20_801_notice_of_no_objection.pdf#page=11
+
+## FN for inreasing the inital deposit base form src
+
+setting up the marigning at  500M
+https://www.theocc.com/getmedia/743f6b9a-5758-4393-a9e1-7ac9b5636bf0/sr_occ_20_801_notice_of_no_objection.pdf;##
+
+### original master repo plan Stability ocnsiderations
+https://www.sec.gov/files/litigation/litreleases/2015/34-73979.pdf#page=11
+
+### SR-OCC-2022-803
+https://www.sec.gov/files/litigation/litreleases/2022/34-95670.pdf
+
+
+
+
+
+
+
+# CLIPS:
 
 - [Importance of Self-Custody 🔐](https://www.youtube.com/clip/Ugkx0KLlnP--6Q-u4L7H5zrgWbDhjpKr43dL)
 _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increased interconnecftted systemic  reliance onn cCPs as cocentratred risk respoitoryies for material swap contracts  , _available at_  https://www.youtube.com/clip/UgkxX1DN63sYrhFeAXBDM76mAyRXQBl-TGME.
@@ -2010,41 +2015,9 @@ _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increa
  on  votiong
 
 
+[fuck-you-wall-st]: The contents of lthis letter are made freely avaliably under the GNU Free Documentation Licence, bec ause Wall Street shouldn't operate behind a vail of copyright protections, _available at_ https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE.
 
-conc:
-I ahve been preparing this comment  for over a year, and there are many more items I would like to include as proof of this impendiung frauduilant market c risis. However, the events detaiulied i n _supra_ § 2 lead  me to believe that I can wait tno longger to bring these  items up to the Commission. Thank you and God Bless America!
 
-DD's:
-
-https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/
-https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf#page=12
-https://www.reddit.com/r/Superstonk/comments/ovw6st/peekaboo_wait_puts_where_are_you_puts/
-https://www.reddit.com/r/Superstonk/comments/otn94a/can_anyone_explain_the_over_one_million_put/
-
-https://public-inspection.federalregister.gov/2021-11606.pdf?1622637922#page=11
-https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/occ-an
-https://www.sec.gov/comments/s7-03-14/s70314-18.pdf#page=8
-https://www.sec.gov/comments/s7-03-14/s70314-18.pdf#page=40
-https://www.govinfo.gov/content/pkg/FR-2016-10-13/pdf/2016-23891.pdf#page=7
-https://www.govinfo.gov/content/pkg/FR-2016-10-13/pdf/2016-23891.pdf#page=21
-https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020PC0694#page=6
-https://www.sec.gov/files/rules/sro/occ/2021/34-91199.pdf
-
-https://www.reddit.com/r/Superstonk/comments/11n46o1/what_if_causing_a_short_squeeze_is_not_illegal/
-
-https://www.reddit.com/r/Superstonk/comments/13a3yh1/end_game_dtc_and_nscc_are_screwed_as_the_dtc_just/
-
-https://www.reddit.com/r/Superstonk/comments/x3oixj/goldman_and_bank_of_americamerrill_lynch_tried_to/
-
-https://www.sec.gov/files/rules/concept/2015/34-76743.pdf#page=27
-https://x.com/ReesePolitics/status/1912918315439186175
-https://www.federalregister.gov/documents/2025/04/08/2025-05962/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-and-immediate
-
-https://www.theocc.com/getmedia/198bfc93-5d51-443c-9e5b-fd575a0a7d0f/options_listing_procedures_plan.pdf
-https://www.sec.gov/divisions/marketreg/market2000.pdf
-https://am.aals.org/app/uploads/sites/4/2025/01/MISINFORMATION-IN-THE-STATE-LEGISLATURES.pdf#page=7
-https://www.sec.gov/files/rules/proposed/s72404/s72404-8.pdf
-https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf#page=47
 
 
 -- SR-OCC-2024-014 w as the one twehre they did PREV with more discolosure
@@ -2055,13 +2028,20 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 
 14  has  whene thye  did  it  for '21
 
-[^st-john-ucc]: _See_ analysis of changes an adopting  comment notes o 1994 reisions toArticle 8 frpm Francis J. Facciolo, J.D.  after six years  of study, _available at_ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf.
-
-[^dannny]:  _See, e.g.,_ reamkrs of G. Daniel Doney XYZ__ABC, _available at_ https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX
-
-[^SBACC-me]: https://youtu.be/zZMKIoI420w
 
 
+
+
+
+
+[st-john-ucc]: _See_ analysis of changes an adopting  comment notes o 1994 reisions toArticle 8 frpm Francis J. Facciolo, J.D.  after six years  of study, _available at_ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf.
+
+[dannny]:  _See, e.g.,_ reamkrs of G. Daniel Doney XYZ__ABC, _available at_ https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX
+
+[SBACC-me]: Aaron Wishart on FDIC Policy (Division of Complex Institution Supervision and Resolution)
+  https://youtu.be/zZMKIoI420w  from https://www.fdic.gov/advisory-committees/events/fdic-systemic-resolution-advisory-committee-meeting-october-15-2024
+
+[soc-gen]: As the community rmemebrs all too well, Société Générale has been at the center of material "unauthorized" finacnial-0crisis-level trading activities which pla,ce clearing members at risk of default, or at least non-deafualt losses in a lawesuit sufficient to wipe ouit a acentral counterparrtty. _See, e.g.,_ 2008 loss by one rogue trader which totallyed five times the requested tri-partry crtrdit limit by the OCC, _available at_ https://youtu.be/8KULmxz97mM. _See also generally_  remarks from the trader who brought dfown down Barings Bank in 1995, _available in film adaptation at_ https://youtu.be/SclDzvDWrds?t=4474. SDhould we rely again on an "extraordinary emergency meeting" to save our markets from the illicit actions of a select few?
 
 
 
@@ -2075,3 +2055,6 @@ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.p
 [^risklolll]: _See_ _infra_ note {{^street-name-2}} for impliccations  of this unsamefe practice. SDtaff backl  then  draw the line to insovenccy, and I see nothing but that option today. _See, e.g.,_ reamkrs  by Dentzer _infra_ § {{Burgeoning Views  RTDOO}} for  concurrent opinions made public from CCP leadshethip. In concersations with  C-suite executives or past highly-rleated parties, I can publicly state that  such views are  not  uncopmmon.
 
 [^no-more-NDAs-Ip=-poprpomise]: _Id._  _See also_ public comments from the  CEO  of  a correspondent clearing firm, _available at_ https://rqdclearing.com/rqd-ushering-in-the-modern-clearing-solution-thats-required. WEhile I  cannot rpresently  comment  on the full depth  of insights from this post and discourse  on  11 Jul 2023, I would like  ot hilidght a key quote to  staff: "clearing has remained the same analog,  batch-process-driven industry for the past 20+ years. That translates to increased risk, additional cost and an overall inability to meet the needs of today’s financial institutions.
+
+[^david-v-goliaoth]: _Id._ _See also_ remarks of a prominent retail investor advocate in the early 2000s, noting that,  twenty  years ago,  the  corpoation had "such a tight monopoly on trade settlement" largely  because  it "is a self-regulatory agency run by the very firms in question for Naked Shorting" which  today  govenr the  OCC, _available at_ https://www.sec.gov/files/rules/sro/dtc200302/depatch030403.txt. I believe it's worth hioghlighting  the hubris empowering certain self-regulating  CCPs, as exemplkified  by several  commentors' highlghting that thios partricuialr  SRO released  statements saying  they could do whoat they  asked p ermission to  do  ikn the proposed  rule  change  months before even  submitting such admentment to the  Commission.  I  respetfulyl  submit to the Commission that i t may hinder the  competativeness  of  our American market system and associated  eocnomyy If  an  inssutiton  subject  only t op  credit limitations  "continues to allow a never ending summation on the float of a company."
+
