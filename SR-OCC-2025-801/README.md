@@ -716,10 +716,7 @@ _(In Establishing Standards)_
 [^]: _See, e.g.,_ uncertainty and standardization in the reporting of Direct Registration System holdings at one well-known issuer, _available at_ https://www.drsgme.org/drs-reporting. A third-quarter 2022 filing states a specific number of shares "directly registered with our transfer agent." _Compare_ this specificity to the "held by record holders" language used in reports thereafter. Should the DTCC's FAST agreements be required to delineate directly registered shares?
 
 
-#### Inaqueate XYZ ABC 1234
-
-
-##### Fidelity
+#### Fidelity
 
 Transferred ACH into account at the start of the year.
 Wanted to put it into a 2024 Roth contribution (cannot make this internal transfer until the end of the period—just for investing in our great nation's assets, which aren't even truly owned...).
