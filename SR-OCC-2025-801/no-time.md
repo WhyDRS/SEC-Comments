@@ -745,3 +745,26 @@ as the tie intro from manual:
 _Id. from WRP XYZ_
 
 
+
+Thhin  clearing a g 
+
+necy  capitalizaed  backstoip outside of defaulitng mnemebr
+
+at https://democrats-financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf#page=82
+https://www.reddit.com/r/Superstonk/comments/1dz57am/trade_385_the_most_important_ignored_aspect_of
+
+
+NASAA Statement (https://www.nasaa.org/75514/nasaa-statement-on-confirmation-of-paul-atkins-as-sec-chairman/), pre-Atkins Comment (https://www.sec.gov/comments/s7-12-06/jpborg7410.pdf), and Community Rebutal (https://docs.google.com/document/d/13s1I3cZFVvtyPc5Fq5Osol61zM18291-j6KRxG3e0UI/edit)
+
+
+trade385 at 87 which thus dropping $895.2M In Risk - Normalizing from 10:46a to 11am back under 200M
+
+385 then drop conversion
+
+
+
+
+### FN interleaved DTC/OCC systems
+> In the Stock Loan/Hedge Program, prospective Lending and Borrowin Clearing Members identify each other (independent of OCC), agree to bilaterall negotiated terms of the stock loan (in this case, a “Hedge Loan”), and then send th details of the stock loan to the Depository Trust Company (“DTC”) designating the stoc loan as a Hedge Loan for guaranty and clearance at OCC. The Lending Clearin Member then instructs DTC to transfer a specified number of shares of Eligible Stock1
+https://www.sec.gov/files/litigation/litreleases/2019/34-87476.pdf#page=9.51
+
