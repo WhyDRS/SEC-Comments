@@ -715,11 +715,6 @@ _(In Establishing Standards)_
 
 [^]: _See, e.g.,_ uncertainty and standardization in the reporting of Direct Registration System holdings at one well-known issuer, _available at_ https://www.drsgme.org/drs-reporting. A third-quarter 2022 filing states a specific number of shares "directly registered with our transfer agent." _Compare_ this specificity to the "held by record holders" language used in reports thereafter. Should the DTCC's FAST agreements be required to delineate directly registered shares?
 
-Specific reports probably just remove:
-
-- Q3: https://www.sec.gov/ix?doc=/Archives/edgar/data/0001326380/000132638022000137/gme-20221029.htm
-- Q4: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fa-collection-of-drs-statements-v0-nfekl3sb6r4c1.png%3Fwidth%3D1186%26format%3Dpng%26auto%3Dwebp%26s%3De4f4019421439ae9ee54bd59f58b61735b18936d
-addressed in fn}}
 
 #### Inaqueate XYZ ABC 1234
 

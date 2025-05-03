@@ -775,3 +775,13 @@ https://www.sec.gov/files/litigation/litreleases/2019/34-87476.pdf#page=9.51
 
 "chief detterant"
 
+
+Specific reports probably just remove:
+
+- Q3: https://www.sec.gov/ix?doc=/Archives/edgar/data/0001326380/000132638022000137/gme-20221029.htm
+- Q4: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fa-collection-of-drs-statements-v0-nfekl3sb6r4c1.png%3Fwidth%3D1186%26format%3Dpng%26auto%3Dwebp%26s%3De4f4019421439ae9ee54bd59f58b61735b18936d
+addressed in fn}}
+
+
+
+
