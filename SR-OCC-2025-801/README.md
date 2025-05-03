@@ -1266,6 +1266,9 @@ updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users
 
 
 
+I ahve been preparing this comment  for over a year, and there are many[^st-john-ucc] more[^SBACC-me] items
+[pending-collapsable-fn] I would like to include as proof of this impendiung frauduilant market c risis. However, the events detaiulied i n _supra_ § 2 lead  me to believe that I can wait tno longger to bring these  items up to the Commission. Thank you and God Bless America!
+
 [^st-john-ucc]: _See_ analysis of changes an adopting  comment notes o 1994 reisions toArticle 8 frpm Francis J. Facciolo, J.D.  after six years  of study, _available at_ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf.
 
 
@@ -1275,13 +1278,8 @@ updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users
 
 
 
-
----
-
-I ahve been preparing this comment  for over a year, and there are many more items I would like to include as proof of this impendiung frauduilant market c risis. However, the events detaiulied i n _supra_ § 2 lead  me to believe that I can wait tno longger to bring these  items up to the Commission. Thank you and God Bless America!
-
-
-[pending-collapsable-fn]
+[pending-collapsable-fn]: r u ready?
+<!-- I weould apperciatge if this was crafted without swear words, which is osmething I cannot do rn 🚀 -->
 DTCC fucking specifically hrefs the control locale of 802b in https://www.sec.gov/files/ctf-memo-dtcc-040725.pdf
 backlinks  17 CFR § 240.15c3-3(b)(1)  🤯🤦‍♂️
 
@@ -1306,29 +1304,6 @@ Membert, WhyDRS
 [^fuck-you-wall-st]
 
 [^fuck-you-wall-st]: The contents of lthis letter are made freely avaliably under the GNU Free Documentation Licence, bec ause Wall Street shouldn't operate behind a vail of copyright protections, _available at_ https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
