@@ -1537,63 +1537,10 @@ Increased Complexity and Opacity:
 
 Page 120 is borrowed from https://www.dtcc.com/-/media/DASCPWhitePaper.pdf, which I don't think I'd read before—some new homework.
 
-#### Start orig blockchain here
 
-Treasury study on DA
-https://home.treasury.gov/system/files/221/CombinedChargesforArchivesQ42024.pdf#page=107
 
-- Network rails as independent means of exchange re 109
-- _Id._ at n. A and banking protections implications not given in the K case
-- Use the "even small incremental improvements in a very large market like the Treasuries market can be impactful at scale" argument on 114 as a contra to [S7-23-22](https://www.sec.gov/newsroom/press-releases/2023-247)
 
-#### Added notes for exemplary point re S-G discussion and context before CB bantherun
 
-This (personal part) should frame paying bribes[^b/f] to financial intermediaries to transfer fiat value (maybe word more nicely to `dollars`) for the purpose of sovereign use on-chain (but wording there probably needs to align more towards libre principles in a _triad_).
-
-[^b/f]: Or fees, as the case may be. _Verbatim_
-
-###### As discussed on _TS_ https://lnns.co/fE5ZXkHvVeJ -
-
-Banger quotes:
-
-- "DTCC and the BIS Will likely require the central bank and tokenized USD (CBDC) to play a pivotal role in a future tokenized payments and settlements infrastructure" at 124
-Contrasts with E.O. and drives directly into CB arg
-
-That said, it goes against https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/
-EO 14178
-
-#### S7-25-20 n.20 in the Coinbase chat, (expanded) as a [fn]
-
-This whole point is covered well enough by XX Facts § II.[^cb-suit]
-
-[^cb-suit]: _See_ _supra_ note {{CB-main at 19}} stating, "Coinbase has earned billions of dollars in revenues by, among other things, collecting transaction fees from investors whom Coinbase has deprived of the disclosures and protections that registration entails and thus exposed to significant risk" in general. Extrapolates to the API and broker considerations at 23 and _priori_.
-
-Man, that is a good source.
-
-Per their trading API at https://docs.cdp.coinbase.com/get-started/docs/overview
-
-Parallels the securities interfaces we see from SIP providers as interfaced middlemen.
-
-_Compare_ with the banking approach of never having any kind of public tech by nature of private and proprietary system competition.
-
-Original CB image says "maximize your trading with Coinbase advanced API."
-
-Make an API key "to connect, build, and trade."
-
-### Bank Transfers
-
-Initiated Dec 18, 2024, from CB.
-To WF due to no support for LR via either manual or Plaid as the only option.
-Estimated standard 2-day transfer.
-
-On Dec 20, 2024, WF performed an RTP instant transfer to LR.
-Placed on hold until Dec 27, 2024.
-
-Received at least three calls from LR and a compliance email mandating a call by Dec 26, 2024, at 3 PM ET:
-"Please give us a call today 12/26 before 3 PM EST," stated in virtual 'secure' webmail at 10:49 AM ET.
-"We are reaching out to ask for your help verifying some information."
-
----
 
 ## Proposed Decetralized Govenrnane mechanisms
 
@@ -1762,3 +1709,57 @@ Membert, WhyDRS
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# {REQ} Added notes for exemplary point re S-G discussion and context before CB bantherun
+
+This (personal part) should frame paying bribes[^b/f] to financial intermediaries to transfer fiat value (maybe word more nicely to `dollars`) for the purpose of sovereign use on-chain (but wording there probably needs to align more towards libre principles in a _triad_).[defeat]
+
+[^b/f]: Or fees, as the case may be. _Verbatim_
+
+[defeat]: _See, e.g.,_ discussion, _available at_  https://lnns.co/fE5ZXkHvVeJ. _See also relevantrly_ a quotes i find relevant: "DTCC and the BIS Will likely require the central bank and tokenized USD (CBDC) to play a pivotal role in a future tokenized payments and settlements infrastructure" at 124.
+
+
+
+
+#### Start orig blockchain here
+
+Treasury study on DA
+https://home.treasury.gov/system/files/221/CombinedChargesforArchivesQ42024.pdf#page=107
+
+- Network rails as independent means of exchange re 109
+- _Id._ at n. A and banking protections implications not given in the K case
+- Use the "even small incremental improvements in a very large market like the Treasuries market can be impactful at scale" argument on 114 as a contra to [S7-23-22](https://www.sec.gov/newsroom/press-releases/2023-247)
+
+
+
+
+
+
+
+### Bank Transfers
+
+Initiated Dec 18, 2024, from CB.
+To WF due to no support for LR via either manual or Plaid as the only option.
+Estimated standard 2-day transfer.
+
+On Dec 20, 2024, WF performed an RTP instant transfer to LR.
+Placed on hold until Dec 27, 2024.
+
+Received at least three calls from LR and a compliance email mandating a call by Dec 26, 2024, at 3 PM ET:
+"Please give us a call today 12/26 before 3 PM EST," stated in virtual 'secure' webmail at 10:49 AM ET.
+"We are reaching out to ask for your help verifying some information."

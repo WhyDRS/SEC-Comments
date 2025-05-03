@@ -494,3 +494,45 @@ something around - I have unsuccessfully applied for funding from the SDF or its
 
 
 
+#### S7-25-20 n.20 in the Coinbase chat, (expanded) as a [fn]
+
+This whole point is covered well enough by XX Facts § II.[^cb-suit]
+
+[^cb-suit]: _See_ _supra_ note {{CB-main at 19}} stating, "Coinbase has earned billions of dollars in revenues by, among other things, collecting transaction fees from investors whom Coinbase has deprived of the disclosures and protections that registration entails and thus exposed to significant risk" in general. Extrapolates to the API and broker considerations at 23 and _priori_.
+
+Man, that is a good source.
+
+Per their trading API at https://docs.cdp.coinbase.com/get-started/docs/overview
+
+Parallels the securities interfaces we see from SIP providers as interfaced middlemen.
+
+_Compare_ with the banking approach of never having any kind of public tech by nature of private and proprietary system competition.
+
+Original CB image says "maximize your trading with Coinbase advanced API."
+
+Make an API key "to connect, build, and trade."
+
+
+
+
+
+
+
+
+
+re [^defeat]:
+
+Contrasts with E.O. and drives directly into CB arg
+
+That said, it goes against https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/
+EO 14178
+
+
+
+
+
+
+
+
+
+
