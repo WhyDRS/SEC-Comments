@@ -953,3 +953,23 @@ Perhaps implicate it lightly with identification and name-dropping of the select
 
 
 
+
+### Bank Transfers
+
+Initiated Dec 18, 2024, from CB.
+To WF due to no support for LR via either manual or Plaid as the only option.
+Estimated standard 2-day transfer.
+
+On Dec 20, 2024, WF performed an RTP instant transfer to LR.
+Placed on hold until Dec 27, 2024.
+
+Received at least three calls from LR and a compliance email mandating a call by Dec 26, 2024, at 3 PM ET:
+"Please give us a call today 12/26 before 3 PM EST," stated in virtual 'secure' webmail at 10:49 AM ET.
+"We are reaching out to ask for your help verifying some information."
+
+
+
+
+
+
+
