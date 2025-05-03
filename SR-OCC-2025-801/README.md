@@ -249,13 +249,12 @@ Thus, it would be impossible for all Cede claimants to bear rights to common sto
 
 
 
+#### Equivalent Outstanding Custodial Mishandling
 
+In discussing these inaccuracies with engineers at CCPs,[^dtc-eng-chat] I've become doubtful of their ability to reconcile the FTD issue. I believe recent events support this line of thinking,[^ftd-foia] which only exist because a trusted central actor like the OCC determines account balances in a single centralized ledger prone to corruption. Can we do better, so that all market participants play on the same field when analyzing material information such as the margin balances of clearing members?
 
-#### Equivalnet Outstanding Custodial Mishandling
+The OCC falls squarely in this same risk centrality provision, which I found abundantly apparent from the remarks of the Deputy Governor for Financial Stability at the Bank of England in an FDIC meeting:[^bailout-chat]
 
-In disucssing tjese innacuratries with egnineers at CCPs,[^dtc-eng-chat] I've become doubtful off their ability to  reconcile the FTD issue. I believe re ent events support this line of thingking,[^ftd-foia] whcih onyl  exist  because a trusted central  actor  like the OCC determines accunt  balances  in a single ccentralized  ledger prone to  corrurption./  Can  we  do  better, so that  all market  participants play o the  same field when analyzing material infformation such as the margigin balancces  of clearing  members?
-
-THe  oCC  falls squarely  in  this  same risk  ccentralirtyy  provision, whicch I found abundantly  apparent  from the remarks of the  Deputy Governor for Financial Stability at the Bank of England in an FDIC meeting:[^bailout-chat]
 
 > [T]here's very little CCP skin in the game when the losses are mutualized.
 > 
@@ -278,7 +277,7 @@ An exccample of "insider activities"  and centralirtyy emmerged  when  Robinhood
 Over  the two  busness days after this assessed charge, Robinhood had to  reach  out  ot Sand Hill to raise over $3.4 billion.[^cap-rais-erh] In remarkign on the  "apparent" public model releaed  by the NSCC, the firm's CEO  mimiced it's Head of DData  Sccience in calling collateral charges  a black box.[^blackbox-nsccc]
 
 
-
+I have other cmoments about this event which I do not have time to elaborate on fully.[^11111]
 
 
 As the Commission knows, the broker's $3.7 billion obligation to the Custodial Structure placed the intermediary at risk for insolvency given their $700 million in free collateralizable assets.[^staff-gme-study-BUTNOTSETUPYET-TODO] Accordingly, such Regime members, without public review or comment, elected to decrease obligations by $2 billion,[^rh-arg-main] an amount of money available by means of emergency Wall Street fundraising, quite possibly placing the stability of the entire financial system at stake. Should we trust our most meaningful periods of market volatility such as Trade 385 in the hands of systems subject to fat-fingering or human-processing errors?
@@ -370,7 +369,7 @@ Etrade does its own routing
 
 [^blackbox-nsccc]: _See_ _supra_ note {{^rh-margin-claims}} nn.60 and 124–127.  _See also_ excchagne between Vladimir Tenev and Elon Musk the day after the  PCO  event, _available at_ https://www.youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k.
 
-[11111]: _Id._  Valaddamir says they have ""no reason to believe" CItadel is  in charge of the DTCC. THis  claim  makes sense at the time  given the market-maker was not on Board then,  as ttested  by public disclosree, _available at_  https://web.archive.org/web/20210201075846/https://www.dtcc.com/about/leadership/board. However,  by  June of  that same year a citadel eemployee  was added to  DTCC's  Board and  rremains  there to this day, with the original modification at thierr public site, _available at_ https://web.archive.org/web/20210610132842/https://www.dtcc.com/about/leadership/board. In _supra_ note {{^bailout-chat}}  at 3:12:00, Cunliffe  states six monthgs later that clearing members "don't have kind of enough influence on the CCPs;"  do  staff  share this  view?
+[^11111]: _Id._  Valaddamir says they have ""no reason to believe" CItadel is  in charge of the DTCC. THis  claim  makes sense at the time  given the market-maker was not on Board then,  as ttested  by public disclosree, _available at_  https://web.archive.org/web/20210201075846/https://www.dtcc.com/about/leadership/board. However,  by  June of  that same year a citadel eemployee  was added to  DTCC's  Board and  rremains  there to this day, with the original modification at thierr public site, _available at_ https://web.archive.org/web/20210610132842/https://www.dtcc.com/about/leadership/board. In _supra_ note {{^bailout-chat}}  at 3:12:00, Cunliffe  states six monthgs later that clearing members "don't have kind of enough influence on the CCPs;"  do  staff  share this  view?
 
 _See_ _supra_ note {{^bailout-chat}}, _infra_ § 2, and advance noteice at n.17. Shoudl the OCC really have access to large institutional money market funds if "we're going to be in a pretty heavy systemic crisis" where  "a reservoir of pre-funded resources that can be accessed only in resolution might be necessary to enable CCP clearing service to continue to operate[?]" These are not unknown foreign risks whicch clearing members themselves are unaware of , so why then can these firms not deal with the risk managfment themselves if  "[w]hen you talk to the clearing members at very senior levels, they say they're worried about the risk in CCPs and the fact that they are exposed to these risks, both the mutualized default and the non-default[?]" Cuunliffe  goes ton to explain  the  conflict of  itnerests between clearing members minimizing  trade execution costs while having less direct influence over the CCP  than iddeal.
 
