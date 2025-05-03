@@ -799,3 +799,19 @@ Recently, inadequate administrative procedures of an unreliable central broker c
 
 
 [^cb]: 
+
+
+[^cb]: 
+
+
+
+First BTC top too
+
+Still restricted
+
+The "intermediation failure" part can be laid out without explicit DTCC reference through the other institutions. It will just need to lightly implicate that this is all based on the links commonly underlying the whole framework.
+
+The one item I'd like to add in a footnote here or in the 144 no-action:
+There was a call between Coinbase and staff discussing their purported TA/ATS structure, which gives rise to clearing agent participation. They claim to ignore this and argue that it does not apply—hurr durr >?>WAS>—lol at App. A ¶ 24,
+_available at_ https://assets.ctfassets.net/c5bd0wqjc7v0/2pW56ln6rPJ7koLHlu2L8G/5041e0166c408698b621fde543539d76/2023-04-19_Coinbase_Wells_Submission.pdf#page=68.
+¶ 25 talks on DAS.
