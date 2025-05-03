@@ -768,3 +768,10 @@ trade385 at 87 which thus dropping $895.2M In Risk - Normalizing from 10:46a to 
 > In the Stock Loan/Hedge Program, prospective Lending and Borrowin Clearing Members identify each other (independent of OCC), agree to bilaterall negotiated terms of the stock loan (in this case, a “Hedge Loan”), and then send th details of the stock loan to the Depository Trust Company (“DTC”) designating the stoc loan as a Hedge Loan for guaranty and clearance at OCC. The Lending Clearin Member then instructs DTC to transfer a specified number of shares of Eligible Stock1
 https://www.sec.gov/files/litigation/litreleases/2019/34-87476.pdf#page=9.51
 
+
+
+
+
+
+"chief detterant"
+

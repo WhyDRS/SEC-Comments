@@ -705,9 +705,6 @@ This resulted in the disposition of Lumens bought at or about the price level on
 
 Notwithstanding,we as a collective Nation were still retroactively unbale to protect investors in some of the largest market incidents given the central dangfers convincingly embedded in unilateral-PCO infrastruture.
 
-"chief detterant"
-
-
 
 
 ### Institutional Failings and the Case for Direct Registration
