@@ -513,7 +513,7 @@ At the end of last year, Commissioner Mark T. Uyeda discussed this ruling alongs
 
 Growing up, I was not the kind of child to play sports or explore the outdoors willingly. I recall one year in middle school where my mom would lock me outside the house for half an hour a day. She got quite flustered when I sat in the garage working on trivial phone apps. It was that tendency to find electronic solitude each day that led me into our great market system as an individual investor. But despite great advancements in computer technology, many legacy financial functions still rely on faulty physical verification protocols.[^dannny]
 
-[^dannny]:  _See, e.g.,_ reamkrs of G. Daniel Doney XYZ__ABC, _available at_ https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX
+[^dannny]:  _See, e.g.,_ reamkrs of G. Daniel Doney , _available at_ https://www.youtube.com/clip/UgkxXEmtxkLwy3BpgrbEKTeHlzjDZWsptDhX
 
 
 While these range in severity from medallion stamps to DTC offering confirmation meetings and required calls, the core challenge remains anchored in the legacy Custodial System's centralization. With Cede as the nexus of all market activity, investors often unwillingly but coercively need to vest power and control to Wall Street's whimsical hypothecation facilities, which I will not extensively explore in this letter.
