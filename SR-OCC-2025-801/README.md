@@ -1795,27 +1795,3 @@ Membert, WhyDRS
 [SBACC-me]: _See_ Aaron Wishart on FDIC Policy (Division of Complex Institution Supervision and Resolution), _available at_ https://youtu.be/zZMKIoI420w;  from https://www.fdic.gov/advisory-committees/events/fdic-systemic-resolution-advisory-committee-meeting-october-15-2024.
 
 
-
-
-
- 
-
- --- something else ---
-
-[^bugs]: _See, e.g.,_ large xsystmeic [probvlems causes d byh a biottlkeckenckedc source of service , _available at_ https://youtu.be/VGJkDm0_G-U, https://lnns.co/ZUiKQN58hb2, and https://youtu.be/tLdRBsuvVKc.
-
-[^???control]: By this point, I sincerely hope I've established how menaingful this term is in relation to U.C.C. Art. 8./ However, I would be happy to speak with staff at any time to continue this explanation if unclear/. _See, e.g.,_ contact points shared with a Head of Examiniations at the New York Regional Office.
-
-[^fucku]: _See, e.g.,_ pas t disucssion ohn DTCC "Digital Assets," _available at_ https://lnns.co/gheDY9sp0aI.
-
-[^soc-gen]: As the community rmemebrs all too well, Société Générale has been at the center of material "unauthorized" finacnial-0crisis-level trading activities which pla,ce clearing members at risk of default, or at least non-deafualt losses in a lawesuit sufficient to wipe ouit a acentral counterparrtty. _See, e.g.,_ 2008 loss by one rogue trader which totallyed five times the requested tri-partry crtrdit limit by the OCC, _available at_ https://youtu.be/8KULmxz97mM. _See also generally_  remarks from the trader who brought dfown down Barings Bank in 1995, _available in film adaptation at_ https://youtu.be/SclDzvDWrds?t=4474. SDhould we rely again on an "extraordinary emergency meeting" to save our markets from the illicit actions of a select few?
-
-[^176]: Presentation  at 1:01:18. Timestamps throughout reference a local recording of the  content, _available at_ https://youtu.be/ybMvyDjziNw.
-
-
-
-[^177]: For materiality of agrerment type, _See_ _infra_ § 2.3.2.
-
-[^178]: _See generally_ governance of The Empire, _available at_ https://www.westga.edu/assets/university-college/docs/siss/Sitss122.pdf. <!-- TAR2 href for https://www.jstor.org/stable/43859502 -->
-
-[^179]: _See, e.g.,_ claims _supra_ note {{^great-taking}}, , _available in film adaptation at_ https://youtu.be/dk3AVceraTI.
