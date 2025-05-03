@@ -1341,19 +1341,3 @@ This (personal part) should frame paying bribes[^b/f] to financial intermediarie
 [defeat]: _See, e.g.,_ discussion, _available at_  https://lnns.co/fE5ZXkHvVeJ. _See also relevantrly_ a quotes i find relevant: "DTCC and the BIS Will likely require the central bank and tokenized USD (CBDC) to play a pivotal role in a future tokenized payments and settlements infrastructure" at 124.
 
 
-
-
-#### Start orig blockchain here
-
-Treasury study on DA
-https://home.treasury.gov/system/files/221/CombinedChargesforArchivesQ42024.pdf#page=107
-
-- Network rails as independent means of exchange re 109
-- _Id._ at n. A and banking protections implications not given in the K case
-- Use the "even small incremental improvements in a very large market like the Treasuries market can be impactful at scale" argument on 114 as a contra to [S7-23-22](https://www.sec.gov/newsroom/press-releases/2023-247)
-
-
-
-
-
-
