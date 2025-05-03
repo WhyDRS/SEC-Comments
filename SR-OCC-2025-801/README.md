@@ -1149,19 +1149,6 @@ in the interim, we have https://mpalmer.heresy.is/webnotes/TheGreatTaking/Safe-H
 
 
 
-
-
-#### Central DTCC DA study cited later, requisitioning control over the entire industry by a single corporation that exists with for-profit stakeholders, either directly or indirectly.
-In the former case, we have a public corporation that outed in their S-1 filing (no citation) that they will "[insert quote on saving the world crap]... [insert very compelling different quote about making one billion monies]."
-
-v. the board on DTCC
-I don't think we touched on this yet.
-Perhaps implicate it lightly with identification and name-dropping of the select few worst offenders thereto.
-
-
-
-
-
 ## Proposed Decetralized Govenrnane mechanisms
 
 
