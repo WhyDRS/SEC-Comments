@@ -163,7 +163,7 @@ The Commission has spent far too many  years taking massive efforts to reform ou
 >
 > — Thomas Peterffy
 
-To ease this accumulated risk, staff know that clearing agencies historically faced stiff competition to timely settle outstanding transactions.[^historic-id] Indeed, it was precisely this market encouragement which I understand prompted DTC to beneficially dematerialize paper trading. I would like to generally abstract away the convoluted National Market System ("NMS") settlement systems enabled by the DTCC, the plethora of custodians participating in its clearing agencies, and the hundreds of intermediaries exchanging assets on top of its plumbing (a central "Custodial Structure").
+To ease this accumulated risk, staff know that clearing agencies historically faced stiff competition to timely settle outstanding transactions.[^historic-id] Indeed, it was precisely this market encouragement which I understand prompted DTC to beneficially dematerialize paper trading.[^dtcc-def] I would like to generally abstract away the convoluted National Market System ("NMS") settlement systems enabled by the DTCC,[^dtcc-def-1] the plethora of custodians participating in its clearing agencies, and the hundreds of intermediaries exchanging assets on top of its plumbing (a central "Custodial Structure").
 
 Rather, I am concerned with the solvency of Cede & Co ("Cede"). For years we have looked into the nuances of the Custodial Structure, which ends in all terminuses at the behemoth partnership nominee. Thus, the hole in the system constantly rearing up through FTDs ultimately makes its way down to DTC's registered share of securities.
 
@@ -181,6 +181,10 @@ Notwithstanding,  I  do  hope  staff  ocnitnue  contemplating  blockchain  techn
 
 
 [^ostk-augi]: _See, e.g._ Commissioner Luis A. Aguilar's meeting addressing double-digit outstanding Failures to Deliver ("FTDs") when investors acquired a 120% ownership stake in a discount online retailer, _inter alia_, given the failures of central netting, _available at_ https://www.sec.gov/comments/s7-19-07/s71907-1436.pdf#page=3. _See also_ written remarks _infra_ note {{^Discord-GME}} from the CEO of such firm at the time, stating "a financial news organization suggests that of our approximate 6,000 owners, the top 50 own 106% of our stock" just before the share price halved.
+
+[^dtcc-def]: DTC and DTCC defined _infra_ §2.3.
+
+[^dtcc-def-1]: _Id._
 
 [^ats-prep]: _See_ _supra_ note {{^ostk-augi}}. Given cryptosystems and decentralized exchanges allow these transactions without the possibility of FTDs, I asked Commissioner Aguilar and partners at their venture company about their interpretation of if they "would or would not consider a DEX to be an ATS" in a written communication on 26 Sep 2023 and subsequent meeting in relation to File No. S7-02-22, _inter alia_. If staff agree with the supportive remarks in these discussions and pro-digital-assets rhetoric espoused by our present governmental leadership, then might we need an oversight system for uncovered peer-to-peer distributed transaction messaging systems?
 
@@ -403,7 +407,7 @@ Etrade does its own routing
 
 [^blackbox-nsccc]: _See_ _supra_ note {{^rh-margin-claims}} nn.60 and 124–127.  _See also_ excchagne between Vladimir Tenev and Elon Musk the day after the  PCO  event, _available at_ https://www.youtube.com/clip/UgkxaLZNPl1Bby-1VVJ2ex4NLr4yZjRdzO4k.
 
-_Id._  Valaddamir says they have ""no reason to believe" CItadel is  in charge of the DTCC. THis  claim  makes sense at the time  given the market-maker was not on Board then,  as ttested  by public disclosree, _available at_  https://web.archive.org/web/20210201075846/https://www.dtcc.com/about/leadership/board. However,  by  June of  that same year a citadel eemployee  was added to  DTCC's  Board and  rremains  there to this day, with the original modification at thierr public site, _available at_ https://web.archive.org/web/20210610132842/https://www.dtcc.com/about/leadership/board. In _supra_ note {{^bailout-chat}}  at 3:12:00, Cunliffe  states six monthgs later that clearing members "don't have kind of enough influence on the CCPs;"  do  staff  share this  view?
+[11111]: _Id._  Valaddamir says they have ""no reason to believe" CItadel is  in charge of the DTCC. THis  claim  makes sense at the time  given the market-maker was not on Board then,  as ttested  by public disclosree, _available at_  https://web.archive.org/web/20210201075846/https://www.dtcc.com/about/leadership/board. However,  by  June of  that same year a citadel eemployee  was added to  DTCC's  Board and  rremains  there to this day, with the original modification at thierr public site, _available at_ https://web.archive.org/web/20210610132842/https://www.dtcc.com/about/leadership/board. In _supra_ note {{^bailout-chat}}  at 3:12:00, Cunliffe  states six monthgs later that clearing members "don't have kind of enough influence on the CCPs;"  do  staff  share this  view?
 
 _See_ _supra_ note {{^bailout-chat}}, _infra_ § 2, and advance noteice at n.17. Shoudl the OCC really have access to large institutional money market funds if "we're going to be in a pretty heavy systemic crisis" where  "a reservoir of pre-funded resources that can be accessed only in resolution might be necessary to enable CCP clearing service to continue to operate[?]" These are not unknown foreign risks whicch clearing members themselves are unaware of , so why then can these firms not deal with the risk managfment themselves if  "[w]hen you talk to the clearing members at very senior levels, they say they're worried about the risk in CCPs and the fact that they are exposed to these risks, both the mutualized default and the non-default[?]" Cuunliffe  goes ton to explain  the  conflict of  itnerests between clearing members minimizing  trade execution costs while having less direct influence over the CCP  than iddeal.
 
@@ -992,6 +996,83 @@ Recently, inadequate administrative procedures of an unreliable central broker c
 
 
 
+### 2.3 Experimenting with the FInancial System 🤨
+
+In sofvtware engineering, there;s a simple choice made when developing new tehcnologise., You can have a `dsstaging` enviornmentg with a seperate `production` enviormnet, or not. Practically every centrlaized organization chooses to have a seperate "staging" and "production" enviormernt becuiase it stops minor bugs from ending the world.[^bugs]
+
+Ms. COuntryman, recently, the Depository Trust and Clearing COrporation ("DTCC") presented a p[articualy concerning industry presentation, _available at_ http://wooten.link/great-collateral-taking. In this livestream, the organization uses the word "control" two times.[^???control] While I will share these instances mometarily, I would prefer to get a material point across first.
+
+#### 2.3.1 Tri-Party Collateral Liquidation Automation
+
+1. At 34:26 in the demonstration.,. the DTCC shows a screen with a tri-party repo agreemnt simulated on a proporietary blo kchain interface, technology, and backend./ [^fucku] THere are four unique parties shocased in the tri-party araagngemnet:
+
+- ERuroclear ("Col. Agent")
+- BNY Tripartryt ("Col. Agent")
+- Wellington ("Col. Recever")
+-  SocGen ("Col. Recever")
+[^soc-gen]
+
+2. There are two tri-party collateral arrangements shown:
+
+- Euroclear <-> Wellinmgton (-$8.8 million "deficit")
+- BNY <-> SocGen ($10 million "excess")
+
+3.  IN the subsequent  ommcentary, an agemnt of DDTCC "moves" the excess collateral from one arrangement to the other, "banalanacing" the wtwo out., This occurs within se onds, as the DTCC aqcts ass ccentral  counterparty-interface.
+
+4.  At 49 minutres in,   DTCC gives an exmaple of "Bratannia Bank" hgoiong bankrupt. At 53:47, DTCC gives an exmap;le of a domino-bankruptcy-effect wehreby counterparty "Sterling Bank" also enters insolvency.
+
+5. Next, DTCC's agenct claims that the pretend bank's "risk team was able to calcualte the closeout amounts within mintujtes[.]" Next, DTCC's agent contacts the repo agreement's trip[art arrangement "tri-party" agent.[^177]
+
+##### 2.3.1.1 CCP as Executor of Automonmous Cascading INsolvencies
+
+6.  DTCC's agent continues to ":call" someone at Euroclearn. On this "call," DTCC's agent prrocceed into "issing a nmotice of default." The "Euroclear retpresentative" commentats that thaey've "had a few of those already.:"
+
+7.  After ionstatntentously learning that the "notice has been authenticated," tehy "go ahead and start the process." 
+
+8. Next, this employees "boss" explains how digital assets unlock "enorunous potentnial in digital assets" because "[t]hey bring opporunityies tpo unclock new soutces of collaterla."
+
+9. IO would like to gernally ask staff how one "unlcoks new sources of collateral[?]"
+
+10. Aftedr this,  the video cuts back to Eurlcear's agent epxlaining that DTCC's agenct should "see the collateral in your wallet now."
+
+##### 2.3.1.2 SApeed of "Immediate" Systemic Takeovers
+
+11. At this poiont, DTCC's agent claims that the simulated banking intermediarty "had immediate access to default collateral, so that we can now onward-pledge the assets[.]"
+
+12. This correcalated directly with OICC's inteniton to allow tri-party collateral agents to rehypothecate nonbank liqudiity provided in the case of an emergency.
+
+13. I suspect this could crteat an incentive to artificalyl create such an event should DTCC deem it in their interests, including such participatns as desceribed in _supra_ note {{^11111}}.
+
+14. My most extreme constitutents concur in this viewpoint.
+
+##### 2.3.1.3 DTCC and Other SROs have Failed America
+
+15. _See generally_ _supra_ note  {{^start-reen-ieelds}}, _infra_ note {{^staff-nums}}, and _infra_ note {{^dc}} (failing to protect a large number of investors).
+
+16. Centralization is not a sustainable approach to amrket structure.[^178]
+
+17. Pretty syre the orchestrants behind DTC wnat to take all collateral.[^179]
+
+18. Concentrating all collateral in the hands of DTC "Digital Assets" would make this a pretty simple task. I will do everything in my power to stop this from happeneing as per _infra_ § {{^Natural Monopoly Risk}}. _See also relevently_ webpage ofd DTCC's subsdiariars which present it's "Digital Assets" initiative as the only public subsidiary on with duplicate American and laxly-regulated EU incorporation, _available at_ https://www.dtcc.com/about/businesses-and-subsidiaries.
+
+#### 2.3.2  Hastey Liquidation in GLboal Emergfencies
+
+
+From the 60-minute mark onward, DTCC explains how they would like all CCP marigning to be interopratble through cross-tri-party-arrangements. The agreement type listed for the tx between "BNY Triparty" and "Baravo Bank" has an "Agm Type" listed as "Repo"—a different classification than the prior exmaple using "CCP Margin[.]"
+
+DTCC'/s agent claims that "we can now candle this process more efficiently than ever."  [^176] Afterh this statemnet, they allocate approximately 4,000 Bitcoin and $400 million tokenized Japanese government bonds to "cover the obligation." 
+
+I have tmore to say about this presentation, but will censure myself herein for time's sake.
+
+#### 2.3.3 Other Material; Aspects Left Out
+
+19. DTCC shows an example of a smartt contract automatically liquidating member portfolios with no human interaction.
+
+20. After a short aside promoting central-bank digital currencies (collectively, "CBDCs"), DTCC's agent explains that the "smart contract will ayutomaticalyl unwind this position in 4 hours."
+
+21. DTCC explains at least three times how they wopuld like to have a central-bank digital currency.
+
+For further dialoge, I ncourage staff to view marremkars from respected community-member Chives, _available at_ https://x.com/i/spaces/1ZkKzYnYqkDxv/peek.
 
 
 ## Organizational Association
@@ -2041,8 +2122,6 @@ _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increa
 [SBACC-me]: Aaron Wishart on FDIC Policy (Division of Complex Institution Supervision and Resolution)
   https://youtu.be/zZMKIoI420w  from https://www.fdic.gov/advisory-committees/events/fdic-systemic-resolution-advisory-committee-meeting-october-15-2024
 
-[soc-gen]: As the community rmemebrs all too well, Société Générale has been at the center of material "unauthorized" finacnial-0crisis-level trading activities which pla,ce clearing members at risk of default, or at least non-deafualt losses in a lawesuit sufficient to wipe ouit a acentral counterparrtty. _See, e.g.,_ 2008 loss by one rogue trader which totallyed five times the requested tri-partry crtrdit limit by the OCC, _available at_ https://youtu.be/8KULmxz97mM. _See also generally_  remarks from the trader who brought dfown down Barings Bank in 1995, _available in film adaptation at_ https://youtu.be/SclDzvDWrds?t=4474. SDhould we rely again on an "extraordinary emergency meeting" to save our markets from the illicit actions of a select few?
-
 
 
 
@@ -2058,3 +2137,24 @@ _See_ _supra_ note {{^bailout-chat}}. _See also_ speicif clip discussing  increa
 
 [^david-v-goliaoth]: _Id._ _See also_ remarks of a prominent retail investor advocate in the early 2000s, noting that,  twenty  years ago,  the  corpoation had "such a tight monopoly on trade settlement" largely  because  it "is a self-regulatory agency run by the very firms in question for Naked Shorting" which  today  govenr the  OCC, _available at_ https://www.sec.gov/files/rules/sro/dtc200302/depatch030403.txt. I believe it's worth hioghlighting  the hubris empowering certain self-regulating  CCPs, as exemplkified  by several  commentors' highlghting that thios partricuialr  SRO released  statements saying  they could do whoat they  asked p ermission to  do  ikn the proposed  rule  change  months before even  submitting such admentment to the  Commission.  I  respetfulyl  submit to the Commission that i t may hinder the  competativeness  of  our American market system and associated  eocnomyy If  an  inssutiton  subject  only t op  credit limitations  "continues to allow a never ending summation on the float of a company."
 
+ 
+
+ --- something else ---
+
+[^bugs]: _See, e.g.,_ large xsystmeic [probvlems causes d byh a biottlkeckenckedc source of service , _available at_ https://youtu.be/VGJkDm0_G-U, https://lnns.co/ZUiKQN58hb2, and https://youtu.be/tLdRBsuvVKc.
+
+[^???control]: By this point, I sincerely hope I've established how menaingful this term is in relation to U.C.C. Art. 8./ However, I would be happy to speak with staff at any time to continue this explanation if unclear/. _See, e.g.,_ contact points shared with a Head of Examiniations at the New York Regional Office.
+
+[^fucku]: _See, e.g.,_ pas t disucssion ohn DTCC "Digital Assets," _available at_ https://lnns.co/gheDY9sp0aI.
+
+[^soc-gen]: As the community rmemebrs all too well, Société Générale has been at the center of material "unauthorized" finacnial-0crisis-level trading activities which pla,ce clearing members at risk of default, or at least non-deafualt losses in a lawesuit sufficient to wipe ouit a acentral counterparrtty. _See, e.g.,_ 2008 loss by one rogue trader which totallyed five times the requested tri-partry crtrdit limit by the OCC, _available at_ https://youtu.be/8KULmxz97mM. _See also generally_  remarks from the trader who brought dfown down Barings Bank in 1995, _available in film adaptation at_ https://youtu.be/SclDzvDWrds?t=4474. SDhould we rely again on an "extraordinary emergency meeting" to save our markets from the illicit actions of a select few?
+
+[^176]: Presentation  at 1:01:18. Timestamps throughout reference a local recording of the  content, _available at_ https://youtu.be/ybMvyDjziNw.
+
+
+
+[^177]: For materiality of agrerment type, _See_ _infra_ § 2.3.2.
+
+[^178]: _See generally_ governance of The Empire, _available at_ https://www.westga.edu/assets/university-college/docs/siss/Sitss122.pdf. <!-- TAR2 href for https://www.jstor.org/stable/43859502 -->
+
+[^179]: _See, e.g.,_ claims _supra_ note {{^great-taking}}, , _available in film adaptation at_ https://youtu.be/dk3AVceraTI.
