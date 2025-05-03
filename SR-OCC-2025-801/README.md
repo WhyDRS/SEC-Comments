@@ -819,10 +819,6 @@ Same as Green Dot/Citi
 
 ---
 
-It also offers a stellar place to insert arguments against central intermediation of the transfer process.[^cb] 
-
-Recently, inadequate administrative procedures of an unreliable central broker cost me and my partner $100k in the last couple of months.
-
 
 
 ### 2.3 Experimenting with the FInancial System 
