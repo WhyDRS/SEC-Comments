@@ -54,19 +54,19 @@ P.S. Crypto Task Force, these comments at nn. {{^CBDC}}, B, aNd C  relate to Joh
 
 Hi @here,
 
-[Finished TAR1](https://github.com/WhyDRS/SEC-Comments/tree/main/SR-OCC-2025-801)
+["Finished" TAR1](https://github.com/WhyDRS/SEC-Comments/tree/main/SR-OCC-2025-801)
 
-It is my interpretation of public information that the Commission will release this before the statutory 18 May 2025 deadline.* Namely, staff do not seem content to wait until the last minute when they delay an advanced notice. For those not familiar, an advanced notice is a proposed rule change which could threaten the stability of the entire American financial system, and OCC has made two of these in the past two years.
+It is my interpretation of public information that the Commission will release this before the [statutory](https://x.com/DarkDiamondhand/status/1915341454639059256) 18 May 2025 deadline.* Namely, staff do not seem content to wait until the last minute when they delay an advanced notice. For those not familiar, an advanced notice is a proposed rule change which could threaten the stability of the entire American financial system, and OCC has made two of these in the past two years.
 
-I will not send this comment letter until it's been thoroughly reviewed by the community. To ensure this, I resolve that I just won't send the comment letter. Chives is a smart guy with a `whydrs.org` email, and also has the added benefit of being pretty damn responsive. 💜 If he's up for it, I just vote Chives emails it when it's ready.
+I will not "send" this comment letter until it's been thoroughly reviewed by the community. To ensure this, I resolve that I just won't send the comment letter. Chives is a smart guy with a `whydrs.org` email, and also has the added benefit of being pretty damn responsive. 💜 If he's up for it, I just vote Chives emails it when it's ready.
   
 [Godspeed](https://youtu.be/zl65WgZFN-o)
-also i want the 6dasys star wars img
+## :earth: 
 
 
 *If I had to arbitrarily commit my estimate to paper, I'd say there is a 20% chance they post their response on Monday, a 40% chance they post it by Tuesday, and so on.
 
-
+# [:ThisIsTheWay:](https://github.com/users/JFWooten4/projects/1/views/1?filterQuery=-status%3A%22Pending+%F0%9F%92%9C%22&pane=issue&itemId=89435116) 
 
 
 
