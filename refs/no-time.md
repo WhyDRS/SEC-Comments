@@ -433,3 +433,64 @@ https://www.sec.gov/newsroom/speeches-statements/peirce-uyeda-statement-focus-re
 
 
 
+
+
+
+
+
+
+
+
+
+ SIPC Intricacies FOPOTNOTE
+
+These can be subverted in a footnote based on leadership actions that "jeopardized the safety, soundness, and stability of the United States financial system" per [H.Res. 1574](https://democrats-financialservices.house.gov/uploadedfiles/bills-118hres1574ih.pdf), as referenced in [this video](https://youtu.be/Cn1ffXT1PS4).
+
+
+
+- Any fee schedule adopted under 66 FR 20500 ¶ 11, 12, or 13 (23 Apr 2001).
+
+I think we can  get most  of this in 240.17ad-22(e)(3)(ii) 
+
+
+
+
+
+
+
+
+
+
+# FN WF DTC Interactions on a More Institutionalized Side (Notes)
+
+Presumes a transitory framing of collaborating with brokers by positioning as replacing the DTCC and empowering them with a more efficient clearing and settlement system.
+
+## Dad Call (try for a single one upo to 4)§
+
+- Received a legal document from WF authorizing signatures with wet signatures.
+- Did not require medallions or ID certifications.¶
+- As commonplace in past chats, they rely on obtaining a "[legal] opinion from a big law firm, and if something goes wrong, they just sue the big law firm."
+
+Emailed DTC only.
+Did not conduct a call for that offering.
+(Implications of past TA email fraud on a $9M wire item.)
+
+Bank DWAC'd it out and can DWAC back to own custody via physical certificate.
+
+"I've been trying to get this done for a week. It's really stressing me out."
+
+Trustee may hold bond proceeds until project milestones.
+Interest paid post-bulk fundraising.
+
+#
+
+
+
+### section on future funding options
+
+something around - I have unsuccessfully applied for funding from the SDF or its related projects engaging in the disbursement of the network's native layer-1 utility token at least three times - centralization implications on dex
+
+
+
+
+

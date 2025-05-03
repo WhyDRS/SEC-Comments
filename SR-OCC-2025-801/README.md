@@ -1653,9 +1653,7 @@ What we need should DTC fail is nothing short of a completely new (inter)nationa
 [^DTCC-path]: _See_ documentation from Dr. Dan Awrey, J.D. and Joshua Macey, J.D., detailing the monopolization of market plumbing, _available at_ https://www.yalelawjournal.org/article/open-access. The authors detail how open-access and interoperability actually hindered the free market for clearing agencies, mandating them to all conform to common infrastructure. _Compare_ centralization here to the diverse competitive industry intended by Congress and the Commission _supra_ note {{^best-eff-mon}}.
 
 
----
-
-Here we can introduce the shared inter-agent standard available as an open stock transfer protocol.
+### Reccomenmdation #1: shared inter-agent standard available as an open stock transfer protocol.
 
 In this interview calling for a tightening of brokerage credit: (https://www.marketscreener.com/quote/stock/INTERACTIVE-BROKERS-GROUP-50014/news/Thomas-Peterffy-Talks-Trump-M-A-Cryptocurrencies-48573820/ - don't href)
 Just refer as with Bloomberg Radio "last year."
@@ -1676,45 +1674,6 @@ Lumen alignment footnote given the network effect and its corresponding impact o
 can href https://www.youtube.com/watch?v=OrpHfZcywJw&list=PLD_o9ntBnmGam9BuoTr_4cjPOksi1Dl1A&t=92 in support of former claim
 
 [^SDF-grants]: As may be relevant in the future, I have received approximately $227.39 worth of assets from the Stellar Development Foundation. I received consideration most recently for developer documentation bounties, and staff can review this work in its associated GitHub pull request, _available at_ https://github.com/stellar/stellar-docs/commit/a2961ace1761153b5e1b0296bfa59da2648cc0f5. Over the years, I've received other minor rewards for a collaborative online hackathon with my open-source code, _available at_ https://github.com/JFWooten4/FCA00C-asteroids. Due to the transparent nature of blockchain financial systems, anyone can permissionlessly view and critique this account activity through a block explorer, _available at_ https://stellar.expert/explorer/public/tx/1df8235ead4630006b56d9fb2e9c896cb13b74aacedb6d9fa766129474dcf0ea, https://stellar.expert/explorer/public/tx/9f537d66c78e33fec085ca860924af25888ded4df5a51f3968ef7b888c6063d0 (account validation), https://stellar.expert/explorer/public/tx/e6594e76f58f2b4c030160b5584287446c5e0037f7432d73f7c46559feedf437, and https://stellar.expert/explorer/public/tx/cca6b58d054918a686b3c89da263ee9f2d056dab3a835cda71a3b299ade3bfac, respectively. Moreover, the Syndicate received a $1,000 grant, available at https://stellar.expert/explorer/public/tx/f79d283272a2516ae6d778b03e88965ff4a5507af431900e69a85252ade31455, rewarding our submission to a technology hackathon, available at https://x.com/JFWooten4/status/1884270368770142288.
-
-### section on future funding options
-
-something around - I have unsuccessfully applied for funding from the SDF or its related projects engaging in the disbursement of the network's native layer-1 utility token at least three times - centralization implications on dex
-
-# FN WF DTC Interactions on a More Institutionalized Side (Notes)
-
-Presumes a transitory framing of collaborating with brokers by positioning as replacing the DTCC and empowering them with a more efficient clearing and settlement system.
-
-## Dad Call (try for a single one upo to 4)§
-
-- Received a legal document from WF authorizing signatures with wet signatures.
-- Did not require medallions or ID certifications.¶
-- As commonplace in past chats, they rely on obtaining a "[legal] opinion from a big law firm, and if something goes wrong, they just sue the big law firm."
-
-Emailed DTC only.
-Did not conduct a call for that offering.
-(Implications of past TA email fraud on a $9M wire item.)
-
-Bank DWAC'd it out and can DWAC back to own custody via physical certificate.
-
-"I've been trying to get this done for a week. It's really stressing me out."
-
-Trustee may hold bond proceeds until project milestones.
-Interest paid post-bulk fundraising.
-
-# SIPC Intricacies FOPOTNOTE
-
-These can be subverted in a footnote based on leadership actions that "jeopardized the safety, soundness, and stability of the United States financial system" per [H.Res. 1574](https://democrats-financialservices.house.gov/uploadedfiles/bills-118hres1574ih.pdf), as referenced in [this video](https://youtu.be/Cn1ffXT1PS4).
-
-
-
-- Any fee schedule adopted under 66 FR 20500 ¶ 11, 12, or 13 (23 Apr 2001).
-
-I think we can  get most  of this in 240.17ad-22(e)(3)(ii) 
-
-
-
-
 
 
 
