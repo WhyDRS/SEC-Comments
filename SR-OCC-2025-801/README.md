@@ -35,7 +35,7 @@ Comments on File Number SR-OCC-2025-801
 
 Hi,
 
-The recent [executive order promoting innovations](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/) asked our government to "identify all regulations, guidance documents, orders, or other items that affect the digital asset sector." Accordingly, we request a review of certain ownership exemptions under UCC Article 8 and transfer agent regulations in general. Transfer agents are the most direct means investors have for transacting in the market for stocks. Our national competitiveness in capital markets may depend on the regulations governing digital-asset providers of these services given a TAD.
+The recent [executive order promoting innovations](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/) asked our government to "identify all regulations, guidance documents, orders, or other items that affect the digital asset sector." Accordingly, we request a review of certain ownership exemptions under UCC Article 8 and transfer agent regulations in general. Transfer agents are the most direct means investors have for transacting in the market for stocks. Our national competitiveness in capital markets may depend on the regulations governing digital-asset providers of these services given a Transfer Agent Depository.
 
 We hope the new Crypto Task Force will consider rules directly protecting investor portfolios in the case of clearing agency insolvencies. Hopefully, an updated set of transfer agent governance will spur an innovative "market structure, oversight, consumer protection, and risk management" that empowers the Commission to protect an overlooked industry sector of increasing importance after the market events of four years ago, when several brokerages popular with retail elected to change access to certain securities to position close only without warning.
 
@@ -215,19 +215,9 @@ Two months after this interaction, my partner received a letter on January 6, st
 
 #### 1.1.1 More Shares Than Exist
 
-Unfortunately, Wall Street's system of rehypothecation routinely "expands" the total number of shares floating in the market, akin to a bank lending out more dollars than in its reserves. This was not legally possible before the 1994 amendments to the UCC, as investors through securities intermediaries had a hindered property interest in their portfolios.[^ucc-study-infr-prop] However, staff themselves readily disclose[^staff-shorting-infra] now that:
+Unfortunately, Wall Street's system of rehypothecation routinely "expands" the total number of shares floating in the market, akin to a bank lending out more dollars than in its reserves. This was not legally possible before the 1994 amendments to the UCC, as investors through securities intermediaries had a hindered property interest in their portfolios.[^ucc-study-infr-prop] However, staff themselves readily disclose[^staff-shorting-infra] now that: Short interest can exceed 100%—as it did with GME—when the same shares are lent multiple times by successive purchasers. If someone purchases a stock from a short seller and subsequently lends the stock out again, it will appear as if the stock was sold short twice for the purpose of the short interest calculation.
 
-> Short interest can exceed 100%—as it did with GME—when the same shares are lent multiple times by successive purchasers. If someone purchases a stock from a short seller and subsequently lends the stock out again, it will appear as if the stock was sold short twice for the purpose of the short interest calculation.
-
-
-<!-- TODO
-> 
-> for any given moment in time, one security can be attributed to multiple financial transactions
-
-
-https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-outs-of-collateral-re-use-20181221.html
-
--->
+In fact, a single located stock being sold twice is the least of the problem. In 2018 the Federal Reserve published a detailed note [^2018-fed-note] which described the use and re-use of collateral in extreme objective detail, providing not only a measure of the positives and negatives of the practice but the methods by which it is done. While rehypothication or locating shares for short positions can and does massively increase the amount of liquidity available in the market (and ensures that a healthy market exists for the collateral itself), it also means that at any given moment in time one security can be attributed to multiple financial transactions simultaneously. The "cost" identified in the note is that each of those transactions are linked together in a "collateral chain" which ultimately "have the potential to propagate uncertainties and amplify fragility in times of market stress". 
 
 This is only possible because of the fungibility of omnibus shares concentrated under the singular hands of Cede. Frankly, there have been too many examples of public record discrepancies to warrant material substantiation in relation to its impact on OCC's margining operations.[^eg-naked-shorts-later] One other prominent recent example of these factual inaccuracies can be trivially found in the bankruptcy of an issuer popular with individual investors. It went bankrupt two years ago with a disproportionate proportion of shares outstanding compared to those held under the Custodial Structure, according to centralized FAST declarative ownership data.
 
@@ -246,7 +236,7 @@ Thus, it would be impossible for all Cede claimants to bear rights to common sto
 
 [^bbby-sec]: _See_ Form 10-K filed the next quarter, _available at_ https://www.sec.gov/Archives/edgar/data/886158/000088615823000059/bbby-20230225.htm. At 2, the document reads: "The number of shares outstanding of the registrant’s common stock (par value $0.01 per share) at May 9, 2023: 739,056,836."
 
-
+[^2018-fed-note]:  _See_  https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-outs-of-collateral-re-use-20181221.html, an analysis of how a subset of primary dealers engage with collateral on a moment to moment basis.
 
 
 #### 1.1.2 Equivalent Outstanding Custodial Mishandling
@@ -278,7 +268,7 @@ Over the two business days after this assessed charge, Robinhood had to reach ou
 
 
 
-I have other cmoments about this event which I do not have time to elaborate on fully.[^11111] _See, e.g.,_ reamrks of Vlad when they say Robinhood only raised $2 billion in venture capital beforehand, then they mention how the DTCC uses "a little bit of an opaque formula" when discussing the VaR formula, which "is not fully transparent" and "there are ways to reverse-engineer it, but it's not, kind of, publicly shared. And then there's a special component which is discretionary, so that kind of acts as a multiplier."
+I have other comments about this event which I do not have time to elaborate on fully.[^11111] _See, e.g.,_ reamrks of Vlad when they say Robinhood only raised $2 billion in venture capital beforehand, then they mention how the DTCC uses "a little bit of an opaque formula" when discussing the VaR formula, which "is not fully transparent" and "there are ways to reverse-engineer it, but it's not, kind of, publicly shared. And then there's a special component which is discretionary, so that kind of acts as a multiplier."
 
 
 > Musk: "Discretionary meaning, it's just their opinion?"  
@@ -288,7 +278,6 @@ I have other cmoments about this event which I do not have time to elaborate on 
 #### 1.1.3 Other Thoughts: on Importance of Self-Custody
 
 As the Commission knows, the broker's $3.7 billion obligation to the Custodial Structure placed the intermediary at risk for insolvency given their $700 million in free collateralizable assets.[^staff-gme-study-BUTNOTSETUPYET-TODO] Accordingly, such Regime members, without public review or comment, elected to decrease obligations by $2 billion,[^rh-arg-main] an amount of money available by means of emergency Wall Street fundraising, quite possibly placing the stability of the entire financial system at stake. Should we trust our most meaningful periods of market volatility, such as Trade 385, in the hands of systems subject to fat-fingering or human-processing errors?
-
 
 Might we follow in the current Administration's objective "to maintain self-custody of digital assets," which are our familiar securities themselves?[^DA-EO] 
 
@@ -493,7 +482,7 @@ Congress found that some brokers are "thinly capitalized for a highly volatile e
 
 [^rofl]: _See_ _supra_ note {{^game-stopped}} at 97. _See also generally_ Key Finding #3. House staff note on the prior page that introduces this finding how several "member firms Committee staff interviewed either did not model for, or otherwise explicitly plan for" ECP charges before the PCO event.
 
-## 2. Couple Clear Unsolved Challenges
+## 2. Clear Unsolved Challenges
 
 Despite best offers from staff throughout an administration of intense individual investor advocacy, many of our structural market problems remain. We applaud the Commission for their exemplary efforts in XYZ_REG_NMS_tick_yya and implementing the universal proxy.[^pers]
 
@@ -1139,7 +1128,7 @@ If "any share you own you should have voting rights," then this community member
 
 In good faith,
 John Wooten
-Membert, WhyDRS
+Member, WhyDRS
 
 
 
