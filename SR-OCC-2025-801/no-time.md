@@ -384,7 +384,7 @@ Matching Service seeks to link with
 GJVMS more than five years after
 issuance of this order, GJVMS shall
 notify the Commission of the Other
-Central Matching Service's request to
+Cenal Matching Service's request to
 link with GJVMS within ten days of
 receiving such request.
 
@@ -484,24 +484,6 @@ I think we can  get most  of this in 240.17ad-22(e)(3)(ii)
 
 Presumes a transitory framing of collaborating with brokers by positioning as replacing the DTCC and empowering them with a more efficient clearing and settlement system.
 
-## Dad Call (try for a single one upo to 4)§
-
-- Received a legal document from WF authorizing signatures with wet signatures.
-- Did not require medallions or ID certifications.¶
-- As commonplace in past chats, they rely on obtaining a "[legal] opinion from a big law firm, and if something goes wrong, they just sue the big law firm."
-
-Emailed DTC only.
-Did not conduct a call for that offering.
-(Implications of past TA email fraud on a $9M wire item.)
-
-Bank DWAC'd it out and can DWAC back to own custody via physical certificate.
-
-"I've been trying to get this done for a week. It's really stressing me out."
-
-Trustee may hold bond proceeds until project milestones.
-Interest paid post-bulk fundraising.
-
-#
 
 
 
