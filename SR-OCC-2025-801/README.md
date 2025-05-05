@@ -68,25 +68,25 @@ Federal Preemption of Challenges in U.C.C. Article 8
 
 ## Terminus Narrative
 
-- GME problems (brief)
-- State law flaws
-- Intro FTDs
-- Frame as *centrality* around other banking stories
-- The control problems in bankruptcies
-- The profit motive through Apex (leveraging too-fine)
-- DAs from DTC’s great collateral theft
-- Programmatic access to [this](https://www.youtube.com/watch?v=DW6L2rcEKJM) is a very heavily edited video. Why do you think it is so heavily edited? Coinbase as parallel
-- Control frame on systems through 2006
-- Proposed tri-party system at n.17 https://www.govinfo.gov/content/pkg/FR-2025-02-26/pdf/2025-03071.pdf#page=2
+- ~~GME problems (brief)~~
+- ~~State law flaws~~
+- ~~Intro FTDs~~
+- ~~Frame as *centrality* around other banking stories~~
+- ~~The control problems in~~ bankruptcies
+- The profit motive ~~through Apex (leveraging too-fine)~~
+- ~~DAs from DTC’s great collateral theft~~
+- Programmatic access to Coinbase as parallel
+- ~~Control frame on ~~systems through 2006
+- ~~Proposed tri-party system at n.17~~
   - explaining how it's literally the DTC system
-  - go into the cross-margining and collateral
-  - overview of interconnected cross-margining
-- Inadequate risk prep via/per SIPC
-- How this is generally unknown
-  - CCAT talk
+  - ~~go into the cross-margining and collateral~~
+  - ~~overview of interconnected cross-margining~~
+- ~~Inadequate risk prep~~ via/per SIPC
+- ~~How this is generally unknown~~
+  - CAT talk
   - crypto roundtabling
   - other agent outreach
-- >> Community as solution
+- ~~>> Community as solution~~
 
 # Letter
 
@@ -94,9 +94,9 @@ Dear Ms. Countryman,
 
 We have been investigating the OCC's liquidity management plans for some time now.[^start-reen-fields] I have great concern over the proposed amendments as someone deeply self-interested in the American financial system functioning[^occm] so that my grandparents might enjoy their golden years without economic protection.[^occm-d] Should this operational change come into effect, "the stability of the broader financial system" could be placed at great risk for self-seeking "execution of the facility on commercially acceptable terms."[^src]
 
-I will fully explain my perspective here as concisely as possible given the present time constraints.[^timing] Getting these methodologies right means so much to me personally because I've seen the pain they can cause investors. As an anecdotal example, might I share the investing story of a close friend, Tim?
+I will fully explain my perspective here as concisely as possible given the present time constraints.[^timing] Getting these methodologies right means so much to me personally because I've seen the pain they can cause bonafide individual investors. As an anecdotal example, might I share the investing story of a close friend, Tim?
 
-During the month of January 2021, Tim had some of his last few thousand dollars in Robinhood, invested in naked GameStop calls. With contracts expiring January 29, he received a margin call three days before expiration via email. As staff understand, a major event occurred two days later when large swaths of the industry stopped investors from acquiring shares or options contracts, limiting accounts to position-close only (the "PCO event").[^pcco-intro]
+During the month of January 2021, Tim had some of his last few thousand dollars in Robinhood, invested in far out-of-the-money GameStop calls. With contracts expiring January 29, he received a margin call three days before expiration via email. As staff understand, a major event occurred two days later when large swaths of the industry stopped investors from acquiring shares or options contracts, limiting accounts to position-close only (the "PCO event").[^pcco-intro]
 
 Obviously, markets can't function when only one side of transaction volume may be expressed through exchange.[^oi-token] But Tim had a different problem with his OCC clearing member.[^rh-occ-clearing] The margin call in question was sent as an inconspicuous "digital communication notice" reviewable upon logging into a brokerage system.
 
