@@ -565,19 +565,51 @@ The FICC's cross-margining agreement with the CME is not the only cross-marginin
 
 Rather, I hope staff will suffice with a select few instances of OCC's arrangements as sufficient proof that the detrimental fall of options clearing services would take down the American financial system. Ever since loosening margin deposit requirements in SR-OCC-2007-04 to regular accounts, the OCC has widdled down a slippery slope of expanding their access to collateralizable margin.[^first-change] Chiefly, I find this particularly concerning due to the points brought up in note 4 of PREV.
 
+Among other rlevant agreements which the communty has bmaterailly commented on given their connection to interconntected risks between  cross-amrginned CCPs:
 
-.[^risklolll]
+- File Number SR-OCC-2022-802, _available at_ https://www.sec.gov/comments/sr-occ-2022-802/srocc2022802.htm
+- File Number SR-OCC-2022-803, _available at_ https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
 
-The custodial structure is thinly capitalized[^id-srac] :cF
+XYZABC
 
-[^id-srac]: _See_ 
+I find this concerning because of recent develops more explicit in  _infra_ § 2.4. Nsmrlyh, at 59:24 in ther scheme detailed _infra_ note {{^176}}, an agent ofe DTCC  demonstrates a marktert-meltodwon and country-banking-solvency-level risk through a faux emergency news broadcast. In an effort "[o]ptimizing margin across CCPs becomes more critical to firms[,]" the speaker explains how a simulated clearing mebmber is "overcollateralized at FICC but has a deficit at NSCC."
+
+"Currently, it is not possible to transfer assets between CCPs." [On the SCREEN]
+
+Rather than
+
+
+.[^risklolll] at from 59:24
+
+
+
+
+
+
+
+The custodial structure is thinly capitalized[^id-srac]
+
+
+
+need to  exploiitly state the FICC <-> NSCC point
 
 Congress found that some brokers are "thinly capitalized for a highly volatile environment[,]" including such firms which are clearing members at CCPs.[^rofl] If clearing members chose not to familiarize themselves with the inner workings of these cross-margining agreements, I worry they could face an instantaneous and nasty surprise in a downturn event which stresses their collateral requirements at any of the institutions OCC shares margining with. Namely, the industry proposes entire CCPs post collateral between themselves in _infra_ § 2.4.1 ¶¶ 6–9.
 
 
+
+[^id-srac]: _See_ _infra_ note {{^SBACC-me}}
+
+
 [^rofl]: _See_ _supra_ note {{^game-stopped}} at 97. _See also generally_ Key Finding #3. House staff note on the prior page that introduces this finding how several "member firms Committee staff interviewed either did not model for, or otherwise explicitly plan for" ECP charges before the PCO event.
 
-need to  exploiitly state the FICC <-> NSCC point
+
+[^lolll-id]: _Id._ _See also_ §§ 8–9, introducing contagion risk from large-participant defaults by the nature of cross-covered obligation guarantees. As the CTO of DTCC Digital Assets put it _supra_ note {{^dannny}}, "we took—to fix the [GFC] problem—what was too big to fail, and we turned it into too bigger to fail." Might concentrating all known collateral into a single entity only exacerbate this problem, as recently reposed and affirmed in an interview with this same individual, _available at_ https://youtube.com/clip/UgkxvR-0P5MQCn_bNr9L_6volUdIf_NAvM8L?
+
+[^ubs-gme]: For the latter claim, _see_ abrupt acquisition of equity in the last quarter of last year, _available at_ https://13f.info/manager/0001610520/cusip/36467W109. The CFTC found that the legacy swaps — generally uncleared by a derivatives clearing organization like the OCC — would remain compliant despite transferring ownership to the acquirer, _available at_ https://www.cftc.gov/PressRoom/PressReleases/9066-25. Should such systemic institutions really be allowed to maintain positions "entered into prior to the relevant compliance dates for the CFTC's margin and clearing requirements" if any CCP mishap could destroy the financial system, as discussed immediately after reviewing the Credit Suisse failure _infra_ note {{^SBACC-me}}?
+
+[^first-change]: This rule change was so out-of-line with existing interpretations of 17 CFR § 240.15c3-3 that the OCC requested accelerated approval to further their common operantus of denying public input, established in PREV n.117. _Compare_ this treatment of investor monies to the generally broader permission asked nearly two years prior to segregate margin "lien accounts" — which "would correspond to cross-margining agreements between OCC and other futures clearing organizations" like DTC — from general cash holdings in SR-OCC-2003-04, _available at_ https://www.sec.gov/files/rules/sro/occ/34-51330.pdf. Note 3 further cites examples of the OCC's agreements "with the Chicago Board Options Exchange ('CBOE'), American Stock Exchange, New York Stock Exchange ('NYSE'), Chicago Mercantile Exchange ('CME'), Chicago Board of Trade and various member firms... under which eligible customers may elect to establish accounts," accounts which OCC itself later cites "may be cross-margined with related futures products regulated exclusively by the Commodity Futures Trading Commission[.]" Should we subject all collateral to such treatment, without informing investors that their whole portfolio could receive a material haircut if any such firms cease operations?
+
+[^risklolll]: _See_ _infra_ note {{^street-name-2}} for implications of this unsafe practice. Staff back then drew the line to insolvency, and I see nothing but that option today. _See, e.g.,_ remarks by Dentzer _infra_ § 3.3 for concurrent opinions made public from CCP leadership. In conversations with C-suite executives or past highly related parties, I can publicly state that such views are not uncommon.
 
 #### 2.2.1 Material Other Apex Points
 
@@ -591,13 +623,6 @@ need to  exploiitly state the FICC <-> NSCC point
 
 
 
-[^lolll-id]: _Id._ _See also_ §§ 8–9, introducing contagion risk from large-participant defaults by the nature of cross-covered obligation guarantees. As the CTO of DTCC Digital Assets put it _supra_ note {{^dannny}}, "we took—to fix the [GFC] problem—what was too big to fail, and we turned it into too bigger to fail." Might concentrating all known collateral into a single entity only exacerbate this problem, as recently reposed and affirmed in an interview with this same individual, _available at_ https://youtube.com/clip/UgkxvR-0P5MQCn_bNr9L_6volUdIf_NAvM8L?
-
-[^ubs-gme]: For the latter claim, _see_ abrupt acquisition of equity in the last quarter of last year, _available at_ https://13f.info/manager/0001610520/cusip/36467W109. The CFTC found that the legacy swaps — generally uncleared by a derivatives clearing organization like the OCC — would remain compliant despite transferring ownership to the acquirer, _available at_ https://www.cftc.gov/PressRoom/PressReleases/9066-25. Should such systemic institutions really be allowed to maintain positions "entered into prior to the relevant compliance dates for the CFTC's margin and clearing requirements" if any CCP mishap could destroy the financial system, as discussed immediately after reviewing the Credit Suisse failure _infra_ note {{^SBACC-me}}?
-
-[^first-change]: This rule change was so out-of-line with existing interpretations of 17 CFR § 240.15c3-3 that the OCC requested accelerated approval to further their common operantus of denying public input, established in PREV n.117. _Compare_ this treatment of investor monies to the generally broader permission asked nearly two years prior to segregate margin "lien accounts" — which "would correspond to cross-margining agreements between OCC and other futures clearing organizations" like DTC — from general cash holdings in SR-OCC-2003-04, _available at_ https://www.sec.gov/files/rules/sro/occ/34-51330.pdf. Note 3 further cites examples of the OCC's agreements "with the Chicago Board Options Exchange ('CBOE'), American Stock Exchange, New York Stock Exchange ('NYSE'), Chicago Mercantile Exchange ('CME'), Chicago Board of Trade and various member firms... under which eligible customers may elect to establish accounts," accounts which OCC itself later cites "may be cross-margined with related futures products regulated exclusively by the Commodity Futures Trading Commission[.]" Should we subject all collateral to such treatment, without informing investors that their whole portfolio could receive a material haircut if any such firms cease operations?
-
-[^risklolll]: _See_ _infra_ note {{^street-name-2}} for implications of this unsafe practice. Staff back then drew the line to insolvency, and I see nothing but that option today. _See, e.g.,_ remarks by Dentzer _infra_ § 3.3 for concurrent opinions made public from CCP leadership. In conversations with C-suite executives or past highly related parties, I can publicly state that such views are not uncommon.
 
 
 [^no-more-NDAs-Ip=-poprpomise]: _Id._ _See also_ public comments from the CEO of a correspondent clearing firm, _available at_ https://rqdclearing.com/rqd-ushering-in-the-modern-clearing-solution-thats-required. While I cannot presently comment on the full depth of insights from this post and discourse on 11 Jul 2023, I would like to highlight a key quote to staff: "clearing has remained the same analog, batch-process-driven industry for the past 20+ years. That translates to increased risk, additional cost and an overall inability to meet the needs of today’s financial institutions."
@@ -817,7 +842,7 @@ Since this awakening, we've made every effort to share and collectively inform t
 
 [^street-name]: _See_ discussion from SEC investor education resources explaining the difference between direct registration and street-name registration, _available at_ https://www.sec.gov/reportspubs/investor-publications/investorpubsholdsec.htm.
 
-[^street-name-2]: _See_ Securities and Exchange Commission, _Report on the Practice of Naked Short Selling_, p. 19, referencing SRO preparedness and the 2008–2009 market crisis, _available at_ https://www.sec.gov/files/nakedshortselling.pdf.
+[^street-name-2]: _See_ staff _Report on the Practice of Naked Short Selling_, p. 19, referencing SRO preparedness and the 2008–2009 market crisis, _available at_ https://www.sec.gov/files/nakedshortselling.pdf.
 
 [^ccp-regime]: _See_ Committee on Payments and Market Infrastructures and the International Organization of Securities Commissions, _Principles for Financial Market Infrastructures_, noting risks associated with central counterparties and their impact on systemic risk propagation, _available at_ https://www.bis.org/cpmi/publ/d101a.pdf.
 
@@ -985,7 +1010,7 @@ _See also_ discussion of the study: https://github.com/WhyDRS/Taking-Stock/blob/
 
 Don Grande, Esq. co-authored the state action letter cited above and remains a leading advocate connecting grassroots educational work to legislative policy. _Last year_, he also co-authored an article with his wife titled, "You Don’t Own What You Think You Own,"[^state-stopping] underscoring the disconnect between legal title and actual investor control.[^state-stopping-ai]
 
-[^state-stopping-ai]: _See_ Don Grande’s article with his wife, _available at_ https://heartland.org/opinion/you-dont-own-what-you-think-you-own/. _See also_ Heartland Institute's full legislative alert discussing UCC Article 8 reforms, _available at_ https://heartland.org/wp-content/uploads/2024/01/1-26-24-UCC-Article-8-State-Legislative-Alert_Final.pdf. The alert emphasizes that "the Article 8 revisions did not do anything to reduce the likelihood of systemic risk." As of writing, UCC reform legislation is pending in South Dakota, Tennessee, North Dakota, Iowa, New Hampshire, Oklahoma, Utah, Texas, Arkansas, Montana, Louisiana, Wyoming, Connecticut, and Pennsylvania.
+[^state-stopping-ai]: _See_ Don Grande’s article with his wife, a public servant who spent twelve years studying and reforming the pension system in North Dakota, _available at_ https://heartland.org/opinion/you-dont-own-what-you-think-you-own. _See also_ Heartland Institute's full legislative alert discussing UCC Article 8 reforms, _available at_ https://heartland.org/wp-content/uploads/2024/01/1-26-24-UCC-Article-8-State-Legislative-Alert_Final.pdf. The alert emphasizes that the Article 8 revisions did not do anything to reduce the likelihood of systemic risk.
 
 [^state-stopping]: _See_ remarks of a leading investor advocate on the retirement security implications of UCC Article 8 in the short documentary _You Don’t Own What You Think You Own_, _available at_ https://youtu.be/Vbr3hfjVOxw. _See also_ pending South Dakota legislation at https://sdlegislature.gov/Session/Bill/25204/263148 (note: no audio available as of this writing).
 
