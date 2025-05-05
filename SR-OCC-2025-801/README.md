@@ -11,7 +11,8 @@ Status: Community Review
   file: SR-OCC-2025-801
   href: https://wooten.link/TAR1
 ```
-<!-- please phrase `extends` starting extension as "My comments in re..."  -->
+
+
 
 # Non-Letter Content
 
@@ -488,29 +489,16 @@ As the Commission knows, Article 8 of the UCC created these entitlements in 1994
 
 [^UCC-year]: While we appreciate that about half of our great Nation's States amended their codes two years ago, particularly section 8 thereof, these changes do not address the material concerns we have over the protection of investor assets held in retirement, health-savings, or any other entitlement accounts. We will detail these challenges later, which were introduced in their entirety in the 1994 amendments.
 
-[^overvoting-fabrication]: _See, e.g.,_ an internal transfer agent service document describing six ways to truncate or otherwise throw out votes in elections where more shares are voted than exist, _available at_ https://wooten.link/overvoting-fabrication.  Should  agnets  relly need to resort ot throwing away  votes becaue  the  Custodial Sturcture allows more shares to  ccirculate than exist?
+[^overvoting-fabrication]: _See, e.g.,_ an internal transfer agent service document describing six ways to truncate or otherwise throw out votes in elections where more shares are voted than exist, _available at_ https://wooten.link/overvoting-fabrication. Should agents really need to resort to throwing away votes because the Custodial Structure allows more shares to circulate than exist?
 
-[^BASIC-UCC]: _See_ remarks on the BANKING AND SECURITIES INDUSTRY COMMITTEE amendments to UCC in 1972, mentioned in File No. S7-27-15 (the "concept release") at n.62, _available at_ https://www.sec.gov/files/rules/concept/2015/34-76743.pdf; enabling the custodianship and immobilization necessary for margin loans, _available at_ https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf#page=69. Upon the adoption of these new State laws, "DTC commenced taking steps to implement the long-desired broadening of its ownership, even though a small percentage of its eligible issues would be from non-enacting states." As the Commission knows, this ownership stake often exceeds 99.9% of public issuers, presenting an immense centralization risk should its nominee partnership face any threats.
+[^BASIC-UCC]: _See_ remarks on the Banking And Securities Industry Committee's amendments to the UCC in 1972, mentioned in File No. S7-27-15 (the "concept release") at n.62, _available at_ https://www.sec.gov/files/rules/concept/2015/34-76743.pdf; enabling the custodianship and immobilization necessary for margin loans, _available at_ https://www.sechistorical.org/collection/papers/1980/1984_0401_BasicTeamwork_1.pdf#page=69. Upon the adoption of these new State laws, "DTC commenced taking steps to implement the long-desired broadening of its ownership, even though a small percentage of its eligible issues would be from non-enacting states." As the Commission knows, this ownership stake often exceeds 99.9% of public issuers, presenting an immense centralization risk should its nominee partnership face any threats.
 
-[^FSU-UCC]: _See_ Florida State University Law Review's article: _A Critical Look at Secured Transactions Under Revised UCC Article 8_, _available at_ https://ir.law.fsu.edu/lr/vol14/iss4/2. In 1987, Dr. Paul B. Rasor, Ph.D. therein states:
-> The extension of Article 8 to uncertified shareholder interests did not have anything to do with the problems of secured lenders. Instead, it grew out of the so-called "paperwork crunch" which came to a head in the late 1960s in the securities industry... financial intermediaries and other bailees will presumably have records showing which notices were received when. Nothing in the revised Article 8 affects this.
+[^FSU-UCC]: _See_ Florida State University Law Review's article: _A Critical Look at Secured Transactions Under Revised UCC Article 8_, _available at_ https://ir.law.fsu.edu/lr/vol14/iss4/2. In 1987, Dr. Paul B. Rasor, Ph.D. therein states: "The extension of Article 8 to uncertified shareholder interests did not have anything to do with the problems of secured lenders. Instead, it grew out of the so-called 'paperwork crunch' which came to a head in the late 1960s in the securities industry... financial intermediaries and other bailees will presumably have records showing which notices were received when. Nothing in the revised Article 8 affects this."
 
 
-### 2.1 Placeholder for section numbering [intentionally left blank]
 
-~~~
-#### pls delete if not used 🤝
+### 2.1 Dual Themes Explored Throughout
 
-Holy fucking shit, they can't have FTDs because "Under revised Article 8, there can be only one registered pledge of an uncertificated security at a time." at 883.
-Statute citation is note 114. ({^FSU-UCC})
-
-Plainly, there were no FTDs before the 1994 amendments to the UCC. --I wonder if SEC comm staff aware of this? I would expect that they would be, it's a pretty major part of the infrastructure history--
-^ go into the 86 and 88 history from Jack, others[!!!! paritally debunked at Jack's review comments PR (https://github.com/WhyDRS/SEC-Comments/pull/25) !!!!]
-
-The ULC argues in _infra_ note 41.
-
-Information on how the system worked for custodianship and immobilization is in 61 to 64.
-~~~
 
 #### 2.1.1 Management Routing Profit Decisions
 
@@ -691,7 +679,7 @@ Ms. Countryman, recently, the Depository Trust & Clearing Corporation ("DTCC") g
 
 [^bugs]: _See, e.g.,_ large systemic problems caused by a bottlenecked source of service, _available at_ https://youtu.be/VGJkDm0_G-U, https://lnns.co/ZUiKQN58hb2, and https://youtu.be/tLdRBsuvVKc.
 
-[^???control]: By this point, I sincerely hope I've established how meaningful this term is in relation to U.C.C. Art. 8. However, I would be happy to speak with staff at any time to continue this explanation if unclear. _See, e.g.,_ contact points shared with a Head of Examinations at the New York Regional Office.
+[^???control]: By this point, I sincerely hope I've established how meaningful this term is in relation to UCC Art. 8. However, I would be happy to speak with staff at any time to continue this explanation if unclear. _See, e.g.,_ contact points shared with a Head of Examinations at the New York Regional Office.
 
 #### 2.4.1 Tri-Party Collateral Liquidation Automation
 
@@ -1114,7 +1102,7 @@ A dialogue of the thought process can be found at https://wooten.link/expanding-
 
 I have been preparing this comment for over a year, and there are many[^st-john-ucc] more[^SBACC-me] items [pending‑collapsible‑fn] I would like to include as proof of this impending fraudulent market crisis. However, the events detailed in _supra_ § 2 lead me to believe that I can wait no longer to bring these matters to the Commission. Thank you, and God bless America!
 
-[^st-john-ucc]: _See_ Francis J. Facciolo, J.D., “Father Knows Best? The 1994 Revisions to U.C.C. Article 8,” written after six years of study, _available at_ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf.
+[^st-john-ucc]: _See_ Francis J. Facciolo, J.D., "Father Knows Best? The 1994 Revisions to U.C.C. Article 8," written after six years of study, _available at_ https://www.stjohns.edu/sites/default/files/uploads/facciolo-father-knows-best.pdf.
 
 [^SBACC-me]: _See_ Aaron Wishart on FDIC policy (Division of Complex Institution Supervision and Resolution), _available at_ https://youtu.be/zZMKIoI420w; from the FDIC Systemic Resolution Advisory Committee meeting, October 15 2024, _available at_ https://www.fdic.gov/advisory-committees/events/fdic-systemic-resolution-advisory-committee-meeting-october-15-2024.
 

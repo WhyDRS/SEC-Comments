@@ -1128,3 +1128,19 @@ backlogged foia: 17 See Securities Exchange Act Release No. 13091
 <!-- I weould apperciatge if this was crafted without swear words, which is osmething I cannot do rn 🚀 -->
 DTCC fucking specifically hrefs the control locale of 802b in https://www.sec.gov/files/ctf-memo-dtcc-040725.pdf
 backlinks  17 CFR § 240.15c3-3(b)(1)  🤯🤦‍♂️
+
+
+old § 2.1: 
+~~~
+#### pls delete if not used 🤝
+
+Holy fucking shit, they can't have FTDs because "Under revised Article 8, there can be only one registered pledge of an uncertificated security at a time." at 883.
+Statute citation is note 114. ({^FSU-UCC})
+
+Plainly, there were no FTDs before the 1994 amendments to the UCC. --I wonder if SEC comm staff aware of this? I would expect that they would be, it's a pretty major part of the infrastructure history--
+^ go into the 86 and 88 history from Jack, others[!!!! paritally debunked at Jack's review comments PR (https://github.com/WhyDRS/SEC-Comments/pull/25) !!!!]
+
+The ULC argues in _infra_ note 41.
+
+Information on how the system worked for custodianship and immobilization is in 61 to 64.
+~~~
