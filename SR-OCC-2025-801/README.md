@@ -21,7 +21,7 @@ Status: Community Review
 
 to: `rule-comments@sec.gov`
 
-cc: `foiapa@sec.gov` (note for the Pollack Study as _Id._  to note 22 of 64 FR 57996) 
+cc: `foiapa@sec.gov`
 
 cc: `crypto@sec.gov`
 
@@ -41,7 +41,8 @@ We hope the new Crypto Task Force will consider rules directly protecting invest
 
 FOIA Services,
 
-Please see request in note 24329.
+Please see our request in note {{^foia}} at {{PAGE#}}.
+
 
 In good faith,  
 [Name]  
@@ -579,7 +580,7 @@ Rather, I hope staff will suffice with a select few instances of OCC's arrangeme
 
 Hopefully by this point we've established that the CCPs are very thinly capitalized.[^risklolll]
 
-The custodial structure is thinly capitalized[^id-srac] :c
+The custodial structure is thinly capitalized[^id-srac] :cF
 
 [^id-srac]: _See_ 
 
@@ -823,7 +824,7 @@ Or at least, it's supposed to be a fair equivalency, but very few investors hold
 
 An investor's portfolio shouldn't be outside of their custody, and it doesn't need to be anymore with modern technology. I dream of a nearby future where stocks are registered and owned outright in your own name. When you pay good money to a seller, shouldn't your portfolio be your own property?
 
-Unfortunately, no matter your age, today's market does not deliver legal ownership in any regard, and especially under the UCC. Indeed, it hasn't been the case since the unintended monopolization of the clearing and settlement market many decades ago, despite both the Commission's and Congress' best efforts.[^best-eff-mon] As staff understand fully, this reality has narrowly averted public catastrophe for decades.[^other-3-ex]
+Unfortunately, no matter your age, today's market does not deliver legal ownership in any regard, and especially under the UCC. Indeed, it hasn't been the case since the unintended monopolization of the clearing and settlement market many decades ago, despite both the Commission's and Congress' best efforts.[^best-eff-mon] As staff understand fully,[^foia] this reality has narrowly averted public catastrophe for decades.[^other-3-ex]
 
 
 [^rh-name-intro]: _See_ _supra_ note {{^sell-err-support}} detailing trading restrictions from operational inadequacies. These experiences include services being "unavailable" during market hours when trying to sell securities.
@@ -1142,3 +1143,5 @@ Member, WhyDRS
 
 4. The contents of this letter are made freely available under the GNU Free Documentation License, because Wall Street shouldn't operate behind a veil of copyright protections, _available at_ https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE.
 
+
+[^foia]: See, e.g., staff's reference to the Pollock Study, one of the first documents referenced on naked shorting, _available at_ https://www.govinfo.gov/content/pkg/FR-1999-10-28/pdf/99-27879.pdf#page=3 n.22. Despite being cited _supra_ note {{^phnom-shaees}} as a "famous" study inspiring one of the most iconic Haverford publications at the brink of the GFC, our community has been unable to locate such document after extensive study, including outreach to FINRA itself, which commissioned the work. Accordingly, we respectfully request the Commission share this study. In accordance with 5 U.S.C. § 552, WhyDRS will pay $1,000 for this request. As a 501(c)(3) public-benefit nonprofit, might staff add a fee waiver since this document adds so much to the public knowledge of market settlement? This request neither requires expedited service nor is primarily in our commercial interest.
