@@ -316,7 +316,7 @@ The DTCC itself admits that the Custodial Structure "cannot guarantee that their
 
 [^fragmentation-img]: _See, e.g.,_ work from The MITRE Corp., Tyler Gray, Brendan Tivnan, and Christopher Danforth reproduced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), _available at_ https://doi.org/10.1371/journal.pone.0226968. Many of the eleven esteemed authors thereof represent two established American universities, and seven of them are affiliated with a 501(c)(3) established to advance national security and serve the public interest. Their findings reveal over $160 million of arbitrage profits stemming from latency ties between the complex exchange routes, securities information processors ("SIP"), and direct geographical feeds.
 
-[^married-puts]: _See, e.g.,_ use of married puts amongst a select few market participants to opportunistically extend their leveraged borrowings against a certain issue, _available at_ https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of, https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux, and https://www.reddit.com/r/GME/comments/mi8mo9/legal_interpretation_of_the_proposed_srdtc2021005. The last post specifically introduces the community to material further explored _infra_ note {{^occ-dtcc-plerdgingb}}, allowing FTD resets through the collateral loan program duly adopted in the related SRO change. While the amendment seems to attempt forced underlying delivery between the DTC and OCC, it also directly detracts from clearing members' available margin deposits during suspension.
+[^married-puts]: _See, e.g.,_ use of married puts amongst a select few market participants to opportunistically extend their leveraged borrowings against a certain issue, _available at_ https://wooten.link/married-put-mm-exemptions, https://wooten.link/hidden-shorts-data-pt2, and https://wooten.link/modifying-pledge-ownership. The last post specifically introduces the community to material further explored _infra_ note {{^occ-dtcc-plerdgingb}}, allowing FTD resets through the collateral loan program duly adopted in the related SRO change. While the amendment seems to attempt forced underlying delivery between the DTC and OCC, it also directly detracts from clearing members' available margin deposits during suspension.
 
 [^occ-waiving]: _See, e.g.,_ amendments to OCC’s recovery and orderly wind-down plan which increase reliance on human judgment at the expense of actual margining algorithms, _available at_ https://www.sec.gov/files/rules/sro/occ/2023/34-97785.pdf. "Rather than rely on a few of many possible events that could trigger a wind-down, the proposed revisions to the RWD Plan would move to a single WDP Trigger Event based on a determination by OCC's Board of Directors[,]" reads the approved release at 13. Should we trust the self-interested boardrooms of Wall Street with the solvent function of our financial system over and above proven algorithmic margin systems designed by at least dozens of staff engineers?
 
@@ -357,7 +357,7 @@ From this and many other events, some in our community interpret systemic underl
 
 [^my-req]: _See_ request 24-01211-E from note 120 of PREV. I called both the public FOIA office and the research specialist assigned to the request case at least three times. Given the request was publicly acknowledged as properly formatted, do staff believe I should reach out to the Office of Government Information Services for the third time?
 
-[^ex-intro-mm]: _See, e.g.,_ recent remarks in response to an alert that a particular security was worth many thousands of dollars per share, despite the reality that it is presently valued at a small fraction thereof, _available at_ https://x.com/Python0o/status/1890464983445545037. _See also_ derivative products _supra_ note {{^rh-fractional-filings}} which attained this level of price action for some investors before transactional capability was unilaterally revoked from tens of millions of investors at over 150 broker-dealers, _available at_ https://www.reddit.com/r/Superstonk/comments/12gjugb/fractional_gme_shares_were_selling_for_512450_per. While some of these events may be attributable to human error, as was the case of the bank teller, others seem more inexplicably linked to the opaque operations of certain systemic industry participants.
+[^ex-intro-mm]: _See, e.g.,_ recent remarks in response to an alert that a particular security was worth many thousands of dollars per share, despite the reality that it is presently valued at a small fraction thereof, _available at_ https://x.com/Python0o/status/1890464983445545037. _See also_ derivative products _supra_ note {{^rh-fractional-filings}} which attained this level of price action for some investors before transactional capability was unilaterally revoked from tens of millions of investors at over 150 broker-dealers, _available at_ https://wooten.link/fractional-top. While some of these events may be attributable to human error, as was the case of the bank teller, others seem more inexplicably linked to the opaque operations of certain systemic industry participants.
 
 [^apex-sec-ipo]: As the Commission knows, Apex attempted to go public through a $4.7 billion post-money reverse merger four years ago through its former parent Apex Clearing Holdings LLC, as detailed in a Form 425 filing from the acquirer, _available at_ https://www.sec.gov/Archives/edgar/data/1834518/000119312521049864/0001193125-21-049864-index.htm. However, the purchase and subsequent PIPE financings fell through after the incidents of late January that year. Exhibit 99.1 therein boasts about Apex's "over 200 clients representing more than 13 million customer accounts" which generated an "[i]ndustry leading" prior-year "operating revenue of approximately $236 million" at nearly 40% gross margins.
 
@@ -447,7 +447,7 @@ Thus, it is generally understood that "hundreds of other firms that clear their 
 
 Apparently, it was one of those market maker venues which "encountered a technical issue" and "since canceled pending orders" and left me stuck in a failing trade overnight.[^sell-err-support-3] Congress highlighted the vulnerability investors face when their brokers singlehandedly route trades to central liquidity sources, documenting that many such firms not subject to Regulation SCI "faced system outages and other operational concerns."[^house-reg-sci-subsec] Unfortunately, this is not the only time a broker did not act in my best interest as an individual investor when trading volatile stocks.
 
-[^ringingbells]: _See, e.g.,_ exceptional previous work analyzing holes left open by Congressional evaluations of market-changing events, _available at_ https://www.reddit.com/r/Superstonk/comments/181cuqr/proof_expos%C3%A9_calculation_of_doddfrank.
+[^ringingbells]: _See, e.g.,_ exceptional previous work analyzing holes left open by Congressional evaluations of market-changing events, _available at_ https://wooten.link/data-expose.
 
 [^game-stopped]: _See_ report on the PCO event of four years hence, prepared over the course of sixteen months by the majority staff of the House Committee on Financial Services, _available at_ https://democrats-financialservices.house.gov/uploadedfiles/6.22_hfsc_gs.report_hmsmeetbp.irm.nlrf.pdf.
 
@@ -782,12 +782,12 @@ For further dialogue, I encourage staff to view remarks from respected community
 
 Much of our work stems from the unique structure and regulation of American securities markets. For reasons I still barely understand, a whole lot of other people just can't stop wondering about our market structure—namely, how to make it actually work. As a permissionless global community, we receive lots of feedback through our public forums from international investors.
 
-One such insight stemming from these discussions starkly digs into my mind at night. Briefly, in the United Kingdom, transfer agents must legally disclose that nominees are responsible for paying their investors in the case of insolvency, not the issuer's agent. We believe more Americans would take advantage of the DRS if they understood this custodial implication.
+One such insight stemming from these discussions starkly digs into my mind at night. Briefly, across the pond, transfer agents must legally disclose that nominees are responsible for paying their investors in the case of insolvency, not the issuer's agent.[^dicss] We believe more Americans would take advantage of the DRS if they understood this custodial implication.
+
+[^dicss]: _See_ Regulation (EU) No 909/2014 of the European Parliament on central securities depositories, art. 38(6), 2014 O.J. (L 257) 1.
 
 
-
-
-I am writing to you on behalf of WhyDRS, a decentralized unincorporated nonprofit association ("DUNA") of thousands of individual investors. We are both the first American DUNA and a recently-approved IRS public 501(c)(3) charitable organization.[^start-duna] We sincerely appreciate staff's diligent efforts over the past few years of our collective outreach.[^ncs] It is a beautiful and appreciated reality that our incredible American institution provides a publicly accessible way to submit issues for public comment, and assurance that those submissions will not only be displayed publicly in kind but that they will be reviewed and considered by bright financial minds.
+Now, I am writing to you on behalf of WhyDRS, a decentralized unincorporated nonprofit association ("DUNA") of thousands of individual investors. We are both the first American DUNA and a recently-approved IRS public 501(c)(3) charitable organization.[^start-duna] We sincerely appreciate staff's diligent efforts over the past few years of our collective outreach.[^ncs] It is a beautiful and appreciated reality that our incredible American institution provides a publicly accessible way to submit issues for public comment, and assurance that those submissions will not only be displayed publicly in kind but that they will be reviewed and considered by bright financial minds.
 
 Our Association stemmed largely from the unprecedented shutdown of market operations on 28 Jan 2021.[^cong] I believe in the capacities of our regulatory system to innovate and promote the three core tenets of the Commission's mission. However, four years later, our great financial system still faces a well-known sweltering threat able to subvert even the most prudent rules set by this great Commission.
 
@@ -932,7 +932,7 @@ To sum, we are building on top of well-defined cryptographic norms of both colla
 
 [^california]: _See, e.g.,_ Overstock case documents released by _The Economist_ among a plethora of evidence detailing brokers' abuse of central clearing and settlement systems, _available at_ https://wooten.link/economist-suit. Our fun learning how these FTDs destroy markets helps fuel a growing passion for an effective and decentralized market system.
 
-[^darkpool-50]: _See, e.g.,_ analysis of the largest market counterparty failures during the buy-button event four short years ago, _available at_ https://www.reddit.com/r/Superstonk/comments/1hxllrt/a_brief_history_of_gamestop_from_meme_to_moass. We all independently revolt against Wall Street's immense central control through our understanding of and actions reforming the NMS.
+[^darkpool-50]: _See, e.g.,_ analysis of the largest market counterparty failures during the buy-button event four short years ago, _available at_ https://wooten.link/carpet-brief-history. We all independently revolt against Wall Street's immense central control through our understanding of and actions reforming the NMS.
 
 [^intro-blockchain]: _See_ concept release note 421.
 
@@ -1105,7 +1105,7 @@ For example, see remarks from respected community member WhatCanIMakeToday, pres
 
 ![scam‑lol](imgs/whatcan-bailout-flow-pensions.png)
 
-A dialogue of the thought process can be found at https://www.reddit.com/r/Superstonk/comments/w7zy4c/occ_filing_of_advance_notice_expanding_nonbank.
+A dialogue of the thought process can be found at https://wooten.link/expanding-liquidity-facilities.
 
 
 
