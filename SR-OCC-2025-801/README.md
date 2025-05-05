@@ -339,8 +339,9 @@ The DTCC itself admits that the Custodial Structure "cannot guarantee that their
 
 
 
-#### 1.1.4 [write community subsubsection here]
+#### 1.1.4 Markets Bending for One Issuer
 
+1.1.4- this brought to mind the resliency of GME, the entire financial system had sledge hammers out for GME, and it nearly broke the whole world markets.
 
 _See_ _supra_ note {{^bailout-chat}}, _infra_ § 2, and advance notice at n.17. Should the OCC really have access to large institutional money market funds if "we're going to be in a pretty heavy systemic crisis" where "a reservoir of pre-funded resources that can be accessed only in resolution might be necessary to enable CCP clearing service to continue to operate"? These are not unknown foreign risks which clearing members themselves are unaware of, so why then can these firms not deal with the risk management themselves if "[w]hen you talk to the clearing members at very senior levels, they say they're worried about the risk in CCPs and the fact that they are exposed to these risks, both the mutualized default and the non-default"? Cunliffe goes on to explain the conflict of interests between clearing members minimizing trade execution costs while having less direct influence over the CCP than ideal.
 
@@ -405,7 +406,7 @@ This tendency towards efficient digital systems held top-of-mind for me when I w
 
 As I quickly learned through the unexpected launch of certain tokens related to the President's inauguration, we have an exciting time ahead of us to define where exactly the lines lay in our human market interpretations. We can see these nuances initially identified by Commissioner Uyeda as they examine the materiality of missing disclosures which do not demonstrate "investors were financially harmed."[^uyeda-id]
 
-As certain efficiency interests purport to investigate the esteemed Commission in the coming months, I sincerely hope my personal vote of confidence in the present Administration supports staffs' best efforts to further our shared three critical missions.[^backlink-edgar] No other national securities regulator handles such nuanced complexities as the Commission given our most advanced, developed, and liquid capital market. I'm continually amazed at how well staff balance such diverse and interrelated interests, statutes, and public policies in the interest of serving the American investor.
+As someone whose family members have served federal agencies for decades, I look forward to our renewed opportunity to efficiently further our shared three critical missions.[^backlink-edgar] No other national securities regulator handles such nuanced complexities as the Commission given our most advanced, developed, and liquid capital market. I'm continually amazed at how well staff balance such diverse and interrelated interests, statutes, and public policies in the interest of serving the American investor.
 
 
 
@@ -420,7 +421,7 @@ For decades at this point, the processing of short sales has been top-of-mind fo
 
 [^uyeda-id]: _Id._ at §§ II–III.
 
-[^backlink-edgar]: _See, e.g.,_ application of efficiency principles in EDGAR automation for the driving end of facilitating small-business access to capital, _available at_ https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf. Namely, we circle back to the guiding principles I personally admire as an investor in our markets first and foremost throughout my early career in § V.D. In an age where so few innovators tap our public markets for their expansions, might a more decentralized capital allocation system best involve our great national population in the businesses of tomorrow, rather than a select few Sand Hill institutions.
+[^backlink-edgar]: _See, e.g.,_ application of efficiency principles in EDGAR automation for the driving goal of facilitating small-business access to capital, _available at_ https://www.sec.gov/comments/s7-15-23/s71523-301019-767522.pdf. Namely, we circle back to the guiding principles I personally admire as an investor in our markets first and foremost throughout my early career in § V.D. In an age where so few innovators tap our public markets for their expansions, might a more decentralized capital allocation system best involve our great national population in the businesses of tomorrow, rather than a select few Sand Hill institutions?
 
 [^apex-sub-agr]: _See_ Exhibit 10.1 filed in connection with _supra_ note {{^apex-sec-ipo}}, _available at_ https://www.sec.gov/Archives/edgar/data/1834518/000119312521049864/d137294dex101.htm.
 
