@@ -277,7 +277,7 @@ I have other comments about this event which I do not have time to elaborate on 
 
 #### 1.1.3 Other Thoughts: on Importance of Self-Custody
 
-As the Commission knows, the broker's $3.7 billion obligation to the Custodial Structure placed the intermediary at risk for insolvency given their $700 million in free collateralizable assets.[^staff-gme-study-BUTNOTSETUPYET-TODO] Accordingly, such Regime members, without public review or comment, elected to decrease obligations by $2 billion,[^rh-arg-main] an amount of money available by means of emergency Wall Street fundraising, quite possibly placing the stability of the entire financial system at stake. Should we trust our most meaningful periods of market volatility, such as Trade 385, in the hands of systems subject to fat-fingering or human-processing errors?
+As the Commission knows and documented _infra_ note {{^staff-gme-study}}, the broker's $3.7 billion obligation to the Custodial Structure placed the intermediary at risk for insolvency given their $700 million in free collateralizable assets. Accordingly, such CCP members, without public review or comment, elected to decrease obligations by $2 billion,[^rh-arg-main] an amount of money available by means of emergency Wall Street fundraising, quite possibly placing the stability of the entire financial system at stake. Should we trust our most meaningful periods of market volatility, such as Trade 385, in the hands of systems subject to fat-fingering or human-processing errors?
 
 Might we follow in the current Administration's objective "to maintain self-custody of digital assets," which are our familiar securities themselves?[^DA-EO] 
 
@@ -471,17 +471,6 @@ Apparently, it was one of those market maker venues which "encountered a technic
 
 
 
-
-#### PLEASE MEK THIS A FOOTNOTE idfk Next thing, continuing connect to financial system
-
-The custodial structure is thinly capitalized[^id-srac] :c
-
-[^id-srac]: _See_ _supra_ note {{^bailout-chat}} at 2:44:00, Cunliffe says, "CCP capital is generally pretty small relative to the size of their operations." Staff themselves seem to concur with this concern when considering any potential bailout from the Federal Reserve _infra_ note {{^street-name-2}}. _See also_ remarks of leading advocacy constituent at the video clip linked in note 16 of PREV, stating that "the central clearing counterparties are very thinly capitalized."
-
-Congress found that some brokers are "thinly capitalized for a highly volatile environment[,]" including such firms which are clearing members at CCPs.[^rofl]
-
-[^rofl]: _See_ _supra_ note {{^game-stopped}} at 97. _See also generally_ Key Finding #3. House staff note on the prior page that introduces this finding how several "member firms Committee staff interviewed either did not model for, or otherwise explicitly plan for" ECP charges before the PCO event.
-
 ## 2. Clear Unsolved Challenges
 
 Despite best offers from staff throughout an administration of intense individual investor advocacy, many of our structural market problems remain. We applaud the Commission for their exemplary efforts in XYZ_REG_NMS_tick_yya and implementing the universal proxy.[^pers]
@@ -589,11 +578,22 @@ Rather, I hope staff will suffice with a select few instances of OCC's arrangeme
 
 Hopefully by this point we've established that the CCPs are very thinly capitalized.[^risklolll]
 
+The custodial structure is thinly capitalized[^id-srac] :c
+
+[^id-srac]: _See_ 
+
+Congress found that some brokers are "thinly capitalized for a highly volatile environment[,]" including such firms which are clearing members at CCPs.[^rofl] If clearing members chose not to familiarize themselves with the inner workings of these cross-margining agreements, I worry they could face an instantaneous and nasty surprise in a downturn event which stresses their collateral requirements at any of the institutions OCC shares margining with. Namely, the industry proposes entire CCPs post collateral between themselves in _infra_ § 2.4.1 ¶¶ 6–9.
+
+
+[^rofl]: _See_ _supra_ note {{^game-stopped}} at 97. _See also generally_ Key Finding #3. House staff note on the prior page that introduces this finding how several "member firms Committee staff interviewed either did not model for, or otherwise explicitly plan for" ECP charges before the PCO event.
+
+need to  exploiitly state the FICC <-> NSCC point
+
 #### 2.2.1 Material Other Apex Points
 
-- _See_ _supra_ note {{^id-srac}}.
+- _See_ _supra_ note {{^bailout-chat}} at 2:44:00, Cunliffe says, "CCP capital is generally pretty small relative to the size of their operations." Staff themselves seem to concur with this concern when considering any potential bailout from the Federal Reserve _infra_ note {{^street-name-2}}. _See also_ remarks of leading advocacy constituent at the video clip linked in note 16 of PREV, stating that "the central clearing counterparties are very thinly capitalized."
 
-- _See, e.g.,_ FINRA Fines Apex Clearing $3.2 Million for Violations Relating to Fully Paid Securities Lending Program, including punishment for an $18M payment of cash in lieu of dividends, _available at_ https://www.finra.org/media-center/newsreleases/2025/finra-fines-apex-clearing-32-million-violations-relating-fully-paid. _See also_ full order at note 4 explaining how these payments are "subject to higher tax rates[,]" _available at_ https://www.finra.org/sites/default/files/2025-02/Apex_Clearing_Corp_AWC_20210721204.pdf#page=4. This went on for over four years despite material warning from Dr. T.
+- _See, e.g.,_ FINRA fining Apex $3.2 million for lending securities out of accounts not subject to proper lending arrangements, including punishment for an $18M payment of cash in lieu of dividends, _available at_ https://www.finra.org/media-center/newsreleases/2025/finra-fines-apex-clearing-32-million-violations-relating-fully-paid. _See also_ full order at note 4 explaining how these payments are "subject to higher tax rates[,]" _available at_ https://www.finra.org/sites/default/files/2025-02/Apex_Clearing_Corp_AWC_20210721204.pdf#page=4. This went on for over four years despite material warning from Dr. T.
 
 - Apex "wasn't prepared to post those funds," per _supra_ note {{^apex-fine-foreshadow}} at 7.
 
@@ -705,7 +705,7 @@ Ms. Countryman, recently, the Depository Trust & Clearing Corporation ("DTCC") g
 [^soc-gens]: _Id._ All parties displayed as test participants in a demonstration involving the simulated liquidation of collateral through an automated smart contract interface.
 
 
-1. There are two tri-party collateral arrangements shown:
+2. There are two tri-party collateral arrangements shown:
 
 - Euroclear <-> Wellington (–$8.8 million "deficit")
 - BNY <-> SocGen ($10 million "excess")
@@ -720,7 +720,7 @@ Ms. Countryman, recently, the Depository Trust & Clearing Corporation ("DTCC") g
 
 [^176]: Presentation at 1:01:18. Timestamps throughout reference a local recording of the content, _available at_ https://youtu.be/ybMvyDjziNw.
 
-[^177]: For materiality of agreement type, _see_ _infra_ § 2.3.2.
+[^177]: For materiality of agreement type, _see_ _infra_ § 2.4.2.
 
 ##### 2.4.1.1 CCP as Executor of Autonomous Cascading Insolvencies
 
@@ -760,11 +760,11 @@ Ms. Countryman, recently, the Depository Trust & Clearing Corporation ("DTCC") g
 
 #### 2.4.2 Hasty Liquidation in Global Emergencies
 
-From the 60-minute mark onward, DTCC explains how they would like all CCP margining to be interoperable through cross-tri-party arrangements. The agreement type listed for the transaction between "BNY Triparty" and "Bravo Bank" has an "Agm Type" listed as "Repo"—a different classification than the prior example using "CCP Margin."
+From the 60-minute mark onward, DTCC explains how they would like all CCP margining to be interoperable through cross-tri-party arrangements. The agreement type listed for the transaction between "BNY Triparty" and "Bravo Bank" has an "Agm Type" listed as "Repo"—a different classification than the prior example using "CCP Margin." As staff understand, Bank of New York Mellon is one of only two tri-party repo clearing banks which could participate in this proposed collateral hodgepodge.
 
 DTCC's agent claims that "we can now handle this process more efficiently than ever."[^176] After this statement, they allocate approximately 4,000 Bitcoin and $400 million in tokenized Japanese government bonds to "cover the obligation."
 
-I have more to say about this presentation, but will censure myself herein for time's sake.
+I have more to say about this presentation, but will censure myself herein for time's sake. If BNY is the bank counterparty OCC references, has the Commission thought about options collateral permeating industry rehypothecation en masse?
 
 #### 2.4.3 Other Material Aspects Left Out
 
@@ -775,7 +775,6 @@ I have more to say about this presentation, but will censure myself herein for t
 21. DTCC explains at least three times how they would like to have a central bank digital currency.
 
 For further dialogue, I encourage staff to view remarks from respected community member Chives, _available at_ https://x.com/i/spaces/1ZkKzYnYqkDxv/peek.
-💜
 
 ## 3. Brief Summarized Organizational Association
 
@@ -1141,3 +1140,4 @@ Member, WhyDRS
 3. _See, e.g.,_ community discussion, _available at_ https://lnns.co/fE5ZXkHvVeJ. _See also_ the observation that “DTCC and the BIS will likely require the central bank and tokenized USD (CBDC) to play a pivotal role in a future tokenized payments and settlements infrastructure” (p. 124).
 
 4. The contents of this letter are made freely available under the GNU Free Documentation License, because Wall Street shouldn't operate behind a veil of copyright protections, _available at_ https://github.com/WhyDRS/SEC-Comments/blob/main/LICENSE.
+
