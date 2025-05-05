@@ -780,6 +780,13 @@ For further dialogue, I encourage staff to view remarks from respected community
 
 ## 3. Brief Summarized Organizational Association
 
+Much of our work stems from the unique structure and regulation of American securities markets. For reasons I still barely understand, a whole lot of other people just can't stop wondering about our market structure—namely, how to make it actually work. As a permissionless global community, we receive lots of feedback through our public forums from international investors.
+
+One such insight stemming from these discussions starkly digs into my mind at night. Briefly, in the United Kingdom, transfer agents must legally disclose that nominees are responsible for paying their investors in the case of insolvency, not the issuer's agent. We believe more Americans would take advantage of the DRS if they understood this custodial implication.
+
+
+
+
 I am writing to you on behalf of WhyDRS, a decentralized unincorporated nonprofit association ("DUNA") of thousands of individual investors. We are both the first American DUNA and a recently-approved IRS public 501(c)(3) charitable organization.[^start-duna] We sincerely appreciate staff's diligent efforts over the past few years of our collective outreach.[^ncs] It is a beautiful and appreciated reality that our incredible American institution provides a publicly accessible way to submit issues for public comment, and assurance that those submissions will not only be displayed publicly in kind but that they will be reviewed and considered by bright financial minds.
 
 Our Association stemmed largely from the unprecedented shutdown of market operations on 28 Jan 2021.[^cong] I believe in the capacities of our regulatory system to innovate and promote the three core tenets of the Commission's mission. However, four years later, our great financial system still faces a well-known sweltering threat able to subvert even the most prudent rules set by this great Commission.
@@ -949,7 +956,7 @@ Indeed, we've produced a mountain of pioneering research, actively clarifying me
 
 Regardless of the risk surrounding SROs, millions of American investors risk the insolvency of transfer agent nominees — or third-party administrators, as the case may be. Given the frequent and complex relationships between such custodians and broker-dealers, any mishandling of securities lending practices could place the most direct form of employer-sponsored retirement savings in risky hands. Given that Wall Street has been known for decades to mismark short positions as long,[^recently] do staff believe that nominee administrators' model of grabbing investor services “at no charge or for a modest fee”[^free-quote] can sustain the bookkeeping prudence costs associated with largely state-overseen holding compliance?
 
-— _Do you think it's worth expanding here on the idea that, in the UK, there is a forced legal disclosure from transfer agents plainly stating that in the case of nominee insolvency they are responsible for making investors whole, but for U.S. TA operations there is no similar requirement?_ —
+
 
 Our shared developments over the past few years have shown just how efficiently online forums and collaborative working tools can organize otherwise disparate individual investors and financial-system advocates. With this basis, we can directly, specifically, and immutably process thoughts and inspirations into production codebases handling material value—such as Bitcoin.[^this-comment] Given that DTCC has recently proposed a TAD-like collective securities ownership framework, we respectfully submit that any such system should be required to be open-sourced under a copyleft free software license to foster collective collaboration.[^DTC-DA-study]
 
