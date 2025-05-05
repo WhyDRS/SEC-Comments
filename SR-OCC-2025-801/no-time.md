@@ -384,7 +384,7 @@ Matching Service seeks to link with
 GJVMS more than five years after
 issuance of this order, GJVMS shall
 notify the Commission of the Other
-Central Matching Service's request to
+Cenal Matching Service's request to
 link with GJVMS within ten days of
 receiving such request.
 
@@ -484,24 +484,6 @@ I think we can  get most  of this in 240.17ad-22(e)(3)(ii)
 
 Presumes a transitory framing of collaborating with brokers by positioning as replacing the DTCC and empowering them with a more efficient clearing and settlement system.
 
-## Dad Call (try for a single one upo to 4)§
-
-- Received a legal document from WF authorizing signatures with wet signatures.
-- Did not require medallions or ID certifications.¶
-- As commonplace in past chats, they rely on obtaining a "[legal] opinion from a big law firm, and if something goes wrong, they just sue the big law firm."
-
-Emailed DTC only.
-Did not conduct a call for that offering.
-(Implications of past TA email fraud on a $9M wire item.)
-
-Bank DWAC'd it out and can DWAC back to own custody via physical certificate.
-
-"I've been trying to get this done for a week. It's really stressing me out."
-
-Trustee may hold bond proceeds until project milestones.
-Interest paid post-bulk fundraising.
-
-#
 
 
 
@@ -1139,9 +1121,26 @@ updated governance arbitration (§ 9.9, 9/.10 & appx 6) on 15 May forcing  users
 
 
 
-
+backlogged foia: 17 See Securities Exchange Act Release No. 13091
+(December 21, 1976), 41 FR 56530 (1976 Release) at n./17
 
 [pending-collapsable-fn]: r u ready?
 <!-- I weould apperciatge if this was crafted without swear words, which is osmething I cannot do rn 🚀 -->
 DTCC fucking specifically hrefs the control locale of 802b in https://www.sec.gov/files/ctf-memo-dtcc-040725.pdf
 backlinks  17 CFR § 240.15c3-3(b)(1)  🤯🤦‍♂️
+
+
+old § 2.1: 
+~~~
+#### pls delete if not used 🤝
+
+Holy fucking shit, they can't have FTDs because "Under revised Article 8, there can be only one registered pledge of an uncertificated security at a time." at 883.
+Statute citation is note 114. ({^FSU-UCC})
+
+Plainly, there were no FTDs before the 1994 amendments to the UCC. --I wonder if SEC comm staff aware of this? I would expect that they would be, it's a pretty major part of the infrastructure history--
+^ go into the 86 and 88 history from Jack, others[!!!! paritally debunked at Jack's review comments PR (https://github.com/WhyDRS/SEC-Comments/pull/25) !!!!]
+
+The ULC argues in _infra_ note 41.
+
+Information on how the system worked for custodianship and immobilization is in 61 to 64.
+~~~
