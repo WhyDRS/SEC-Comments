@@ -563,41 +563,36 @@ Journalists at the time highlighted "the spillover effects on the government sec
 
 The FICC's cross-margining agreement with the CME is not the only cross-margining agreement between recognized systemic institutions, as staff fully understand.[^lolll-id] For instance, after the first failure of a Global Systemically Important Bank ever, Credit Suisse burdened UBS with significant toxic swap agreements related to the PCO event.[^ubs-gme] I could go on listing cases of interconnectedness between CCPs for another twenty pages, but I don't have the time.
 
-Rather, I hope staff will suffice with a select few instances of OCC's arrangements as sufficient proof that the detrimental fall of options clearing services would take down the American financial system. Ever since loosening margin deposit requirements in SR-OCC-2007-04 to regular accounts, the OCC has widdled down a slippery slope of expanding their access to collateralizable margin.[^first-change] Chiefly, I find this particularly concerning due to the points brought up in note 4 of PREV.
+Rather, I hope staff will suffice with a select few instances of OCC's arrangements as sufficient proof that the detrimental fall of options clearing services would take down the American financial system. Ever since loosening margin deposit requirements in SR-OCC-2007-04 to regular accounts, the OCC has widdled down a slippery slope of expanding their access to collateralizable margin.[^first-change] Chiefly, I find this particularly concerning due to the points brought up in note 4 of PREV.[^id-srac]
 
 Among other rlevant agreements which the communty has bmaterailly commented on given their connection to interconntected risks between  cross-amrginned CCPs:
 
 - File Number SR-OCC-2022-802, _available at_ https://www.sec.gov/comments/sr-occ-2022-802/srocc2022802.htm
 - File Number SR-OCC-2022-803, _available at_ https://www.sec.gov/comments/sr-occ-2022-803/srocc2022803.htm
 
-XYZABC
+_See also_ communtiy invbestigations into the operations of interfaces recently underprioritized in the view of some invesotlrfs, _available at_ https://wooten.link/CAT. Trelvelaerantly, the sllocvasitons this communtiyh member lays out suggests that the differnt exchanges largely flex their rful;es for certain "short sellers leveraging loopholes"  oin a law generally not enforcfed to the fullest/.
 
-I find this concerning because of recent develops more explicit in  _infra_ § 2.4. Nsmrlyh, at 59:24 in ther scheme detailed _infra_ note {{^176}}, an agent ofe DTCC  demonstrates a marktert-meltodwon and country-banking-solvency-level risk through a faux emergency news broadcast. In an effort "[o]ptimizing margin across CCPs becomes more critical to firms[,]" the speaker explains how a simulated clearing mebmber is "overcollateralized at FICC but has a deficit at NSCC."
+I find this concerning because of recent develops more explicit in  _infra_ § 2.4. Nsmrlyh, at 59:24 in ther scheme detailed _infra_ note {{^176}}, an agent ofe DTCC  demonstrates a marktert-meltodwon and country-banking-solvency-level risk through a faux emergency news broadcast.[^risklolll] In an effort "[o]ptimizing margin across CCPs becomes more critical to firms[,]" the speaker explains how a simulated clearing mebmber is "overcollateralized at FICC but has a deficit at NSCC."
 
-"Currently, it is not possible to transfer assets between CCPs." [On the SCREEN]
-
-Rather than
-
-
-.[^risklolll] at from 59:24
+In all existing securities laws at all regulators in all nations, there is no reason to move excess margin between CCPs without actually settline trades, recognizing a cash gain or loss., This protects mariket stability by preventing cascading CCP failures, otherwise reffered to as "domino bankruptcies." Without this protectionm, I suspect th entire financial system and its economy would end if OCC failed.
 
 
 
+_See also_ community investigations into the operations of interfaces recently underprioritized in the view of some investors, _available at_ https://wooten.link/CAT. Tellingly, the allocations this community member lays out suggest that the different exchanges largely flex their rules for certain "short sellers leveraging loopholes" on a law generally not enforced to the fullest.
+
+I find this concerning because of recent developments more explicit in _infra_ § 2.4. Namely, at 59:24 in the scheme detailed _infra_ note {{^176}}, an agent of DTCC demonstrates a market-meltdown and country-banking-solvency-level risk through a faux emergency news broadcast.[^risklolll] In an effort "[o]ptimizing margin across CCPs becomes more critical to firms[,]" the speaker explains how a simulated clearing member is "overcollateralized at FICC but has a deficit at NSCC."
+
+In all existing securities laws at all regulators in all nations, there is no reason to move excess margin between CCPs without actually settling trades, recognizing a cash gain or loss. This protects market stability by preventing cascading CCP failures, otherwise referred to as "domino bankruptcies." Without this protection, I suspect the entire financial system and its economy would end if OCC failed.
 
 
 
 
-The custodial structure is thinly capitalized[^id-srac]
+
+Lastly, Congress found that some brokers are "thinly capitalized for a highly volatile environment[,]" including such firms which are clearing members at CCPs.[^rofl] Clearing members who ignore how cross-margining works risk a sharp shock during a downturn that strains their collateral at any CCP connected to the OCC.[^id-srac] Again, the industry proposes entire CCPs post collateral between themselves in _infra_ § 2.4.1 ¶¶ 6–9.
 
 
 
-need to  exploiitly state the FICC <-> NSCC point
-
-Congress found that some brokers are "thinly capitalized for a highly volatile environment[,]" including such firms which are clearing members at CCPs.[^rofl] If clearing members chose not to familiarize themselves with the inner workings of these cross-margining agreements, I worry they could face an instantaneous and nasty surprise in a downturn event which stresses their collateral requirements at any of the institutions OCC shares margining with. Namely, the industry proposes entire CCPs post collateral between themselves in _infra_ § 2.4.1 ¶¶ 6–9.
-
-
-
-[^id-srac]: _See_ _infra_ note {{^SBACC-me}}
+[^id-srac]: _Id._ _See also_ _infra_ note {{^SBACC-me}} for discussion at the end of last year, contemplating the FDIC's inadequate non-preparation for the failure of a CCP.
 
 
 [^rofl]: _See_ _supra_ note {{^game-stopped}} at 97. _See also generally_ Key Finding #3. House staff note on the prior page that introduces this finding how several "member firms Committee staff interviewed either did not model for, or otherwise explicitly plan for" ECP charges before the PCO event.
@@ -643,9 +638,9 @@ In segueing to institutional failings, let's incorporate the change in tone from
 
 
 
-#### Claim #0: Coinbase Targeted _infra_ § 2.4 introductory paragraph, as "CryptoEx" at 22:37
+#### Claim #1: Coinbase Targeted _infra_ § 2.4 introductory paragraph, as "CryptoEx" at 22:37
 
-#### Recommendation #0: Chat with whomever works there about ATS intentions.
+#### Recommendation #1: Chat with whomever works there about ATS intentions.
 
 I share the Commission's stated public view that Coinbase Global, Inc.[^cb-light] ("Coinbase") presents a brazen overstepping of "well-established principles of the federal securities laws."[^cb-suit-main] It shook me to the bone when I heard Coinbase's chief legal counsel say that their only licensure was state money transmission reporting at SFVegas 2021.[^title] As a user of this centralized platform since 2017, I found enforced policies and procedures meaningfully questionable, as at least three accounts I control have been unilaterally shut down or meaningfully restricted.[^723-basis-date]
 
@@ -1059,7 +1054,7 @@ Accordingly, it is my intention to donate my shares in the company to WhyDRS, as
 
 First and foremost, I would appreciate a reply from staff by 26 Feb 2026 regarding the permissibility of a blockchain-based transfer agent being owned by a DUNA. This nonprofit arrangement would mirror existing regulatory oversight models recognized at the federal level.[^spbd] The Commission’s response to this proposed gift could materially assist community members in assessing whether to accept the shares. This merger of equals into a public-infrastructure superstructure directly elevates the participatory and reputational stakes for our collective effort to build more efficient, transparent markets.
 
-### Recommendation #1: Shared Inter-Agent Standard Available as an Open Stock Transfer Protocol
+### Recommendation #2: Shared Inter-Agent Standard Available as an Open Stock Transfer Protocol
 
 In a Bloomberg Radio interview last year calling for stricter credit oversight of brokerages, Thomas Peterffy emphasized the systemic risk posed by lightly capitalized firms operating within the existing infrastructure. His remarks underscore the need for an industry-wide protocol—shared, auditable, and open—for stock transfers between agents. Such a standard would not only improve transparency and accountability but also reduce reliance on centralized intermediaries whose opaque practices currently dominate post-trade processing.
 
@@ -1088,7 +1083,7 @@ The proposed system also requires an honest discussion about the economic incent
 
 
 
-### Recommendation #2: Put the Concept Release Out for Comment
+### Recommendation #3: Put the Concept Release Out for Comment
 
 What we need, should DTC fail, is nothing short of a completely new (inter)national market system. I find the prospects of such a market controlled by one private corporation bleak. Given past experience showing the centralizing tendency of good clearing infrastructure, this could severely limit the necessary flexibility and openness in the market.
 
@@ -1104,7 +1099,7 @@ We appreciate the dialogue that has already occurred with the Commission, partic
 
 
 
-### Recommendation #3: Save the American Public's Pensions
+### Recommendation #4: Save the American Public's Pensions
 
 It would be valuable if staff might consider the remarks of a fellow commenter, *available at* [https://www.sec.gov/comments/s7-08-22/s70822-658462.htm](https://www.sec.gov/comments/s7-08-22/s70822-658462.htm). These insights emphasize the importance of safeguarding the integrity of public pensions and addressing the risks posed by current market structures, especially as they pertain to the custodial systems that underpin pension fund management.
 
