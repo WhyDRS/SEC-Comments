@@ -7,3 +7,10 @@ from 3.4
 
 
 [^global]:  *See also* work in a number of foreign nations implementing an inter-agency Direct Registration System, *available at* [https://ijlr.iledu.in/wp-content/uploads/2023/06/V3I205.pdf#page=3](https://ijlr.iledu.in/wp-content/uploads/2023/06/V3I205.pdf#page=3). (insider trading link here...) ~~The vast bulk of this work employs proprietary, centralized, and corruptible central bookkeepers.~~
+
+
+
+
+
+### coibnase logic insiders
+this'll need a senternce of deferfence to "The Commission’s decision to exercise its discretion and dismiss this pending enforcement action rests on its judgment that the dismissal will facilitate the Commission’s ongoing efforts to reform and renew its regulatory approach to the crypto industry, not on any assessment of the merits of the claims alleged in the action." at https://www.sec.gov/newsroom/press-releases/2025-47
