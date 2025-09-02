@@ -7,3 +7,4 @@ While apes have grouped up [previously](https://www.reddit.com/r/Superstonk/comm
 - The date on the list item is the date the SEC receives the comment in Eastern Time, regardless of business hours.  
   - They will accept and date comments sent over weekends or holidays, but again, it can take some time to post online.  
 - For some reason, the PDF encoding used after submission often invalidates text hyperlinks, so it's safest to use full URLs.  
+- SEC "staff" don't capitalize "federal" when describing the laws as an adjective.
