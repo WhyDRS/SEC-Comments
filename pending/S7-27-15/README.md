@@ -1,3 +1,15 @@
+# US  INTRO HOOK
+
+This presumes crisis by May
+
+> The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself.
+> That, in its essence, is Fascism: ownership of Government by an individual, by a group, or by any other controlling private power.
+> emdahs; Franklin D. Roosevelt
+
+
+
+
+
 ## control frame
 
 we have anectdote about first examination question harping on control of code operatus, which we responded to as a metaphor of validators upgrading software together 
