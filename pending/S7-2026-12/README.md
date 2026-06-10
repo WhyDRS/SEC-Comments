@@ -12,26 +12,6 @@ Status: Draft
 ```
 
 
-# Cover
-
-Wall St. may think / say they don't have enough money.
-Cite the comp. aliste meeting and boo-hoos.
-<<the supra for later -- https://media.ca11.uscourts.gov/opinions/pub/files/202313396.pdf>>
-
-But all the participants are well-funded Wall St. bureaucracies.
-They _can_ get the money to implement the changes.
-from https://www.sec.gov/files/chairman-atkins-public-calendar-2025-09.pdf
-
-
-If they cannot deliver on their own budget, they should face the consequences.
-They have already repeatedly failed to meet their own deadlines and standards, such as the launch release.
-
-Start getting the other fine for APEX and harp on Citadel.
-Bring up the 11th Cir. case explicitly and delve into names there.
-<< this si the start of t he s upras but USCA11 Case: 23-13396 nteeds the actual ref>>
-
-
-
 ### Partial draft snippet from Google Doc shared with permission
 
 OTC Equity Securities across the markets and trading centers that comprise the national market system” [[34-105251](https://www.sec.gov/files/rules/concept/2026/34-105251.pdf) pg 13].  Courts have also held that there is no expectation of privacy in a public market [see, e.g.,  Gill v. Hearst Pub. Co., 40 Cal. 2d 224, 229-31 (1953) (holding no invasion of privacy where a magazine published a picture of a couple sitting together in a public market); [Legal Information Institute](https://www.law.cornell.edu/wex/public_market)] which should include our public securities markets where public companies are traded [see, e.g., [Wikipedia: Stock exchange](https://en.wikipedia.org/wiki/Stock_exchange) and [Investor.gov: Public Companies](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/public-companies)].  Especially when said public securities market has a consolidated audit trail for tracking all activity throughout the U.S. markets for market surveillance and oversight; with Rule 613 requiring said consolidated audit trail adopted in 2012 [34-67457 ([PDF](https://www.sec.gov/files/rules/final/2012/34-67457.pdf))].   
