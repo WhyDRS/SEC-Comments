@@ -1,4 +1,4 @@
-> Effective regulation of this market requires a comprehensive centralized and computerized recordkeeping system.
+> effective regulation of this market requires a comprehensive centralized and computerized recordkeeping system.
 
 63 FR 12561
 
