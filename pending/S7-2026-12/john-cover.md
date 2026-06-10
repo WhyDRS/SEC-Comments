@@ -1,3 +1,17 @@
+---
+title: In re S7-2026-12 (Cover)
+---
+
+```
+Originator: John Wooten <@JFWooten4>
+Discussion: https://www.reddit.com/r/Superstonk/comments/1u0bwfl/comments_to_sec_on_cat
+Extends: https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
+Status: Draft
+  live: 22 Jun 2026
+  file: S7-2026-12
+  href: pending
+```
+
 # Cover
 
 Wall St. may think / say they don't have enough money.
