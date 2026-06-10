@@ -4,6 +4,6 @@ I remember a history of the comments all unilaterally going down. Like, the web 
 
 The Commissioner forces CTCCAs to maintain duplicate records so that we aren't only relying on the EDGAR submissions. They are still a risk as a sole information custodian.
 
-It does matter how small that risk is - it matters how strong the system design becomes. If retail pays for this system, then we should be allowed to replicate the source data in anonymized form (re: see Better Markets remarks in 2018, custody House).
+It does matter how small that risk is - it matters how strong the system design becomes. If retail pays for this system, then we should be allowed to replicate the source data in anonymized form (re: see Better Markets remarks in 2017, custody House).
 
 For me, aggregate is not enough.
