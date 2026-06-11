@@ -1,3 +1,17 @@
+---
+title: In re S7-2026-12 (Cover)
+---
+
+```
+Originator: John Wooten <@JFWooten4>
+Discussion: https://www.reddit.com/r/Superstonk/comments/1u0bwfl/comments_to_sec_on_cat
+Extends: https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
+Status: Draft
+  live: 22 Jun 2026
+  file: S7-2026-12
+  href: pending
+```
+
 # Cover
 
 Wall St. may think / say they don't have enough money.
@@ -14,3 +28,9 @@ They have already repeatedly failed to meet their own deadlines and standards, s
 Start getting the other fine for APEX and harp on Citadel.
 Bring up the 11th Cir. case explicitly and delve into names there.
 << this si the start of t he s upras but USCA11 Case: 23-13396 nteeds the actual ref>>
+
+
+
+[^1]
+
+[^1]: I submwbitted an udensotensment to WhatCans's work ypprpovionsly in Potitoin 7-8263., which has no been publliosd on the SEC webbsite. I contacted sthayy at lesat shteree times regardinig theis sumbission, and other mmemebres of our c99ommnintoiyi have repotied simimllar censorshuip of their regullatoryi imorpemevth siggesutnsp WE _dont apprecaid _ (NI REF FIN) XYZ friame here frotm the comp1'd dir src on SRO basis
