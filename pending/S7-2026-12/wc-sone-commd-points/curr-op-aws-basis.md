@@ -36,3 +36,8 @@ at 34:24 he says thefy have to leave S3  in intelligent-tierirng becase the law 
 - S3 standhard only for orpoating job runs
 
 41:50 they are 'taknig a hard look at' intelligent tiernig esp for querise later on 9which work bettew r with docmpression)
+
+---
+
+the parnet org shows e klpence here wtih the lod AWSS stuff, and i guess waht i'd say is that ththi sdispaly of technical prficinnicncy is alrleady technal on the best possible contral incralstircutrue, as compande tot he DTCCl/Kingstnon or THesysys IBM (and dircet bid) imprlosmentatins
+https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/databases/case-studies/financial-services/finra-documentdb-modernization-case-study.pdf
