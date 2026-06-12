@@ -16,3 +16,6 @@ then we can gget into the lawsuitwes
 
 [^2]: 
 dir cite stat.
+
+
+theres a similacrc crossref here to the Colorade intsider trading venue bassis aat ro abiut p6 pg 6
