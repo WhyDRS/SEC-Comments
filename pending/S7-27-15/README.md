@@ -129,7 +129,7 @@ Modern context at 13 in File No. SR-DTC-2020-017.
 
 [^r]: _See also_ and an alteration on retail individual support for rescission in comment https://www.sec.gov/comments/s7-05-22/s70522-20120580-272764.pdf#page=8, which states, "The restriction that transfer agents may not effect the transfer of a security outside of the DTCC system is a legalization of a monopoly."
 
-^ n.18 at 18 and surrondungi text makes the repeal claim in communal form back in '22
+^ n.18 at 8 and surrounding text makes the repeal claim in communal form back in '22
 
 
 #### other epsonses to this file no . i think
@@ -177,4 +177,3 @@ https://www.sec.gov/comments/sr-occ-2021-003/srocc2021003.htm (v.  indfustriy  i
 https://www.sec.gov/rule-release/34-42037 as  64 FR 57996
 https://www.sec.gov/comments/s7-19-07/s71907-1436.pdf#page=5
 https://www.sec.gov/files/rules/concept/s72499summary.htm
-
