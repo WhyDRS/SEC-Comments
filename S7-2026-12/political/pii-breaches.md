@@ -13,4 +13,6 @@ Pull the high shcool card
 
 
 ---
+
+
 l/iability https://www.sec.gov/files/rules/sro/nms/2021/34-93484.pdf at 31
