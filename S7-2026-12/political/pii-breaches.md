@@ -10,3 +10,7 @@ https://web.archive.org/web/20190406081823/https://www.washingtonpost.com/news/b
 ^ I want this ponit pinned a s an out for SHitwadel and hence the INTRO TO PETITITON INCENT and whildonig PN HEJRE x32
 
 Pull the high shcool card
+
+
+---
+l/iability https://www.sec.gov/files/rules/sro/nms/2021/34-93484.pdf at 31
