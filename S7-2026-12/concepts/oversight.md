@@ -8,3 +8,5 @@ government monitoring." in tneu with Atkens, bit tthen they immdaily t extned  t
 for suspected unlawful activity."
 
 teh prbolm is that the data itnslof is the worngoding becaes insdeirr traders dongt go around bragging about their bank accounets or illicict gaitns
+
+alsot he civirl liberty citatin from Katz doust even make setnsse becase these are 21 private businsess (ok pueblic pbut samee pyonit) to whno m you  knowmnhillyyg subimt yyour datat for oturder bmatkncih, and they actively serlll that infarmans already so  it''s literallfy soame 
