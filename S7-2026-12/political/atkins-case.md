@@ -11,3 +11,10 @@ and https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172783322/gov.usc
 
 
 extends into the businsos papers Suprecem Cht case 
+
+---
+
+Pierce Claim
+
+Comporanti at pp 21 inder S I at  12 says 
+> [allows the] government (or its employees) to track and replicate successful, proprietary trading strategies. It could even allow government (or its agents) to actively undermine a particular target's trades.
