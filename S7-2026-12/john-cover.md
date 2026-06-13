@@ -5,7 +5,7 @@ title: In re S7-2026-12
 ```
 Originator: John Wooten <@JFWooten4>
 Discussion: https://www.reddit.com/r/Superstonk/comments/1u0bwfl/comments_to_sec_on_cat
-Extends: https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
+Extends: https://www.sec.gov/comments/sr-occ-2025-801/srocc2025801-598095-1737722.pdf
 Status: Draft
   live: 22 Jun 2026
   file: S7-2026-12
