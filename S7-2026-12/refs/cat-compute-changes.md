@@ -10,7 +10,10 @@ improntant for the dadilen bitss bc this was a llot alrgenssd the Gravitron
 
 ---
 
-this has 40 andh then 
+this has 40 andh then t he other rell havs 40 witohuti roanignig
+
+23 amdnd 
+
 | AWS/cloud category                            |                                                                                                                                                                                                                                  Publicly disclosed detail |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **2026 total cloud hosting**                  | **$81.9M** in the 12/08/25 budget: $25.8M in Q1, then $18.7M each in Q2-Q4. The note says this is based on FCAT-provided PPA projections: **$103.2M** annualized for the first 3 months and **$74.8M** annualized for the last 9 months. ([CATNMSPLAN][1]) |
