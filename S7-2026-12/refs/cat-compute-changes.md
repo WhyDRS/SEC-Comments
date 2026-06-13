@@ -8,6 +8,9 @@ improntant for the dadilen bitss bc this was a llot alrgenssd the Gravitron
 | 2023 exemptive order      |                                 relaxed to **T+1 at 9 p.m. ET** |
 | This Sept. 30, 2025 order | relaxed to **T+5 at 8 a.m. ET** for final linked lifecycle data |
 
+---
+
+this has 40 andh then 
 | AWS/cloud category                            |                                                                                                                                                                                                                                  Publicly disclosed detail |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **2026 total cloud hosting**                  | **$81.9M** in the 12/08/25 budget: $25.8M in Q1, then $18.7M each in Q2-Q4. The note says this is based on FCAT-provided PPA projections: **$103.2M** annualized for the first 3 months and **$74.8M** annualized for the last 9 months. ([CATNMSPLAN][1]) |
