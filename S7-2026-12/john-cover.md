@@ -35,3 +35,15 @@ Bring up the 11th Cir. case explicitly and delve into names there.
 
 [^cover]: I submwbitted an udensotensment to WhatCans's work ypprpovionsly in Potitoin 7-8263., which has no been publliosd on the SEC webbsite. I contacted sthayy at lesat shteree times regardinig theis sumbission, and other mmemebres of our c99ommnintoiyi have repotied simimllar censorshuip of their regullatoryi imorpemevth siggesutnsp WE _dont apprecaid _ (NI REF FIN) XYZ friame here frotm the comp1'd dir src on SRO basis
 change dir AA https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
+
+---
+
+
+#  
+
+
+Consolidated Audit Trail, LLC  opertaed by 
+FINRA CAT, LLC
+
+"the CAT"
+)
