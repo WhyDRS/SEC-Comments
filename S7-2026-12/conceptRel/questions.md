@@ -151,3 +151,77 @@ collect? What are material terms for quote, order origination, routing, request,
 cancellation, reject, trade, and/or allocation events?30. Should the Commission optimize and/or simplify CAT reporting requirements? Please
 specifically identify any proposed optimizations, describe the costs and benefits associated with
 such optimizations (including any potential impact on data accuracy and/or regulatory use),
+
+explain whether such optimizations would require changes to existing trading workflows and/or
+reporting processes, and explain how such optimizations should be developed and/or
+implemented. What are the current costs for Industry Members to report to the CAT? What are
+the current costs for SROs to report to the CAT?31. Should any changes be made to the CAT Reporting Technical Specifications for Industry
+Members? Should any changes be made to the CAT Industry Member Reporting
+Scenarios? Should any changes be made to the CAT Reporting Technical Specifications for
+Plan Participants? If so, please specifically identify changes to the technical specifications
+and/or reporting scenarios that should be made, describe the costs and benefits associated with
+those changes (including any potential impact on data accuracy and/or regulatory use), explain
+how those changes could affect existing reporting processes and/or trading workflows, and
+explain how those changes should be developed and/or implemented. If the recommended
+changes involve eliminating transaction, error, and/or data fields or elements, please explain
+whether such fields and/or elements can be obtained from an alternative source, identify that
+alternative source, and describe any costs or burdens associated with obtaining such fields and/or
+elements from that alternative source.
+32. Would structural and/or architectural changes to the CAT enhance its efficiency and/or
+reduce costs? What information would be helpful to help commenters analyze measures that
+could enhance efficiency and/or reduce costs?33. How frequently should market participants be required to report data to the CAT? Does
+the answer depend on the product and/or asset class? What are the costs and benefits associated
+with altering the CAT’s current reporting requirements? What are the potential regulatory
+impacts of collecting data on a less-than-daily basis? Would reporting data less often reduce
+costs?34. FINRA CAT currently accepts data from CAT Reporters in a range of formats, meaning
+that FINRA CAT must expend computing power to normalize the data for regulatory use. In the
+experience of Commission staff, this can create downstream issues for processing and
+interpreting data, which makes regulatory use less efficient. Should a common and/or unified
+industry data standard with a common data taxonomy be used for submission of data to the CAT
+and/or pre-submission data quality validations? For example, should the CAT leverage the
+Financial Information eXchange (“FIX”) protocol or another industry data standard? If so, how?35. Are there transaction, error, or data fields and/or elements that are currently reported to
+the CAT that are not captured by the FIX protocol or other industry data standards? If so, please
+identify these fields and/or elements and explain how such fields and/or elements would be
+captured if the FIX protocol or another industry data standard was used for CAT reporting.
+Should the FIX protocol or another industry data standard only be leveraged with respect to
+some events? If so, which events? Should the FIX protocol or another industry data standard
+only be leveraged with respect to some underlying products and/or asset classes? If so, which
+products and/or asset classes? What are the costs and benefits associated with leveraging the
+FIX protocol or another industry data standard for CAT reporting? Would the CAT Reporter
+Portal need to be altered in any way to enable a different reporting regime? What changes would
+be required to FINRA CAT’s processes to accommodate a different reporting regime? What
+changes to the existing trading workflows and/or reporting processes of CAT Reporters would be
+required to accommodate a different reporting regime? Would leveraging the FIX protocol or
+another industry data standard reduce or increase the costs to operate the Central Repository? By
+how much? How would such an approach affect data accuracy and/or regulatory use?36. Should the CAT be required to comply with a specified error rate? If so, what is an
+appropriate error rate and how should that error rate be calculated? Do the answers depend on
+the kind of data collected and/or from whom the data is collected?37. What kind of validations, linkages, corrections, or other processing should be performed
+on data reported to the CAT? Should data be validated, linked, and/or processed centrally by the
+Plan Processor for the CAT or should that task be left to individual regulatory users? Does the
+answer depend on the completeness of the data contained in the CAT? Should data that is
+received after the deadline for corrections be validated, linked, and/or processed in the same
+manner as data that is timely received? If not, what manner of validation, linkage, and/or
+processing should be performed, and what are the costs and benefits associated with that choice?
+38. How quickly should regulators be able to access raw, unlinked data? How quickly
+should regulators be able to access data that has been validated, processed, and linked, but not
+corrected? How quickly should regulators be able to access validated, processed, linked, and
+
+corrected data? How much time should market participants have to correct data that has been
+reported to the CAT? What are the costs and benefits of altering these requirements?39. In the 2025 Cost Savings Amendment, the SROs sought public comment on, but did not
+formally propose, changes that would reduce the amount of linkage processing performed by the
+Plan Processor. Under this approach, error feedback would only be provided twice to Industry
+Members—once on T+2 at 8:00 a.m. ET for linkage errors discovered for on-time submissions
+and again on T+3 at 8:00 a.m. ET for later-discovered errors. The SROs stated that “Industry
+Members would be permitted to submit corrections outside of this 24-hour window and would
+receive reconciliation credit. However, these submissions would be marked late and would not
+receive any feedback indicating whether the correction was successful.”142 In seeking public
+comment, the SROs stated that “members of the CAT Advisory Committee and other Industry
+Member groups had previously raised issues with the shortened amount of time that would be
+available to Industry Members to review and provide corrected data under the reduced linkage
+timeline,” which they were concerned may increase regulatory compliance risks and costs for
+Industry Members and reduce the accuracy of CAT Data.143 These concerns were duly reflected
+in a comment letter that the Commission subsequently received in connection with the 2025 Cost
+Savings Amendment.144 However, the Commission is interested in gathering feedback from
+market participants as to whether there may be other ways to alter the CAT’s existing processing
+and/or linkage timelines that would both preserve core regulatory functionality and achieve cost
+savings. Should the Commission extend or otherwise alter the processing and/or linkage
