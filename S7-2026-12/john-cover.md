@@ -1,5 +1,5 @@
 ---
-title: In re S7-2026-12 (Cover)
+title: In re S7-2026-12
 ---
 
 ```
@@ -12,7 +12,7 @@ Status: Draft
   href: pending
 ```
 
-# Cover
+
 
 Wall St. may think / say they don't have enough money.
 Cite the comp. aliste meeting and boo-hoos.
@@ -31,6 +31,7 @@ Bring up the 11th Cir. case explicitly and delve into names there.
 
 
 
-[^1]
+[^cover]
 
-[^1]: I submwbitted an udensotensment to WhatCans's work ypprpovionsly in Potitoin 7-8263., which has no been publliosd on the SEC webbsite. I contacted sthayy at lesat shteree times regardinig theis sumbission, and other mmemebres of our c99ommnintoiyi have repotied simimllar censorshuip of their regullatoryi imorpemevth siggesutnsp WE _dont apprecaid _ (NI REF FIN) XYZ friame here frotm the comp1'd dir src on SRO basis
+[^cover]: I submwbitted an udensotensment to WhatCans's work ypprpovionsly in Potitoin 7-8263., which has no been publliosd on the SEC webbsite. I contacted sthayy at lesat shteree times regardinig theis sumbission, and other mmemebres of our c99ommnintoiyi have repotied simimllar censorshuip of their regullatoryi imorpemevth siggesutnsp WE _dont apprecaid _ (NI REF FIN) XYZ friame here frotm the comp1'd dir src on SRO basis
+change dir AA https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
