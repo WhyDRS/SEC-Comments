@@ -3,3 +3,6 @@ they ask about wherere or not things sohuld be made know like the CCID transof9r
 this gets into the Jorry args with a dir cite on teh open sorce pedcast dobetaee 
 
 head in sand meme if we're ballsy but it's sus 
+
+if they tokenive it then it literally dousnt matter lol, buit that _shold_ have shown up in the CAIS eustiamites and buhidgecing 
+
