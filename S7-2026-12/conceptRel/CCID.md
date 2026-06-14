@@ -6,3 +6,4 @@ head in sand meme if we're ballsy but it's sus
 
 if they tokenive it then it literally dousnt matter lol, buit that _shold_ have shown up in the CAIS eustiamites and buhidgecing 
 
+becase basically if it's mapping and not aan alngo that's ephermural, then thit tablle becase the most improntant target in the interu system
