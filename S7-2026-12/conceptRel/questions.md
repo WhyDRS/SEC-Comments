@@ -280,3 +280,29 @@ such methods before July 31, 2030? If not, please explain how long it would take
 implement such methods. Would these methods necessarily collect information beyond
 reportable verbal activity on exchange floors and, if so, what measures could be introduced to
 prevent the storage, reporting, and/or use of such information?
+52. Does the regulatory value of two-sided reporting for port-level settings that communicate
+Material Terms of the Order justify the difficulty and costs associated with collecting and
+reporting such information? What are the costs and benefits of collecting such information on a
+two-sided basis? Is it sufficient that regulators will still have insight into port-level settings that
+communicate Material Terms of the Order from order receipt records? Why or why not?
+53. Are there any technology solutions in use and/or in development that would make it
+easier for Industry Members and/or SROs to capture and report port-level settings? If so, please
+identify such technology solutions, describe the costs associated with implementation of such
+solutions, and explain when they would be expected to become available to market participants.54. Should the Commission align the conditions attached to the exemptive relief granted in
+the November 2023 Order with the conditions attached to the exemptive relief granted in the
+Port-Level Settings Exemptive Relief Order? If so, please explain which features of each order
+should be retained, why those features are appropriate, and what costs and benefits would be
+associated with retaining those features and discarding others. For example, should all port-level
+settings that communicate Material Terms of the Order be reported by recipients of an order,
+regardless of whether such port-level settings are “triggered” or “applied”?55. Should the Commission amend the CAT NMS Plan to make permanent and codify all or
+part of the November 2023 Order and/or the Port-Level Settings Exemptive Relief Order? If so,
+please explain which features of each order should be codified, why those features are
+appropriate, and what costs and benefits would be associated with retaining those features and
+discarding others.56. The Commission understands that some SROs and Industry Members may disagree with
+the Commission’s position that port-level settings are required to be reported to the CAT NMS
+Plan. Should the CAT NMS Plan be amended to eliminate the requirement that SROs and
+Industry Members report Material Terms of the Order that are set at the port-level? What are the
+costs and benefits associated with reporting such information? Can regulators sufficiently and
+accurately understand trading activity if certain (and potentially unknown) Material Terms of the
+Order have been excluded from the data set? Are there any alternative data sources that would
+provide regulators with insight into Material Terms of the Order that are set at the port level?
