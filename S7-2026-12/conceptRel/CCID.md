@@ -19,4 +19,4 @@ The same paragraph says TID information is maintained in an isolated, secure dat
 if regulatory staff or the SEC already has an SSN from outside CAT, they can use that SSN to query CAT, and the SSN is transformed into the CCID for CAT queries and analysis. It also notes that SSNs can be obtained from the broker through things like FINRA Rule 8210 requests or Electronic Blue Sheets.
 https://www.sec.gov/files/rules/exorders/2020/34-88393.pdf
 https://catnmsplan.com/sites/default/files/2020-02/Amended-Exemptive-Request-CCID-and-Modified-PII-Approaches%28Final%29.pdf at 5 P 4
-and dir cite frcom 98 https://www.sec.gov/files/rules/sro/nms/2026/34-104586.pdf
+and dir cite frcom 98 https://www.sec.gov/files/rules/sro/nms/2026/34-104586.pdf  n.46
