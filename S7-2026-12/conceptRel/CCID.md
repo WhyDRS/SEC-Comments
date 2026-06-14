@@ -7,3 +7,16 @@ head in sand meme if we're ballsy but it's sus
 if they tokenive it then it literally dousnt matter lol, buit that _shold_ have shown up in the CAIS eustiamites and buhidgecing 
 
 becase basically if it's mapping and not aan alngo that's ephermural, then thit tablle becase the most improntant target in the interu system
+
+
+The SEC says the CAT process needs retained TIDs because, “without the ability to map TIDs to CCIDs,” CAT could not tell whether a reported TID had already been assigned a CCID; otherwise each repeat TID would get a new CCID. That is the strongest source for saying this is treated as a mapping/tokenization function, not merely “run public formula X on TID.”
+https://www.sec.gov/files/rules/sro/nms/2026/34-104586.pdf#page=15
+
+The same paragraph says TID information is maintained in an isolated, secure database within the CCID Subsystem, separate from other CAIS/Reference Database information, with limited Plan Processor staff access
+
+
+
+if regulatory staff or the SEC already has an SSN from outside CAT, they can use that SSN to query CAT, and the SSN is transformed into the CCID for CAT queries and analysis. It also notes that SSNs can be obtained from the broker through things like FINRA Rule 8210 requests or Electronic Blue Sheets.
+https://www.sec.gov/files/rules/exorders/2020/34-88393.pdf
+https://catnmsplan.com/sites/default/files/2020-02/Amended-Exemptive-Request-CCID-and-Modified-PII-Approaches%28Final%29.pdf at 5 P 4
+and dir cite frcom 98 https://www.sec.gov/files/rules/sro/nms/2026/34-104586.pdf
