@@ -476,3 +476,31 @@ whether an LTID has been reported for the FDIDs to which that CCID is associated
 LTIDs have been removed from the CAT by the amendments approved in the 2026 Cost Savings
 Order?
 Is there an alternative method of finding Unidentified Large Traders using CAT Data?
+78. Does the CAT’s collection and/or transmission of transactional information without
+associated customer and account-level information raise confidentiality, privacy, and/or civil
+liberties concerns? If so, what are they, and how should those concerns be addressed?79. Does enabling the transmission of customer and account-level information to regulators
+through the EBS System or an R&R System raise confidentiality, privacy, and/or civil liberties
+concerns? If so, what are those concerns, and how should they be addressed? Does the answer
+depend on the type of interface that enables the transmission of this data—for instance, whether a
+request for specific information from a regulator is required before such data is requested,
+transmitted, and/or collected? Does the answer depend on the scope of the data requested,
+transmitted, and/or collected? Does the answer depend on the purpose for which the data is
+requested, transmitted, and/or collected? Does the answer depend on the extent of automation
+involved in requesting, transmitting and/or collecting the data?80. To the extent that imposing additional limits on the collection and/or transmission of
+market data to address potential confidentiality, privacy, and/or civil liberties concerns creates
+trade-offs with costs, efficiency, and data security, such as any additional burdens that would be
+imposed if data was provided by broker-dealers upon request rather than through the CAT or
+another audit trail or data source, how should the Commission weigh those trade-offs?
+81. What other confidentiality, privacy, and/or civil liberties considerations should be taken
+into account?
+
+82. Are there enhancements that should be made to the security requirements set forth in the
+CAT NMS Plan? Are there technological changes that could be made to the Central Repository
+to enhance its protection? If so, please identify these enhancements, explain how such
+enhancements would improve the security of the CAT and/or CAT Data, and identify the costs
+associated with implementing such enhancements.83. Are there enhancements that could be made to the measures that protect the CCID
+Subsystem and/or to the process for generating CCIDs
+that would further strengthen the
+protection of the information used by the Plan Processor to generate CCIDs? If so, please
+identify these enhancements, explain how such enhancements would improve the privacy,
+
