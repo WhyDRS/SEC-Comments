@@ -42,8 +42,4 @@ change dir AA https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
 #  
 
 
-Consolidated Audit Trail, LLC  opertaed by 
-FINRA CAT, LLC
-
-"the CAT"
-)
+Consolidated Audit Trail, LLC (the "LLC") opertaed by FINRA CAT, LLC ("the CAT").
