@@ -581,3 +581,9 @@ SROs publish information regarding the internal controls and/or safeguards that 
 or use of CAT Data, information about how the Commission, the SROs and/or FINRA CAT
 monitor the storage and/or usage of CAT Data, information about the number of regulatory users
 at the Commission and/or the SROs and/or the regulatory purposes for which they are using
+CAT Data? Would disclosure of such information pose security or confidentiality concerns?90. Under what circumstances, if any, should the Commission make CAT Data available to
+interested market participants in the rulemaking context? What conditions and/or controls
+should apply? At what level of data aggregation should the data be made available? What are
+the costs and benefits associated with releasing such data? Does the answer depend on the type
+of data relied upon? Does the answer depend on the costs of making such data available?
+
