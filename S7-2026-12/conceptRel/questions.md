@@ -249,3 +249,34 @@ use), and, if such optimizations involve eliminating requirements to collect and
 kinds of data, explain whether such optimizations would require increased reliance on other audit
 trails and/or data sources for those kinds of data and describe any costs associated with that
 increased reliance.
+43. Are there enhancements or improvements that could be made to the current process of
+generating CCIDs? Please identify such enhancements or improvements with specificity,
+describe the costs and benefits associated with the implementation of such enhancements or
+improvements, and describe any privacy, confidentiality, and security measures or controls that
+should be implemented in connection with enhancements and improvements.44. Are there any alternative methods of generating unique customer identifiers that could be
+used to analyze a particular customer’s trading activity across markets, brokers, and/or accounts,
+when regulatory users have a specific regulatory purpose? Please identify such alternative
+methods, describe the costs and benefits associated with the implementation of such alternative
+methods, explain what information would need to be gathered from market participants to enable
+the generation of the alternative unique customer identifier, and describe any privacy,
+confidentiality, and security measures or controls that should be implemented to protect that
+information and the alternative unique customer identifiers generated.45. Are there different considerations the Commission should take into account with respect
+to the generation of unique customer identifiers for non-US persons and/or legal entities?
+46. Should the Commission permanently exclude information about verbal activity on
+exchange floors from CAT reporting requirements? Should the Commission extend the deadline
+set forth in the CAT NMS Plan for reporting such activity past July 31, 2030?47. What are the benefits and/or regulatory value provided by collecting information about
+verbal activity on exchange floors? What is the additive value of collecting information about
+verbal activity on exchange floors when certain order information is already required to be
+systematized pursuant to SRO rules? Would it be duplicative to require market participants to
+report information about verbal activity on exchange floors to the CAT?48. What are the costs associated with reporting information about verbal activity on
+exchange floors to the CAT? Please provide specific data. Should the Commission conduct an
+industry survey to obtain this information?49. Other than requiring each floor participant to hire a full-time employee solely for CAT
+reporting, are there alternative data sources and/or alternative methods of surveilling verbal
+activity on exchange floors, including, if applicable, any artificial intelligence or algorithmic
+technology solutions?
+Are those data sources and/or methods more cost-effective or efficient
+than requiring that such data be reported to the CAT? Is it possible to develop and implement
+such methods before July 31, 2030? If not, please explain how long it would take to develop and
+implement such methods. Would these methods necessarily collect information beyond
+reportable verbal activity on exchange floors and, if so, what measures could be introduced to
+prevent the storage, reporting, and/or use of such information?
