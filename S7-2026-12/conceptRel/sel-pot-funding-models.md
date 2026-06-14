@@ -10,7 +10,7 @@ a  good bit frmo n.27 with defined link refs
   - Later vacated by the Eleventh Circuit.
 
 - **2016 Original Funding Model** — [Securities Exchange Act Release No. 34-79318 (Nov. 15, 2016)](https://www.sec.gov/files/rules/sro/nms/2016/34-79318.pdf).
-  - Approved the original CAT NMS Plan, including Article XI’s funding model.
+  - Approved the original CAT NMS Plan, including Article XI's funding model.
   - Used fixed tiered fees based on market share, message traffic, and CAT Reporter comparability.
 
 - **2020 Financial Accountability Amendments** — [Securities Exchange Act Release No. 34-88890 (May 15, 2020)](https://www.sec.gov/files/rules/final/2020/34-88890.pdf).

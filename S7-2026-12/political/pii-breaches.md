@@ -25,12 +25,12 @@ as a summary of the direct congressional transcript (better cite{})
 
 P > For example, in congressional testimony, the Securities Industry and Financial Markets Association ("SIFMA") emphasized that collecting customer PII and identifiable proprietary trading data in the CAT
 
->> creates tremendous risk in the event of a breach. As such, the SEC and the SROs should have to make the case that the CAT’s collection, storage, and use of PII and identifiable proprietary trading information is required for effective surveillance.
+>> creates tremendous risk in the event of a breach. As such, the SEC and the SROs should have to make the case that the CAT's collection, storage, and use of PII and identifiable proprietary trading information is required for effective surveillance.
 
 {} is https://www.sifma.org/wp-content/uploads/2017/11/SIFMA-Written-Testimony-on-CAT.pdf
 has:
 > examine the cost and benefit of collecting customer PII and identifiable proprietary trading data in the CAT.
-> SEC and the SROs should have to make the case that the CAT’s collection, storage, and use of PII and identifiable proprietary trading information is required for effective surveillance.
+> SEC and the SROs should have to make the case that the CAT's collection, storage, and use of PII and identifiable proprietary trading information is required for effective surveillance.
 > The SEC should reevaluate the need to include customer PII andidentifiable proprietary transaction information in the CAT considering the tremendous risks andcosts the inclusion introduces.
 > As it is currently planned, the CAT will contain a significant amount ofsensitive information – both personally identifiable information ("PII") of individual customers(such as social security numbers, addresses, and dates of birth) and identifiable proprietarytransaction data that could potentially be reverse engineered and used for market manipulation.
 
