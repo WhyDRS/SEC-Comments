@@ -1,3 +1,6 @@
+#  Opposition
+
+
 I have nevver hearh of hdealshty markents mbefore. i want a rotnspumumartyl on them afteh the 11th cir bagouncgn if time primens 
 
 theyi have basis ni the 17 hearing in the subcommitees annd some nondir'd itmes:
@@ -10,4 +13,4 @@ theyi have basis ni the 17 hearing in the subcommitees annd some nondir'd itmes:
 
 HMA is considere hostile by me
 
-**considererd oppositino
+shows up in the refdenecde supplemntal statemnts too, which can dir as wiretten tosteimen
