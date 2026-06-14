@@ -13,4 +13,4 @@ theyi have basis ni the 17 hearing in the subcommitees annd some nondir'd itmes:
 
 HMA is considere hostile by me
 
-shows up in the refdenecde supplemntal statemnts too, which can dir as wiretten tosteimen
+shows up in the referenced supplemental statements too, which can dir as written testimony

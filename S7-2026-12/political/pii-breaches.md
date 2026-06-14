@@ -21,7 +21,7 @@ l/iability https://www.sec.gov/files/rules/sro/nms/2021/34-93484.pdf at 31
 
 
 aside for meth eladersdhip crosseref, there  is a cideconct cite form nate 150  in the coepner terelease which is https://catnmsplan.com/sites/default/files/2020-02/Amended-Exemptive-Request-CCID-and-Modified-PII-Approaches%28Final%29.pdf
-as a summary of the dircent conggfuriessoinal trasnocirete (better cite{})
+as a summary of the direct congressional transcript (better cite{})
 
 P > For example, in congressional testimony, the Securities Industry and Financial Markets Association (“SIFMA”) emphasized that collecting customer PII and identifiable proprietary trading data in the CAT
 
