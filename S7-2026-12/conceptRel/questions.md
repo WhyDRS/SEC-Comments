@@ -407,3 +407,72 @@ they would not be possible utilizing the R&R system approach suggested by market
 What costs are associated with the development of new workflows to properly link CAT Data
 with customer data that may be reported to an R&R System? How long would it take regulators
 to make any necessary adjustments?
+74. Should the Commission amend Rule 13h-1 to eliminate and/or modify any of its
+transaction reporting and/or record-keeping requirements or the customer monitoring safe
+harbor? If so, please specifically identify the reporting, record-keeping, and/or monitoring
+requirements that should be eliminated and/or modified, explain why it is appropriate to
+eliminate and/or modify those requirements, explain whether the data provided by those
+requirements is otherwise contained in or ascertainable from the CAT, and describe any costs
+and/or benefits associated with the recommended amendments.
+75. Will CAT data be sufficiently accurate and reliable to prove an adequate substitute data
+source for Rule 13h-1 transaction data otherwise obtainable via EBS? What criteria should the
+Commission use to evaluate this question?76. In the CAT NMS Plan Approval Order, the Commission stated that “Form 13H collects
+information to identify a large trader, its securities affiliates, and its operations, and does not
+collect audit trail data on effected transactions.” The Commission therefore stated that the
+“self-identification and other Form 13H filing requirements of Rule 13h-1” would not be
+“duplicated by or redundant of CAT.” Nevertheless, to achieve cost savings in connection
+with Form 13H, should the identifying activity levels of Rule 13h-1 be increased to classify
+fewer persons as large traders? For example, should the current thresholds be increased from 2
+million shares or $20 million per day to 10 million shares or $100 million per day; and from 20
+million shares or $200 million per month to 100 million shares or $1 billion per month? If so,
+please explain by how much the current thresholds should be increased, explain how those
+higher thresholds would be more appropriate given recent market developments, and explain
+whether those higher thresholds would continue to appropriately identify persons whose trading
+activity in NMS securities merits classification as a large trader. Should additional exceptions be
+considered from large trader status, such as one-time or infrequent transactions? Are there other
+elements of Form 13H that could be eliminated and/or modified to achieve cost savings? If so,
+please specifically identify the elements that should be eliminated and/or modified, explain why
+it is appropriate to eliminate and/or modify those elements, explain whether the data provided by
+those elements is otherwise contained in the CAT or available via an alternative data source, and
+describe any costs and/or benefits associated with the recommended modifications to Form 13H.
+
+Is the information provided by the CAT or the alternative data source sufficiently accurate and
+reliable to prove an adequate substitute data source for the information provided on Form 13H?
+What criteria should the Commission use to evaluate this question?77. Rule 13h-1 sets forth record-keeping and reporting requirements not only for large
+traders, but also for “Unidentified Large Traders” – i.e. a person who has not complied with theidentification requirements for large traders, but who “a registered broker-dealer knows or has
+reason to know is a large trader.”
+Rule 13h-1 further specifies that a “registered broker-dealer
+shall be deemed not to know or have reason to know that a person is a large trader if it does not
+have actual knowledge that a person is a large trader and it establishes policies and procedures
+reasonably designed to: (1) [i]dentify persons who have not complied with the identification
+requirements [for large traders] but whose transactions effected through an account or a group of
+accounts carried by such broker-dealer or through which such broker-dealer executes
+transactions, as applicable (and considering account name, tax identification number, or other
+identifying information available on the books and records of such broker-dealer) equal or
+exceed the identifying activity level; (2) [t]reat any persons identified in [item 1] as an
+Unidentified Large Trader for purposes of this section; and (3) [i]nform any person identified in
+[item 1] of its potential obligation under this section.”
+For the purposes of Rule 13h-1, “a
+registered broker-dealer need take into account only transactions in NMS securities effected by
+or through such broker-dealer.”
+One commenter has stated that the “approach for monitoring
+large trader reporting adopted by the Commission is ineffective because a broker-dealer would
+
+
+not know about a customer’s trading activity at other broker-dealers.”
+This commenter
+believed that the Commission, using information already reported to the CAT, could “readily
+determine if any CCID has exceeded the applicable trading thresholds for large trader reporting
+and an LTID has not been reported for the FDIDs to which the CCID is associated.”
+The
+commenter stated that the availability of such data through the CAT “obviates the need for
+broker-dealers to create identifiers for unidentified large traders and to report them to CAT.”
+Should the Commission eliminate record-keeping, reporting, and/or monitoring requirements
+from Rule 13h-1 for Unidentified Large Traders? What costs do broker-dealers incur to monitor
+for and comply with Rule 13h-1 requirements for Unidentified Large Traders? Please provide
+specific data. Could the Commission surveil for Unidentified Large Traders by determining
+whether any CCID has exceeded the applicable trading thresholds for large trader reporting and
+whether an LTID has been reported for the FDIDs to which that CCID is associated now that
+LTIDs have been removed from the CAT by the amendments approved in the 2026 Cost Savings
+Order?
+Is there an alternative method of finding Unidentified Large Traders using CAT Data?
