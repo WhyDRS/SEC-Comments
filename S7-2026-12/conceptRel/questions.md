@@ -587,3 +587,120 @@ should apply? At what level of data aggregation should the data be made availabl
 the costs and benefits associated with releasing such data? Does the answer depend on the type
 of data relied upon? Does the answer depend on the costs of making such data available?
 
+91. Should information about the policies, procedures, and/or controls that govern the
+regulatory use of the EBS system be made public? For example, should the Commission and/or
+the SROs publish information regarding the internal controls and/or safeguards that govern
+access to or use of the EBS system, information about how the Commission and/or the SROs
+monitor the storage and/or usage of data accessed through the EBS system, information about the
+number of regulatory users at the Commission and/or the SROs and/or the regulatory purposes
+for which they are using data accessed through the EBS system? Would disclosure of such
+information pose security, privacy, or confidentiality concerns?92. What confidentiality, privacy, and security measures or controls would further strengthen
+protections that prevent regulatory users at the Commission and/or the SROs from using the EBS
+system for inappropriate or illegal purposes, such as targeting an individual for monitoring based
+on personal, competitive, or political animus? For example, should the Commission further
+restrict the way that regulatory users can use the EBS system to support regulatory activities? If
+so, how? What standards should be satisfied before a regulatory user can access and/or use data
+using the EBS system? Does the answer depend on whether the regulatory user is Commission
+staff or SRO staff? Does the answer depend on whether the regulatory user is accessing
+transactional data or customer and account-level information?93. What security, privacy, and confidentiality controls protect data transmitted and/or stored
+through the EBS system? What encryption protections secure EBS data that is transmitted
+and/or stored? Are there additional security measures that should be implemented to protect data
+transmitted and/or stored by FINRA’s and/or NYSE’s EBS systems? For example, are there
+more secure methods of transmitting and/or storing data than those currently employed by
+regulators to request and receive EBS data? If so, please identify any such methods, explain why
+they would be more appropriate, and describe any costs associated with implementing and/or
+maintaining such methods of transmission, including any costs associated with burdens on
+regulatory use.94. Should the Commission require the creation and/or implementation of specific data
+retention policies that would shorten the amount of time that EBS data may be retained and/or
+control the way that such data may be stored by the SROs? What are the costs and benefits
+associated with such an approach? How would shortened data retention policies interact with
+federal rules and regulations governing record retention? Would shortening data retention
+policies potentially lead to duplicative requests? Are there policies and procedures regarding the
+storage and/or retention of data that could potentially decrease the number of duplicative
+requests made via the EBS system?
+
+95. If an R&R System is implemented, what security standards or controls should govern it?
+For instance, should an R&R System be required to comply with any particular industry
+standards or controls for information security, like standards promulgated by NIST regarding
+security and privacy controls for information systems and organizations, providing a
+cybersecurity framework, or implementing zero trust architecture?
+Does the answer depend
+
+on the parties that have access to the system? Does the answer depend on the functionality
+provided by the system—for example, the extent to which requests and responses are automated?96. FIF has suggested that FINRA could “provide a secure method” for broker-dealers to
+respond to requests made by regulators through an R&R System.
+What would constitute a
+secure method for broker-dealers to respond to requests? What would constitute a secure method
+for regulators to make requests? Please specifically identify secure methods that could be used
+to request and provide data, explain why those methods are appropriate, and identify any costs or
+benefits associated with those methods.97. Should requests and/or responses made via an R&R System be encrypted? Does the
+answer depend on the data that is required to be reported via an R&R System? If data should be
+encrypted, please identify appropriate encryption protocols and explain why they should be
+applied to data provided through an R&R System. What are the costs and benefits that would be
+associated with such a measure? To what extent would broker-dealers have to re-program their
+systems to encrypt this data? To what extent would regulators have to adjust their regulatory
+programs if the information sent through an R&R System was encrypted?98. What access and use controls or measures should be implemented for an R&R
+System?
+Do the answers depend on how particular security measures or controls would impact regulatory
+use? Do the answers depend on the costs associated with particular security measures or
+controls? Do the answers depend on the type of data or the volume of data being accessed or
+
+used? For example, should customer and account information be protected with different
+security measures or controls than those applied to transactional data? Should security policies
+and/or procedures be uniform across all SROs that access and/or use an R&R System? Does
+some measure of variance in security policies and/or procedures provide more protection to the
+underlying data?99. What security measures or controls would prevent regulatory users at the Commission
+and/or the SROs from using an R&R System for inappropriate or illegal purposes, such as
+targeting an individual for monitoring based on personal, competitive, or political animus? For
+example, should the Commission restrict the way that regulatory users can use an R&R System
+to support regulatory activities? If so, how? What policies, procedures, or controls should
+govern the regulatory use of an R&R System and should information about those policies,
+procedures, or controls be made public? What standards should be satisfied before a regulatory
+user can access and/or use data using an R&R System? Does the answer depend on whether the
+regulatory user is Commission staff or SRO staff?100. How long should the SROs be able to retain data obtained from an R&R System?
+Does the answer depend on the type or volume of data obtained? Does the answer depend on
+how the data is downloaded, accessed, analyzed, tracked, logged, and/or stored? Does the
+answer depend on data privacy or confidentiality considerations? For example, should customer
+and account information be stored separately from and for different periods of time than
+transactional data? Does the answer depend on the particular regulatory use case for the data?
+Does the answer depend on federal rules and regulations governing record retention and statute
+of limitations periods applicable to enforcement actions? Should data retention policies and/or
+procedures be uniform across all SROs that may access and/or use an R&R System? Does some
+measure of variance in security policies and/or procedures provide more protection to the
+underlying data? Could shorter data retention periods and/or more restrictive use policies
+increase the likelihood of duplicative and/or repetitive requests being made to broker-dealers?101. What breach management procedures should be required for an R&R System? Which
+parties, if any, should the owners and/or operators of an R&R System be required to notify in the
+event of a breach? What kinds of events should constitute a breach?
+
+102. FIF has expressed concern about the “plaintext reporting of SSNs and other PII” in
+OCC’s LOPR data, urging the Commission to direct the removal of PII from this data set.
+What are the costs and benefits associated with such an approach? Would removal of customer
+and account level data from LOPR make its regulatory use less efficient? For example, would
+regulators have to obtain the required information through an alternative (and potentially
+manual) method that could involve requesting information from a larger number of brokerdealers? Would this raise costs for broker-dealers? If so, please identify and quantify the
+burdens associated with this alternative approach. Are there alternative methods for enhancing
+
+the security of LOPR data? If so, please identify any such measures and explain why it would be
+appropriate to implement such measures.
+
+103. If not eliminated, modified, and/or replaced, do any other audit trails and/or related data
+sources raise cybersecurity, privacy, and/or civil liberties concerns? If so, how should the
+Commission address these concerns?
+104. Are there any other methods of gathering information from market participants regarding
+any potential changes that should be made to the functionality of existing audit trails and/or
+related data sources? For example, should the Commission issue industry surveys to brokerdealers and SROs? If so, please describe what the content of these surveys should be and to
+which parties such surveys should be distributed. Should the Commission hold a roundtable
+conference and/or establish a working group? Please identify any measures the Commission
+should take to gather information and explain why such measures are appropriate.105. Several market participants have suggested that the Commission should “require the CAT
+Operating Committee to engage an independent technology firm to review the operations and
+technological design of CAT to identify further opportunities to optimize CAT and reduce
+costs.”
+Should the Commission require an independent audit of the CAT’s technological
+design? If so, please describe what the scope of such an audit should be,
+explain why that
+scope would be appropriate, and describe any criteria that should be used to select the party
+conducting the independent audit. Does the answer depend on the costs of such an independent
+audit? Does an independent audit pose any security risks? Should an independent audit be
+conducted for any other existing audit trail and/or data source? Should the results of the
+independent audit be made public? Would making such information public compromise the
+security of the CAT?
