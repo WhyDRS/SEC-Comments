@@ -306,3 +306,104 @@ costs and benefits associated with reporting such information? Can regulators su
 accurately understand trading activity if certain (and potentially unknown) Material Terms of the
 Order have been excluded from the data set? Are there any alternative data sources that would
 provide regulators with insight into Material Terms of the Order that are set at the port level?
+57. Should the Commission extend the exemptive relief already granted and, if so, for how
+much longer should exemptive relief be provided? Should the Commission instead amend the
+CAT NMS Plan to make permanent and codify the Representative Order Exemptive Relief
+Order?58. If the Commission should either codify or extend the Representative Order Exemptive
+Relief Order, should any changes be made to its scope? For example, are there specific trading
+workflows and/or linkage scenarios involving representative orders, beyond those workflows
+and/or scenarios in which Industry Members do not have a systematic or direct link between
+their order management systems and execution management systems, that should be exempted or
+excluded from the reporting and linkage requirements of the CAT NMS Plan?
+59. Are there audit trails and/or related data sources that contain partially duplicative
+information to the CAT, such that overlapping requirements should be eliminated, modified, or
+replaced? If so, please explain why or under what circumstances those requirements should be
+eliminated, modified, or replaced and identify any potential costs and benefits associated with
+such elimination, modification, or replacement.
+60. Will CAT data be sufficiently accurate and reliable to prove an adequate substitute data
+source for transactional data otherwise obtainable through the EBS system? What criteria should
+the Commission use to evaluate this question?61. Should an R&R System be implemented? If so, what functionality should an R&R
+System have? Does the answer depend on which regulators have access to the system? Does the
+answer depend on how the system is funded? Does the answer depend on the extent to which an
+R&R System is intended to replace the EBS system? Does the answer depend on whether an
+R&R System should be part of the CAT System or separate from it?
+62. Should the Commission direct the creation of an R&R System? If it should be separate
+from the CAT System, should the creation and implementation of an R&R System be structured
+as a national market system plan and, if so, how should it be funded and governed?63. If an R&R System should not be structured as a national market system plan or included
+as part of the CAT System, is there another method by which the Commission should direct the
+creation of such a system? Should the Commission, for example, promulgate a data collection
+rule that leaves the SROs with discretion as to how to structure and fund an R&R System? If so,
+please explain what requirements should be included in such a rule and why those requirements
+are appropriate. Does the answer depend on the parties that would own and/or operate the
+system? Does the answer depend on the parties that would use the system? Does the answer
+depend on which parties would fund the system?64. If an R&R System should be implemented separate from the CAT System, who should
+own and/or operate the system? What kind of staff and/or expertise is needed to own, operate, or
+maintain such a system? What kinds of technological capabilities are needed to own, operate, or
+maintain such a system? Should the Commission license use of a Commission-owned R&R
+System to the SROs? If so, how should the Commission determine the rates at which an R&R
+System is licensed out to the SROs? How would such a licensing arrangement work? Would the
+SROs seek to recoup any of those licensing costs from their members? Would this approach
+raise any conflicts of interest concerns, given that the SROs are parties that the Commission
+regulates?65. If an R&R System should be implemented separate from the CAT System, should the
+Commission and/or one or more SROs contract with a third-party service provider to create and
+develop an R&R System? If so, how should decisions on an R&R System’s functionality,
+funding, and other items be made?66. What are the advantages and disadvantages if the Commission were appropriated funds to
+cover costs with respect to an R&R System? Does the answer depend on which parties would
+have access to the system?67. If an R&R System should be implemented separate from the CAT System, should the
+SROs and/or their members fund part or all of the costs associated with an R&R System?
+Should the Commission establish a funding model that allocates fees amongst the SROs and their
+members? Does the answer depend on how the R&R System is structured and/or governed? If
+the Commission should establish a funding model that allocates fees amongst the SROs and their
+members, what features should that model have? How should fees be allocated to and amongst
+SROs and/or their members?68. Is it feasible to link CAT Data with customer and account information obtained from an
+R&R System in the manner that market participants have suggested – i.e., using the CAT toidentify relevant CCIDs and related FDIDs, populating an R&R System’s request form with
+those FDIDs, sending that request through an R&R System to the appropriate broker-dealers, and
+then associating any customer and account-level information received from those broker-dealers
+with CAT transactional data? Would it be beneficial to automate the process for receiving and
+responding to regulatory requests for customer and account information? For instance, is it
+possible to automate regulator queries to an R&R System and in what fashion? Is it possible for
+broker-dealers to automate their responses to an R&R System? What technology build would be
+required at the broker-dealer level? What technology build would be required for regulators at
+the Commission and/or the SROs? What issues does an automated response process create or
+solve?
+
+69. What data should be accessible through an R&R System? Should an R&R System only
+cover the securities currently required to be reported to the CAT
+or should it also cover other
+types of securities currently accessible through EBS (e.g., fixed income)? Are there customerand account fields from the existing EBS template that should be accessible through an R&R
+System? Are there any fields from the existing CAIS template (or from a previous CAIS
+template) that should be accessible through an R&R System? Should SSNs, ITINs, and/or legal
+entity identifiers be accessible through an R&R System? Should names, addresses, dates of
+birth, and employer names be accessible through an R&R System? Should information about
+authorized traders be accessible through an R&R System? Should FDIDs be accessible through
+an R&R System? Should the large trader identification numbers assigned by the Commission
+pursuant to Rule 13h-1 be accessible through an R&R System? Do the answers depend on the
+security measures put in place for an R&R System? Are there any data elements that are not
+currently included in an existing audit trail and/or data source that should be accessible through
+an R&R System? What data elements would be required to properly enable customer and
+account information accessible through an R&R System to be linked to transactional CAT Data?70. How should data be requested and provided through an R&R System? Does the answer
+depend on whether an R&R System is part of the CAT System?71. How should regulators at the Commission and the SROs be able to submit requests for
+data through an R&R System? For example, should an R&R System provide regulators with a
+web interface or an application programming interface? What are the advantages and
+disadvantages associated with either approach? What kinds of queries should regulators be able
+
+to submit through an R&R System?72. How should requests for data be communicated to responding broker-dealers? How
+should broker-dealers be able to respond to requests received through an R&R System? For
+example, should an R&R System provide broker-dealers with a web interface or an application
+programming interface? What are the advantages and disadvantages associated with either
+approach? Should broker-dealers receive email alerts or other reminders regarding the existence
+of requests made via an R&R System? What format should data accessible through an R&R
+System be provided in? Is there a specific template that should be used by broker-dealers? How
+long should broker-dealers be given to respond to a request received through an R&R System?73. What are the costs and benefits associated with implementing an R&R System? Please
+provide specific estimates of any cost savings or burdens that would flow from the
+implementation of an R&R System, explain whether those estimates are premised on full or
+partial retirement of the EBS system, and the extent to which the EBS system would have to be
+retired and/or modified to align with those estimates. To what extent would broker-dealers have
+to re-program their systems to report through an R&R System? How long would it take brokerdealers to re-program their systems? To what extent would regulators have to adjust their
+regulatory programs to use an R&R System instead of the EBS system? Are there use cases
+made possible by the EBS system that would not be possible through linking CAT Data with
+customer data retrieved from an R&R System? Please identify these use cases and explain why
+they would not be possible utilizing the R&R system approach suggested by market participants.
+What costs are associated with the development of new workflows to properly link CAT Data
+with customer data that may be reported to an R&R System? How long would it take regulators
+to make any necessary adjustments?
