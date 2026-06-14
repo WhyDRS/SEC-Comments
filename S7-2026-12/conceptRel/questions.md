@@ -504,3 +504,80 @@ that would further strengthen the
 protection of the information used by the Plan Processor to generate CCIDs? If so, please
 identify these enhancements, explain how such enhancements would improve the privacy,
 
+
+confidentiality, and security of the CAT and/or CAT Data, and identify the costs associated with
+implementing such enhancements.84. The CAT NMS Plan already sets forth a non-exclusive list of industry standards for
+information security with which the CAT is required to comply, including standards promulgated
+by the U.S. National Institute of Standards and Technology (“NIST”) regarding security and
+privacy controls for information systems and organizations
+and providing a cybersecurity
+framework.
+Are there additional security, privacy, or confidentiality controls that should be
+implemented to secure the CAT? Are there additional industry standards for information
+security with which the CAT should be required to comply – for example, NIST standards for
+zero trust architecture?
+What are the benefits and costs associated with the implementation of
+or compliance with such additional security, privacy, or confidentiality controls and/or industry
+standards for information security?85. The CAT NMS Plan already requires the Chief Information Security Officer
+to
+“review the information security policies and procedures of the Participants that are related to the
+CAT to ensure that such policies and procedures are comparable to the information security
+
+
+policies and procedures applicable to the Central Repository.”
+
+Instead of “comparable”
+policies and procedures, should uniform security policies and/or procedures be imposed on all
+parties that may access and/or use the CAT? Does some measure of variance in security policies
+and/or procedures provide more protection to the underlying data? What are the costs and/or
+benefits associated with providing flexibility with respect to the application of specified security
+requirements? Should the CAT NMS Plan impose any additional requirements to control how
+CAT Data is retained, stored, and/or tracked once it is downloaded from the CAT? For how long
+should data be stored? Does the answer depend on how and/or what kind of data is stored?
+Does the answer depend on the potential use of artificial intelligence to analyze CAT Data?
+Should the SROs be required to implement zero trust architecture for CAT Data? Does the
+answer depend on how this approach would impact regulatory use? Does the answer depend on
+the costs associated with this approach?86. The CAT NMS Plan currently sets forth robust access control requirements for the CAT
+and for CAT Data. It requires both the SROs and the Plan Processor to implement various
+safeguards to secure access and use of the CAT, including: (1) role-based access controls; (2)
+authentication of individual users; (3) multi-factor authentication and password controls; (4)
+implementation of information barriers to prevent unauthorized staff from accessing CAT Data;
+(5) data encryption and use of secure connectivity methods; (6) security-driven monitoring and
+logging; (7) escalation procedures for non-compliance and/or security events; and (8) remote
+access controls.
+    a. Should additional access control measures be implemented for the CAT? What
+    kinds of controls should be put in place to manage and review access entitlements
+    and regulatory use? Please identify any additional access control measures that
+    should be implemented, explain how such measures would enhance the security
+    of the CAT and/or CAT Data, and identify any costs associated with
+    implementing such measures.b. Should the existing logging requirements of the CAT NMS Plan be enhanced?
+    For example, are there artificial intelligence or algorithmic technology solutions
+    that could assist either the Plan Processor and/or regulators to detect misuse of
+    CAT Data? If so, please identify such technology solutions, explain how they
+    would help the Plan Processor and/or regulators to detect misuse of CAT Data,
+    and describe any costs or challenges associated with their implementation.c. What types of audit procedures should be put in place to assess whether CAT
+    Data has been used appropriately by regulatory users?d. What types of access control measures are necessary to prevent a bad actor at the
+    Commission or the SROs from using the CAT to target an individual(s) for
+    monitoring based on personal, competitive, or political animus?
+
+
+
+87. Rule 613 and the CAT NMS Plan prohibit the use of CAT Data for commercial purposes,
+as well as the use of CAT Data by parties that are not regulators and in non-regulatory contexts –
+for example, by private litigants. Should the Commission further reinforce or enhance these
+
+Should the Commission further reinforce or enhance these restrictions on how CAT Data can be used?
+88. In addition to the existing requirement that CAT Data only be used for regulatory
+purposes, what security measures or controls would further strengthen protections that prevent
+regulatory users at the Commission and/or the SROs from using the CAT for inappropriate or
+illegal purposes, such as targeting an individual for monitoring based on personal, competitive,
+or political animus? For example, should the Commission further restrict the way that regulatory
+users can use the CAT to support regulatory activities? If so, how? What standards should be
+satisfied before a regulatory user can access and/or use CAT Data? Does the answer depend on
+whether the regulatory user is Commission staff or SRO staff? Does the growing use of artificial
+intelligence affect this analysis? If so, how?89. Should information about the policies, procedures, and/or controls that govern the
+regulatory use of the CAT be made public? For example, should the Commission and/or the
+SROs publish information regarding the internal controls and/or safeguards that govern access to
+or use of CAT Data, information about how the Commission, the SROs and/or FINRA CAT
+monitor the storage and/or usage of CAT Data, information about the number of regulatory users
+at the Commission and/or the SROs and/or the regulatory purposes for which they are using
