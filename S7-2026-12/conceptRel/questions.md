@@ -214,14 +214,38 @@ Members—once on T+2 at 8:00 a.m. ET for linkage errors discovered for on-time 
 and again on T+3 at 8:00 a.m. ET for later-discovered errors. The SROs stated that “Industry
 Members would be permitted to submit corrections outside of this 24-hour window and would
 receive reconciliation credit. However, these submissions would be marked late and would not
-receive any feedback indicating whether the correction was successful.”142 In seeking public
+receive any feedback indicating whether the correction was successful.” In seeking public
 comment, the SROs stated that “members of the CAT Advisory Committee and other Industry
 Member groups had previously raised issues with the shortened amount of time that would be
 available to Industry Members to review and provide corrected data under the reduced linkage
 timeline,” which they were concerned may increase regulatory compliance risks and costs for
-Industry Members and reduce the accuracy of CAT Data.143 These concerns were duly reflected
+Industry Members and reduce the accuracy of CAT Data. These concerns were duly reflected
 in a comment letter that the Commission subsequently received in connection with the 2025 Cost
-Savings Amendment.144 However, the Commission is interested in gathering feedback from
+Savings Amendment. However, the Commission is interested in gathering feedback from
 market participants as to whether there may be other ways to alter the CAT’s existing processing
 and/or linkage timelines that would both preserve core regulatory functionality and achieve cost
 savings. Should the Commission extend or otherwise alter the processing and/or linkage
+timelines set forth in the CAT NMS Plan? If so, how? Are there other ways to reduce or
+optimize the amount of linkage processing performed by the Plan Processor?40. SIFMA has requested that the SROs work with Industry Members with the “goal of
+reducing ‘late to the lifecycle’ linkage errors . . . while still allowing for firms to confirm
+successful repairs within a reasonable window.” Are there changes that could be made to the
+CAT Reporting Technical Specifications and/or the CAT NMS Plan to reduce “late to the
+lifecycle” linkage errors? Alternatively, or in addition, should the CAT NMS Plan and/or other
+compliance rules, regulations, standards, and/or guidance regarding error thresholds, error
+corrections, and/or reconciliation credits be amended to relax requirements relating to correction
+and/or accuracy of late-submitted historical data? Would such amendments require increased
+reliance on other audit trails and/or data sources for corrected historical data? If so, what are the
+costs associated with that increased reliance?
+41. How should the Plan Processor store historical data? How quickly should data be moved
+to medium- and long-term storage? For how long should data be stored? Does the answer
+depend on how and/or what kind of data is stored?42. The 2026 Cost Savings Order approved amendments to the CAT NMS Plan that would
+reduce data storage and retention requirements. Specifically, the amendments permit the SROs
+to: (1) delete all CAT Data older than three years; (2) delete OMM Quotes older than six months;
+(3) delete Interim Operational Data older than 15 days; and (4) delete Options SIP Data older than six months. Are there further optimizations that should be made to the CAT NMS
+Plan data storage and retention requirements to reduce costs? If so, please identify those
+optimizations, explain why such optimizations are appropriate, describe the costs and/or benefits
+associated with such optimizations (including any impact on data accuracy and/or regulatory
+use), and, if such optimizations involve eliminating requirements to collect and/or store certain
+kinds of data, explain whether such optimizations would require increased reliance on other audit
+trails and/or data sources for those kinds of data and describe any costs associated with that
+increased reliance.
