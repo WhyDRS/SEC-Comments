@@ -9,7 +9,7 @@ if they tokenive it then it literally dousnt matter lol, buit that _shold_ have 
 becase basically if it's mapping and not aan alngo that's ephermural, then thit tablle becase the most improntant target in the interu system
 
 
-The SEC says the CAT process needs retained TIDs because, “without the ability to map TIDs to CCIDs,” CAT could not tell whether a reported TID had already been assigned a CCID; otherwise each repeat TID would get a new CCID. That is the strongest source for saying this is treated as a mapping/tokenization function, not merely “run public formula X on TID.”
+The SEC says the CAT process needs retained TIDs because, "without the ability to map TIDs to CCIDs," CAT could not tell whether a reported TID had already been assigned a CCID; otherwise each repeat TID would get a new CCID. That is the strongest source for saying this is treated as a mapping/tokenization function, not merely "run public formula X on TID."
 https://www.sec.gov/files/rules/sro/nms/2026/34-104586.pdf#page=15
 
 The same paragraph says TID information is maintained in an isolated, secure database within the CCID Subsystem, separate from other CAIS/Reference Database information, with limited Plan Processor staff access

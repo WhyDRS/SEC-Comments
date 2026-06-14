@@ -13,7 +13,7 @@ LEI plaintext, same area, Section 2.2.5.2, spec pp. 8–9: un hdo BAD
 
 Section 3.4, Translation of Input Identifiers to TID Values, spec pp. 20–21:
 
-SSN/ITIN or EIN is input in exact valid format into “a SHA-256 hashing algorithm,” and the output is reported as tidValue.
+SSN/ITIN or EIN is input in exact valid format into "a SHA-256 hashing algorithm," and the output is reported as tidValue.
 
 ^^ FIF makes thi s piount at https://www.sec.gov/comments/4-698/4698-625367-1847814.pdf#page=9
 

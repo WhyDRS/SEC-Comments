@@ -58,7 +58,7 @@ note 3 saays '82 funding cets led to dismissals intieraally
 
 A<deopting Rerlelase v2 Jul 2012    
 
-> The [613 adopting] release states that the decision to require all SROs to jointly file one NMS plan with the Commission “is appropriate because such a requirement is expected to result in an NMS plan that is the product of negotiation and compromise among all of the SROs….” However, this assumes that all SROs will have equal weight and negotiation power, which is just not realistic. The process contemplated by Rule 613 could result in a battle of size, not necessarily one of ideas. And, I might add, not all compromises represent improvement.
+> The [613 adopting] release states that the decision to require all SROs to jointly file one NMS plan with the Commission "is appropriate because such a requirement is expected to result in an NMS plan that is the product of negotiation and compromise among all of the SROs…." However, this assumes that all SROs will have equal weight and negotiation power, which is just not realistic. The process contemplated by Rule 613 could result in a battle of size, not necessarily one of ideas. And, I might add, not all compromises represent improvement.
 
 https://www.sec.gov/newsroom/speeches-statements/2012-spch071112laahtm
 
