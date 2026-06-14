@@ -41,7 +41,7 @@ AT THE FUCKNIG RELEASE
 
 > To be effective, however, the staff must be equipped with the necessary resources to do their job. To that end, the single most transformational act that Congress could undertake is to allow the SEC to be self-funded. The ability to set multi-year budgets and maintain appropriate staffing that arises from self-funding will be crucial to our ability to accomplish our mission. The financial reform bill approved by the Senate authorizes the SEC to be self-funded.
 
-Dir cite ref is Consumer Fin. Prot. Bureau v. Cmty. Fin. Servs. Ass’n of Am., Ltd., 601 U.S. 416, 425–26 (2024) [standadlne] inline cite as https://www.supremecourt.gov/docket/docketfiles/html/public/22-448.html (16 May 2024)
+Dir cite ref is Consumer Fin. Prot. Bureau v. Cmty. Fin. Servs. Ass'n of Am., Ltd., 601 U.S. 416, 425–26 (2024) [standadlne] inline cite as https://www.supremecourt.gov/docket/docketfiles/html/public/22-448.html (16 May 2024)
 
 > Throughout my tenure, I have listened to your stories about outdated systems and lack of market data access. I have heard about the elaborate work-around techniques you created to reach market data in order to surveil the market. I commend your dedication in working to improve the SEC's inadequate to non-existent access to market data and the adverse impact it has had on your ability to surveil the capital market.
 
@@ -58,7 +58,7 @@ note 3 saays '82 funding cets led to dismissals intieraally
 
 A<deopting Rerlelase v2 Jul 2012    
 
-> The [613 adopting] release states that the decision to require all SROs to jointly file one NMS plan with the Commission “is appropriate because such a requirement is expected to result in an NMS plan that is the product of negotiation and compromise among all of the SROs….” However, this assumes that all SROs will have equal weight and negotiation power, which is just not realistic. The process contemplated by Rule 613 could result in a battle of size, not necessarily one of ideas. And, I might add, not all compromises represent improvement.
+> The [613 adopting] release states that the decision to require all SROs to jointly file one NMS plan with the Commission "is appropriate because such a requirement is expected to result in an NMS plan that is the product of negotiation and compromise among all of the SROs…." However, this assumes that all SROs will have equal weight and negotiation power, which is just not realistic. The process contemplated by Rule 613 could result in a battle of size, not necessarily one of ideas. And, I might add, not all compromises represent improvement.
 
 https://www.sec.gov/newsroom/speeches-statements/2012-spch071112laahtm
 

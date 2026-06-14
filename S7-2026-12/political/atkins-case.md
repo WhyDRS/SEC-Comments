@@ -3,7 +3,7 @@ https://www.courtlistener.com/docket/68439441/davidson-v-atkins n others
 makus the comical clsaims of :
 
 
-> With technological surveillance and data-processing technology becoming ever cheaper and increasing exponentially in power—witness the growth in the power of AI and bots over our electronic lives—the only things that stand in the way of this Orwellian “Big Brother” are our laws and our courts.
+> With technological surveillance and data-processing technology becoming ever cheaper and increasing exponentially in power—witness the growth in the power of AI and bots over our electronic lives—the only things that stand in the way of this Orwellian "Big Brother" are our laws and our courts.
 
 andf the n.4 and accomynintg texc t cites the CAT as a Panopticon 
 
