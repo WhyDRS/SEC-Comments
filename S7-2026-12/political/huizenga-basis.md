@@ -14,3 +14,8 @@ theyi have basis ni the 17 hearing in the subcommitees annd some nondir'd itmes:
 HMA is considere hostile by me
 
 shows up in the referenced supplemental statements too, which can dir as written testimony
+
+
+
+
+doc'd at S 1.4  https://github.com/orgs/WhyDRS/discussions/46
