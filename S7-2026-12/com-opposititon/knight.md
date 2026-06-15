@@ -28,9 +28,9 @@ Combined excess net capital: $270.1M
 
     Aug. 2: Knight says it traded out of the erroneous positions and realized about a $440M pre-tax loss. It also says the capital base was “severely impacted,” but its BD subsidiaries remained in full net-cap compliance.
 
-    Aug. 6: Knight sells $400M of 2% convertible preferred stock in a private placement. Its 10-Q says this was because the event severely impacted capital, caused liquidity pressure, harmed counterparty/customer confidence, and created “substantial doubt” about going concern status. After the raise, Knight says KCA had excess net capital greater than $300M as of close of business Aug. 6.
+    Aug. 6: Knight sells $400M of 2% convertible preferred stock in a private placement. Its 10-Q says this was because the event severely impacted capital, caused liquidity pressure, harmed counterparty/customer confidence, and created “substantial doubt” about going concern status. After the raise, Knight says KCA had excess net capital greater than $300M as of close of business Aug. 6.        https://www.sec.gov/Archives/edgar/data/1060749/000119312512338098/d392396d8k.htm
 
-    Who paid the $400M?
+    Who paid the $400M?        https://www.sec.gov/Archives/edgar/data/1060749/000119312512338098/d392396dex101.htm
 
     The investor group named in SEC filings / company release was:
 
