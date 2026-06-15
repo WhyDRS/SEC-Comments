@@ -9,7 +9,7 @@ That is almost perfect against Knight’s 2011 “more data is not always the ri
 
 
 
-https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf
+https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf  **
 
 > risks associated with automated systems and the possibility of these types of errors.
 
@@ -18,22 +18,29 @@ https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf
 The whole event started from only 212 small retail orders.
 Knight ended up with about $3.5 billion net long and $3.15 billion net short positions.
 
-this was more than their entire catibal base as per  https://www.sec.gov/Archives/edgar/data/1060749/000119312512346917/d361681d10q.htm
+this was more than their entire catibal base as per  https://www.sec.gov/Archives/edgar/data/1060749/000119312512346917/d361681d10q.htm ^
 Knight Capital Americas, L.P.: $198.1M net capital, $197.1M excess
 Knight Execution & Clearing Services LLC: $93.7M net capital, $73.0M excess
 Combined U.S. BD net capital: $291.8M
 Combined excess net capital: $270.1M
 
-Aug. 1, 2012, market open: Knight’s software issue sends erroneous orders. SEC later says SMARS turned 212 small retail orders into millions of orders, over 4 million executions, and 397M+ shares in about 45 minutes.
+    Aug. 1, 2012, market open: Knight’s software issue sends erroneous orders. SEC later says SMARS turned 212 small retail orders into millions of orders, over 4 million executions, and 397M+ shares in about 45 minutes.
 
-Aug. 2: Knight says it traded out of the erroneous positions and realized about a $440M pre-tax loss. It also says the capital base was “severely impacted,” but its BD subsidiaries remained in full net-cap compliance.
+    Aug. 2: Knight says it traded out of the erroneous positions and realized about a $440M pre-tax loss. It also says the capital base was “severely impacted,” but its BD subsidiaries remained in full net-cap compliance.
 
-Aug. 6: Knight sells $400M of 2% convertible preferred stock in a private placement. Its 10-Q says this was because the event severely impacted capital, caused liquidity pressure, harmed counterparty/customer confidence, and created “substantial doubt” about going concern status. After the raise, Knight says KCA had excess net capital greater than $300M as of close of business Aug. 6.
+    Aug. 6: Knight sells $400M of 2% convertible preferred stock in a private placement. Its 10-Q says this was because the event severely impacted capital, caused liquidity pressure, harmed counterparty/customer confidence, and created “substantial doubt” about going concern status. After the raise, Knight says KCA had excess net capital greater than $300M as of close of business Aug. 6.
 
-Who paid the $400M?
+    Who paid the $400M?
 
-The investor group named in SEC filings / company release was:
+    The investor group named in SEC filings / company release was:
 
-Jefferies & Company, Jefferies High Yield Trading, Blackstone funds, GETCO Strategic Investments, TD Ameritrade, Stephens Investments Holdings, and Stifel Financial.
+    Jefferies & Company, Jefferies High Yield Trading, Blackstone funds, GETCO Strategic Investments, TD Ameritrade, Stephens Investments Holdings, and Stifel Financial.
 
-aT the mininmi wwe cas cite thenet captial req ruels of which they were sub-satilaly diffircecnt
+~~aT the mininmi wwe cas cite thenet captial req ruels of which they were sub-satilaly diffircecnt~~
+^ Page 5, “Consolidated Statements of Financial Condition.” This is the main balance-sheet page.
+
+Key lines:
+
+Cash and cash equivalents: $364.798M
+June 30
+-so the 460 from ** at 2 P 1 is $460M - $364.8M = $95.2M+ debt
