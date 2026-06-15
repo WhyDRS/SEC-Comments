@@ -17,3 +17,5 @@ https://www.sec.gov/comments/s7-11-10/s71110-51.pdf
 
 
 ALbany matkjje sa more logeal argiment for the same, only in def of SS cases https://www.sec.gov/comments/s7-11-10/s71110-47.pdf
+
+lbnl claims exa-scale at 2010 https://www.sec.gov/comments/s7-11-10/s71110-37.pdf
