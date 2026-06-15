@@ -43,3 +43,7 @@ change dir AA https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
 
 
 Consolidated Audit Trail, LLC (the "LLC") opertaed by FINRA CAT, LLC ("the CAT").
+
+
+I tnhink tlet's start with the introductar TA basisis and just get it out of the way so that we can jump into the SHit args fast isth. I want to frame it as finindsd our Reg S-P complicn "earlire this mont"
+howm mcih we want to septup celodu coems form teh basisi of time that boto3 was- in py https://github.com/blocktransfer/py-TAD3-horizon
