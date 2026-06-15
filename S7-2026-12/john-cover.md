@@ -49,3 +49,5 @@ I tnhink tlet's start with the introductar TA basisis and just get it out of the
 howm mcih we want to septup celodu coems form teh basisi of time that boto3 was- in py https://github.com/blocktransfer/py-TAD3-horizon
 
 becase once you setup WC's correlnatai arggs, then you can pin the fails on onu spartiggual/ secuitrriy, and hence you can defefer thec sotn to their manipulative trading, j justifyngi higher payments
+
+into Citagoadi Global sinNivetnment (megerde GP diiffd) as in case prim ("Shitadel") TODO ruplace at comilpatin wtih "the Pllantiff"

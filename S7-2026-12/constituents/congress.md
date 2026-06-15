@@ -37,6 +37,7 @@ and hthen herens the fuck you shitadel bit
 > Payment for order flow should also be subject to further regulatory scrutiny. Because their orders are less likely to reflect recent trends in the market (e.g. price movements caused by volatility or a large trader in the market), particularly when those trends can occur in milliseconds and microseconds, retail-based orders are extremely valuable to trade against. In order to attract retail orders, internalizing dealers often pay retail brokers to direct customer orders to their trading venues. As with liquidity rebates, such payments pose inherent conflicts of interest for brokers charged with ensuring their customers’ orders receive “best execution.” Given that best execution obligations are poorly-defined and meaningful execution quality data is relatively inaccessible, unreadable or non-existent, it is all the more important for regulators to root out conflicts of interest at the broker level.
 
 Sen. Edward Kaufman
+https://www.sec.gov/comments/s7-27-09/s72709-96.pdf
 
 ---
 
@@ -47,3 +48,4 @@ Sen. Edward Kaufman
 "all trades to be reported"
 Rep. Melissa Bean
 COMMITTEE ON FINANCIAL SERVICES fin mkts subrcommitete
+https://www.sec.gov/comments/s7-11-10/s71110-114.pdf
