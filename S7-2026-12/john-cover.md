@@ -1,5 +1,6 @@
 ---
 title: In re S7-2026-12
+thesis: ``jurisprudence of trade reporting``
 ---
 
 ```
@@ -19,9 +20,32 @@ Securities and Exchange Commission<br>
 100 F Street NE<br>
 Washington, DC 20549-1090
 
+
+intro prof. strcat.
+
+> The Consolidated Audit Trail (CAT) is a critical piece of infrastructure necessary to monitor a modern, algorithmic market. While opponents of the CAT claim to worry about costs and privacy, these arguments are a smoke screen; the reality is that a comprehensive audit trail is the only definitive tool standing between an orderly market and unchecked, systemic manipulation.
+
+-- A Concerned Market Participant
+https://www.sec.gov/comments/S7-2026-12/s7202612-828300-2534907.html
+
+
+
+
+
+
+
+
 Wall St. may think / say they don't have enough money.
 Cite the comp. aliste meeting and boo-hoos.
 <<the supra for later -- https://media.ca11.uscourts.gov/opinions/pub/files/202313396.pdf>>
+
+
+
+
+
+
+
+
 
 But all the participants are well-funded Wall St. bureaucracies.
 They _can_ get the money to implement the changes.
@@ -43,6 +67,7 @@ change dir AA https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
 
 ---
 
+err.s as mwanipulatin at https://www.sec.gov/comments/S7-2026-12/s7202612-832019-2544722.html
 
 #  
 
@@ -63,3 +88,9 @@ cat oig https://www.sec.gov/files/additional-oversight-monitoring-secs-cat-usage
 MUST CITE P1--15 THE LLEGEND https://www.sec.gov/comments/S7-2026-12/s7202612-2542960.htm
 > In the non-psychopath mind and in a world where justice, love, and peace play a big part - the previously mentioned criminal elements are, in fact, bad and *not* given cover. 
 
+
+Intro dark-pool path routing othervwisse compeltely lost:
+> Removing CAT and other audits serves no other purpose than to purposefully obfuscate how privileged investors play by different rules than retail. It allows bad actors to rig the system while simultaneously removing any transparency to their actions.
+
+-- Retail Investors
+https://www.sec.gov/comments/S7-2026-12/s7202612-828999-2536392.html

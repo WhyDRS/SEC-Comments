@@ -39,7 +39,8 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://www.sec.gov/comments/s7-11-10/s71110-116.pdf
 - https://www.sec.gov/comments/s7-11-10/s71110-113.pdf#page=1.74&gsr=0
 - https://www.sec.gov/comments/s7-11-10/s71110-35.pdf
-- 
+- https://www.sec.gov/comments/S7-2026-12/s7202612-2541234.htm just a good one , nothin to pell out tho 
+- https://www.sec.gov/comments/S7-2026-12/s7202612-828619-2535351.pdf
 
 
 
