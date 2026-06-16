@@ -47,6 +47,7 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://catnmsplan.com/sites/default/files/2026-05/05.28.26-Clock-Sync-Annual-Certification-Industry-Member-Fillable.pdf
 - https://catnmsplan.com/sites/default/files/2024-07/CAT_Q2-and-Q3-2024-QPR.pdf
 - **§ 19(g)** is the **duty**: an SRO must comply with the Exchange Act, SEC rules, and its own rules, and must enforce member compliance. **§ 19(h)** is the **remedy/enforcement power**: if the SRO fails that § 19(g) duty, the SEC can censure, suspend, revoke, or limit the SRO’s activities, functions, and operations.
+- https://www.sec.gov/comments/S7-2026-12/s7202612-typeb.pdf  at 88 handles the policictal enforcement bits seen with Marc Cuban and thes the obenvi's
 - 
 
 

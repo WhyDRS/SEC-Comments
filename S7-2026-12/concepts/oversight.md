@@ -90,3 +90,11 @@ Caveat: that supports **public-market information / commentary / price-impact** 
 [2]: https://www.jenner.com/a/web/qLGRUX2jpkpugDytWfSujB/4HRMZQ/Teamsters_v._Bombardier.pdf?1314385443= "Teamsters v. Bombardier"
 [3]: https://www.paulweiss.com/insights/client-memos/fourth-circuit-holds-that-securities-fraud-case-based-on-short-seller-report-fails-to-plead-loss-causation "Fourth Circuit Holds That Securities Fraud Case Based on Short-Seller Report Fails to Plead Loss Causation | Paul, Weiss"
 [4]: https://www.sec.gov/newsroom/press-releases/2023-219 "SEC.gov | SEC Adopts Amendments to Rules Governing Beneficial Ownership Reporting"
+
+
+---
+
+theun the Dir's are:
+- Under current Supreme Court doctrine, ordinary bank records held by a bank get weak protection because United States v. Miller held that bank records were the bank’s business records, not the customer’s private papers, and that the customer had no legitimate expectation of privacy in information voluntarily conveyed to the bank.
+- NAACP v. Alabama protects against compelled disclosure of membership/associational ties where disclosure chills association. Americans for Prosperity Foundation v. Bonta reaffirmed that compelled disclosure regimes can trigger exacting scrutiny and must be narrowly tailored to the government’s interest. That argument works best if CAT data can reveal protected affiliations or expressive activity, for example political, religious, activist, controversial, or retaliable economic associations. //
+  - If we want to argue this then pull the dircet Tobacco call without the citationss srcing, aas a stnandarn 4xFN
