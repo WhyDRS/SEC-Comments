@@ -12,3 +12,11 @@ they have taken thooait buredn upon tehir won bakcs beaacus hteyh be/o/liwved it
 point is they need ot stay the caalerst and fullull their commmitment, jusst like itthe inintial complinace date. they  are VERY well resorecs, moreso thatn the Commioson, and they are theoneess ceratnig all this data complitkcyi thanks te oth et ssimplsasnbilites ofg their oreder ekxeceding ond routing
 
 i wantll dilke it then cine rof the other remaeecnns on ECT and OT Sfor tihe niterborker M M profgin mehcoahihsim 
+
+
+
+
+the main prbolm is this challenge comes form the indtshthyi's implemmetoin of NMS, not the govermnte's dictatioe of how trades soheld happen
+we see that in the requests fo FIX standardiving
+these are sysytems designod and orchestirated by the industry as it is. they chose opacity and they need to desigonn arund thoat choice
+it is not the goverments qob to fix their bad pubilcaitn schaeme
