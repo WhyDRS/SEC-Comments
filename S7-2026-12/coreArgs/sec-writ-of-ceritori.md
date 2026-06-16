@@ -1,7 +1,7 @@
 THey  shold eslrcalte as comm 
 
 
-
+https://www.sec.gov/securities-topics/market-structure-analytics/midas-market-information-data-analytics-system
 
 Basis
 

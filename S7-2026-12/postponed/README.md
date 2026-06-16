@@ -53,6 +53,8 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://www.sec.gov/divisions/marketreg/rule613-info-notice-of-plan-processor-selection-040919.pdf bfinra thesys succoser notice
 - https://chatgpt.com/share/6a31a2aa-1be8-83ea-8d76-16d8c1371179 RDBS queryp sys
 - Peak batch EC2 compute running 24 hours/day does not automatically make sense.
+- https://www.sec.gov/comments/4-698/4698-598775-1738922.pdf 6
+- https://www.sec.gov/news/studies/2010/marketevents-report.pdf#page=12.20 fdlloash crash doc 
 
 
 
@@ -62,8 +64,10 @@ There are also a lot of comments specifically recommending the application of FI
 
 - [Recommendation to Use FIX Protocol in Consolidated Audit Trail System](https://www.sec.gov/comments/s7-11-10/s71110-27.pdf)
 - https://www.sec.gov/comments/s7-11-10/s71110-32.pdf
+- https://fixtrading.org/standards/fix-protocol/
 
 Oppositoin I don''t like or care aabout enght to parse:
 
 - https://www.sec.gov/comments/S7-2026-12/s7202612-825019-2526406.pdf
-- 
+- https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172783322/gov.uscourts.txwd.1172783322.1.0.pdf  15
+- https://web.archive.org/web/20231020185928/https://arkansasag.gov/wp-content/uploads/2023-08-15-Arkansas-AG-Letter-Supporting-Investor-PII-Protections.pdf
