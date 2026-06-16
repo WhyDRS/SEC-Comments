@@ -55,6 +55,7 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - Peak batch EC2 compute running 24 hours/day does not automatically make sense.
 - https://www.sec.gov/comments/4-698/4698-598775-1738922.pdf 6
 - https://www.sec.gov/news/studies/2010/marketevents-report.pdf#page=12.20 fdlloash crash doc 
+- https://catnmsplan.com/sites/default/files/2020-02/Amended-Exemptive-Request-CCID-and-Modified-PII-Approaches%28Final%29.pdf
 
 
 
