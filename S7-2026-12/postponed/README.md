@@ -35,6 +35,11 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://www.sec.gov/comments/s7-11-10/s71110-63.pdf
 - https://www.sec.gov/comments/s7-11-10/s71110-83.pdf
 - https://www.sec.gov/comments/s7-11-10/s71110-87.pdf
+- https://www.sec.gov/comments/s7-01-13/s70113-73.pdf#page=1.00&gsr=0 THesys fonuder '99+
+- https://www.sec.gov/comments/s7-11-10/s71110-116.pdf
+- https://www.sec.gov/comments/s7-11-10/s71110-113.pdf#page=1.74&gsr=0
+- https://www.sec.gov/comments/s7-11-10/s71110-35.pdf
+- 
 
 
 
