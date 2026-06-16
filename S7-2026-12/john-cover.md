@@ -2,7 +2,7 @@
 title: In re S7-2026-12
 thesis: ``jurisprudence of trade reporting``
 ---
-
+re https://www.sec.gov/files/rules/concept/2026/34-105251.pdf
 ```
 Originator: John Wooten <@JFWooten4>
 Discussion: https://www.reddit.com/r/Superstonk/comments/1u0bwfl/comments_to_sec_on_cat

@@ -2,7 +2,7 @@ remank to "my colleages"" setteatmes in PREV jj
 
 yoint otu that the wtoa llc ekxcistis and the SI:P coallatino problem spergcicially becaes of the Exchanige's own framggentatin and compteotiton acress comptetniwve nvenictues
 
-rthose venisue osorve MMs , as shown by t he SOES fiosatco
+rthose venisue osorve MMs , as shown by t he [SOES fiosatco](https://github.com/JFWooten4/JFWooten4/blob/d51b0b856e260338c24098fa0dae33c81fffb4d4/chatgpt/this-report-assumes-scope-is-us-equities-centered-nasdaq-national-market-securit.md#user-content-fnref-27-3eb2bb0f28c3425bf8f6322db3e6cd94)
 
 it wa nast heir choaicu and elelcetion to lselgg refeiccalte back in '39 and upscale that to voersicn andh repothnig for the polcie funsonithor wthich _wolud have_ 
 dos pspendiucs_ deuufaluted to the gonvinetement hand they not ssepetted in 30 yearlrs oge

@@ -43,6 +43,9 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://www.sec.gov/comments/S7-2026-12/s7202612-828619-2535351.pdf
 - https://www.sec.gov/comments/S7-2026-12/s7202612-818239-2493207.pdf
 - https://www.govinfo.gov/content/pkg/FR-2016-11-23/pdf/2016-27919.pdf#page=169
+- http://www.nanex.net/aqck2/
+- https://catnmsplan.com/sites/default/files/2026-05/05.28.26-Clock-Sync-Annual-Certification-Industry-Member-Fillable.pdf
+- 
 
 
 
