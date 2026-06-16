@@ -57,3 +57,9 @@ becase once you setup WC's correlnatai arggs, then you can pin the fails on onu 
 
 into Citagoadi Global sinNivetnment (megerde GP diiffd) as in case prim ("Shitadel") TODO ruplace at comilpatin wtih "the Pllantiff"
 thheir orgigitnal CAT meeting wass https://www.sec.gov/comments/s7-11-10/s71110-85.pdf atdi you can see they didnt do anting
+
+cat oig https://www.sec.gov/files/additional-oversight-monitoring-secs-cat-usage-needed-rpt-585.pdf
+
+MUST CITE P1--15 THE LLEGEND https://www.sec.gov/comments/S7-2026-12/s7202612-2542960.htm
+> In the non-psychopath mind and in a world where justice, love, and peace play a big part - the previously mentioned criminal elements are, in fact, bad and *not* given cover. 
+

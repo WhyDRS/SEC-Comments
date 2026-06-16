@@ -49,3 +49,7 @@ There are also a lot of comments specifically recommending the application of FI
 - [Recommendation to Use FIX Protocol in Consolidated Audit Trail System](https://www.sec.gov/comments/s7-11-10/s71110-27.pdf)
 - https://www.sec.gov/comments/s7-11-10/s71110-32.pdf
 
+Oppositoin I don''t like or care aabout enght to parse:
+
+- https://www.sec.gov/comments/S7-2026-12/s7202612-825019-2526406.pdf
+- 
