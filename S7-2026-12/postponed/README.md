@@ -50,7 +50,7 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://www.sec.gov/comments/S7-2026-12/s7202612-typeb.pdf  at 88 handles the policictal enforcement bits seen with Marc Cuban and thes the obenvi's
 - https://www.sec.gov/files/rules/concept/34-50700.pdf      '96  21(A) NASD repot at 6 right collimn & n.78 accompnayngi
 - https://www.sec.gov/divisions/marketreg/rule613-info-notice-of-plan-processor-selection-040919.pdf bfinra thesys succoser notice
-- 
+- https://chatgpt.com/share/6a31a2aa-1be8-83ea-8d76-16d8c1371179 RDBS queryp sys
 
 
 
