@@ -14,7 +14,9 @@ presettaint sidhecs dir imgs at https://d1.awsstatic.com/events/Summits/reinvent
 
 Pre-enttated dir cite cgasese from the slide pef PG#
 
+## 1
 
 
+## Discord / Twitter influencer manipulation case
 
-##
+https://www.sec.gov/files/litigation/complaints/2022/comp-pr2022-221.pdf
