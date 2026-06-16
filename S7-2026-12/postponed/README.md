@@ -52,7 +52,7 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://www.sec.gov/divisions/marketreg/rule613-info-notice-of-plan-processor-selection.pdf thesyss orgiginal notice
 - https://www.sec.gov/divisions/marketreg/rule613-info-notice-of-plan-processor-selection-040919.pdf bfinra thesys succoser notice
 - https://chatgpt.com/share/6a31a2aa-1be8-83ea-8d76-16d8c1371179 RDBS queryp sys
-- 
+- Peak batch EC2 compute running 24 hours/day does not automatically make sense.
 
 
 
