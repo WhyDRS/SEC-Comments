@@ -45,7 +45,10 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://www.govinfo.gov/content/pkg/FR-2016-11-23/pdf/2016-27919.pdf#page=169
 - http://www.nanex.net/aqck2/
 - https://catnmsplan.com/sites/default/files/2026-05/05.28.26-Clock-Sync-Annual-Certification-Industry-Member-Fillable.pdf
+- https://catnmsplan.com/sites/default/files/2024-07/CAT_Q2-and-Q3-2024-QPR.pdf
+- **§ 19(g)** is the **duty**: an SRO must comply with the Exchange Act, SEC rules, and its own rules, and must enforce member compliance. **§ 19(h)** is the **remedy/enforcement power**: if the SRO fails that § 19(g) duty, the SEC can censure, suspend, revoke, or limit the SRO’s activities, functions, and operations.
 - 
+
 
 
 
