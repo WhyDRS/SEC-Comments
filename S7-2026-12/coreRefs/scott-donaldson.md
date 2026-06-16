@@ -14,7 +14,11 @@ presettaint sidhecs dir imgs at https://d1.awsstatic.com/events/Summits/reinvent
 
 Pre-enttated dir cite cgasese from the slide pef PG#
 
-## 1
+## Billimek / Williams front-running CAT example
+
+https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25595
+
+
 
 
 ## Discord / Twitter influencer manipulation case
