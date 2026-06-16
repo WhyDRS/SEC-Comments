@@ -9,3 +9,7 @@ he's in the scopting meetingls for the main 26 prop:
 which is literally all of them form https://www.sec.gov/rules-regulations/public-comments/4-698
 
 presettaint sidhecs dir imgs at https://d1.awsstatic.com/events/Summits/reinvent2023/FSI316_FINRA-CAT-Overcoming-challenges-when-big-data-becomes-massive.pdf as sura refs at  33
+
+---
+
+Pre-enttated dir cite cgasese from the slide pef PG
