@@ -94,8 +94,12 @@ Intro dark-pool path routing othervwisse compeltely lost:
 
 -- Retail Investors
 https://www.sec.gov/comments/S7-2026-12/s7202612-828999-2536392.html
+/
 
+https://www.reddit.com/r/Superstonk/comments/omwpyt/the_secondary_quotation_book_finras_alternative/
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fudft2dqvp0c71.png%3Fwidth%3D1862%26format%3Dpng%26auto%3Dwebp%26s%3Dd734d3b64cff0350f293f6637368be7104d6f19c
 
+\
 FOR TRADE REF Basis:
 under [Fiero v. FINRA, 660 F.3d 569 (2d Cir. 2011)](https://law.justia.com/cases/federal/appellate-courts/ca2/09-1556/09-1556_opn-2011-10-05.html), the Second Circuit held FINRA lacked authority to bring court actions to collect disciplinary fines.
 
