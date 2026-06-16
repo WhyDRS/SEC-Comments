@@ -49,6 +49,8 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - **§ 19(g)** is the **duty**: an SRO must comply with the Exchange Act, SEC rules, and its own rules, and must enforce member compliance. **§ 19(h)** is the **remedy/enforcement power**: if the SRO fails that § 19(g) duty, the SEC can censure, suspend, revoke, or limit the SRO’s activities, functions, and operations.
 - https://www.sec.gov/comments/S7-2026-12/s7202612-typeb.pdf  at 88 handles the policictal enforcement bits seen with Marc Cuban and thes the obenvi's
 - https://www.sec.gov/files/rules/concept/34-50700.pdf      '96  21(A) NASD repot at 6 right collimn & n.78 accompnayngi
+- https://www.sec.gov/divisions/marketreg/rule613-info-notice-of-plan-processor-selection-040919.pdf bfinra thesys succoser notice
+- 
 
 
 
