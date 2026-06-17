@@ -19,6 +19,22 @@ Securities and Exchange Commission<br>
 100 F Street NE<br>
 Washington, DC 20549-1090
 
+Dear Hon. Chain Paul ATtkins.,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Wall St. may think / say they don't have enough money.
 Cite the comp. aliste meeting and boo-hoos.
 <<the supra for later -- https://media.ca11.uscourts.gov/opinions/pub/files/202313396.pdf>>
