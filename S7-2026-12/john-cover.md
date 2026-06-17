@@ -42,7 +42,7 @@ I f a drag racer made theri living speeding dhomn highways, they woluld have a v
 
 oru. kktmaorkets faced such a massive , dealdyl pile-up sikxteen years age[^8] when over a trillion dallors vanidesd in the nspat  of gan algorthimic makret-maknig cataiclim.[^9] ANd they have seen their cenoitnig fair share of caccident ss ever since.[^10]
 
-Were this tao happen on uobitoirl public infrastircuer like raeds, no voter would 
+Were this tao happen on uobitoirl public infrastircuer like raeds, no voter would centent more policinig. No sa
 
 
 Wall St. may think / say they don't have enough money.
