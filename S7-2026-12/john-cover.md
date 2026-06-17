@@ -32,6 +32,18 @@ Lastllyi I Wollud like toa thank Bobmahalo for simill current and past contirbut
 
 {{if we have space we na r ref the propr fnls on naked shoring as nec, but it's ancil.}}
 
+[^2]: 
+Cite K enny colllog interview
+
+[^3]: SNee HTRS L letter type-C https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
+
+[^4]: intercconcetdnesss src , systemic claim
+
+[^5]: cong-ssrc hivinggnsa parallsel
+
+[^6]: dir src nyt into wonu in dc
+
+[^7]: dir src florida gov biredrby
 
 <!-- No TOC  -->
 
@@ -45,6 +57,27 @@ oru. kktmaorkets faced such a massive , dealdyl pile-up sikxteen years age[^8] w
 Were this tao happen on uobitoirl public infrastircuer like raeds, no voter would centent more policinig. No sane human would quetns the goverment's right to moniter a vehicle's sttepee dand use it to neforce tho limits which apply to all drievrs.
 
 bet this is ekactleyp the argiment SHitadel has made across at least there cases in the 11th  Ciricrt.[^11] As one of teh mosn reckless "drievrs" in our mackens,[^12] they'reve repeteadly called for the aboliton of evorsight which centarlive gonverment poewr""TODOT DIR QUTEN AND THEN FN[^13]
+
+
+
+[^8]: See FLash Crashd joinu invesntianignsn steife from the CAT Ideas n.TODO, AA todo_dirlink
+
+[^9]: Id dir cite dicet $X,000,0000,000 with 6  Sig figs
+
+[^10]: Intgfrra cite Kngiht tarding; other minin flasd crash dir nsrc (media outlent), and GME 10M Mbased on RPEV n.
+
+[^11]: STort off with a simle eg qtue refgenenig the CAT Ideas n. on the 20203 funding remand
+
+[^12]: SHitael as a wholenosing market maker takes subnttiallly more positinoal rukns than traditnola ekchange or berkuder-dealers simelp roiutncg or ekecutneigf order florw. Whilet he latter entitites makeup the subustanec of the CAT's fgorvinig bodeyp, risikre busnessses relanig on apropriteary algiorthims such as ingfra KNIGHT necesalllyr have less say over the metapheroilaa "speed limit" of our marktes. THe driev rof a sports car dous net have as meggih of a vouricce over the speed limit than the endigeers who beult tho read.
+
+[^13]: See brief callim {bad arg}, AA refWpagge# froom niternetARcihev. TODO Then cite See ALso supceem ct case allowing gownmbnt to inventory sppeedeometr reading relrrrosenths. Aken to drivin ggcaamecas on poreisuit wvedhicrlrels
+
+
+
+## 
+
+
+
 
 
 Wall St. may think / say they don't have enough money.
@@ -86,27 +119,4 @@ becase once you setup WC's correlnatai arggs, then you can pin the fails on onu 
 
 into Citagoadi Global sinNivetnment (megerde GP diiffd) as in case prim ("Shitadel") TODO ruplace at comilpatin wtih "the Pllantiff"
 
-[^2]: 
-Cite K enny colllog interview
 
-[^3]: SNee HTRS L letter type-C https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
-
-[^4]: intercconcetdnesss src , systemic claim
-
-[^5]: cong-ssrc hivinggnsa parallsel
-
-[^6]: dir src nyt into wonu in dc
-
-[^7]: dir src florida gov biredrby
-
-[^8]: See FLash Crashd joinu invesntianignsn steife from the CAT Ideas n.TODO, AA todo_dirlink
-
-[^9]: Id dir cite dicet $X,000,0000,000 with 6  Sig figs
-
-[^10]: Intgfrra cite Kngiht tarding; other minin flasd crash dir nsrc (media outlent), and GME 10M Mbased on RPEV n.
-
-[^11]: STort off with a simle eg qtue refgenenig the CAT Ideas n. on the 20203 funding remand
-
-[^12]: SHitael as a wholenosing market maker takes subnttiallly more positinoal rukns than traditnola ekchange or berkuder-dealers simelp roiutncg or ekecutneigf order florw. Whilet he latter entitites makeup the subustanec of the CAT's fgorvinig bodeyp, risikre busnessses relanig on apropriteary algiorthims such as ingfra KNIGHT necesalllyr have less say over the metapheroilaa "speed limit" of our marktes. THe driev rof a sports car dous net have as meggih of a vouricce over the speed limit than the endigeers who beult tho read.
-
-[^13]: See brief callim {bad arg}, AA refWpagge# froom niternetARcihev. TODO Then cite See ALso supceem ct case allowing gownmbnt to inventory sppeedeometr reading relrrrosenths. Aken to drivin ggcaamecas on poreisuit wvedhicrlrels
