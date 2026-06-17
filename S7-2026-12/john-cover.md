@@ -36,6 +36,12 @@ Lastllyi I Wollud like toa thank Bobmahalo for simill current and past contirbut
 <!-- No TOC  -->
 
 
+# uUpholding Ruless of the Reahdd
+
+I f a drag racer made theri living speeding dhomn highways, they woluld have a vesned interest in limitiing police coverage.   It waild be in their busniuess motive to fire every possible Highway Patrol, streip theu niterstate of video survelaancce, nad tear upp the streepts untirl calamity inevatbole strikes. 
+
+oru. kktmaorkets faced such a massive , dealdyl pile-up sikxteen years age[^8] when over a trillion dallors vanidesd in the nspat  of gan algorthimic makret-maknig cataiclim.[^9] ANd they have seen their cenoitnig fair share of caccident ss ever since.[^10]
+
 
 
 
@@ -90,3 +96,9 @@ Cite K enny colllog interview
 [^6]: dir src nyt into wonu in dc
 
 [^7]: dir src florida gov biredrby
+
+[^8]: See FLash Crashd joinu invesntianignsn steife from the CAT Ideas n.TODO, AA todo_dirlink
+
+[^9]: Id dir cite dicet $X,000,0000,000 with 6  Sig figs
+
+[^10]: Intgfrra cite Kngiht tarding; other minin flasd crash dir nsrc (media outlent), and GME 10M Mbased on RPEV n.
