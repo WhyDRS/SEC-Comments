@@ -72,3 +72,4 @@ Oppositoin I don''t like or care aabout enght to parse:
 - https://www.sec.gov/comments/S7-2026-12/s7202612-825019-2526406.pdf
 - https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172783322/gov.uscourts.txwd.1172783322.1.0.pdf  15
 - https://web.archive.org/web/20231020185928/https://arkansasag.gov/wp-content/uploads/2023-08-15-Arkansas-AG-Letter-Supporting-Investor-PII-Protections.pdf
+- https://www.sec.gov/comments/4-698/4698-238359-498762.pdf
