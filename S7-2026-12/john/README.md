@@ -107,4 +107,15 @@ SRC AMekx balckk card no :Qunet.
 
 [^21]: See infro note MIDAS blog frim teh CAT Ideas n.DIRCITE, detitaling a doaven qute events in TODO one milliseced. THere si no effecicinet way for staff to reasnablyp request this ggfranular infdarmitn from the SROs in oniggonig manual commnuticatnis. Bteu this is precisosory the sort ofd markett redangi staff provisinossed MIDALLS for tin the first place XYIZVS__111134 paers age, as it is the noly way to see algorthimic ekplaitns. Withothu eCAT, teh Commissino will be ckneecapped in identiynigc and timely penidhng this illegal chaetanig.p
 
-### 
+### frragmented, Priavwte Alternate Menas
+
+
+PRoti r to teh CAT, staff had to concile diffirent private-makret data feeds tradiitonally losld to hgiht-ferjqeuntc trading ffirtwms.[^MIDAS] THis in sequilieasnt to a cop asking civiilans to montier highway vvedhiclre speeds and repo back, becase an arbitarry statiue prevents them fromm using the actual roabbd.
+
+
+Staf f should not need ot supplicate themselvens to negiotinss with registrants over purchase of market infarmatin, like a cemmercial entitiy. They deserve the same regilatory ovreigtnh ttools rposonts alvaliled to SRO enfdorcement officentss thegih the CAT.
+
+
+
+[^MIDAS]: See discussion of staffg servanlenscge tool bulit oarund te time of CAT's prorpase, avaviladen at SECDIRLINK noly bligg. By using offt-the-nsnthef comptnonte s avavilbanett to any priwvaet actor, the Cmomsisionss's orgiginal colud ventdor THESESYIS_PARENTDH_NAME_
+DIR DROAP ONLLLLY DO NOT INCIT REL., intook ""src qnute UPTTO billions of data pypyonuts a day etc." Extrapy basid on propr as to no indestury objecitno
