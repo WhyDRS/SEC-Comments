@@ -17,3 +17,13 @@ unfortatly the LULD ponits are gotnna force STATUE DIR CITE of the 3 SIP plan pr
 
 
 utp is c
+
+
+## CAT LLC op Repting
+
+https://catnmsplan.com/sites/default/files/2021-07/07.28.21-CAT-CAIS-Industry-Member-Reporting-Scenarios-v1.2.1-Clean.pdf
+Jan. 2026, the SEC approved the CAIS amendment. After that, CAIS is renamed the “Reference Database that maps CCIDs ↔ FDIDs/account/customer reference data
+
+https://catnmsplan.com/sites/default/files/2026-02/02.27.26_Industry_Member_Tech_Specs_Reporting_Scenarios_v4.17_CLEAN.pdf
+
+https://catnmsplan.com/sites/default/files/2024-04/04.18.24_CAT_CAIS_Industry_Member_Reporting_Scenarios_v2.4_CLEAN.pdf
