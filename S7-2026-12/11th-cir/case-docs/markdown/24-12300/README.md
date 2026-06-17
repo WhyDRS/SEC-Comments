@@ -13,3 +13,8 @@ Related Citadel petition, mostly procedural and held in abeyance. Use only if tr
 - `1 - agency-case-docketed-petition-for-review/1-2 - agency-case-docketed-petition-for-review.md`
 - `42 - motion-to-hold-appeal-in-abeyance-filed-by-citadel-motion-is-unopposed-42-2.md`
 - `45 - status-report-filed-as-to-attorney-noel-john-francisco-for-petitioner-citadel-l.md`
+
+## Extraction Notes
+
+- `notes/README.md`
+- `notes/key-filing-template.md`

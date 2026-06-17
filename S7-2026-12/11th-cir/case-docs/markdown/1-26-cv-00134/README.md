@@ -14,3 +14,8 @@ D.D.C. parallel district-court challenge. Not an 11th Circuit case, but tightly 
 - `20 - memorandum-in-opposition-to-motion/20 - memorandum-in-opposition-to-motion.md`
 - `21 - memorandum-in-opposition-to-motion/21 - memorandum-in-opposition-to-motion.md`
 - `22 - reply-to-opposition-to-motion/22 - reply-to-opposition-to-motion.md`
+
+## Extraction Notes
+
+- `notes/README.md`
+- `notes/key-filing-template.md`

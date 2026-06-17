@@ -25,3 +25,8 @@ Core CAT funding challenge. This is the most important 11th Circuit case for the
 ## Related Dossiers
 
 - `virtu-sifma-amicus-dossier.md`
+
+## Extraction Notes
+
+- `notes/README.md`
+- `notes/key-filing-template.md`

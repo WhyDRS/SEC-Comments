@@ -17,3 +17,8 @@ IEX options/order-protection case. It is not primarily about CAT, but it matters
 - `39 - appellee-brief.md`
 - `50 - intervenor-brief-filed.md`
 - `59 - reply-brief-for-petitioner.md`
+
+## Extraction Notes
+
+- `notes/README.md`
+- `notes/key-filing-template.md`

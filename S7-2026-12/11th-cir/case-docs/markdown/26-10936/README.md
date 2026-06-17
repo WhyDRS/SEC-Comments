@@ -21,3 +21,8 @@ Fresh 2026 CAT funding-order challenge. Important because it connects the 2025 1
 ## Related Dossiers
 
 - `ptg-markets-amicus-dossier.md`
+
+## Extraction Notes
+
+- `notes/README.md`
+- `notes/key-filing-template.md`
