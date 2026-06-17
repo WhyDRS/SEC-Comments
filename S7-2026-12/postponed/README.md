@@ -78,3 +78,6 @@ Oppositoin I don''t like or care aabout enght to parse:
 - https://www.sec.gov/comments/4-698/4698-238359-498762.pdf
 - https://www.sec.gov/comments/4-698/4698-224499-470142.pdf at 13 on cloed speucificity... (fine arg but for time  the sterage segmentatin is enoght)
   - Period 4 is tied to CAT “full implementation” / Financial Accountability Milestones, not just a neat calendar label. The letter says its 2022–23 estimate assumes full implementation is not achieved until 2024, and that Period 4 costs may be assessed later through another “Historical CAT Assessment
+- FIF 1 https://www.sec.gov/comments/4-698/4698-625367-1847814.pdf
+- FIF 2 https://www.sec.gov/comments/4-698/4698-641207-1918454.pdf
+- FIF 3 https://www.sec.gov/comments/4-698/4698-702007-2205454.pdf
