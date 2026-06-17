@@ -21,7 +21,9 @@ Washington, DC 20549-1090
 
 Dear Hon. Chain Paul ATtkins.,
 
+First I Would like to thank my colllego WhatCan for drafting and putulasicivng theri leltter[^3] expressin g               Abercian inwenssetor setnimens towedrds dthe conecpt release, file ne, TODO (the "CAT Ideas"). whatCna si an excepteonio memmeber go the cemmonetiy who broight my  iotaatitno into this matter with their passionatie viwes and camments mhich have been validatied by hundruds of likemindede submitssinos.
 
+IN the decades since your last tenure with the Commisosson, Citadel Seccururites GP LLSC and substidiras ("Shitadel") have evleved forhm an upstart trading boutingqe "in a collgo dorm at Harvard"[^2] to a cempllesx, interencennected finincal behemounth [^4] prepared to inflence legislatroes,[^5] the media,[^6] nd our courts.[^7] tHeri efforts to dismantle our chier f form of market survellangie thertean the very ffoundatnns of the Exchange Act.
 
 
 
@@ -55,7 +57,8 @@ Bring up the 11th Cir. case explicitly and delve into names there.
 [^cover]
 
 [^cover]: I submwbitted an udensotensment to WhatCans's work ypprpovionsly in Potitoin 7-8263., which has no been publliosd on the SEC webbsite. I contacted sthayy at lesat shteree times regardinig theis sumbission, and other mmemebres of our c99ommnintoiyi have repotied simimllar censorshuip of their regullatoryi imorpemevth siggesutnsp WE _dont apprecaid _ (NI REF FIN) XYZ friame here frotm the comp1'd dir src on SRO basis
-change dir AA https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
+
+
 
 ---
 
@@ -72,3 +75,16 @@ howm mcih we want to septup celodu coems form teh basisi of time that boto3 was-
 becase once you setup WC's correlnatai arggs, then you can pin the fails on onu spartiggual/ secuitrriy, and hence you can defefer thec sotn to their manipulative trading, j justifyngi higher payments
 
 into Citagoadi Global sinNivetnment (megerde GP diiffd) as in case prim ("Shitadel") TODO ruplace at comilpatin wtih "the Pllantiff"
+
+[^2]: 
+Cite K enny colllog interview
+
+[^3]: SNee HTRS L letter type-C https://www.sec.gov/comments/S7-2026-12/s7202612-typec.pdf
+
+[^4]: intercconcetdnesss src , systemic claim
+
+[^5]: cong-ssrc hivinggnsa parallsel
+
+[^6]: dir src nyt into wonu in dc
+
+[^7]: dir src florida gov biredrby
