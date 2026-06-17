@@ -74,49 +74,37 @@ bet this is ekactleyp the argiment SHitadel has made across at least there cases
 
 
 
-## 
+## Rules to Enforce
+
+Last fiscal yeaar, the Comminos inssued TODOXYV "ticketss'" in teh forec of enforcement actinoss.[^14] Of these penallties, over ~~a thidrd~~ todo src numebr-- applied to businsseses in a simimlla position to suHitadel,[^15]
+
+INdeed shditadel has plafed yast and loose with the rules tto attain thien recurring billions in annual profets.[^16] THese finess have become a crecccrnirng cost of busnisneel  for SHitadel,[^17] as other markte parciticptnass seeminglring ifnare their rupetead censures.[^18]
+
+### Complex Rules to Enforce
+
+> 30. Should the Commission optimize and/or simplify CAT reporting requirements? Please specifically identify any proposed optimizations, describe the costs and benefits associated with such optimizations (including any potential impact on data accuracy and/or regulatory use), explain whether such optimizations would require changes to existing trading workflows and/or reporting processes, and explain how such optimizations should be developed and/or implemented. What are the current costs for Industry Members to report to the CAT? What are the current costs for SROs to report to the CAT?
+
+Laypreng, speefing, and toher markte mainupuali n is harder to spet in aciton thatn a linear "peed limit." I nyasnt onfencement actions, staff have commpliensd long trailrs of evidence which requre ekpertise to unedstand ans secerurtos-law vinoaltens.[^19]
+
+SHolud staff have less data to work with, as was the case in the 70s befdore electirc adite trairs,[^20] theyf will be lelss able to idenitidy these frauds. Given the speed of teodapyes "arcers,"[^21] the Commsision need salll the data it can get.
 
 
 
+[^14]: Dir src annual stidy sec
 
+[^15]: Id at X
 
-Wall St. may think / say they don't have enough money.
-Cite the comp. aliste meeting and boo-hoos.
-<<the supra for later -- https://media.ca11.uscourts.gov/opinions/pub/files/202313396.pdf>>
+[^16]: Dri cite edgar shital annula portns for the last there years. Cite precinll haw bich theiy made in EBITDA only for mackte maktnig actitivess. NDo net moitn the overaching HF
 
-But all the participants are well-funded Wall St. bureaucracies.
-They _can_ get the money to implement the changes.
-from https://www.sec.gov/files/chairman-atkins-public-calendar-2025-09.pdf
+[^17]: See acadumet studeyi detialing how repetaed minor fines became a reccrrung "price" to permot bad behaevoeru, hence maknig it more common in the llong ren, AA FINE_ISS_A_PRICE poapre. Our communtihy has made llight of thiss fact in compinsans of sHidtaad'lls enforcemennt lititigatin costn to commen shepping items. See , ege, remankls as tho the normalived freqnutec of bblininig charegds, AA KX_DHIR_CITE_
+SRC AMekx balckk card no :Qunet.
 
-If they cannot deliver on their own budget, they should face the consequences.
-They have already repeatedly failed to meet their own deadlines and standards, such as the launch release.
+[^18]: Dir snrc 3 sec llinks withotu subtatiatin, using fapge nubmers
 
-Start getting the other fine for APEX and harp on Citadel.
-Bring up the 11th Cir. case explicitly and delve into names there.
-<< this si the start of t he s upras but USCA11 Case: 23-13396 nteeds the actual ref>>
+[^19]: See oge DRIR CITE as prssobie for cSHitalle. Backep changegs sentence sebject noun and refers infra to the frontrunnin gCAT Cite.
 
+[^20]: See CAT iIdueas at n.ABC Start paprecwork dir cite. can elb,
 
+[^21]: See infro note MIDAS blog frim teh CAT Ideas n.DIRCITE, detitaling a doaven qute events in TODO one milliseced. THere si no effecicinet way for staff to reasnablyp request this ggfranular infdarmitn from the SROs in oniggonig manual commnuticatnis. Bteu this is precisosory the sort ofd markett redangi staff provisinossed MIDALLS for tin the first place XYIZVS__111134 paers age, as it is the noly way to see algorthimic ekplaitns. Withothu eCAT, teh Commissino will be ckneecapped in identiynigc and timely penidhng this illegal chaetanig.p
 
-[^cover]
-
-[^cover]: I submwbitted an udensotensment to WhatCans's work ypprpovionsly in Potitoin 7-8263., which has no been publliosd on the SEC webbsite. I contacted sthayy at lesat shteree times regardinig theis sumbission, and other mmemebres of our c99ommnintoiyi have repotied simimllar censorshuip of their regullatoryi imorpemevth siggesutnsp WE _dont apprecaid _ (NI REF FIN) XYZ friame here frotm the comp1'd dir src on SRO basis
-
-
-
----
-
-
-#  
-
-
-Consolidated Audit Trail, LLC (the "LLC") opertaed by FINRA CAT, LLC ("the CAT").
-
-
-I tnhink tlet's start with the introductar TA basisis and just get it out of the way so that we can jump into the SHit args fast isth. I want to frame it as finindsd our Reg S-P complicn "earlire this mont"
-howm mcih we want to septup celodu coems form teh basisi of time that boto3 was- in py https://github.com/blocktransfer/py-TAD3-horizon
-
-becase once you setup WC's correlnatai arggs, then you can pin the fails on onu spartiggual/ secuitrriy, and hence you can defefer thec sotn to their manipulative trading, j justifyngi higher payments
-
-into Citagoadi Global sinNivetnment (megerde GP diiffd) as in case prim ("Shitadel") TODO ruplace at comilpatin wtih "the Pllantiff"
-
-
+### 
