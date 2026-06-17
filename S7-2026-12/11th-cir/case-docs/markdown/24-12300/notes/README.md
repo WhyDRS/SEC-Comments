@@ -2,6 +2,8 @@
 
 Use this subfolder for notes pulled from key filings in this case.
 
+Filled notes are in `high-value-filings-analysis.md`.
+
 For each key filing, create a short note using `key-filing-template.md` and fill only the fields supported by the filing.
 
 ## What To Extract

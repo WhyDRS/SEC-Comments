@@ -29,4 +29,5 @@ Core CAT funding challenge. This is the most important 11th Circuit case for the
 ## Extraction Notes
 
 - `notes/README.md`
+- `notes/high-value-filings-analysis.md`
 - `notes/key-filing-template.md`

@@ -17,4 +17,5 @@ Related Citadel petition, mostly procedural and held in abeyance. Use only if tr
 ## Extraction Notes
 
 - `notes/README.md`
+- `notes/high-value-filings-analysis.md`
 - `notes/key-filing-template.md`

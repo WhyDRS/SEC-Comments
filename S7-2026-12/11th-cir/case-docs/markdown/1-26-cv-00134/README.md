@@ -18,4 +18,5 @@ D.D.C. parallel district-court challenge. Not an 11th Circuit case, but tightly 
 ## Extraction Notes
 
 - `notes/README.md`
+- `notes/high-value-filings-analysis.md`
 - `notes/key-filing-template.md`

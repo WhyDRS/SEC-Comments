@@ -25,4 +25,5 @@ Fresh 2026 CAT funding-order challenge. Important because it connects the 2025 1
 ## Extraction Notes
 
 - `notes/README.md`
+- `notes/high-value-filings-analysis.md`
 - `notes/key-filing-template.md`

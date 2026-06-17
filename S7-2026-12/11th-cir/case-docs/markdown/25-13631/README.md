@@ -21,4 +21,5 @@ IEX options/order-protection case. It is not primarily about CAT, but it matters
 ## Extraction Notes
 
 - `notes/README.md`
+- `notes/high-value-filings-analysis.md`
 - `notes/key-filing-template.md`
