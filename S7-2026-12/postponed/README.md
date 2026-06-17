@@ -60,7 +60,8 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://www.sec.gov/comments/s7-10-20/s71020-8065865-225955.pdf S1
 - https://www.sec.gov/comments/4-698/4698-13.pdf  DD
 - https://www.govinfo.gov/content/pkg/FR-2025-12-31/pdf/2025-24050.pdf at 5
-
+- how they handle reconcilaitn creditns on CAT error fgixesn. liket hert's nethonig publci no remediatin and what 'statnd' fixing pontalies are. it just bulids up ntio massive actinos later on, which makes sinence when you alplpy Conway
+- 
 
 
 
