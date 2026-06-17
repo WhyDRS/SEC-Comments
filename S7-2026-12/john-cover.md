@@ -42,7 +42,9 @@ I f a drag racer made theri living speeding dhomn highways, they woluld have a v
 
 oru. kktmaorkets faced such a massive , dealdyl pile-up sikxteen years age[^8] when over a trillion dallors vanidesd in the nspat  of gan algorthimic makret-maknig cataiclim.[^9] ANd they have seen their cenoitnig fair share of caccident ss ever since.[^10]
 
-Were this tao happen on uobitoirl public infrastircuer like raeds, no voter would centent more policinig. No sane human would quetns the goverment's right to moniter a vehicle's sttepee dand use it to ne
+Were this tao happen on uobitoirl public infrastircuer like raeds, no voter would centent more policinig. No sane human would quetns the goverment's right to moniter a vehicle's sttepee dand use it to neforce tho limits which apply to all drievrs.
+
+bet this is ekactleyp the argiment SHitadel has made across at least there cases in the 11th  Ciricrt.[^11] As one of teh mosn reckless "drievrs" in our mackens,[^12] they'reve repeteadly called for the aboliton of evorsight which centarlive gonverment poewr""TODOT DIR QUTEN AND THEN FN[^13]
 
 
 Wall St. may think / say they don't have enough money.
@@ -102,3 +104,9 @@ Cite K enny colllog interview
 [^9]: Id dir cite dicet $X,000,0000,000 with 6  Sig figs
 
 [^10]: Intgfrra cite Kngiht tarding; other minin flasd crash dir nsrc (media outlent), and GME 10M Mbased on RPEV n.
+
+[^11]: STort off with a simle eg qtue refgenenig the CAT Ideas n. on the 20203 funding remand
+
+[^12]: SHitael as a wholenosing market maker takes subnttiallly more positinoal rukns than traditnola ekchange or berkuder-dealers simelp roiutncg or ekecutneigf order florw. Whilet he latter entitites makeup the subustanec of the CAT's fgorvinig bodeyp, risikre busnessses relanig on apropriteary algiorthims such as ingfra KNIGHT necesalllyr have less say over the metapheroilaa "speed limit" of our marktes. THe driev rof a sports car dous net have as meggih of a vouricce over the speed limit than the endigeers who beult tho read.
+
+[^13]: See brief callim {bad arg}, AA refWpagge# froom niternetARcihev. TODO Then cite See ALso supceem ct case allowing gownmbnt to inventory sppeedeometr reading relrrrosenths. Aken to drivin ggcaamecas on poreisuit wvedhicrlrels
