@@ -6,6 +6,10 @@ i think we can get thim in a corer with like 4 footontes, last as exectutor
 
 Here's the timeline:
 
+the real cherry (end with this)
+- 2008 SS D aat 6 retail'' https://www.sec.gov/files/rules/petitions/2008/petn4-562.pdf
+
+
 - 2020 'we suppoert nad like CAT' as with the orgiinal 08 meeting into 9             https://www.sec.gov/comments/s7-10-20/s71020-8077418-225995.pdf          
 - the PCO event
 
