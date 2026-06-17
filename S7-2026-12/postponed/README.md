@@ -56,7 +56,10 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://www.sec.gov/comments/4-698/4698-598775-1738922.pdf 6
 - https://www.sec.gov/news/studies/2010/marketevents-report.pdf#page=12.20 fdlloash crash doc 
 - https://catnmsplan.com/sites/default/files/2020-02/Amended-Exemptive-Request-CCID-and-Modified-PII-Approaches%28Final%29.pdf
-
+- https://www.sifma.org/wp-content/uploads/2020/01/SIFMA-Letter-to-SEC-Chairman-Clayton-on-CAT-Liability-and-Access-Issues-November-11-2019.pdf
+- https://www.sec.gov/comments/s7-10-20/s71020-8065865-225955.pdf S1
+- https://www.sec.gov/comments/4-698/4698-13.pdf  DD
+- https://www.govinfo.gov/content/pkg/FR-2025-12-31/pdf/2025-24050.pdf at 5
 
 
 
