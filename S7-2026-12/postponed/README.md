@@ -76,3 +76,5 @@ Oppositoin I don''t like or care aabout enght to parse:
 - https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172783322/gov.uscourts.txwd.1172783322.1.0.pdf  15
 - https://web.archive.org/web/20231020185928/https://arkansasag.gov/wp-content/uploads/2023-08-15-Arkansas-AG-Letter-Supporting-Investor-PII-Protections.pdf
 - https://www.sec.gov/comments/4-698/4698-238359-498762.pdf
+- https://www.sec.gov/comments/4-698/4698-224499-470142.pdf at 13 on cloed speucificity... (fine arg but for time  the sterage segmentatin is enoght)
+  - Period 4 is tied to CAT “full implementation” / Financial Accountability Milestones, not just a neat calendar label. The letter says its 2022–23 estimate assumes full implementation is not achieved until 2024, and that Period 4 costs may be assessed later through another “Historical CAT Assessment
