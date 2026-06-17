@@ -14,6 +14,10 @@ Related Citadel petition, mostly procedural and held in abeyance. Use only if tr
 - `42 - motion-to-hold-appeal-in-abeyance-filed-by-citadel-motion-is-unopposed-42-2.md`
 - `45 - status-report-filed-as-to-attorney-noel-john-francisco-for-petitioner-citadel-l.md`
 
+## URL References
+
+- `urls.md`
+
 ## Extraction Notes
 
 - `notes/README.md`
