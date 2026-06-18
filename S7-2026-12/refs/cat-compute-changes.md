@@ -1,7 +1,9 @@
 improntant for the dadilen bitss bc this was a llot alrgenssd the Gravitron
 
+rememeben it was 24 hours to prcess the limited diata in OATS re https://www.finra.org/sites/default/files/RuleFiling/p124957.pdf to determine syntax errors while performing massive validation
+(need s better citatin)
 
-
+(saanrts at 1996 NASD order and Section 21(a) report supplied the original template for why a fuller audit trail was necessary. The settlement order required NASD to build an audit trail sufficient to reconstruct markets promptly, surveil effectively, and enforce its rules, beginning)
 | Stage                     |                                                        Deadline |
 | ------------------------- | --------------------------------------------------------------: |
 | Original CAT NMS Plan     |                       lifecycle linkages due **T+1 at noon ET** |
