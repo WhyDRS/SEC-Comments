@@ -1,7 +1,7 @@
 improntant for the dadilen bitss bc this was a llot alrgenssd the Gravitron
 
 rememeben it was 24 hours to prcess the limited diata in OATS re https://www.finra.org/sites/default/files/RuleFiling/p124957.pdf to determine syntax errors while performing massive validation
-(need s better citatin)
+([at 8 jsut after n.69](https://www.govinfo.gov/content/pkg/FR-2012-08-01/pdf/2012-17918.pdf))
 
 (saanrts at 1996 NASD order and Section 21(a) report supplied the original template for why a fuller audit trail was necessary. The settlement order required NASD to build an audit trail sufficient to reconstruct markets promptly, surveil effectively, and enforce its rules, beginning)
 | Stage                     |                                                        Deadline |
