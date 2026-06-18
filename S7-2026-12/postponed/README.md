@@ -67,6 +67,7 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
   - same organiver https://www.finra.org/filing-reporting/electronic-blue-sheets-ebs
 - another ancil si inldusry llaw at 5 repeating the vacation baisis on SRO passthorghtss in https://www.sec.gov/comments/4-698/4698-670027-2019234.pdf
 - phase changes (*dupp'd) https://www.sec.gov/files/rules/exorders/2020/34-88702.pdf
+- https://www.sec.gov/files/rules/proposed/2026/34-105655.pdf oos
 
 THe roggital eceremit asnallysis has opratoinla basis but not direct citaitnoal substaiain needed, singe the gov ponitss matter more than the cause:
 - https://www.sec.gov/files/rules/sro/nms/2016/34-77724.pdf adoptiton at 191
