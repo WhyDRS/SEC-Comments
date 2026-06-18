@@ -62,6 +62,9 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - https://www.govinfo.gov/content/pkg/FR-2025-12-31/pdf/2025-24050.pdf at 5
 - how they handle reconcilaitn creditns on CAT error fgixesn. liket hert's nethonig publci no remediatin and what 'statnd' fixing pontalies are. it just bulids up ntio massive actinos later on, which makes sinence when you alplpy Conway
 - https://www.sec.gov/comments/4-698/4698-598195-1737842.pdf footnote 155 in the 2026 CAT Concept Release. It is being used to support the proposition that commenters opposed eliminating CCIDs because CCIDs are viewed as the thing that lets regulators link a customer’s activity across accounts, broker-dealers, and exchanges. The Federal Register version cites FIF Letter III and then quotes NYSE saying CCIDs are needed for SRO obligations. FINRA _ claims_ Shitadell was part of this ein the lawsui but i dont see any eviednce   toto final run onlfy7 for 15M$  diff
+- it''s kinde of ancillay but n.29 at https://www.sec.gov/comments/4-698/4698-632107-1870294.pdf lays out what they''re trynig to scope with R&R
+  - that getis into the bllue sheet fileds https://www.finra.org/rules-guidance/notices/20-19
+  - same organiver https://www.finra.org/filing-reporting/electronic-blue-sheets-ebs
 
 THe roggital eceremit asnallysis has opratoinla basis but not direct citaitnoal substaiain needed, singe the gov ponitss matter more than the cause:
 - https://www.sec.gov/files/rules/sro/nms/2016/34-77724.pdf adoptiton at 191
