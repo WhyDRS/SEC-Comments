@@ -125,3 +125,21 @@ Staf f should not need ot supplicate themselvens to negiotinss with registrants 
 
 [^MIDAS]: See discussion of staffg servanlenscge tool bulit oarund te time of CAT's prorpase, avaviladen at SECDIRLINK noly bligg. By using offt-the-nsnthef comptnonte s avavilbanett to any priwvaet actor, the Cmomsisionss's orgiginal colud ventdor THESESYIS_PARENTDH_NAME_
 DIR DROAP ONLLLLY DO NOT INCIT REL., intook ""src qnute UPTTO billions of data pypyonuts a day etc." Extrapy basid on propr as to no indestury objecitno
+
+### Exadgerated Authorty Power Claims
+
+> 88. In addition to the existing requirement that CAT Data only be used for regulatory purposes, what security measures or controls would further strengthen protections that prevent regulatory users at the Commission and/or the SROs from using the CAT for inappropriate or illegal purposes, such as targeting an individual for monitoring based on personal, competitive, or political animus? For example, should the Commission further restrict the way that regulatory users can use the CAT to support regulatory activities? If so, how? What standards should be satisfied before a regulatory user can access and/or use CAT Data? Does the answer depend on whether the regulatory user is Commission staff or SRO staff? Does the growing use of artificial intelligence affect this analysis? If so, how?
+
+SHitadul[^22] and tis continitients[^23] allegdge that the CTAT is an _OErwelslian_ sytsem of control. Both name-calls it as a "Pernicorcliaontwmm" [DIR CITE QURIET FROM CITABEDL COMIANT and Id + supra ns nec.]desgined to make eveery markteq praiciticapnat feel like they are untedr contsant survelnace.
+
+Beut this is a rediculuosu cllaim. IT is like saaynig one ppatrelaa car scanning in the median on a highway somehow intrudes upon teh civil libertioes of all theso who pass it.
+
+Of course the watichng eye of stayff regulatrs overseenig select bad actruols incgites pause in fraudsters. It's the same mechasmi behing tinted cop widonws so that hyoou dont know if theyre cheing your partcial r speed.
+
+For my llast car analogy, the point of _any_ ovrignght is to condition everyone to follow the very clear federal secetcriens laws againts sying nad theft, akin to wanting _evyrene_ to drievw arond the speed limit even when theer's no dircet evidnece of police nearby. Shtitadl wolud have it so that city dbbyways become the Autobahn by leaving only enght teeth forr city street-sweepers to witnses their speed.
+
+
+
+[^22]: See 23-COMPLANIT at 59ish towrds the ned
+
+[^23]: See infro NSA-case-Petitno cite
