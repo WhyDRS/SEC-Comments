@@ -65,6 +65,7 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - it''s kinde of ancillay but n.29 at https://www.sec.gov/comments/4-698/4698-632107-1870294.pdf lays out what they''re trynig to scope with R&R
   - that getis into the bllue sheet fileds https://www.finra.org/rules-guidance/notices/20-19
   - same organiver https://www.finra.org/filing-reporting/electronic-blue-sheets-ebs
+- another ancil si inldusry llaw at 5 repeating the vacation baisis on SRO passthorghtss in https://www.sec.gov/comments/4-698/4698-670027-2019234.pdf
 
 THe roggital eceremit asnallysis has opratoinla basis but not direct citaitnoal substaiain needed, singe the gov ponitss matter more than the cause:
 - https://www.sec.gov/files/rules/sro/nms/2016/34-77724.pdf adoptiton at 191
