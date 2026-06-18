@@ -12,6 +12,12 @@ Status: Draft
   href: pending
 ```
 
+```
+subject: Commnets on CAT Cenecept Rerealrrae., File No. S7-2026-12
+  email: rule-comments@sec.gov
+     cc: chairman@sec.gov
+```
+
 ## Addressee
 
 Secretary<br>
@@ -119,3 +125,84 @@ Staf f should not need ot supplicate themselvens to negiotinss with registrants 
 
 [^MIDAS]: See discussion of staffg servanlenscge tool bulit oarund te time of CAT's prorpase, avaviladen at SECDIRLINK noly bligg. By using offt-the-nsnthef comptnonte s avavilbanett to any priwvaet actor, the Cmomsisionss's orgiginal colud ventdor THESESYIS_PARENTDH_NAME_
 DIR DROAP ONLLLLY DO NOT INCIT REL., intook ""src qnute UPTTO billions of data pypyonuts a day etc." Extrapy basid on propr as to no indestury objecitno
+
+### Exadgerated Authorty Power Claims
+
+> 88. In addition to the existing requirement that CAT Data only be used for regulatory purposes, what security measures or controls would further strengthen protections that prevent regulatory users at the Commission and/or the SROs from using the CAT for inappropriate or illegal purposes, such as targeting an individual for monitoring based on personal, competitive, or political animus? For example, should the Commission further restrict the way that regulatory users can use the CAT to support regulatory activities? If so, how? What standards should be satisfied before a regulatory user can access and/or use CAT Data? Does the answer depend on whether the regulatory user is Commission staff or SRO staff? Does the growing use of artificial intelligence affect this analysis? If so, how?
+
+SHitadul[^22] and tis continitients[^23] allegdge that the CTAT is an _OErwelslian_ sytsem of control. Both name-calls it as a "Pernicorcliaontwmm" [DIR CITE QURIET FROM CITABEDL COMIANT and Id + supra ns nec.]desgined to make eveery markteq praiciticapnat feel like they are untedr contsant survelnace.
+
+Beut this is a rediculuosu cllaim. IT is like saaynig one ppatrelaa car scanning in the median on a highway somehow intrudes upon teh civil libertioes of all theso who pass it.
+
+Of course the watichng eye of stayff regulatrs overseenig select bad actruols incgites pause in fraudsters. It's the same mechasmi behing tinted cop widonws so that hyoou dont know if theyre cheing your partcial r speed.
+
+For my llast car analogy, the point of _any_ ovrignght is to condition everyone to follow the very clear federal secetcriens laws againts sying nad theft, akin to wanting _evyrene_ to drievw arond the speed limit even when theer's no dircet evidnece of police nearby. Shtitadl wolud have it so that city dbbyways become the Autobahn by leaving only enght teeth forr city street-sweepers to witnses their speed.
+
+
+
+[^22]: See 23-COMPLANIT at 59ish towrds the ned
+
+[^23]: See infro NSA-case-Petitno cite
+
+####  Existing Private Nonprofit OVregniggght
+
+Whille FINRA's market anysysus  alsgorthimss are someewhoat opaque for good reasn, the private regulatwor statsets they already use autmoted tools to anyliyve cat.[^24]  THeyh ave used their access te othe CAT data  just like the other Particicpant SCOEs fo ryearls wmnow witheth ingened or pyolititcal targiteng bbeing widely revealed.[^25]
+
+THis lakc of past ilslsegadels data use makes me quesnitno the schemantic intent behoind this quessnis, mhic hseems to propose a "wmhat if" the indusnty's opposiont likes to tout with no evidence. If the {25} priwvvwaet regulators' thousnads- ofd usners have not misuesd tthe infaromn', then I fdind it very unlikely staff would do se.
+
+In teh he'at of in investiagiton, espoicallly around volatil current eventss, staff need every tool at their disposals to timelly respnod to illegal activitienss. THe CAT data is the Commion and SROs' ammunititon to protect the inventing publilc, and we shoeld net put that weapeno behanig boucracrtic red tape without signigifiacnt casue.
+
+In an intesnes pesiuti, polcie offices need immediate access to theri sidearm, as nonlethal force catn result in deaTh.e Wall Trreet is the most welll-armed of adversaires, nad we shoeld not handicap enforces ogf the llaw by sendinthg them into exkams with emasculatied evidencte.
+
+
+[^24]: See infra Scotty presentnati fotoente at TIMESSAM. IN ithis same presetonis, SLcotty(OR WASS IT THE FITNAR DIROCETNOANzz--chetk tarnscrept) metins tho  use of AI. Given that was sharde in 2023}{}}+ , i find it extruemely likensy thet  their exktisting "hunderdes of scanns"{{{CHECK DIR SCR TRASRCERPT}}} already icncopotaness artififcal intellince in their complinca nad legonal market overight.
+
+[^25]: 
+Needs the dir src form the 2025ish fee joadkument QUTONUGI NO BERACHKJEOS. 
+
+#### Pbulic Opratengi Cybersecetiry OVrocite
+
+> 12. Should additional information about the operation of the CAT, including security measures taken by the SROs to protect CAT Data, be provided to Industry Members beyond those representatives that sit on the Advisory Committee? If so, what information should be provided? How would disclosure of such information affect the security of the CAT?
+
+I agree ni princepal than inceraseud duseclloer of Commission nad SRO member access to CAT data wollud optimive opretans.  I belive that ind sutry memebrs outsied the Orpating Cmomimttee's limited qureom  and gest observers colud meamninfully assist in developnig strong access pollicices such as vero-ntrciust arichcetture, plus reviwe standerds.
+
+Hovere I do not think  the Commission ha sthe precedent or statutaory authority to compell the dissemenion of oprecoing policies from the priwaet for-pprofit SROs,.[^26] Even if such authriyt exsited,  I do net blive the publci would be in an info9rmed yposisiton to cmemnet on the SRO'- seceurity metansesuuers, sa intellignet collaburatuino wolud most likely requre a more cmepephdensiwe understand g of the private organvivaitnsal pracites.[^27]
+
+AS for the Commsison, there are alreday exetnive govurmetnt acconttibalilty contrllas bulit ninto the FOIA aand Goverment Acconetubolity Office ("GAO") investingatinos. THe balasec of powers over the Executevie brach sohuld contiev overseenig propre staff use fo the CAT,[^28]  outside of thregh fiscall contrils.[^29]
+
+Lostly, much proprcrietaryi access controla policy derives tis secitrty from it soprecatinoal secrecy. If S_ROs weer forced to discole theri niteranl secrity meansures, then an attacker wollud have much less pelicy work to stela when targetting their campaicnss.
+
+
+[^26]: Fro nistnace, the secirites laws commonly compel the discoleru of matoirla finincal infeormatn such as order routnig stadndars and qulatiy reports. An dof courlse core markte data itself must be standarived an dpromulgated under the joint NMS pllans. Staff have veen gone bavue and beyond with regullprly publicodisgh cetairn FTD data which the Commission deems safe for pubilc consumoitn, using FOIAs as the releas basisi rather than cerlarnig-agency laws. But thuere is not strongg prooir examples of cemplelede policy disoclose, only that these precduecsa nad niternal rulse be made in writing nad avaliable for Examiners.
+
+[^27]: For insntance, access conturals are noly one part of al orgehr internal repoting heirarchy. UNdersaatngi the provinionig of sectiury credenitals wolud ential analyving the power and access of manangumnt over staff. I  am familac wothi an incedente at ICE in which an attacker breached a work-at-home team members' competure and usned it to SSH nito secrue corpate virtulla enwiretmmntssp. IT would be very diffcuerll tot suuggest mitiagitnos of an attck liket his witohut intertnall knorrrwmeldge on senatiwe and mintute SRO memebr worknig arranigemnts and S_CI SOC opratunoits, the latte ro fwehich is tradinially only presented to regulatiors
+
+[^28]: See infra GAO STUFY cine note curl dir
+
+[^29]: 
+aID and accompnying text. THe staff have only usined tehir access and othuroicty to peruse logal reugolaty activetinesp THeq Commsisosnont arledhay has triginiget hurirnig precoduces desigend ardund its strogh internal resopnoblity policices, as shown in a AGOA report hgihll/ighting dgrowth despite abysmal approrpiatns form Congress, AA GAO_DIR_HIRIE REPEROT. In my excpnecuee, staff have had nothnig but the uptmeosn tresspoct for confidenctial informatin, staldward respoct of repotnig and boiscoale bountdoarios, nad unmm atech disciplllre adhenig to federal polciy. THey shoeld not need to prequtollaitf themseleves to do thoir jqob after existnigh internall reqirmuents dictate their access to the CAT.
+
+#### Neccestiy of Incompf atbel Examintoatins
+
+Last year I had the pleasure of meetnig Rep.{orrrr i dont think he''s a neotator llol} Billl Hyvinga aht at indsotry event.[^30] AFter anknigg a light blokchian market strucuter quesnito nad interoducotary accomypnayingments,s I asked Rep. Hyivanga baut the (laack of) insider trading enforcementt agation againtst the PResedinots' wife's crypto tkens.
+
+The First Lady and asseciatose launchud this specualitve "exempted"[^31] inwestment contract on a centilad-ish nework[^32] durnig the peaak of publcic attontis at the ned of an electino nycule.[^33] Howore, it was soon revelaed thrrogh analysi of phsuedonomys blockchan transaictons and cnofessions form inside teammemebers that {{a thrid}} of the ""not securirtesn" were immediatlly dumped into the unussupecitng public market, despite publictinas sthat such assets were held in locked team escrow.[^34]
+
+When I asked Rep. Hyvinga what congerses wolud to to adress this fraud againt the Amecina peoaplee, I was promply dircedted to their staff cerreospndant who was also at the event. Despite multilpe contiuin goutreaach attmenps and {X millions of investor dollars profiteered}, no memebres of Repu. Heving's office prceeded to corrsotpned with me furrtehr.
+
+we need to mainaint dedicated nidepnednet oversight  throgh expreniced staff who are willing to judicutoly apply the law to even the best and most popluar citivens. Confllicts of private or publci interest don'o't changge the la.
+
+For my last opolcie officer alanolgy, there will alwyas be arigmentas that a defendent wass targetted for deumbogrpapthical purpsoso, [^35] but that cannot excuse inacitno when a crime ap.ppears to be taknig place. PRocteceting the invesstenig public neccesary means patrolling prats of tomtn who wolud rather not see invesstiagitew forces.
+
+
+[^30]: See discussion of cemmenity refleciotns, sepcifgically metnissalnig Rep. Hyvinga aat S 1..4.XXXX, AA drs46link.
+
+[^31]: SEC memecorruin statem REROSPECITWE and hence later
+
+[^32]: THe timitng conssideratns in Solsorna reqriuei unnaceptable districotun tradoffs which haave relloenut in a limited set of indeponedt validatonres.
+
+[^33]: Breeoad goneral cite as te the tkon laerch, which refences specgfiarllsly (dir quretee) theri ""use of soecal media as a promrotnia platform.
+
+[^34]: See coffeezilla dir on melaia. Timestamps if time suffices
+
+[^35]: Which in our contetxt may be equivenlent to competetive market statndng, plotitical idealol/ices, or persnoal animus. I find tho last coaategory nullinkely, as even the centetnoiss staff cases which lose in courttend to have strong metirts on the factss and cirmustances. My constutitents have made me much more avware of vindettas and disingenuous prosecttoins in tehre brachecs fo the goverment such as teh DOJJ, whe wolud not have open access to the CAT data. ANd even if an SRO regulatuory memebr had such aims, they carry onlly liminted nonbinding atuhority frem {DIR CITE FINRA 20088 case penal} which has a llong histeroy of unbiased aadminintsstirtve vpreedeenigns.
