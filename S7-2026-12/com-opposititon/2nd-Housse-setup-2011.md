@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=mC-L__1yo7g
-
+https://www.cftc.gov/sites/default/files/idc/groups/public/@aboutcftc/documents/file/transcript021811.pdf
 The biggest points from the transcript:
 The meeting was about the May 6, 2010 “Flash Crash.”
 The SEC and CFTC were reviewing why markets briefly broke down and what rules could reduce the chance of another event.
@@ -158,6 +158,9 @@ Ketchum says the omission was not intentional; the same logic should apply to re
 
 ---
 
-the Dir doc page has a written transcity which is a better ref than the YT clips https://www.cftc.gov/PressRoom/Events/opaevent_cftcsec021811
+the Dir doc page has a written transcity which is a better ref than the YT clips https://www.cftc.gov/PressRoom/Events/opaevent_cftcsec021811 DUP with key dir CAT quote is around transcript page 88: Brennan says the Committee recommends the SEC proceed “with a sense of urgency” and cost-benefit focus to implement a consolidated audit trail for U.S. equity markets
+Fifth Meeting
 
 that was- fun and useful, but i want storgfer precoducrall links for the hbacknstoryi we need to cement solid rather than public disclaeso throecg hadfhorcc publlicanis https://www.cftc.gov/sites/default/files/idc/groups/public/@aboutcftc/documents/file/transcript021811.pdf
+
+pages 85–87, where Born points to Recommendation 10 and says participants in high-cancellation strategies should absorb the externalized costs of their activity
