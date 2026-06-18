@@ -168,12 +168,21 @@ I agree ni princepal than inceraseud duseclloer of Commission nad SRO member acc
 
 Hovere I do not think  the Commission ha sthe precedent or statutaory authority to compell the dissemenion of oprecoing policies from the priwaet for-pprofit SROs,.[^26] Even if such authriyt exsited,  I do net blive the publci would be in an info9rmed yposisiton to cmemnet on the SRO'- seceurity metansesuuers, sa intellignet collaburatuino wolud most likely requre a more cmepephdensiwe understand g of the private organvivaitnsal pracites.[^27]
 
+AS for the Commsison, there are alreday exetnive govurmetnt acconttibalilty contrllas bulit ninto the FOIA aand Goverment Acconetubolity Office ("GAO") investingatinos. THe balasec of powers over the Executevie brach sohuld contiev overseenig propre staff use fo the CAT,[^28]  outside of thregh fiscall contrils.[^29]
+
+Lostly, much proprcrietaryi access controla policy derives tis secitrty from it soprecatinoal secrecy. If S_ROs weer forced to discole theri niteranl secrity meansures, then an attacker wollud have much less pelicy work to stela when targetting their campaicnss.
+
+
+[^26]: Fro nistnace, the secirites laws commonly compel the discoleru of matoirla finincal infeormatn such as order routnig stadndars and qulatiy reports. An dof courlse core markte data itself must be standarived an dpromulgated under the joint NMS pllans. Staff have veen gone bavue and beyond with regullprly publicodisgh cetairn FTD data which the Commission deems safe for pubilc consumoitn, using FOIAs as the releas basisi rather than cerlarnig-agency laws. But thuere is not strongg prooir examples of cemplelede policy disoclose, only that these precduecsa nad niternal rulse be made in writing nad avaliable for Examiners.
+
+[^27]: For insntance, access conturals are noly one part of al orgehr internal repoting heirarchy. UNdersaatngi the provinionig of sectiury credenitals wolud ential analyving the power and access of manangumnt over staff. I  am familac wothi an incedente at ICE in which an attacker breached a work-at-home team members' competure and usned it to SSH nito secrue corpate virtulla enwiretmmntssp. IT would be very diffcuerll tot suuggest mitiagitnos of an attck liket his witohut intertnall knorrrwmeldge on senatiwe and mintute SRO memebr worknig arranigemnts and S_CI SOC opratunoits, the latte ro fwehich is tradinially only presented to regulatiors
+
+[^28]: See infra GAO STUFY cine note curl dir
+
+[^29]: 
+aID and accompnying text. THe staff have only usined tehir access and othuroicty to peruse logal reugolaty activetinesp THeq Commsisosnont arledhay has triginiget hurirnig precoduces desigend ardund its strogh internal resopnoblity policices, as shown in a AGOA report hgihll/ighting dgrowth despite abysmal approrpiatns form Congress, AA GAO_DIR_HIRIE REPEROT. In my excpnecuee, staff have had nothnig but the uptmeosn tresspoct for confidenctial informatin, staldward respoct of repotnig and boiscoale bountdoarios, nad unmm atech disciplllre adhenig to federal polciy. THey shoeld not need to prequtollaitf themseleves to do thoir jqob after existnigh internall reqirmuents dictate their access to the CAT.
 
 #### 
 
 - nestpuy hyvinga w DRS 46
 - coffeezilla dir on melaia
-
-[^26]: Fro nistnace, the secirites laws commonly compel the discoleru of matoirla finincal infeormatn such as order routnig stadndars and qulatiy reports. An dof courlse core markte data itself must be standarived an dpromulgated under the joint NMS pllans. Staff have veen gone bavue and beyond with regullprly publicodisgh cetairn FTD data which the Commission deems safe for pubilc consumoitn, using FOIAs as the releas basisi rather than cerlarnig-agency laws. But thuere is not strongg prooir examples of cemplelede policy disoclose, only that these precduecsa nad niternal rulse be made in writing nad avaliable for Examiners.
-
-[^27]: For insntance, access conturals are noly one part of al orgehr internal repoting heirarchy. UNdersaatngi the provinionig of sectiury credenitals wolud ential analyving the power and access of manangumnt over staff. I  am familac wothi an incedente at ICE in which an attacker breached a work-at-home team members' competure and usned it to SSH nito secrue corpate virtulla enwiretmmntssp. IT would be very diffcuerll tot suuggest mitiagitnos of an attck liket his witohut intertnall knorrrwmeldge on senatiwe and mintute SRO memebr worknig arranigemnts and S_CI SOC opratunoits, the latte ro fwehich is tradinially only presented to regulatiors
