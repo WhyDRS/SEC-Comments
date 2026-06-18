@@ -63,7 +63,10 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - how they handle reconcilaitn creditns on CAT error fgixesn. liket hert's nethonig publci no remediatin and what 'statnd' fixing pontalies are. it just bulids up ntio massive actinos later on, which makes sinence when you alplpy Conway
 - https://www.sec.gov/comments/4-698/4698-598195-1737842.pdf footnote 155 in the 2026 CAT Concept Release. It is being used to support the proposition that commenters opposed eliminating CCIDs because CCIDs are viewed as the thing that lets regulators link a customer’s activity across accounts, broker-dealers, and exchanges. The Federal Register version cites FIF Letter III and then quotes NYSE saying CCIDs are needed for SRO obligations. FINRA _ claims_ Shitadell was part of this ein the lawsui but i dont see any eviednce   toto final run onlfy7 for 15M$  diff
 
-
+THe roggital eceremit asnallysis has opratoinla basis but not direct citaitnoal substaiain needed, singe the gov ponitss matter more than the cause:
+- https://www.sec.gov/files/rules/sro/nms/2016/34-77724.pdf adoptiton at 191
+- https://www.sec.gov/files/rules/sro/nms/2016/34-79318.pdf initial defferal at 421 --> 661 has the 3  Bil number $$
+- https://www.sec.gov/files/rules/final/2012/34-67457.pdf 306 P 4 defferal 2, see luld compd
 
 There are also a lot of comments specifically recommending the application of FIX messaging standards:
 
