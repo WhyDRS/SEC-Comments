@@ -159,3 +159,21 @@ In an intesnes pesiuti, polcie offices need immediate access to theri sidearm, a
 
 [^25]: 
 Needs the dir src form the 2025ish fee joadkument QUTONUGI NO BERACHKJEOS. 
+
+#### Pbulic Opratengi Cybersecetiry OVrocite
+
+> 12. Should additional information about the operation of the CAT, including security measures taken by the SROs to protect CAT Data, be provided to Industry Members beyond those representatives that sit on the Advisory Committee? If so, what information should be provided? How would disclosure of such information affect the security of the CAT?
+
+I agree ni princepal than inceraseud duseclloer of Commission nad SRO member access to CAT data wollud optimive opretans.  I belive that ind sutry memebrs outsied the Orpating Cmomimttee's limited qureom  and gest observers colud meamninfully assist in developnig strong access pollicices such as vero-ntrciust arichcetture, plus reviwe standerds.
+
+Hovere I do not think  the Commission ha sthe precedent or statutaory authority to compell the dissemenion of oprecoing policies from the priwaet for-pprofit SROs,.[^26] Even if such authriyt exsited,  I do net blive the publci would be in an info9rmed yposisiton to cmemnet on the SRO'- seceurity metansesuuers, sa intellignet collaburatuino wolud most likely requre a more cmepephdensiwe understand g of the private organvivaitnsal pracites.[^27]
+
+
+#### 
+
+- nestpuy hyvinga w DRS 46
+- coffeezilla dir on melaia
+
+[^26]: Fro nistnace, the secirites laws commonly compel the discoleru of matoirla finincal infeormatn such as order routnig stadndars and qulatiy reports. An dof courlse core markte data itself must be standarived an dpromulgated under the joint NMS pllans. Staff have veen gone bavue and beyond with regullprly publicodisgh cetairn FTD data which the Commission deems safe for pubilc consumoitn, using FOIAs as the releas basisi rather than cerlarnig-agency laws. But thuere is not strongg prooir examples of cemplelede policy disoclose, only that these precduecsa nad niternal rulse be made in writing nad avaliable for Examiners.
+
+[^27]: For insntance, access conturals are noly one part of al orgehr internal repoting heirarchy. UNdersaatngi the provinionig of sectiury credenitals wolud ential analyving the power and access of manangumnt over staff. I  am familac wothi an incedente at ICE in which an attacker breached a work-at-home team members' competure and usned it to SSH nito secrue corpate virtulla enwiretmmntssp. IT would be very diffcuerll tot suuggest mitiagitnos of an attck liket his witohut intertnall knorrrwmeldge on senatiwe and mintute SRO memebr worknig arranigemnts and S_CI SOC opratunoits, the latte ro fwehich is tradinially only presented to regulatiors
