@@ -26,3 +26,12 @@ and dir cite frcom 98 https://www.sec.gov/files/rules/sro/nms/2026/34-104586.pdf
 ## call
 L13 - it''s tokenized
 it's good bc note 70 accomponying text makes it sound like the SEC doust have occess to the subsyssetm and that geits rid of al ot of the "OArwell" conecns
+
+
+
+
+also:
+
+daily mapping of CCID to FDID to the transaction database for “CCID enrichment of transaction data nn.46,64
+
+https://www.sec.gov/files/rules/sro/nms/2026/34-104586.pdf
