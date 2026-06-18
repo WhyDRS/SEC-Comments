@@ -21,19 +21,6 @@ Securities and Exchange Commission<br>
 Washington, DC 20549-1090
 
 
-intro prof. strcat.
-
-> The Consolidated Audit Trail (CAT) is a critical piece of infrastructure necessary to monitor a modern, algorithmic market. While opponents of the CAT claim to worry about costs and privacy, these arguments are a smoke screen; the reality is that a comprehensive audit trail is the only definitive tool standing between an orderly market and unchecked, systemic manipulation.
-
--- A Concerned Market Participant
-https://www.sec.gov/comments/S7-2026-12/s7202612-828300-2534907.html
-
-
-
-
-
-
-
 
 Wall St. may think / say they don't have enough money.
 Cite the comp. aliste meeting and boo-hoos.
