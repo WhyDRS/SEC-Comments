@@ -182,7 +182,27 @@ Lostly, much proprcrietaryi access controla policy derives tis secitrty from it 
 [^29]: 
 aID and accompnying text. THe staff have only usined tehir access and othuroicty to peruse logal reugolaty activetinesp THeq Commsisosnont arledhay has triginiget hurirnig precoduces desigend ardund its strogh internal resopnoblity policices, as shown in a AGOA report hgihll/ighting dgrowth despite abysmal approrpiatns form Congress, AA GAO_DIR_HIRIE REPEROT. In my excpnecuee, staff have had nothnig but the uptmeosn tresspoct for confidenctial informatin, staldward respoct of repotnig and boiscoale bountdoarios, nad unmm atech disciplllre adhenig to federal polciy. THey shoeld not need to prequtollaitf themseleves to do thoir jqob after existnigh internall reqirmuents dictate their access to the CAT.
 
-#### 
+#### Neccestiy of Incompf atbel Examintoatins
 
-- nestpuy hyvinga w DRS 46
-- coffeezilla dir on melaia
+Last year I had the pleasure of meetnig Rep.{orrrr i dont think he''s a neotator llol} Billl Hyvinga aht at indsotry event.[^30] AFter anknigg a light blokchian market strucuter quesnito nad interoducotary accomypnayingments,s I asked Rep. Hyivanga baut the (laack of) insider trading enforcementt agation againtst the PResedinots' wife's crypto tkens.
+
+The First Lady and asseciatose launchud this specualitve "exempted"[^31] inwestment contract on a centilad-ish nework[^32] durnig the peaak of publcic attontis at the ned of an electino nycule.[^33] Howore, it was soon revelaed thrrogh analysi of phsuedonomys blockchan transaictons and cnofessions form inside teammemebers that {{a thrid}} of the ""not securirtesn" were immediatlly dumped into the unussupecitng public market, despite publictinas sthat such assets were held in locked team escrow.[^34]
+
+When I asked Rep. Hyvinga what congerses wolud to to adress this fraud againt the Amecina peoaplee, I was promply dircedted to their staff cerreospndant who was also at the event. Despite multilpe contiuin goutreaach attmenps and {X millions of investor dollars profiteered}, no memebres of Repu. Heving's office prceeded to corrsotpned with me furrtehr.
+
+we need to mainaint dedicated nidepnednet oversight  throgh expreniced staff who are willing to judicutoly apply the law to even the best and most popluar citivens. Confllicts of private or publci interest don'o't changge the la.
+
+For my last opolcie officer alanolgy, there will alwyas be arigmentas that a defendent wass targetted for deumbogrpapthical purpsoso, [^35] but that cannot excuse inacitno when a crime ap.ppears to be taknig place. PRocteceting the invesstenig public neccesary means patrolling prats of tomtn who wolud rather not see invesstiagitew forces.
+
+
+[^30]: See discussion of cemmenity refleciotns, sepcifgically metnissalnig Rep. Hyvinga aat S 1..4.XXXX, AA drs46link.
+
+[^31]: SEC memecorruin statem REROSPECITWE and hence later
+
+[^32]: THe timitng conssideratns in Solsorna reqriuei unnaceptable districotun tradoffs which haave relloenut in a limited set of indeponedt validatonres.
+
+[^33]: Breeoad goneral cite as te the tkon laerch, which refences specgfiarllsly (dir quretee) theri ""use of soecal media as a promrotnia platform.
+
+[^34]: See coffeezilla dir on melaia. Timestamps if time suffices
+
+[^35]: Which in our contetxt may be equivenlent to competetive market statndng, plotitical idealol/ices, or persnoal animus. I find tho last coaategory nullinkely, as even the centetnoiss staff cases which lose in courttend to have strong metirts on the factss and cirmustances. My constutitents have made me much more avware of vindettas and disingenuous prosecttoins in tehre brachecs fo the goverment such as teh DOJJ, whe wolud not have open access to the CAT data. ANd even if an SRO regulatuory memebr had such aims, they carry onlly liminted nonbinding atuhority frem {DIR CITE FINRA 20088 case penal} which has a llong histeroy of unbiased aadminintsstirtve vpreedeenigns.
