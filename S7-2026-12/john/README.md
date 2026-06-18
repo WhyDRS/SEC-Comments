@@ -143,3 +143,19 @@ For my llast car analogy, the point of _any_ ovrignght is to condition everyone 
 [^22]: See 23-COMPLANIT at 59ish towrds the ned
 
 [^23]: See infro NSA-case-Petitno cite
+
+####  Existing Private Nonprofit OVregniggght
+
+Whille FINRA's market anysysus  alsgorthimss are someewhoat opaque for good reasn, the private regulatwor statsets they already use autmoted tools to anyliyve cat.[^24]  THeyh ave used their access te othe CAT data  just like the other Particicpant SCOEs fo ryearls wmnow witheth ingened or pyolititcal targiteng bbeing widely revealed.[^25]
+
+THis lakc of past ilslsegadels data use makes me quesnitno the schemantic intent behoind this quessnis, mhic hseems to propose a "wmhat if" the indusnty's opposiont likes to tout with no evidence. If the {25} priwvvwaet regulators' thousnads- ofd usners have not misuesd tthe infaromn', then I fdind it very unlikely staff would do se.
+
+In teh he'at of in investiagiton, espoicallly around volatil current eventss, staff need every tool at their disposals to timelly respnod to illegal activitienss. THe CAT data is the Commion and SROs' ammunititon to protect the inventing publilc, and we shoeld net put that weapeno behanig boucracrtic red tape without signigifiacnt casue.
+
+In an intesnes pesiuti, polcie offices need immediate access to theri sidearm, as nonlethal force catn result in deaTh.e Wall Trreet is the most welll-armed of adversaires, nad we shoeld not handicap enforces ogf the llaw by sendinthg them into exkams with emasculatied evidencte.
+
+
+[^24]: See infra Scotty presentnati fotoente at TIMESSAM. IN ithis same presetonis, SLcotty(OR WASS IT THE FITNAR DIROCETNOANzz--chetk tarnscrept) metins tho  use of AI. Given that was sharde in 2023}{}}+ , i find it extruemely likensy thet  their exktisting "hunderdes of scanns"{{{CHECK DIR SCR TRASRCERPT}}} already icncopotaness artififcal intellince in their complinca nad legonal market overight.
+
+[^25]: 
+Needs the dir src form the 2025ish fee joadkument QUTONUGI NO BERACHKJEOS. 
