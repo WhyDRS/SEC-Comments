@@ -68,6 +68,7 @@ Sources surrounding the main citations, which I didn't have time to fully analyz
 - another ancil si inldusry llaw at 5 repeating the vacation baisis on SRO passthorghtss in https://www.sec.gov/comments/4-698/4698-670027-2019234.pdf
 - phase changes (*dupp'd) https://www.sec.gov/files/rules/exorders/2020/34-88702.pdf
 - https://www.sec.gov/files/rules/proposed/2026/34-105655.pdf oos
+- https://www.sec.gov/comments/S7-2026-12/s7202612-826399-2529577.pdf this was like remeinspnet of the vendor pitech fdolmb tho 2010 to 112 comment poired
 
 THe roggital eceremit asnallysis has opratoinla basis but not direct citaitnoal substaiain needed, singe the gov ponitss matter more than the cause:
 - https://www.sec.gov/files/rules/sro/nms/2016/34-77724.pdf adoptiton at 191
@@ -82,7 +83,7 @@ There are also a lot of comments specifically recommending the application of FI
 
 Oppositoin I don''t like or care aabout enght to parse:
 
-- https://www.sec.gov/comments/S7-2026-12/s7202612-825019-2526406.pdf
+- https://www.sec.gov/comments/S7-2026-12/s7202612-825019-2526406.pdf x2
 - https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172783322/gov.uscourts.txwd.1172783322.1.0.pdf  15
 - https://web.archive.org/web/20231020185928/https://arkansasag.gov/wp-content/uploads/2023-08-15-Arkansas-AG-Letter-Supporting-Investor-PII-Protections.pdf
 - https://www.sec.gov/comments/4-698/4698-238359-498762.pdf
