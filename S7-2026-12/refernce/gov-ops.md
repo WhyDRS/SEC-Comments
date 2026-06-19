@@ -13,3 +13,5 @@ For me, aggregate is not enough.
 [^1]: [THis](./do-not-use.md) is VERY dangeoirs, but  we could do a claim on "Rail" asn pub errorr  (and by extenso the foll/owing table) in https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-nasd-97-56
 The strongest/most cite-worthy cluster is definitely the p. 12560-12561 21(a) Report quotation block: it has filings/findings, survelliance, has/have, there/these, Hunderds, share/shares, very/every, rapidly/rapidity all in one place.
 A better prarlelel/ isl how the APA hov s them use aa esperae FR pbuliccgnasdh nogndcey under GPO,, which woul/d be eqjriivowels to the SIP Memeber sallowed to pbulicteh tohir A or  B trairs {{{{do we want to infra cite NMS? thaot walud force our hand on the Atkinss dissent}}}}
+
+https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/sr-nasd-97-56 is the Rail Rule with more sbusatnec in 98

@@ -74,3 +74,11 @@ As for the claims off reqniring manula and lrongth additotonall roqunsens for th
 > In 2007, however, this practice was altered, severely curtailing its usefulness. Internal policies were imposed on the staff that strictly limited OCIE's ability to ask questions of unregistered entities. In addition, even when inquiries were permitted, additional administrative procedures created time-consuming hurdles. The danger, of course, is that by the time all these hurdles were cleared, investor funds had vanished.
 
 https://www.sec.gov/news/speech/2011/spch032811laa.htm
+
+---
+
+Orig chats
+
+- https://www.sec.gov/comments/s7-02-10/s70210-355.pdf
+- https://www.sec.gov/comments/4-606/4606-2833.pdf
+- 

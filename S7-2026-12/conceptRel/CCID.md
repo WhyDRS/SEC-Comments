@@ -20,3 +20,18 @@ if regulatory staff or the SEC already has an SSN from outside CAT, they can use
 https://www.sec.gov/files/rules/exorders/2020/34-88393.pdf
 https://catnmsplan.com/sites/default/files/2020-02/Amended-Exemptive-Request-CCID-and-Modified-PII-Approaches%28Final%29.pdf at 5 P 4
 and dir cite frcom 98 https://www.sec.gov/files/rules/sro/nms/2026/34-104586.pdf  n.46
+
+
+
+## call
+L13 - it''s tokenized
+it's good bc note 70 accomponying text makes it sound like the SEC doust have occess to the subsyssetm and that geits rid of al ot of the "OArwell" conecns
+
+
+
+
+also:
+
+daily mapping of CCID to FDID to the transaction database for “CCID enrichment of transaction data nn.46,64
+
+https://www.sec.gov/files/rules/sro/nms/2026/34-104586.pdf

@@ -38,3 +38,9 @@ USED FOR AMKRET BMANIUUPULASIN IS THE BIGGEST LEEAODA OF BULLSHITN I HAVE EVER F
 
 
 there is one reason thay want this data protected
+
+---
+
+
+ans dtehn there is a dir cite cameyp of thi implacitons all the way back in 12 form the actual sittaite ref (i am up to c downto f)
+Rule 613 addressed those concerns in several ways. It required the NMS plan to include policies and procedures, including standards, to ensure the security and confidentiality of all information reported to the central repository. It also required the plan to discuss the security and confidentiality framework
