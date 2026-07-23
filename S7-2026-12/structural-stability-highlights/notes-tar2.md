@@ -177,7 +177,7 @@ American investors like myself are extremely dissatisfied with the present SRO d
 ^ See, e.g., [shorting information](we_the_investors_massive_FTD_comments), [trade 385](https://www.reddit.com/r/Superstonk/comments/1dz57am/trade_385_the_most_important_ignored_aspect_of/), and [custody secrets](flaming_torch_on_Cede_numbers_over_140%_gme).
 
 
-
+2004 SRO reg concept : https://www.sec.gov/rules-regulations/2004/11/concept-release-concerning-self-regulation / https://www.federalregister.gov/documents/2004/12/08/04-26154/concept-release-concerning-self-regulation
 "In 1817, the NYSE’s Constitution was adopted and the NYSE subsequently adopted a range of rules governing its members and.. while Congress and the Commission have criticized and modified the SRO system in the past, it has not been radically revised or dismantled since its establishment.” -https://www.sec.gov/files/rules/concept/34-50700.pdf
 
 same, Sec. IV.A.1: "even where an SRO structure may appear sound, successful self-regulation relies on sufficiently vigorous rule enforcement against members on the part of the SRO. If regulatory staff is disinclined to regulate members, selfregulation will fail. Thus, to be effective, an SRO must be structured in such a way that regulatory staff is unencumbered by inappropriate business pressure."
