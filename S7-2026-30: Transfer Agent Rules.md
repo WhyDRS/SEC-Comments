@@ -20,3 +20,21 @@ Set up Table of Contents for easier navigation
 Bring in all prompts
 Bring in considerations from the team so far
 Lots of reading!
+
+
+Locations of Questions on the Proposed Rule Document
+
+Qs 1 to 12 - Pages 49 to 51
+Qs 13 to 24 - Pages 65 to 69
+Qs 25 to 52 - Pages 97 to 104
+Qs 53 to 66 - Pages 115 to 117
+Qs 67 to 71 - Page 120
+Qs 72 to 79 - Pages 125 to 126
+Qs 80 to 89 - Pages 139 to 141
+Qs 90 to 101 - Pages 163 to 166
+Qs 102 to 107 - Pages 175 to 176
+Qs 108 to 113 - Pages 186 to 187
+Qs 114 to 122 - Pagse 192 to 195
+Qs 123 to 131 - Pages 200 to 202
+Qs 132 to 140 - Pages 209 to 211
+Qs 141 to 175 - Pages 349 to 357
