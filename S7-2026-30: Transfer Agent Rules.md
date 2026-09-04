@@ -21,8 +21,6 @@ Bring in all prompts
 Bring in considerations from the team so far
 Lots of reading!
 
-Sticky note: When a clean copy of the 1976 SEC street-name final report surfaces, preserve the original file unchanged and upload a copy to Internet Archive. Suggested IA identifier: `sec-street-name-study-1976`; suggested filename: `SEC-Street-Name-Study-Final-Report-1976.pdf`.
-
 
 Locations of Questions on the Proposed Rule Document
 
